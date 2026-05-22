@@ -1,0 +1,3467 @@
+{
+  "started_at": "2026-05-22T10:50:02.930848+00:00",
+  "target_count": 494,
+  "completed_count": 484,
+  "failed_count": 10,
+  "last_heartbeat": "2026-05-22T11:33:57.649525+00:00",
+  "articles": {
+    "university-aacsb-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:33.542806+00:00",
+      "finished_at": "2026-05-22T10:50:33.542828+00:00",
+      "word_count": 4666,
+      "retry_count": 0
+    },
+    "university-aacsb-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:37.537461+00:00",
+      "finished_at": "2026-05-22T10:50:37.537500+00:00",
+      "word_count": 4427,
+      "retry_count": 0
+    },
+    "university-aacsb-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:47.288324+00:00",
+      "finished_at": "2026-05-22T10:50:47.288335+00:00",
+      "word_count": 5023,
+      "retry_count": 0
+    },
+    "university-aacsb-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:39.409188+00:00",
+      "finished_at": "2026-05-22T10:51:39.409203+00:00",
+      "word_count": 4880,
+      "retry_count": 2
+    },
+    "university-aacsb-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:00.199694+00:00",
+      "finished_at": "2026-05-22T10:51:00.199702+00:00",
+      "word_count": 2693,
+      "retry_count": 1
+    },
+    "university-aacsb-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:58.275596+00:00",
+      "finished_at": "2026-05-22T10:50:58.275605+00:00",
+      "word_count": 6655,
+      "retry_count": 0
+    },
+    "university-aacsb-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:34.660625+00:00",
+      "finished_at": "2026-05-22T10:50:34.660647+00:00",
+      "word_count": 4552,
+      "retry_count": 0
+    },
+    "university-equis-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:43.313864+00:00",
+      "finished_at": "2026-05-22T10:50:43.313879+00:00",
+      "word_count": 4656,
+      "retry_count": 0
+    },
+    "university-equis-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:44.523495+00:00",
+      "finished_at": "2026-05-22T10:50:44.523506+00:00",
+      "word_count": 5908,
+      "retry_count": 0
+    },
+    "university-equis-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:50:47.500532+00:00",
+      "finished_at": "2026-05-22T10:50:47.500543+00:00",
+      "word_count": 5388,
+      "retry_count": 0
+    },
+    "university-equis-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:49.221459+00:00",
+      "finished_at": "2026-05-22T10:52:49.221474+00:00",
+      "word_count": 10691,
+      "retry_count": 2
+    },
+    "university-equis-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:08.260442+00:00",
+      "finished_at": "2026-05-22T10:51:08.260457+00:00",
+      "word_count": 4602,
+      "retry_count": 0
+    },
+    "university-equis-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:38.023145+00:00",
+      "finished_at": "2026-05-22T10:51:38.023160+00:00",
+      "word_count": 7944,
+      "retry_count": 0
+    },
+    "university-equis-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:11.845142+00:00",
+      "finished_at": "2026-05-22T10:51:11.845153+00:00",
+      "word_count": 3727,
+      "retry_count": 0
+    },
+    "university-amba-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:30.679616+00:00",
+      "finished_at": "2026-05-22T10:51:30.679636+00:00",
+      "word_count": 5670,
+      "retry_count": 0
+    },
+    "university-amba-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:18.503514+00:00",
+      "finished_at": "2026-05-22T10:51:18.503526+00:00",
+      "word_count": 3865,
+      "retry_count": 0
+    },
+    "university-amba-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:23.880486+00:00",
+      "finished_at": "2026-05-22T10:51:23.880502+00:00",
+      "word_count": 4327,
+      "retry_count": 0
+    },
+    "university-amba-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:21.863312+00:00",
+      "finished_at": "2026-05-22T10:51:21.863324+00:00",
+      "word_count": 3925,
+      "retry_count": 0
+    },
+    "university-amba-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:24.656871+00:00",
+      "finished_at": "2026-05-22T10:51:24.656885+00:00",
+      "word_count": 2516,
+      "retry_count": 0
+    },
+    "university-amba-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:56.546223+00:00",
+      "finished_at": "2026-05-22T10:51:56.546235+00:00",
+      "word_count": 5746,
+      "retry_count": 0
+    },
+    "university-amba-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:41.683078+00:00",
+      "finished_at": "2026-05-22T10:51:41.683111+00:00",
+      "word_count": 3445,
+      "retry_count": 0
+    },
+    "university-triple-crown-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:58.410516+00:00",
+      "finished_at": "2026-05-22T10:51:58.410529+00:00",
+      "word_count": 4891,
+      "retry_count": 0
+    },
+    "university-triple-crown-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:51:53.352910+00:00",
+      "finished_at": "2026-05-22T10:51:53.352928+00:00",
+      "word_count": 4604,
+      "retry_count": 0
+    },
+    "university-triple-crown-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:46.887768+00:00",
+      "finished_at": "2026-05-22T10:52:46.887792+00:00",
+      "word_count": 5691,
+      "retry_count": 1
+    },
+    "university-triple-crown-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:51.295017+00:00",
+      "finished_at": "2026-05-22T10:52:51.295029+00:00",
+      "word_count": 8819,
+      "retry_count": 1
+    },
+    "university-triple-crown-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:03.510036+00:00",
+      "finished_at": "2026-05-22T10:52:03.510052+00:00",
+      "word_count": 3869,
+      "retry_count": 0
+    },
+    "university-triple-crown-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:35.947539+00:00",
+      "finished_at": "2026-05-22T10:52:35.947554+00:00",
+      "word_count": 7695,
+      "retry_count": 0
+    },
+    "university-triple-crown-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:18.841670+00:00",
+      "finished_at": "2026-05-22T10:52:18.841682+00:00",
+      "word_count": 5816,
+      "retry_count": 0
+    },
+    "university-abet-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:07.726771+00:00",
+      "finished_at": "2026-05-22T10:52:07.726789+00:00",
+      "word_count": 3240,
+      "retry_count": 0
+    },
+    "university-abet-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:28.989009+00:00",
+      "finished_at": "2026-05-22T10:52:28.989025+00:00",
+      "word_count": 4858,
+      "retry_count": 0
+    },
+    "university-abet-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:32.338260+00:00",
+      "finished_at": "2026-05-22T10:52:32.338276+00:00",
+      "word_count": 4766,
+      "retry_count": 0
+    },
+    "university-abet-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:21.682090+00:00",
+      "finished_at": "2026-05-22T10:52:21.682106+00:00",
+      "word_count": 4657,
+      "retry_count": 0
+    },
+    "university-abet-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:33.715442+00:00",
+      "finished_at": "2026-05-22T10:52:33.715460+00:00",
+      "word_count": 3770,
+      "retry_count": 0
+    },
+    "university-abet-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:01.913271+00:00",
+      "finished_at": "2026-05-22T10:53:01.913289+00:00",
+      "word_count": 6462,
+      "retry_count": 0
+    },
+    "university-abet-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:52:49.881375+00:00",
+      "finished_at": "2026-05-22T10:52:49.881392+00:00",
+      "word_count": 4407,
+      "retry_count": 0
+    },
+    "university-chea-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:00.978675+00:00",
+      "finished_at": "2026-05-22T10:54:00.978686+00:00",
+      "word_count": 3208,
+      "retry_count": 2
+    },
+    "university-chea-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:00.041948+00:00",
+      "finished_at": "2026-05-22T10:53:00.041963+00:00",
+      "word_count": 3575,
+      "retry_count": 0
+    },
+    "university-chea-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:03.056015+00:00",
+      "finished_at": "2026-05-22T10:53:03.056025+00:00",
+      "word_count": 3394,
+      "retry_count": 0
+    },
+    "university-chea-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:08.387157+00:00",
+      "finished_at": "2026-05-22T10:53:08.387181+00:00",
+      "word_count": 5575,
+      "retry_count": 0
+    },
+    "university-chea-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:39.517584+00:00",
+      "finished_at": "2026-05-22T10:53:39.517596+00:00",
+      "word_count": 3670,
+      "retry_count": 1
+    },
+    "university-chea-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:03.810966+00:00",
+      "finished_at": "2026-05-22T10:54:03.810974+00:00",
+      "word_count": 10528,
+      "retry_count": 0
+    },
+    "university-chea-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:25.766126+00:00",
+      "finished_at": "2026-05-22T10:53:25.766141+00:00",
+      "word_count": 4754,
+      "retry_count": 0
+    },
+    "university-teqsa-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:27.690245+00:00",
+      "finished_at": "2026-05-22T10:53:27.690260+00:00",
+      "word_count": 4536,
+      "retry_count": 0
+    },
+    "university-teqsa-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:29.349496+00:00",
+      "finished_at": "2026-05-22T10:53:29.349510+00:00",
+      "word_count": 5508,
+      "retry_count": 0
+    },
+    "university-teqsa-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:34.216707+00:00",
+      "finished_at": "2026-05-22T10:53:34.216716+00:00",
+      "word_count": 4318,
+      "retry_count": 0
+    },
+    "university-teqsa-accredited_list": {
+      "status": "failed",
+      "started_at": "2026-05-22T10:55:28.105013+00:00",
+      "finished_at": "2026-05-22T11:32:19.795050+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G08_studyabroad_banned: hit: ['TAFE']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "university-teqsa-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:35.766752+00:00",
+      "finished_at": "2026-05-22T10:53:35.766763+00:00",
+      "word_count": 3748,
+      "retry_count": 0
+    },
+    "university-teqsa-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:53:56.461253+00:00",
+      "finished_at": "2026-05-22T10:53:56.461265+00:00",
+      "word_count": 6124,
+      "retry_count": 0
+    },
+    "university-teqsa-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:22.615972+00:00",
+      "finished_at": "2026-05-22T10:54:22.616006+00:00",
+      "word_count": 7723,
+      "retry_count": 0
+    },
+    "university-qaa-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:04.878728+00:00",
+      "finished_at": "2026-05-22T10:54:04.878736+00:00",
+      "word_count": 4455,
+      "retry_count": 0
+    },
+    "university-qaa-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:13.443552+00:00",
+      "finished_at": "2026-05-22T10:54:13.443560+00:00",
+      "word_count": 5450,
+      "retry_count": 0
+    },
+    "university-qaa-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:14.525517+00:00",
+      "finished_at": "2026-05-22T10:54:14.525524+00:00",
+      "word_count": 5023,
+      "retry_count": 0
+    },
+    "university-qaa-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:34.562294+00:00",
+      "finished_at": "2026-05-22T11:30:58.094767+00:00",
+      "word_count": 10359,
+      "retry_count": 0
+    },
+    "university-qaa-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:52.176525+00:00",
+      "finished_at": "2026-05-22T10:54:52.176540+00:00",
+      "word_count": 5623,
+      "retry_count": 1
+    },
+    "university-qaa-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:56.349914+00:00",
+      "finished_at": "2026-05-22T10:54:56.349931+00:00",
+      "word_count": 7106,
+      "retry_count": 0
+    },
+    "university-qaa-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:19.068491+00:00",
+      "finished_at": "2026-05-22T10:55:19.068506+00:00",
+      "word_count": 3847,
+      "retry_count": 1
+    },
+    "university-niad-qe-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:11.360176+00:00",
+      "finished_at": "2026-05-22T10:55:11.360192+00:00",
+      "word_count": 4046,
+      "retry_count": 1
+    },
+    "university-niad-qe-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:36.204514+00:00",
+      "finished_at": "2026-05-22T10:54:36.204524+00:00",
+      "word_count": 4090,
+      "retry_count": 0
+    },
+    "university-niad-qe-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:58.768158+00:00",
+      "finished_at": "2026-05-22T10:54:58.768177+00:00",
+      "word_count": 4939,
+      "retry_count": 0
+    },
+    "university-niad-qe-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:51.166573+00:00",
+      "finished_at": "2026-05-22T10:54:51.166582+00:00",
+      "word_count": 7537,
+      "retry_count": 0
+    },
+    "university-niad-qe-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:54:57.558913+00:00",
+      "finished_at": "2026-05-22T10:54:57.558928+00:00",
+      "word_count": 4266,
+      "retry_count": 0
+    },
+    "university-niad-qe-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:29.020396+00:00",
+      "finished_at": "2026-05-22T10:55:29.020409+00:00",
+      "word_count": 6536,
+      "retry_count": 0
+    },
+    "university-niad-qe-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:27.033949+00:00",
+      "finished_at": "2026-05-22T10:55:27.033963+00:00",
+      "word_count": 4379,
+      "retry_count": 0
+    },
+    "university-hkcaavq-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:28.543625+00:00",
+      "finished_at": "2026-05-22T10:55:28.543639+00:00",
+      "word_count": 4250,
+      "retry_count": 0
+    },
+    "university-hkcaavq-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:23.790768+00:00",
+      "finished_at": "2026-05-22T10:55:23.790788+00:00",
+      "word_count": 2938,
+      "retry_count": 0
+    },
+    "university-hkcaavq-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:30.002384+00:00",
+      "finished_at": "2026-05-22T10:55:30.002397+00:00",
+      "word_count": 4142,
+      "retry_count": 0
+    },
+    "university-hkcaavq-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:02.306871+00:00",
+      "finished_at": "2026-05-22T10:56:02.306886+00:00",
+      "word_count": 4381,
+      "retry_count": 1
+    },
+    "university-hkcaavq-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:10.356728+00:00",
+      "finished_at": "2026-05-22T10:56:10.356744+00:00",
+      "word_count": 2887,
+      "retry_count": 1
+    },
+    "university-hkcaavq-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:17.248940+00:00",
+      "finished_at": "2026-05-22T10:56:17.248954+00:00",
+      "word_count": 7170,
+      "retry_count": 0
+    },
+    "university-hkcaavq-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:55:55.129012+00:00",
+      "finished_at": "2026-05-22T10:55:55.129026+00:00",
+      "word_count": 4352,
+      "retry_count": 0
+    },
+    "agent-qeac-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:06.131129+00:00",
+      "finished_at": "2026-05-22T10:56:06.131141+00:00",
+      "word_count": 4712,
+      "retry_count": 0
+    },
+    "agent-qeac-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:03.006650+00:00",
+      "finished_at": "2026-05-22T10:56:03.006671+00:00",
+      "word_count": 4395,
+      "retry_count": 0
+    },
+    "agent-qeac-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:00.520274+00:00",
+      "finished_at": "2026-05-22T10:56:00.520294+00:00",
+      "word_count": 4476,
+      "retry_count": 0
+    },
+    "agent-qeac-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:00.581539+00:00",
+      "finished_at": "2026-05-22T10:56:00.581549+00:00",
+      "word_count": 5341,
+      "retry_count": 0
+    },
+    "agent-qeac-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:08.689076+00:00",
+      "finished_at": "2026-05-22T10:56:08.689090+00:00",
+      "word_count": 4380,
+      "retry_count": 0
+    },
+    "agent-qeac-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:37.774099+00:00",
+      "finished_at": "2026-05-22T10:57:37.774118+00:00",
+      "word_count": 5589,
+      "retry_count": 1
+    },
+    "agent-qeac-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:08.453472+00:00",
+      "finished_at": "2026-05-22T10:57:08.453487+00:00",
+      "word_count": 4682,
+      "retry_count": 1
+    },
+    "agent-icef-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:29.284822+00:00",
+      "finished_at": "2026-05-22T10:56:29.284833+00:00",
+      "word_count": 3363,
+      "retry_count": 0
+    },
+    "agent-icef-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:58.915050+00:00",
+      "finished_at": "2026-05-22T10:56:58.915066+00:00",
+      "word_count": 2969,
+      "retry_count": 1
+    },
+    "agent-icef-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:45.412393+00:00",
+      "finished_at": "2026-05-22T10:56:45.412407+00:00",
+      "word_count": 5682,
+      "retry_count": 0
+    },
+    "agent-icef-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:58.073751+00:00",
+      "finished_at": "2026-05-22T10:56:58.073762+00:00",
+      "word_count": 4248,
+      "retry_count": 1
+    },
+    "agent-icef-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:46.656581+00:00",
+      "finished_at": "2026-05-22T10:56:46.656594+00:00",
+      "word_count": 4387,
+      "retry_count": 0
+    },
+    "agent-icef-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:04.385966+00:00",
+      "finished_at": "2026-05-22T10:57:04.385977+00:00",
+      "word_count": 6006,
+      "retry_count": 0
+    },
+    "agent-icef-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:56:43.707584+00:00",
+      "finished_at": "2026-05-22T10:56:43.707604+00:00",
+      "word_count": 4480,
+      "retry_count": 0
+    },
+    "agent-bac-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:05.664683+00:00",
+      "finished_at": "2026-05-22T10:57:05.664703+00:00",
+      "word_count": 4468,
+      "retry_count": 0
+    },
+    "agent-bac-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:00.137361+00:00",
+      "finished_at": "2026-05-22T10:57:00.137373+00:00",
+      "word_count": 3153,
+      "retry_count": 0
+    },
+    "agent-bac-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:22.344344+00:00",
+      "finished_at": "2026-05-22T10:57:22.344361+00:00",
+      "word_count": 4355,
+      "retry_count": 0
+    },
+    "agent-bac-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:20.007959+00:00",
+      "finished_at": "2026-05-22T10:57:20.007979+00:00",
+      "word_count": 6453,
+      "retry_count": 0
+    },
+    "agent-bac-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:25.401422+00:00",
+      "finished_at": "2026-05-22T10:57:25.401460+00:00",
+      "word_count": 4159,
+      "retry_count": 0
+    },
+    "agent-bac-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:49.456642+00:00",
+      "finished_at": "2026-05-22T10:57:49.456658+00:00",
+      "word_count": 7331,
+      "retry_count": 0
+    },
+    "agent-bac-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:26.037465+00:00",
+      "finished_at": "2026-05-22T10:57:26.037475+00:00",
+      "word_count": 3336,
+      "retry_count": 0
+    },
+    "agent-airc-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:26.491910+00:00",
+      "finished_at": "2026-05-22T10:57:26.491927+00:00",
+      "word_count": 3126,
+      "retry_count": 0
+    },
+    "agent-airc-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:30.262359+00:00",
+      "finished_at": "2026-05-22T10:57:30.262375+00:00",
+      "word_count": 3083,
+      "retry_count": 0
+    },
+    "agent-airc-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:53.488282+00:00",
+      "finished_at": "2026-05-22T10:57:53.488294+00:00",
+      "word_count": 5899,
+      "retry_count": 0
+    },
+    "agent-airc-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:31.741531+00:00",
+      "finished_at": "2026-05-22T10:57:31.741550+00:00",
+      "word_count": 3930,
+      "retry_count": 0
+    },
+    "agent-airc-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:51.279555+00:00",
+      "finished_at": "2026-05-22T10:57:51.279570+00:00",
+      "word_count": 3363,
+      "retry_count": 0
+    },
+    "agent-airc-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:07.185480+00:00",
+      "finished_at": "2026-05-22T10:58:07.185500+00:00",
+      "word_count": 5058,
+      "retry_count": 0
+    },
+    "agent-airc-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:53.056446+00:00",
+      "finished_at": "2026-05-22T10:57:53.056466+00:00",
+      "word_count": 3173,
+      "retry_count": 0
+    },
+    "agent-nacac-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:57:50.661939+00:00",
+      "finished_at": "2026-05-22T10:57:50.661956+00:00",
+      "word_count": 3080,
+      "retry_count": 0
+    },
+    "agent-nacac-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:28.784156+00:00",
+      "finished_at": "2026-05-22T10:58:28.784170+00:00",
+      "word_count": 4253,
+      "retry_count": 1
+    },
+    "agent-nacac-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:00.685127+00:00",
+      "finished_at": "2026-05-22T10:58:00.685148+00:00",
+      "word_count": 3663,
+      "retry_count": 0
+    },
+    "agent-nacac-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:41.619689+00:00",
+      "finished_at": "2026-05-22T10:58:41.619710+00:00",
+      "word_count": 6654,
+      "retry_count": 1
+    },
+    "agent-nacac-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:24.757368+00:00",
+      "finished_at": "2026-05-22T10:58:24.757383+00:00",
+      "word_count": 6433,
+      "retry_count": 0
+    },
+    "agent-nacac-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:21.266235+00:00",
+      "finished_at": "2026-05-22T10:59:21.266245+00:00",
+      "word_count": 5129,
+      "retry_count": 1
+    },
+    "agent-nacac-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:23.248152+00:00",
+      "finished_at": "2026-05-22T10:58:23.248164+00:00",
+      "word_count": 4295,
+      "retry_count": 0
+    },
+    "migration-mara-omara-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:23.481067+00:00",
+      "finished_at": "2026-05-22T10:58:23.481090+00:00",
+      "word_count": 4119,
+      "retry_count": 0
+    },
+    "migration-mara-omara-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:26.768150+00:00",
+      "finished_at": "2026-05-22T10:58:26.768165+00:00",
+      "word_count": 5492,
+      "retry_count": 0
+    },
+    "migration-mara-omara-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:38.412733+00:00",
+      "finished_at": "2026-05-22T10:58:38.412747+00:00",
+      "word_count": 6034,
+      "retry_count": 0
+    },
+    "migration-mara-omara-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:29.368583+00:00",
+      "finished_at": "2026-05-22T10:58:29.368596+00:00",
+      "word_count": 4552,
+      "retry_count": 0
+    },
+    "migration-mara-omara-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:36.767935+00:00",
+      "finished_at": "2026-05-22T10:58:36.767956+00:00",
+      "word_count": 3553,
+      "retry_count": 0
+    },
+    "migration-mara-omara-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:10.082683+00:00",
+      "finished_at": "2026-05-22T10:59:10.082701+00:00",
+      "word_count": 5820,
+      "retry_count": 0
+    },
+    "migration-mara-omara-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:08.816304+00:00",
+      "finished_at": "2026-05-22T10:59:08.816315+00:00",
+      "word_count": 5926,
+      "retry_count": 0
+    },
+    "migration-lcm-iaa-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:59.913268+00:00",
+      "finished_at": "2026-05-22T10:58:59.913283+00:00",
+      "word_count": 4517,
+      "retry_count": 0
+    },
+    "migration-lcm-iaa-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:58:58.868607+00:00",
+      "finished_at": "2026-05-22T10:58:58.868633+00:00",
+      "word_count": 3794,
+      "retry_count": 0
+    },
+    "migration-lcm-iaa-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:38.117333+00:00",
+      "finished_at": "2026-05-22T10:59:38.117349+00:00",
+      "word_count": 4258,
+      "retry_count": 1
+    },
+    "migration-lcm-iaa-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:27.941171+00:00",
+      "finished_at": "2026-05-22T10:59:27.941188+00:00",
+      "word_count": 4044,
+      "retry_count": 1
+    },
+    "migration-lcm-iaa-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:48.866060+00:00",
+      "finished_at": "2026-05-22T10:59:48.866075+00:00",
+      "word_count": 4709,
+      "retry_count": 1
+    },
+    "migration-lcm-iaa-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:38.148979+00:00",
+      "finished_at": "2026-05-22T11:01:38.148996+00:00",
+      "word_count": 6802,
+      "retry_count": 2
+    },
+    "migration-lcm-iaa-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:15.140369+00:00",
+      "finished_at": "2026-05-22T10:59:15.140385+00:00",
+      "word_count": 4660,
+      "retry_count": 0
+    },
+    "migration-cicc-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:25.799668+00:00",
+      "finished_at": "2026-05-22T11:01:25.799677+00:00",
+      "word_count": 3357,
+      "retry_count": 3
+    },
+    "migration-cicc-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:32.379382+00:00",
+      "finished_at": "2026-05-22T10:59:32.379397+00:00",
+      "word_count": 5090,
+      "retry_count": 0
+    },
+    "migration-cicc-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:40.149691+00:00",
+      "finished_at": "2026-05-22T10:59:40.149703+00:00",
+      "word_count": 3693,
+      "retry_count": 0
+    },
+    "migration-cicc-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:12.126883+00:00",
+      "finished_at": "2026-05-22T11:00:12.126891+00:00",
+      "word_count": 4573,
+      "retry_count": 1
+    },
+    "migration-cicc-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T10:59:40.056778+00:00",
+      "finished_at": "2026-05-22T10:59:40.056796+00:00",
+      "word_count": 3151,
+      "retry_count": 0
+    },
+    "migration-cicc-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:27.555110+00:00",
+      "finished_at": "2026-05-22T11:00:27.555118+00:00",
+      "word_count": 7762,
+      "retry_count": 0
+    },
+    "migration-cicc-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:02.457697+00:00",
+      "finished_at": "2026-05-22T11:00:02.457714+00:00",
+      "word_count": 3870,
+      "retry_count": 0
+    },
+    "migration-oisc-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:09.052139+00:00",
+      "finished_at": "2026-05-22T11:00:09.052153+00:00",
+      "word_count": 4931,
+      "retry_count": 0
+    },
+    "migration-oisc-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:07.169111+00:00",
+      "finished_at": "2026-05-22T11:00:07.169120+00:00",
+      "word_count": 3647,
+      "retry_count": 0
+    },
+    "migration-oisc-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:12.112245+00:00",
+      "finished_at": "2026-05-22T11:00:12.112261+00:00",
+      "word_count": 3886,
+      "retry_count": 0
+    },
+    "migration-oisc-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:09.344653+00:00",
+      "finished_at": "2026-05-22T11:00:09.344668+00:00",
+      "word_count": 4378,
+      "retry_count": 0
+    },
+    "migration-oisc-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:31.181713+00:00",
+      "finished_at": "2026-05-22T11:00:31.181738+00:00",
+      "word_count": 4795,
+      "retry_count": 0
+    },
+    "migration-oisc-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:06.475258+00:00",
+      "finished_at": "2026-05-22T11:01:06.475273+00:00",
+      "word_count": 7541,
+      "retry_count": 0
+    },
+    "migration-oisc-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:42.743614+00:00",
+      "finished_at": "2026-05-22T11:00:42.743627+00:00",
+      "word_count": 4613,
+      "retry_count": 0
+    },
+    "migration-hksia-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:43.835976+00:00",
+      "finished_at": "2026-05-22T11:00:43.835994+00:00",
+      "word_count": 4487,
+      "retry_count": 0
+    },
+    "migration-hksia-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:19.305701+00:00",
+      "finished_at": "2026-05-22T11:01:19.305710+00:00",
+      "word_count": 3509,
+      "retry_count": 1
+    },
+    "migration-hksia-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:44.371733+00:00",
+      "finished_at": "2026-05-22T11:00:44.371747+00:00",
+      "word_count": 3315,
+      "retry_count": 0
+    },
+    "migration-hksia-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:37.487523+00:00",
+      "finished_at": "2026-05-22T11:00:37.487533+00:00",
+      "word_count": 4199,
+      "retry_count": 0
+    },
+    "migration-hksia-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:00:56.123699+00:00",
+      "finished_at": "2026-05-22T11:00:56.123708+00:00",
+      "word_count": 2953,
+      "retry_count": 0
+    },
+    "migration-hksia-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:28.336615+00:00",
+      "finished_at": "2026-05-22T11:02:28.336630+00:00",
+      "word_count": 6631,
+      "retry_count": 1
+    },
+    "migration-hksia-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:17.998322+00:00",
+      "finished_at": "2026-05-22T11:01:17.998330+00:00",
+      "word_count": 4441,
+      "retry_count": 0
+    },
+    "broker-mfaa-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:39.254216+00:00",
+      "finished_at": "2026-05-22T11:01:39.254229+00:00",
+      "word_count": 2441,
+      "retry_count": 1
+    },
+    "broker-mfaa-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:09.187386+00:00",
+      "finished_at": "2026-05-22T11:01:09.187400+00:00",
+      "word_count": 2766,
+      "retry_count": 0
+    },
+    "broker-mfaa-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:11.458762+00:00",
+      "finished_at": "2026-05-22T11:01:11.458778+00:00",
+      "word_count": 3221,
+      "retry_count": 0
+    },
+    "broker-mfaa-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:25.206290+00:00",
+      "finished_at": "2026-05-22T11:01:25.206300+00:00",
+      "word_count": 4174,
+      "retry_count": 0
+    },
+    "broker-mfaa-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:12.229345+00:00",
+      "finished_at": "2026-05-22T11:02:12.229362+00:00",
+      "word_count": 3787,
+      "retry_count": 1
+    },
+    "broker-mfaa-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:12.643184+00:00",
+      "finished_at": "2026-05-22T11:03:12.643203+00:00",
+      "word_count": 5986,
+      "retry_count": 2
+    },
+    "broker-mfaa-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:43.366265+00:00",
+      "finished_at": "2026-05-22T11:01:43.366275+00:00",
+      "word_count": 4345,
+      "retry_count": 0
+    },
+    "broker-fbaa-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:48.383075+00:00",
+      "finished_at": "2026-05-22T11:01:48.383088+00:00",
+      "word_count": 3610,
+      "retry_count": 0
+    },
+    "broker-fbaa-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:23.642702+00:00",
+      "finished_at": "2026-05-22T11:02:23.642718+00:00",
+      "word_count": 3938,
+      "retry_count": 1
+    },
+    "broker-fbaa-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:01:51.325421+00:00",
+      "finished_at": "2026-05-22T11:01:51.325431+00:00",
+      "word_count": 2821,
+      "retry_count": 0
+    },
+    "broker-fbaa-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:01.600571+00:00",
+      "finished_at": "2026-05-22T11:02:01.600603+00:00",
+      "word_count": 5226,
+      "retry_count": 0
+    },
+    "broker-fbaa-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:15.718483+00:00",
+      "finished_at": "2026-05-22T11:02:15.718500+00:00",
+      "word_count": 4857,
+      "retry_count": 0
+    },
+    "broker-fbaa-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:26.670065+00:00",
+      "finished_at": "2026-05-22T11:02:26.670083+00:00",
+      "word_count": 5623,
+      "retry_count": 0
+    },
+    "broker-fbaa-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:12.811506+00:00",
+      "finished_at": "2026-05-22T11:02:12.811518+00:00",
+      "word_count": 3522,
+      "retry_count": 0
+    },
+    "broker-nmls-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:23.250579+00:00",
+      "finished_at": "2026-05-22T11:02:23.250594+00:00",
+      "word_count": 3802,
+      "retry_count": 0
+    },
+    "broker-nmls-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:57.477673+00:00",
+      "finished_at": "2026-05-22T11:02:57.477687+00:00",
+      "word_count": 5001,
+      "retry_count": 1
+    },
+    "broker-nmls-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:40.317118+00:00",
+      "finished_at": "2026-05-22T11:02:40.317129+00:00",
+      "word_count": 4607,
+      "retry_count": 0
+    },
+    "broker-nmls-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:03.469536+00:00",
+      "finished_at": "2026-05-22T11:03:03.469569+00:00",
+      "word_count": 3876,
+      "retry_count": 1
+    },
+    "broker-nmls-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:52.120364+00:00",
+      "finished_at": "2026-05-22T11:02:52.120379+00:00",
+      "word_count": 4225,
+      "retry_count": 0
+    },
+    "broker-nmls-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:19.022219+00:00",
+      "finished_at": "2026-05-22T11:03:19.022235+00:00",
+      "word_count": 7846,
+      "retry_count": 0
+    },
+    "broker-nmls-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:02:58.049822+00:00",
+      "finished_at": "2026-05-22T11:02:58.049832+00:00",
+      "word_count": 3761,
+      "retry_count": 0
+    },
+    "broker-fca-broker-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:07.815676+00:00",
+      "finished_at": "2026-05-22T11:03:07.815686+00:00",
+      "word_count": 5672,
+      "retry_count": 0
+    },
+    "broker-fca-broker-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:06.278355+00:00",
+      "finished_at": "2026-05-22T11:03:06.278370+00:00",
+      "word_count": 5208,
+      "retry_count": 0
+    },
+    "broker-fca-broker-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:00.972989+00:00",
+      "finished_at": "2026-05-22T11:03:00.973003+00:00",
+      "word_count": 3740,
+      "retry_count": 0
+    },
+    "broker-fca-broker-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:13.532469+00:00",
+      "finished_at": "2026-05-22T11:03:13.532478+00:00",
+      "word_count": 5217,
+      "retry_count": 0
+    },
+    "broker-fca-broker-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:26.415663+00:00",
+      "finished_at": "2026-05-22T11:03:26.415682+00:00",
+      "word_count": 4905,
+      "retry_count": 0
+    },
+    "broker-fca-broker-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:47.073070+00:00",
+      "finished_at": "2026-05-22T11:03:47.073084+00:00",
+      "word_count": 6223,
+      "retry_count": 0
+    },
+    "broker-fca-broker-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:11.563203+00:00",
+      "finished_at": "2026-05-22T11:04:11.563216+00:00",
+      "word_count": 4100,
+      "retry_count": 1
+    },
+    "broker-hkma-broker-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:50.147787+00:00",
+      "finished_at": "2026-05-22T11:04:50.147805+00:00",
+      "word_count": 4760,
+      "retry_count": 2
+    },
+    "broker-hkma-broker-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:08.127716+00:00",
+      "finished_at": "2026-05-22T11:04:08.127727+00:00",
+      "word_count": 3252,
+      "retry_count": 1
+    },
+    "broker-hkma-broker-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:53.145636+00:00",
+      "finished_at": "2026-05-22T11:03:53.145650+00:00",
+      "word_count": 6100,
+      "retry_count": 0
+    },
+    "broker-hkma-broker-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:42.539674+00:00",
+      "finished_at": "2026-05-22T11:03:42.539686+00:00",
+      "word_count": 5875,
+      "retry_count": 0
+    },
+    "broker-hkma-broker-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:43.259455+00:00",
+      "finished_at": "2026-05-22T11:03:43.259467+00:00",
+      "word_count": 4441,
+      "retry_count": 0
+    },
+    "broker-hkma-broker-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:05.771232+00:00",
+      "finished_at": "2026-05-22T11:04:05.771244+00:00",
+      "word_count": 6489,
+      "retry_count": 0
+    },
+    "broker-hkma-broker-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:53.859917+00:00",
+      "finished_at": "2026-05-22T11:03:53.859928+00:00",
+      "word_count": 4998,
+      "retry_count": 0
+    },
+    "legal-aba-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:03:53.492462+00:00",
+      "finished_at": "2026-05-22T11:03:53.492476+00:00",
+      "word_count": 3318,
+      "retry_count": 0
+    },
+    "legal-aba-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:07.225529+00:00",
+      "finished_at": "2026-05-22T11:04:07.225544+00:00",
+      "word_count": 3260,
+      "retry_count": 0
+    },
+    "legal-aba-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:19.164886+00:00",
+      "finished_at": "2026-05-22T11:04:19.164909+00:00",
+      "word_count": 4141,
+      "retry_count": 0
+    },
+    "legal-aba-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:17.949725+00:00",
+      "finished_at": "2026-05-22T11:31:28.996549+00:00",
+      "word_count": 10888,
+      "retry_count": 1
+    },
+    "legal-aba-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:05.406503+00:00",
+      "finished_at": "2026-05-22T11:05:05.406512+00:00",
+      "word_count": 5368,
+      "retry_count": 1
+    },
+    "legal-aba-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:08.342496+00:00",
+      "finished_at": "2026-05-22T11:05:08.342527+00:00",
+      "word_count": 10526,
+      "retry_count": 0
+    },
+    "legal-aba-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:36.504883+00:00",
+      "finished_at": "2026-05-22T11:04:36.504892+00:00",
+      "word_count": 5261,
+      "retry_count": 0
+    },
+    "legal-sra-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:42.428037+00:00",
+      "finished_at": "2026-05-22T11:04:42.428051+00:00",
+      "word_count": 4671,
+      "retry_count": 0
+    },
+    "legal-sra-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:35.879523+00:00",
+      "finished_at": "2026-05-22T11:04:35.879551+00:00",
+      "word_count": 3364,
+      "retry_count": 0
+    },
+    "legal-sra-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:46.179575+00:00",
+      "finished_at": "2026-05-22T11:04:46.179586+00:00",
+      "word_count": 5025,
+      "retry_count": 0
+    },
+    "legal-sra-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:04:48.158807+00:00",
+      "finished_at": "2026-05-22T11:04:48.158820+00:00",
+      "word_count": 7378,
+      "retry_count": 0
+    },
+    "legal-sra-how_to_apply": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:06:43.836783+00:00",
+      "finished_at": "2026-05-22T11:32:27.426843+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G07_cta: hit: ['报名']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "legal-sra-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:18.332123+00:00",
+      "finished_at": "2026-05-22T11:05:18.332139+00:00",
+      "word_count": 5957,
+      "retry_count": 0
+    },
+    "legal-sra-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:48.908906+00:00",
+      "finished_at": "2026-05-22T11:05:48.908917+00:00",
+      "word_count": 5131,
+      "retry_count": 1
+    },
+    "legal-lc-australia-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:22.074834+00:00",
+      "finished_at": "2026-05-22T11:05:22.074847+00:00",
+      "word_count": 5384,
+      "retry_count": 0
+    },
+    "legal-lc-australia-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:17.572018+00:00",
+      "finished_at": "2026-05-22T11:05:17.572037+00:00",
+      "word_count": 4549,
+      "retry_count": 0
+    },
+    "legal-lc-australia-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:20.436431+00:00",
+      "finished_at": "2026-05-22T11:05:20.436443+00:00",
+      "word_count": 3976,
+      "retry_count": 0
+    },
+    "legal-lc-australia-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:18.528380+00:00",
+      "finished_at": "2026-05-22T11:05:18.528394+00:00",
+      "word_count": 4862,
+      "retry_count": 0
+    },
+    "legal-lc-australia-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:42.350415+00:00",
+      "finished_at": "2026-05-22T11:05:42.350431+00:00",
+      "word_count": 4810,
+      "retry_count": 0
+    },
+    "legal-lc-australia-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:03.674627+00:00",
+      "finished_at": "2026-05-22T11:07:03.674642+00:00",
+      "word_count": 6916,
+      "retry_count": 1
+    },
+    "legal-lc-australia-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:02.713951+00:00",
+      "finished_at": "2026-05-22T11:08:02.713961+00:00",
+      "word_count": 3976,
+      "retry_count": 3
+    },
+    "legal-icc-arbitration-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:57.342918+00:00",
+      "finished_at": "2026-05-22T11:05:57.342935+00:00",
+      "word_count": 5920,
+      "retry_count": 0
+    },
+    "legal-icc-arbitration-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:53.108357+00:00",
+      "finished_at": "2026-05-22T11:05:53.108372+00:00",
+      "word_count": 4040,
+      "retry_count": 0
+    },
+    "legal-icc-arbitration-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:05:56.011844+00:00",
+      "finished_at": "2026-05-22T11:05:56.011857+00:00",
+      "word_count": 4435,
+      "retry_count": 0
+    },
+    "legal-icc-arbitration-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:06:02.628027+00:00",
+      "finished_at": "2026-05-22T11:06:02.628039+00:00",
+      "word_count": 7995,
+      "retry_count": 0
+    },
+    "legal-icc-arbitration-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:06:12.082039+00:00",
+      "finished_at": "2026-05-22T11:06:12.082126+00:00",
+      "word_count": 3654,
+      "retry_count": 0
+    },
+    "legal-icc-arbitration-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:06:41.245422+00:00",
+      "finished_at": "2026-05-22T11:06:41.245433+00:00",
+      "word_count": 6850,
+      "retry_count": 0
+    },
+    "legal-icc-arbitration-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:06:27.863197+00:00",
+      "finished_at": "2026-05-22T11:06:27.863209+00:00",
+      "word_count": 5412,
+      "retry_count": 0
+    },
+    "legal-siac-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:33.106445+00:00",
+      "finished_at": "2026-05-22T11:07:33.106456+00:00",
+      "word_count": 4058,
+      "retry_count": 2
+    },
+    "legal-siac-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:06:34.793834+00:00",
+      "finished_at": "2026-05-22T11:06:34.793843+00:00",
+      "word_count": 4183,
+      "retry_count": 0
+    },
+    "legal-siac-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:06:43.539543+00:00",
+      "finished_at": "2026-05-22T11:06:43.539554+00:00",
+      "word_count": 5696,
+      "retry_count": 0
+    },
+    "legal-siac-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:06:34.631688+00:00",
+      "finished_at": "2026-05-22T11:06:34.631708+00:00",
+      "word_count": 3038,
+      "retry_count": 0
+    },
+    "legal-siac-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:00.721898+00:00",
+      "finished_at": "2026-05-22T11:07:00.721909+00:00",
+      "word_count": 4732,
+      "retry_count": 0
+    },
+    "legal-siac-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:27.681998+00:00",
+      "finished_at": "2026-05-22T11:07:27.682011+00:00",
+      "word_count": 6205,
+      "retry_count": 0
+    },
+    "legal-siac-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:10.579823+00:00",
+      "finished_at": "2026-05-22T11:07:10.579835+00:00",
+      "word_count": 4409,
+      "retry_count": 0
+    },
+    "legal-hkiac-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:08.711591+00:00",
+      "finished_at": "2026-05-22T11:07:08.711602+00:00",
+      "word_count": 3368,
+      "retry_count": 0
+    },
+    "legal-hkiac-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:18.248788+00:00",
+      "finished_at": "2026-05-22T11:07:18.248802+00:00",
+      "word_count": 4383,
+      "retry_count": 0
+    },
+    "legal-hkiac-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:39.372351+00:00",
+      "finished_at": "2026-05-22T11:07:39.372367+00:00",
+      "word_count": 2935,
+      "retry_count": 1
+    },
+    "legal-hkiac-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:34.465066+00:00",
+      "finished_at": "2026-05-22T11:07:34.465083+00:00",
+      "word_count": 5133,
+      "retry_count": 0
+    },
+    "legal-hkiac-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:33.968543+00:00",
+      "finished_at": "2026-05-22T11:08:33.968556+00:00",
+      "word_count": 2991,
+      "retry_count": 2
+    },
+    "legal-hkiac-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:12.001490+00:00",
+      "finished_at": "2026-05-22T11:10:12.001499+00:00",
+      "word_count": 8686,
+      "retry_count": 2
+    },
+    "legal-hkiac-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:47.946945+00:00",
+      "finished_at": "2026-05-22T11:07:47.946958+00:00",
+      "word_count": 4724,
+      "retry_count": 0
+    },
+    "medical-jci-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:03.715450+00:00",
+      "finished_at": "2026-05-22T11:08:03.715464+00:00",
+      "word_count": 6836,
+      "retry_count": 0
+    },
+    "medical-jci-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:07:48.120894+00:00",
+      "finished_at": "2026-05-22T11:07:48.120904+00:00",
+      "word_count": 3962,
+      "retry_count": 0
+    },
+    "medical-jci-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:10.270438+00:00",
+      "finished_at": "2026-05-22T11:08:10.270447+00:00",
+      "word_count": 4865,
+      "retry_count": 0
+    },
+    "medical-jci-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:07.390817+00:00",
+      "finished_at": "2026-05-22T11:08:07.390829+00:00",
+      "word_count": 6656,
+      "retry_count": 0
+    },
+    "medical-jci-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:02.424911+00:00",
+      "finished_at": "2026-05-22T11:08:02.424923+00:00",
+      "word_count": 3050,
+      "retry_count": 0
+    },
+    "medical-jci-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:42.686564+00:00",
+      "finished_at": "2026-05-22T11:09:42.686573+00:00",
+      "word_count": 7519,
+      "retry_count": 1
+    },
+    "medical-jci-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:19.489017+00:00",
+      "finished_at": "2026-05-22T11:08:19.489028+00:00",
+      "word_count": 3963,
+      "retry_count": 0
+    },
+    "medical-ahpra-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:15.525124+00:00",
+      "finished_at": "2026-05-22T11:08:15.525150+00:00",
+      "word_count": 3950,
+      "retry_count": 0
+    },
+    "medical-ahpra-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:40.179709+00:00",
+      "finished_at": "2026-05-22T11:08:40.179725+00:00",
+      "word_count": 4731,
+      "retry_count": 0
+    },
+    "medical-ahpra-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:35.283336+00:00",
+      "finished_at": "2026-05-22T11:08:35.283356+00:00",
+      "word_count": 4311,
+      "retry_count": 0
+    },
+    "medical-ahpra-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:27.878155+00:00",
+      "finished_at": "2026-05-22T11:08:27.878168+00:00",
+      "word_count": 4019,
+      "retry_count": 0
+    },
+    "medical-ahpra-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:24.174778+00:00",
+      "finished_at": "2026-05-22T11:09:24.174789+00:00",
+      "word_count": 5168,
+      "retry_count": 1
+    },
+    "medical-ahpra-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:05.292327+00:00",
+      "finished_at": "2026-05-22T11:10:05.292343+00:00",
+      "word_count": 6450,
+      "retry_count": 1
+    },
+    "medical-ahpra-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:49.893421+00:00",
+      "finished_at": "2026-05-22T11:08:49.893431+00:00",
+      "word_count": 4152,
+      "retry_count": 0
+    },
+    "medical-gmc-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:50.741223+00:00",
+      "finished_at": "2026-05-22T11:08:50.741232+00:00",
+      "word_count": 4259,
+      "retry_count": 0
+    },
+    "medical-gmc-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:08:59.185785+00:00",
+      "finished_at": "2026-05-22T11:08:59.185795+00:00",
+      "word_count": 4391,
+      "retry_count": 0
+    },
+    "medical-gmc-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:05.201797+00:00",
+      "finished_at": "2026-05-22T11:09:05.201806+00:00",
+      "word_count": 3801,
+      "retry_count": 0
+    },
+    "medical-gmc-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:57.242005+00:00",
+      "finished_at": "2026-05-22T11:09:57.242017+00:00",
+      "word_count": 6185,
+      "retry_count": 1
+    },
+    "medical-gmc-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:45.428318+00:00",
+      "finished_at": "2026-05-22T11:09:45.428333+00:00",
+      "word_count": 3577,
+      "retry_count": 1
+    },
+    "medical-gmc-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:43.173294+00:00",
+      "finished_at": "2026-05-22T11:09:43.173304+00:00",
+      "word_count": 7402,
+      "retry_count": 0
+    },
+    "medical-gmc-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:31.613616+00:00",
+      "finished_at": "2026-05-22T11:09:31.613631+00:00",
+      "word_count": 5832,
+      "retry_count": 0
+    },
+    "medical-abms-overview": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:26.510983+00:00",
+      "finished_at": "2026-05-22T11:09:26.511000+00:00",
+      "word_count": 3355,
+      "retry_count": 0
+    },
+    "medical-abms-history": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:41.980758+00:00",
+      "finished_at": "2026-05-22T11:09:41.980768+00:00",
+      "word_count": 4819,
+      "retry_count": 0
+    },
+    "medical-abms-criteria": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:50.137703+00:00",
+      "finished_at": "2026-05-22T11:09:50.137717+00:00",
+      "word_count": 3642,
+      "retry_count": 0
+    },
+    "medical-abms-accredited_list": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:55.046978+00:00",
+      "finished_at": "2026-05-22T11:09:55.046992+00:00",
+      "word_count": 5073,
+      "retry_count": 0
+    },
+    "medical-abms-how_to_apply": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:09:55.286756+00:00",
+      "finished_at": "2026-05-22T11:09:55.286780+00:00",
+      "word_count": 3078,
+      "retry_count": 0
+    },
+    "medical-abms-faq": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:32.134591+00:00",
+      "finished_at": "2026-05-22T11:11:32.134602+00:00",
+      "word_count": 7758,
+      "retry_count": 1
+    },
+    "medical-abms-comparison": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:20.075815+00:00",
+      "finished_at": "2026-05-22T11:10:20.075827+00:00",
+      "word_count": 4829,
+      "retry_count": 0
+    },
+    "insights-001": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:16.400485+00:00",
+      "finished_at": "2026-05-22T11:10:16.400500+00:00",
+      "word_count": 4216,
+      "retry_count": 0
+    },
+    "insights-002": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:15.223461+00:00",
+      "finished_at": "2026-05-22T11:10:15.223473+00:00",
+      "word_count": 3967,
+      "retry_count": 0
+    },
+    "insights-003": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:28.839101+00:00",
+      "finished_at": "2026-05-22T11:10:28.839115+00:00",
+      "word_count": 4447,
+      "retry_count": 0
+    },
+    "insights-004": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:36.550029+00:00",
+      "finished_at": "2026-05-22T11:10:36.550044+00:00",
+      "word_count": 4831,
+      "retry_count": 0
+    },
+    "insights-005": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:26.957718+00:00",
+      "finished_at": "2026-05-22T11:10:26.957731+00:00",
+      "word_count": 3662,
+      "retry_count": 0
+    },
+    "insights-006": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:25.871161+00:00",
+      "finished_at": "2026-05-22T11:10:25.871175+00:00",
+      "word_count": 3308,
+      "retry_count": 0
+    },
+    "insights-007": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:58.589442+00:00",
+      "finished_at": "2026-05-22T11:10:58.589458+00:00",
+      "word_count": 6558,
+      "retry_count": 0
+    },
+    "insights-008": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:43.238644+00:00",
+      "finished_at": "2026-05-22T11:10:43.238655+00:00",
+      "word_count": 4942,
+      "retry_count": 0
+    },
+    "insights-009": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:44.277100+00:00",
+      "finished_at": "2026-05-22T11:10:44.277112+00:00",
+      "word_count": 3412,
+      "retry_count": 0
+    },
+    "insights-010": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:20.885704+00:00",
+      "finished_at": "2026-05-22T11:11:20.885716+00:00",
+      "word_count": 3588,
+      "retry_count": 1
+    },
+    "insights-011": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:57.902044+00:00",
+      "finished_at": "2026-05-22T11:10:57.902053+00:00",
+      "word_count": 4767,
+      "retry_count": 0
+    },
+    "insights-012": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:10.792048+00:00",
+      "finished_at": "2026-05-22T11:11:10.792058+00:00",
+      "word_count": 5575,
+      "retry_count": 0
+    },
+    "insights-013": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:10:55.984611+00:00",
+      "finished_at": "2026-05-22T11:10:55.984623+00:00",
+      "word_count": 3321,
+      "retry_count": 0
+    },
+    "insights-014": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:05.131025+00:00",
+      "finished_at": "2026-05-22T11:11:05.131036+00:00",
+      "word_count": 4451,
+      "retry_count": 0
+    },
+    "insights-015": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:13.023457+00:00",
+      "finished_at": "2026-05-22T11:11:13.023467+00:00",
+      "word_count": 5087,
+      "retry_count": 0
+    },
+    "insights-016": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:18.441354+00:00",
+      "finished_at": "2026-05-22T11:11:18.441367+00:00",
+      "word_count": 4353,
+      "retry_count": 0
+    },
+    "insights-017": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:27.189244+00:00",
+      "finished_at": "2026-05-22T11:11:27.189267+00:00",
+      "word_count": 5142,
+      "retry_count": 0
+    },
+    "insights-018": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:41.788133+00:00",
+      "finished_at": "2026-05-22T11:11:41.788143+00:00",
+      "word_count": 5783,
+      "retry_count": 0
+    },
+    "insights-019": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:46.859098+00:00",
+      "finished_at": "2026-05-22T11:11:46.859110+00:00",
+      "word_count": 6033,
+      "retry_count": 0
+    },
+    "insights-020": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:39.760453+00:00",
+      "finished_at": "2026-05-22T11:11:39.760461+00:00",
+      "word_count": 4918,
+      "retry_count": 0
+    },
+    "insights-021": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:36.637716+00:00",
+      "finished_at": "2026-05-22T11:11:36.637726+00:00",
+      "word_count": 3684,
+      "retry_count": 0
+    },
+    "insights-022": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:41.416194+00:00",
+      "finished_at": "2026-05-22T11:11:41.416212+00:00",
+      "word_count": 3981,
+      "retry_count": 0
+    },
+    "insights-023": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:41.677525+00:00",
+      "finished_at": "2026-05-22T11:11:41.677537+00:00",
+      "word_count": 4000,
+      "retry_count": 0
+    },
+    "insights-024": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:52.127910+00:00",
+      "finished_at": "2026-05-22T11:11:52.127921+00:00",
+      "word_count": 5083,
+      "retry_count": 0
+    },
+    "insights-025": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:59.098676+00:00",
+      "finished_at": "2026-05-22T11:11:59.098687+00:00",
+      "word_count": 5031,
+      "retry_count": 0
+    },
+    "insights-026": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:11:58.354294+00:00",
+      "finished_at": "2026-05-22T11:11:58.354307+00:00",
+      "word_count": 3638,
+      "retry_count": 0
+    },
+    "insights-027": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:05.835643+00:00",
+      "finished_at": "2026-05-22T11:12:05.835659+00:00",
+      "word_count": 4334,
+      "retry_count": 0
+    },
+    "insights-028": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:05.062329+00:00",
+      "finished_at": "2026-05-22T11:12:05.062339+00:00",
+      "word_count": 3357,
+      "retry_count": 0
+    },
+    "insights-029": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:14.091000+00:00",
+      "finished_at": "2026-05-22T11:12:14.091010+00:00",
+      "word_count": 4655,
+      "retry_count": 0
+    },
+    "insights-030": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:20.236646+00:00",
+      "finished_at": "2026-05-22T11:12:20.236656+00:00",
+      "word_count": 6524,
+      "retry_count": 0
+    },
+    "insights-031": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:14.599645+00:00",
+      "finished_at": "2026-05-22T11:12:14.599653+00:00",
+      "word_count": 3837,
+      "retry_count": 0
+    },
+    "insights-032": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:06.699628+00:00",
+      "finished_at": "2026-05-22T11:12:06.699646+00:00",
+      "word_count": 3301,
+      "retry_count": 0
+    },
+    "insights-033": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:23.374755+00:00",
+      "finished_at": "2026-05-22T11:12:23.374770+00:00",
+      "word_count": 5370,
+      "retry_count": 0
+    },
+    "insights-034": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:26.282678+00:00",
+      "finished_at": "2026-05-22T11:12:26.282691+00:00",
+      "word_count": 4347,
+      "retry_count": 0
+    },
+    "insights-035": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:21.380331+00:00",
+      "finished_at": "2026-05-22T11:12:21.380340+00:00",
+      "word_count": 3044,
+      "retry_count": 0
+    },
+    "insights-036": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:25.314954+00:00",
+      "finished_at": "2026-05-22T11:12:25.314962+00:00",
+      "word_count": 3234,
+      "retry_count": 0
+    },
+    "insights-037": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:52.501643+00:00",
+      "finished_at": "2026-05-22T11:12:52.501682+00:00",
+      "word_count": 6482,
+      "retry_count": 0
+    },
+    "insights-038": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:46.013769+00:00",
+      "finished_at": "2026-05-22T11:12:46.013779+00:00",
+      "word_count": 6074,
+      "retry_count": 0
+    },
+    "insights-039": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:46.719554+00:00",
+      "finished_at": "2026-05-22T11:12:46.719568+00:00",
+      "word_count": 5149,
+      "retry_count": 0
+    },
+    "insights-040": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:53.053670+00:00",
+      "finished_at": "2026-05-22T11:12:53.053686+00:00",
+      "word_count": 4891,
+      "retry_count": 0
+    },
+    "insights-041": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:50.395037+00:00",
+      "finished_at": "2026-05-22T11:12:50.395049+00:00",
+      "word_count": 5221,
+      "retry_count": 0
+    },
+    "insights-042": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:52.711420+00:00",
+      "finished_at": "2026-05-22T11:12:52.711431+00:00",
+      "word_count": 4082,
+      "retry_count": 0
+    },
+    "insights-043": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:55.652384+00:00",
+      "finished_at": "2026-05-22T11:12:55.652396+00:00",
+      "word_count": 4616,
+      "retry_count": 0
+    },
+    "insights-044": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:53.056948+00:00",
+      "finished_at": "2026-05-22T11:12:53.056957+00:00",
+      "word_count": 3503,
+      "retry_count": 0
+    },
+    "insights-045": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:12:57.810042+00:00",
+      "finished_at": "2026-05-22T11:12:57.810055+00:00",
+      "word_count": 4504,
+      "retry_count": 0
+    },
+    "insights-046": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:05.737067+00:00",
+      "finished_at": "2026-05-22T11:13:05.737077+00:00",
+      "word_count": 4747,
+      "retry_count": 0
+    },
+    "insights-047": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:54.341862+00:00",
+      "finished_at": "2026-05-22T11:13:54.341875+00:00",
+      "word_count": 3756,
+      "retry_count": 1
+    },
+    "insights-048": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:27.082804+00:00",
+      "finished_at": "2026-05-22T11:13:27.082818+00:00",
+      "word_count": 4595,
+      "retry_count": 0
+    },
+    "insights-049": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:22.726394+00:00",
+      "finished_at": "2026-05-22T11:13:22.726404+00:00",
+      "word_count": 3799,
+      "retry_count": 0
+    },
+    "insights-050": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:28.602171+00:00",
+      "finished_at": "2026-05-22T11:13:28.602183+00:00",
+      "word_count": 4299,
+      "retry_count": 0
+    },
+    "insights-051": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:23.207544+00:00",
+      "finished_at": "2026-05-22T11:13:23.207556+00:00",
+      "word_count": 4582,
+      "retry_count": 0
+    },
+    "insights-052": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:22.124829+00:00",
+      "finished_at": "2026-05-22T11:13:22.124844+00:00",
+      "word_count": 3552,
+      "retry_count": 0
+    },
+    "insights-053": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:28.896982+00:00",
+      "finished_at": "2026-05-22T11:13:28.896995+00:00",
+      "word_count": 4365,
+      "retry_count": 0
+    },
+    "insights-054": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:32.681429+00:00",
+      "finished_at": "2026-05-22T11:13:32.681443+00:00",
+      "word_count": 5348,
+      "retry_count": 0
+    },
+    "insights-055": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:15:29.218952+00:00",
+      "finished_at": "2026-05-22T11:32:24.340913+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G04_reddit: hit: ['r/', 'r/', 'r/', 'r/']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "insights-056": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:34.045786+00:00",
+      "finished_at": "2026-05-22T11:13:34.045800+00:00",
+      "word_count": 3273,
+      "retry_count": 0
+    },
+    "insights-057": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:15:41.905865+00:00",
+      "finished_at": "2026-05-22T11:32:38.322746+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G03_title_banned: hit: ['排名']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "insights-058": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:50.684656+00:00",
+      "finished_at": "2026-05-22T11:13:50.684667+00:00",
+      "word_count": 3263,
+      "retry_count": 0
+    },
+    "insights-059": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:03.930575+00:00",
+      "finished_at": "2026-05-22T11:14:03.930589+00:00",
+      "word_count": 4744,
+      "retry_count": 0
+    },
+    "insights-060": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:53.077730+00:00",
+      "finished_at": "2026-05-22T11:13:53.077741+00:00",
+      "word_count": 3320,
+      "retry_count": 0
+    },
+    "insights-061": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:13:59.133847+00:00",
+      "finished_at": "2026-05-22T11:13:59.133856+00:00",
+      "word_count": 4632,
+      "retry_count": 0
+    },
+    "insights-062": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:41.457693+00:00",
+      "finished_at": "2026-05-22T11:14:41.457708+00:00",
+      "word_count": 3481,
+      "retry_count": 1
+    },
+    "insights-063": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:40.727853+00:00",
+      "finished_at": "2026-05-22T11:14:40.727868+00:00",
+      "word_count": 4000,
+      "retry_count": 1
+    },
+    "insights-064": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:35.092335+00:00",
+      "finished_at": "2026-05-22T11:14:35.092349+00:00",
+      "word_count": 4240,
+      "retry_count": 1
+    },
+    "insights-065": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:05.849334+00:00",
+      "finished_at": "2026-05-22T11:15:05.849349+00:00",
+      "word_count": 3641,
+      "retry_count": 1
+    },
+    "insights-066": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:32.988482+00:00",
+      "finished_at": "2026-05-22T11:14:32.988492+00:00",
+      "word_count": 6598,
+      "retry_count": 0
+    },
+    "insights-067": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:16:29.565729+00:00",
+      "finished_at": "2026-05-22T11:32:26.475958+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G03_title_banned: hit: ['排名']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "insights-068": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:29.926879+00:00",
+      "finished_at": "2026-05-22T11:14:29.926891+00:00",
+      "word_count": 3718,
+      "retry_count": 0
+    },
+    "insights-069": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:47.514264+00:00",
+      "finished_at": "2026-05-22T11:14:47.514276+00:00",
+      "word_count": 5052,
+      "retry_count": 0
+    },
+    "insights-070": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:14:59.074896+00:00",
+      "finished_at": "2026-05-22T11:14:59.074907+00:00",
+      "word_count": 4088,
+      "retry_count": 0
+    },
+    "insights-071": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:41.952450+00:00",
+      "finished_at": "2026-05-22T11:15:41.952460+00:00",
+      "word_count": 4051,
+      "retry_count": 1
+    },
+    "insights-072": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:06.937848+00:00",
+      "finished_at": "2026-05-22T11:15:06.937863+00:00",
+      "word_count": 3355,
+      "retry_count": 0
+    },
+    "insights-073": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:09.674432+00:00",
+      "finished_at": "2026-05-22T11:15:09.674453+00:00",
+      "word_count": 3592,
+      "retry_count": 0
+    },
+    "insights-074": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:13.103291+00:00",
+      "finished_at": "2026-05-22T11:15:13.103304+00:00",
+      "word_count": 4489,
+      "retry_count": 0
+    },
+    "insights-075": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:29.005689+00:00",
+      "finished_at": "2026-05-22T11:15:29.005703+00:00",
+      "word_count": 4944,
+      "retry_count": 0
+    },
+    "insights-076": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:27.533448+00:00",
+      "finished_at": "2026-05-22T11:15:27.533467+00:00",
+      "word_count": 3381,
+      "retry_count": 0
+    },
+    "insights-077": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:45.494515+00:00",
+      "finished_at": "2026-05-22T11:15:45.494526+00:00",
+      "word_count": 5004,
+      "retry_count": 0
+    },
+    "insights-078": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:52.834389+00:00",
+      "finished_at": "2026-05-22T11:15:52.834401+00:00",
+      "word_count": 5800,
+      "retry_count": 0
+    },
+    "insights-079": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:46.931592+00:00",
+      "finished_at": "2026-05-22T11:15:46.931604+00:00",
+      "word_count": 4148,
+      "retry_count": 0
+    },
+    "insights-080": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:44.841269+00:00",
+      "finished_at": "2026-05-22T11:15:44.841287+00:00",
+      "word_count": 3782,
+      "retry_count": 0
+    },
+    "insights-081": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:05.024537+00:00",
+      "finished_at": "2026-05-22T11:16:05.024553+00:00",
+      "word_count": 4146,
+      "retry_count": 0
+    },
+    "insights-082": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:15:56.618988+00:00",
+      "finished_at": "2026-05-22T11:15:56.618999+00:00",
+      "word_count": 3540,
+      "retry_count": 0
+    },
+    "insights-083": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:06.314006+00:00",
+      "finished_at": "2026-05-22T11:16:06.314014+00:00",
+      "word_count": 5015,
+      "retry_count": 0
+    },
+    "insights-084": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:06.290962+00:00",
+      "finished_at": "2026-05-22T11:16:06.290971+00:00",
+      "word_count": 2670,
+      "retry_count": 0
+    },
+    "insights-085": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:13.589546+00:00",
+      "finished_at": "2026-05-22T11:16:13.589558+00:00",
+      "word_count": 4086,
+      "retry_count": 0
+    },
+    "insights-086": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:20.985107+00:00",
+      "finished_at": "2026-05-22T11:16:20.985120+00:00",
+      "word_count": 4561,
+      "retry_count": 0
+    },
+    "insights-087": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:18.570535+00:00",
+      "finished_at": "2026-05-22T11:16:18.570553+00:00",
+      "word_count": 4045,
+      "retry_count": 0
+    },
+    "insights-088": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:25.465500+00:00",
+      "finished_at": "2026-05-22T11:16:25.465510+00:00",
+      "word_count": 4792,
+      "retry_count": 0
+    },
+    "insights-089": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:21.487171+00:00",
+      "finished_at": "2026-05-22T11:16:21.487181+00:00",
+      "word_count": 4207,
+      "retry_count": 0
+    },
+    "insights-090": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:25.589492+00:00",
+      "finished_at": "2026-05-22T11:16:25.589502+00:00",
+      "word_count": 3247,
+      "retry_count": 0
+    },
+    "insights-091": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:32.697310+00:00",
+      "finished_at": "2026-05-22T11:16:32.697323+00:00",
+      "word_count": 3594,
+      "retry_count": 0
+    },
+    "insights-092": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:37.089420+00:00",
+      "finished_at": "2026-05-22T11:16:37.089428+00:00",
+      "word_count": 3595,
+      "retry_count": 0
+    },
+    "insights-093": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:35.535517+00:00",
+      "finished_at": "2026-05-22T11:16:35.535531+00:00",
+      "word_count": 3727,
+      "retry_count": 0
+    },
+    "insights-094": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:45.959201+00:00",
+      "finished_at": "2026-05-22T11:16:45.959212+00:00",
+      "word_count": 3900,
+      "retry_count": 0
+    },
+    "insights-095": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:02.195000+00:00",
+      "finished_at": "2026-05-22T11:17:02.195013+00:00",
+      "word_count": 5044,
+      "retry_count": 0
+    },
+    "insights-096": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:04.033966+00:00",
+      "finished_at": "2026-05-22T11:17:04.033980+00:00",
+      "word_count": 5135,
+      "retry_count": 0
+    },
+    "insights-097": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:13.714596+00:00",
+      "finished_at": "2026-05-22T11:17:13.714609+00:00",
+      "word_count": 7656,
+      "retry_count": 0
+    },
+    "insights-098": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:17.227202+00:00",
+      "finished_at": "2026-05-22T11:17:17.227219+00:00",
+      "word_count": 6009,
+      "retry_count": 0
+    },
+    "insights-099": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:58.788910+00:00",
+      "finished_at": "2026-05-22T11:16:58.788927+00:00",
+      "word_count": 4307,
+      "retry_count": 0
+    },
+    "insights-100": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:10.764064+00:00",
+      "finished_at": "2026-05-22T11:17:10.764075+00:00",
+      "word_count": 5289,
+      "retry_count": 0
+    },
+    "glossary-accreditation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:40.778181+00:00",
+      "finished_at": "2026-05-22T11:17:40.778194+00:00",
+      "word_count": 2382,
+      "retry_count": 3
+    },
+    "glossary-certification": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:16:51.775048+00:00",
+      "finished_at": "2026-05-22T11:16:51.775064+00:00",
+      "word_count": 2504,
+      "retry_count": 0
+    },
+    "glossary-licensing": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:32.189871+00:00",
+      "finished_at": "2026-05-22T11:17:32.189888+00:00",
+      "word_count": 2357,
+      "retry_count": 2
+    },
+    "glossary-chartered": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:18:05.531050+00:00",
+      "finished_at": "2026-05-22T11:31:22.630167+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G04_reddit: hit: ['r/', 'r/']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "glossary-registered": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:07.717971+00:00",
+      "finished_at": "2026-05-22T11:17:07.717985+00:00",
+      "word_count": 2717,
+      "retry_count": 0
+    },
+    "glossary-triple-crown": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:08.779170+00:00",
+      "finished_at": "2026-05-22T11:18:08.779184+00:00",
+      "word_count": 2725,
+      "retry_count": 3
+    },
+    "glossary-quality-assurance": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:58.224470+00:00",
+      "finished_at": "2026-05-22T11:17:58.224486+00:00",
+      "word_count": 2410,
+      "retry_count": 2
+    },
+    "glossary-bologna-process": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:38.358001+00:00",
+      "finished_at": "2026-05-22T11:17:38.358016+00:00",
+      "word_count": 2880,
+      "retry_count": 1
+    },
+    "glossary-washington-accord": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:25.990722+00:00",
+      "finished_at": "2026-05-22T11:17:25.990738+00:00",
+      "word_count": 2610,
+      "retry_count": 0
+    },
+    "glossary-mutual-recognition": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:28.809041+00:00",
+      "finished_at": "2026-05-22T11:17:28.809059+00:00",
+      "word_count": 2406,
+      "retry_count": 0
+    },
+    "glossary-nafsa": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:15.962160+00:00",
+      "finished_at": "2026-05-22T11:31:09.248810+00:00",
+      "word_count": 2193,
+      "retry_count": 3
+    },
+    "glossary-eaie": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:32.226496+00:00",
+      "finished_at": "2026-05-22T11:17:32.226506+00:00",
+      "word_count": 2292,
+      "retry_count": 0
+    },
+    "glossary-apaie": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:32.343155+00:00",
+      "finished_at": "2026-05-22T11:31:13.020858+00:00",
+      "word_count": 1963,
+      "retry_count": 3
+    },
+    "glossary-qf-ehea": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:24.585811+00:00",
+      "finished_at": "2026-05-22T11:18:24.585827+00:00",
+      "word_count": 3315,
+      "retry_count": 2
+    },
+    "glossary-eqf": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:17:47.726695+00:00",
+      "finished_at": "2026-05-22T11:17:47.726709+00:00",
+      "word_count": 2430,
+      "retry_count": 0
+    },
+    "glossary-nqf": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:06.586983+00:00",
+      "finished_at": "2026-05-22T11:18:06.586998+00:00",
+      "word_count": 2978,
+      "retry_count": 1
+    },
+    "glossary-enqa": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:43.804793+00:00",
+      "finished_at": "2026-05-22T11:31:14.539250+00:00",
+      "word_count": 2614,
+      "retry_count": 0
+    },
+    "glossary-eqar": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:44.661820+00:00",
+      "finished_at": "2026-05-22T11:31:24.840705+00:00",
+      "word_count": 1952,
+      "retry_count": 0
+    },
+    "glossary-regional-accreditation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:36.639803+00:00",
+      "finished_at": "2026-05-22T11:18:36.639813+00:00",
+      "word_count": 2884,
+      "retry_count": 2
+    },
+    "glossary-national-accreditation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:15.473524+00:00",
+      "finished_at": "2026-05-22T11:18:15.473537+00:00",
+      "word_count": 2523,
+      "retry_count": 0
+    },
+    "glossary-programmatic-accreditation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:10.990915+00:00",
+      "finished_at": "2026-05-22T11:19:10.990928+00:00",
+      "word_count": 2683,
+      "retry_count": 3
+    },
+    "glossary-institutional-accreditation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:58.426703+00:00",
+      "finished_at": "2026-05-22T11:18:58.426717+00:00",
+      "word_count": 3166,
+      "retry_count": 2
+    },
+    "glossary-cricos": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:06.076749+00:00",
+      "finished_at": "2026-05-22T11:19:06.076763+00:00",
+      "word_count": 2404,
+      "retry_count": 2
+    },
+    "glossary-esg-standards": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:56.557320+00:00",
+      "finished_at": "2026-05-22T11:18:56.557331+00:00",
+      "word_count": 2437,
+      "retry_count": 1
+    },
+    "glossary-self-study": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:18:34.263538+00:00",
+      "finished_at": "2026-05-22T11:18:34.263547+00:00",
+      "word_count": 3324,
+      "retry_count": 0
+    },
+    "glossary-peer-review": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:13.794754+00:00",
+      "finished_at": "2026-05-22T11:19:13.794765+00:00",
+      "word_count": 2337,
+      "retry_count": 2
+    },
+    "glossary-site-visit": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:38.362344+00:00",
+      "finished_at": "2026-05-22T11:31:29.305359+00:00",
+      "word_count": 3181,
+      "retry_count": 0
+    },
+    "glossary-probation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:09.838546+00:00",
+      "finished_at": "2026-05-22T11:19:09.838558+00:00",
+      "word_count": 2766,
+      "retry_count": 1
+    },
+    "glossary-show-cause": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:42.705753+00:00",
+      "finished_at": "2026-05-22T11:31:35.526901+00:00",
+      "word_count": 2336,
+      "retry_count": 0
+    },
+    "glossary-withdrawal": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:50.644717+00:00",
+      "finished_at": "2026-05-22T11:31:40.986875+00:00",
+      "word_count": 2175,
+      "retry_count": 0
+    },
+    "glossary-articulation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:04.321116+00:00",
+      "finished_at": "2026-05-22T11:19:04.321124+00:00",
+      "word_count": 3543,
+      "retry_count": 0
+    },
+    "glossary-reciprocity": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:21.263538+00:00",
+      "finished_at": "2026-05-22T11:20:21.263554+00:00",
+      "word_count": 2361,
+      "retry_count": 3
+    },
+    "glossary-naces": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:46.691744+00:00",
+      "finished_at": "2026-05-22T11:19:46.691759+00:00",
+      "word_count": 2523,
+      "retry_count": 2
+    },
+    "glossary-convalidation": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:15.211931+00:00",
+      "finished_at": "2026-05-22T11:32:01.687846+00:00",
+      "word_count": 2461,
+      "retry_count": 1
+    },
+    "glossary-benchmark-statement": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:12.845405+00:00",
+      "finished_at": "2026-05-22T11:31:44.733686+00:00",
+      "word_count": 2019,
+      "retry_count": 0
+    },
+    "glossary-the-ref": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:23.460503+00:00",
+      "finished_at": "2026-05-22T11:20:23.460519+00:00",
+      "word_count": 2381,
+      "retry_count": 3
+    },
+    "glossary-tef": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:01.430595+00:00",
+      "finished_at": "2026-05-22T11:20:01.430608+00:00",
+      "word_count": 3346,
+      "retry_count": 2
+    },
+    "glossary-micro-credential": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:33.100369+00:00",
+      "finished_at": "2026-05-22T11:19:33.100384+00:00",
+      "word_count": 2481,
+      "retry_count": 0
+    },
+    "glossary-digital-badge": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:19:52.913059+00:00",
+      "finished_at": "2026-05-22T11:19:52.913072+00:00",
+      "word_count": 2458,
+      "retry_count": 0
+    },
+    "glossary-blockchain-credential": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:20:51.771166+00:00",
+      "finished_at": "2026-05-22T11:32:56.631518+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G04_reddit: hit: ['R/']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "glossary-cefr": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:21:00.122563+00:00",
+      "finished_at": "2026-05-22T11:32:48.551619+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G04_reddit: hit: ['r/']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "glossary-ects": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:20.990118+00:00",
+      "finished_at": "2026-05-22T11:20:20.990133+00:00",
+      "word_count": 2932,
+      "retry_count": 1
+    },
+    "glossary-chea-recognized": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:58.373534+00:00",
+      "finished_at": "2026-05-22T11:31:54.423998+00:00",
+      "word_count": 2410,
+      "retry_count": 0
+    },
+    "glossary-usde-recognized": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:10.637703+00:00",
+      "finished_at": "2026-05-22T11:20:10.637719+00:00",
+      "word_count": 3467,
+      "retry_count": 0
+    },
+    "glossary-aacup": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:21.726439+00:00",
+      "finished_at": "2026-05-22T11:20:21.726452+00:00",
+      "word_count": 2478,
+      "retry_count": 0
+    },
+    "glossary-cpd": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:04.767950+00:00",
+      "finished_at": "2026-05-22T11:21:04.767965+00:00",
+      "word_count": 2693,
+      "retry_count": 2
+    },
+    "glossary-dei": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:25.125273+00:00",
+      "finished_at": "2026-05-22T11:32:02.258519+00:00",
+      "word_count": 2681,
+      "retry_count": 0
+    },
+    "glossary-substantive-change": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:31.898431+00:00",
+      "finished_at": "2026-05-22T11:20:31.898441+00:00",
+      "word_count": 2399,
+      "retry_count": 0
+    },
+    "glossary-voluntary-withdrawal": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:20.747613+00:00",
+      "finished_at": "2026-05-22T11:21:20.747632+00:00",
+      "word_count": 2622,
+      "retry_count": 2
+    },
+    "glossary-erasmus-charter": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:31.130545+00:00",
+      "finished_at": "2026-05-22T11:32:09.049393+00:00",
+      "word_count": 1850,
+      "retry_count": 0
+    },
+    "faq-001": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:45.197331+00:00",
+      "finished_at": "2026-05-22T11:20:45.197346+00:00",
+      "word_count": 2740,
+      "retry_count": 0
+    },
+    "faq-002": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:10.074109+00:00",
+      "finished_at": "2026-05-22T11:21:10.074128+00:00",
+      "word_count": 2675,
+      "retry_count": 1
+    },
+    "faq-003": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:20:56.626206+00:00",
+      "finished_at": "2026-05-22T11:20:56.626217+00:00",
+      "word_count": 2803,
+      "retry_count": 0
+    },
+    "faq-004": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:14.629964+00:00",
+      "finished_at": "2026-05-22T11:22:14.629980+00:00",
+      "word_count": 3490,
+      "retry_count": 3
+    },
+    "faq-005": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:42.758036+00:00",
+      "finished_at": "2026-05-22T11:21:42.758052+00:00",
+      "word_count": 2410,
+      "retry_count": 1
+    },
+    "faq-006": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:17.653870+00:00",
+      "finished_at": "2026-05-22T11:21:17.653885+00:00",
+      "word_count": 2385,
+      "retry_count": 0
+    },
+    "faq-007": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:54.392914+00:00",
+      "finished_at": "2026-05-22T11:21:54.392927+00:00",
+      "word_count": 4061,
+      "retry_count": 1
+    },
+    "faq-008": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:59.304719+00:00",
+      "finished_at": "2026-05-22T11:21:59.304733+00:00",
+      "word_count": 3433,
+      "retry_count": 1
+    },
+    "faq-009": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:35.571519+00:00",
+      "finished_at": "2026-05-22T11:21:35.571531+00:00",
+      "word_count": 3684,
+      "retry_count": 0
+    },
+    "faq-010": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:01.946230+00:00",
+      "finished_at": "2026-05-22T11:22:01.946244+00:00",
+      "word_count": 3235,
+      "retry_count": 1
+    },
+    "faq-011": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:38.947236+00:00",
+      "finished_at": "2026-05-22T11:21:38.947251+00:00",
+      "word_count": 2472,
+      "retry_count": 0
+    },
+    "faq-012": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:45.739542+00:00",
+      "finished_at": "2026-05-22T11:21:45.739556+00:00",
+      "word_count": 3073,
+      "retry_count": 0
+    },
+    "faq-013": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:11.444890+00:00",
+      "finished_at": "2026-05-22T11:32:26.278331+00:00",
+      "word_count": 3670,
+      "retry_count": 0
+    },
+    "faq-014": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:58.365445+00:00",
+      "finished_at": "2026-05-22T11:21:58.365454+00:00",
+      "word_count": 4464,
+      "retry_count": 0
+    },
+    "faq-015": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:00.908590+00:00",
+      "finished_at": "2026-05-22T11:22:00.908603+00:00",
+      "word_count": 3218,
+      "retry_count": 0
+    },
+    "faq-016": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:04.025182+00:00",
+      "finished_at": "2026-05-22T11:22:04.025192+00:00",
+      "word_count": 3546,
+      "retry_count": 0
+    },
+    "faq-017": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:21:59.955437+00:00",
+      "finished_at": "2026-05-22T11:21:59.955454+00:00",
+      "word_count": 2320,
+      "retry_count": 0
+    },
+    "faq-018": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:31.528800+00:00",
+      "finished_at": "2026-05-22T11:23:31.528814+00:00",
+      "word_count": 2706,
+      "retry_count": 3
+    },
+    "faq-019": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:15.508092+00:00",
+      "finished_at": "2026-05-22T11:22:15.508107+00:00",
+      "word_count": 2500,
+      "retry_count": 0
+    },
+    "faq-020": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:24.187587+00:00",
+      "finished_at": "2026-05-22T11:22:24.187603+00:00",
+      "word_count": 2911,
+      "retry_count": 0
+    },
+    "faq-021": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:22.665082+00:00",
+      "finished_at": "2026-05-22T11:22:22.665093+00:00",
+      "word_count": 2820,
+      "retry_count": 0
+    },
+    "faq-022": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:30.257800+00:00",
+      "finished_at": "2026-05-22T11:22:30.257813+00:00",
+      "word_count": 3875,
+      "retry_count": 0
+    },
+    "faq-023": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:25.474189+00:00",
+      "finished_at": "2026-05-22T11:22:25.474203+00:00",
+      "word_count": 2754,
+      "retry_count": 0
+    },
+    "faq-024": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:28.556127+00:00",
+      "finished_at": "2026-05-22T11:22:28.556142+00:00",
+      "word_count": 3314,
+      "retry_count": 0
+    },
+    "faq-025": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:31.972531+00:00",
+      "finished_at": "2026-05-22T11:22:31.972550+00:00",
+      "word_count": 4173,
+      "retry_count": 0
+    },
+    "faq-026": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:00.266540+00:00",
+      "finished_at": "2026-05-22T11:23:00.266554+00:00",
+      "word_count": 3485,
+      "retry_count": 1
+    },
+    "faq-027": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:38.887327+00:00",
+      "finished_at": "2026-05-22T11:22:38.887341+00:00",
+      "word_count": 2630,
+      "retry_count": 0
+    },
+    "faq-028": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:09.172835+00:00",
+      "finished_at": "2026-05-22T11:23:09.172853+00:00",
+      "word_count": 2896,
+      "retry_count": 1
+    },
+    "faq-029": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:55.883403+00:00",
+      "finished_at": "2026-05-22T11:22:55.883414+00:00",
+      "word_count": 3491,
+      "retry_count": 0
+    },
+    "faq-030": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:18.674997+00:00",
+      "finished_at": "2026-05-22T11:23:18.675012+00:00",
+      "word_count": 3316,
+      "retry_count": 1
+    },
+    "faq-031": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:55.331693+00:00",
+      "finished_at": "2026-05-22T11:22:55.331707+00:00",
+      "word_count": 3367,
+      "retry_count": 0
+    },
+    "faq-032": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:53.080041+00:00",
+      "finished_at": "2026-05-22T11:22:53.080056+00:00",
+      "word_count": 2543,
+      "retry_count": 0
+    },
+    "faq-033": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:22:52.895183+00:00",
+      "finished_at": "2026-05-22T11:22:52.895197+00:00",
+      "word_count": 2688,
+      "retry_count": 0
+    },
+    "faq-034": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:34.815414+00:00",
+      "finished_at": "2026-05-22T11:23:34.815427+00:00",
+      "word_count": 3011,
+      "retry_count": 1
+    },
+    "faq-035": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:20.997973+00:00",
+      "finished_at": "2026-05-22T11:23:20.997988+00:00",
+      "word_count": 3471,
+      "retry_count": 0
+    },
+    "faq-036": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:24:41.807301+00:00",
+      "finished_at": "2026-05-22T11:33:57.649514+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G03_title_banned: hit: ['排名']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "faq-037": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:35.009152+00:00",
+      "finished_at": "2026-05-22T11:23:35.009161+00:00",
+      "word_count": 2334,
+      "retry_count": 1
+    },
+    "faq-038": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:15.608387+00:00",
+      "finished_at": "2026-05-22T11:23:15.608401+00:00",
+      "word_count": 3449,
+      "retry_count": 0
+    },
+    "faq-039": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:44.406422+00:00",
+      "finished_at": "2026-05-22T11:23:44.406438+00:00",
+      "word_count": 3040,
+      "retry_count": 1
+    },
+    "faq-040": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:01.286311+00:00",
+      "finished_at": "2026-05-22T11:24:01.286329+00:00",
+      "word_count": 3213,
+      "retry_count": 1
+    },
+    "faq-041": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:04.475783+00:00",
+      "finished_at": "2026-05-22T11:24:04.475796+00:00",
+      "word_count": 4862,
+      "retry_count": 1
+    },
+    "faq-042": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:20.919988+00:00",
+      "finished_at": "2026-05-22T11:24:20.920006+00:00",
+      "word_count": 2593,
+      "retry_count": 2
+    },
+    "faq-043": {
+      "status": "failed",
+      "started_at": "2026-05-22T11:25:07.577089+00:00",
+      "finished_at": "2026-05-22T11:33:50.613578+00:00",
+      "retry_count": 3,
+      "error": "Gate failed:   ✗ FAIL  G04_reddit: hit: ['r/', 'r/', 'r/', 'r/', 'r/']; [FAIL] 1 gate(s) failed — article should not be published"
+    },
+    "faq-044": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:48.083637+00:00",
+      "finished_at": "2026-05-22T11:23:48.083653+00:00",
+      "word_count": 3782,
+      "retry_count": 0
+    },
+    "faq-045": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:52.351023+00:00",
+      "finished_at": "2026-05-22T11:23:52.351039+00:00",
+      "word_count": 2509,
+      "retry_count": 0
+    },
+    "faq-046": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:57.632676+00:00",
+      "finished_at": "2026-05-22T11:23:57.632688+00:00",
+      "word_count": 3244,
+      "retry_count": 0
+    },
+    "faq-047": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:23:58.696897+00:00",
+      "finished_at": "2026-05-22T11:23:58.696911+00:00",
+      "word_count": 3256,
+      "retry_count": 0
+    },
+    "faq-048": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:14.529313+00:00",
+      "finished_at": "2026-05-22T11:24:14.529324+00:00",
+      "word_count": 3311,
+      "retry_count": 0
+    },
+    "faq-049": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:02.570027+00:00",
+      "finished_at": "2026-05-22T11:25:02.570041+00:00",
+      "word_count": 3747,
+      "retry_count": 2
+    },
+    "faq-050": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:36.309374+00:00",
+      "finished_at": "2026-05-22T11:24:36.309389+00:00",
+      "word_count": 2387,
+      "retry_count": 1
+    },
+    "faq-051": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:20.680592+00:00",
+      "finished_at": "2026-05-22T11:24:20.680604+00:00",
+      "word_count": 2690,
+      "retry_count": 0
+    },
+    "faq-052": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:29.853298+00:00",
+      "finished_at": "2026-05-22T11:24:29.853311+00:00",
+      "word_count": 3745,
+      "retry_count": 0
+    },
+    "faq-053": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:35.366567+00:00",
+      "finished_at": "2026-05-22T11:32:43.413574+00:00",
+      "word_count": 2437,
+      "retry_count": 0
+    },
+    "faq-054": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:43.057537+00:00",
+      "finished_at": "2026-05-22T11:32:47.978379+00:00",
+      "word_count": 3012,
+      "retry_count": 0
+    },
+    "faq-055": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:44.800287+00:00",
+      "finished_at": "2026-05-22T11:24:44.800295+00:00",
+      "word_count": 3575,
+      "retry_count": 0
+    },
+    "faq-056": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:44.710178+00:00",
+      "finished_at": "2026-05-22T11:24:44.710192+00:00",
+      "word_count": 2510,
+      "retry_count": 0
+    },
+    "faq-057": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:44.548785+00:00",
+      "finished_at": "2026-05-22T11:24:44.548799+00:00",
+      "word_count": 2647,
+      "retry_count": 0
+    },
+    "faq-058": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:45.603102+00:00",
+      "finished_at": "2026-05-22T11:25:45.603113+00:00",
+      "word_count": 2786,
+      "retry_count": 2
+    },
+    "faq-059": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:24:58.364671+00:00",
+      "finished_at": "2026-05-22T11:24:58.364686+00:00",
+      "word_count": 2783,
+      "retry_count": 0
+    },
+    "faq-060": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:06.750790+00:00",
+      "finished_at": "2026-05-22T11:25:06.750801+00:00",
+      "word_count": 2988,
+      "retry_count": 0
+    },
+    "faq-061": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:34.193435+00:00",
+      "finished_at": "2026-05-22T11:25:34.193448+00:00",
+      "word_count": 3060,
+      "retry_count": 1
+    },
+    "faq-062": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:10.070015+00:00",
+      "finished_at": "2026-05-22T11:25:10.070028+00:00",
+      "word_count": 3322,
+      "retry_count": 0
+    },
+    "faq-063": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:20.310789+00:00",
+      "finished_at": "2026-05-22T11:25:20.310802+00:00",
+      "word_count": 5205,
+      "retry_count": 0
+    },
+    "faq-064": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:22.617781+00:00",
+      "finished_at": "2026-05-22T11:25:22.617799+00:00",
+      "word_count": 2967,
+      "retry_count": 0
+    },
+    "faq-065": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:25.260387+00:00",
+      "finished_at": "2026-05-22T11:25:25.260403+00:00",
+      "word_count": 2817,
+      "retry_count": 0
+    },
+    "faq-066": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:59.826139+00:00",
+      "finished_at": "2026-05-22T11:25:59.826154+00:00",
+      "word_count": 2955,
+      "retry_count": 1
+    },
+    "faq-067": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:25:31.433816+00:00",
+      "finished_at": "2026-05-22T11:25:31.433829+00:00",
+      "word_count": 3540,
+      "retry_count": 0
+    },
+    "faq-068": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:50.593937+00:00",
+      "finished_at": "2026-05-22T11:26:50.593951+00:00",
+      "word_count": 3012,
+      "retry_count": 3
+    },
+    "faq-069": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:11.773246+00:00",
+      "finished_at": "2026-05-22T11:26:11.773258+00:00",
+      "word_count": 4358,
+      "retry_count": 1
+    },
+    "faq-070": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:32.711800+00:00",
+      "finished_at": "2026-05-22T11:26:32.711814+00:00",
+      "word_count": 3118,
+      "retry_count": 2
+    },
+    "faq-071": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:10.184400+00:00",
+      "finished_at": "2026-05-22T11:26:10.184412+00:00",
+      "word_count": 3514,
+      "retry_count": 1
+    },
+    "faq-072": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:26.429021+00:00",
+      "finished_at": "2026-05-22T11:26:26.429035+00:00",
+      "word_count": 3235,
+      "retry_count": 1
+    },
+    "faq-073": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:31.620900+00:00",
+      "finished_at": "2026-05-22T11:32:53.018155+00:00",
+      "word_count": 3061,
+      "retry_count": 0
+    },
+    "faq-074": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:15.661385+00:00",
+      "finished_at": "2026-05-22T11:32:51.813496+00:00",
+      "word_count": 4033,
+      "retry_count": 0
+    },
+    "faq-075": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:55.785627+00:00",
+      "finished_at": "2026-05-22T11:26:55.785636+00:00",
+      "word_count": 2393,
+      "retry_count": 2
+    },
+    "faq-076": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:33.500256+00:00",
+      "finished_at": "2026-05-22T11:26:33.500274+00:00",
+      "word_count": 4596,
+      "retry_count": 1
+    },
+    "faq-077": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:30.471783+00:00",
+      "finished_at": "2026-05-22T11:26:30.471799+00:00",
+      "word_count": 3295,
+      "retry_count": 0
+    },
+    "faq-078": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:02.539734+00:00",
+      "finished_at": "2026-05-22T11:27:02.539746+00:00",
+      "word_count": 3191,
+      "retry_count": 1
+    },
+    "faq-079": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:35.775746+00:00",
+      "finished_at": "2026-05-22T11:27:35.775757+00:00",
+      "word_count": 3404,
+      "retry_count": 2
+    },
+    "faq-080": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:45.888144+00:00",
+      "finished_at": "2026-05-22T11:27:45.888154+00:00",
+      "word_count": 3534,
+      "retry_count": 2
+    },
+    "faq-081": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:00.433735+00:00",
+      "finished_at": "2026-05-22T11:27:00.433749+00:00",
+      "word_count": 3183,
+      "retry_count": 0
+    },
+    "faq-082": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:01.361768+00:00",
+      "finished_at": "2026-05-22T11:27:01.361782+00:00",
+      "word_count": 3973,
+      "retry_count": 0
+    },
+    "faq-083": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:26:57.480826+00:00",
+      "finished_at": "2026-05-22T11:26:57.480841+00:00",
+      "word_count": 2868,
+      "retry_count": 0
+    },
+    "faq-084": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:35.359308+00:00",
+      "finished_at": "2026-05-22T11:27:35.359319+00:00",
+      "word_count": 2984,
+      "retry_count": 1
+    },
+    "faq-085": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:15.918198+00:00",
+      "finished_at": "2026-05-22T11:28:15.918212+00:00",
+      "word_count": 3337,
+      "retry_count": 2
+    },
+    "faq-086": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:21.787563+00:00",
+      "finished_at": "2026-05-22T11:27:21.787579+00:00",
+      "word_count": 2958,
+      "retry_count": 0
+    },
+    "faq-087": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:26.488824+00:00",
+      "finished_at": "2026-05-22T11:28:26.488839+00:00",
+      "word_count": 4252,
+      "retry_count": 2
+    },
+    "faq-088": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:34.989237+00:00",
+      "finished_at": "2026-05-22T11:27:34.989252+00:00",
+      "word_count": 4902,
+      "retry_count": 0
+    },
+    "faq-089": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:27.527914+00:00",
+      "finished_at": "2026-05-22T11:27:27.527928+00:00",
+      "word_count": 2888,
+      "retry_count": 0
+    },
+    "faq-090": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:45.131518+00:00",
+      "finished_at": "2026-05-22T11:28:45.131532+00:00",
+      "word_count": 3032,
+      "retry_count": 2
+    },
+    "faq-091": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:17.807635+00:00",
+      "finished_at": "2026-05-22T11:28:17.807644+00:00",
+      "word_count": 3732,
+      "retry_count": 1
+    },
+    "faq-092": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:56.900904+00:00",
+      "finished_at": "2026-05-22T11:27:56.900918+00:00",
+      "word_count": 3444,
+      "retry_count": 0
+    },
+    "faq-093": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:27:52.294965+00:00",
+      "finished_at": "2026-05-22T11:27:52.294983+00:00",
+      "word_count": 2507,
+      "retry_count": 0
+    },
+    "faq-094": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:29:15.216227+00:00",
+      "finished_at": "2026-05-22T11:29:15.216247+00:00",
+      "word_count": 2731,
+      "retry_count": 3
+    },
+    "faq-095": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:50.549592+00:00",
+      "finished_at": "2026-05-22T11:28:50.549604+00:00",
+      "word_count": 2729,
+      "retry_count": 2
+    },
+    "faq-096": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:29:08.878595+00:00",
+      "finished_at": "2026-05-22T11:32:47.145974+00:00",
+      "word_count": 2452,
+      "retry_count": 0
+    },
+    "faq-097": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:40.979887+00:00",
+      "finished_at": "2026-05-22T11:28:40.979904+00:00",
+      "word_count": 2823,
+      "retry_count": 1
+    },
+    "faq-098": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:17.755193+00:00",
+      "finished_at": "2026-05-22T11:28:17.755210+00:00",
+      "word_count": 2870,
+      "retry_count": 0
+    },
+    "faq-099": {
+      "status": "completed",
+      "started_at": "2026-05-22T11:28:22.692840+00:00",
+      "finished_at": "2026-05-22T11:28:22.692856+00:00",
+      "word_count": 3198,
+      "retry_count": 0
+    }
+  }
+}

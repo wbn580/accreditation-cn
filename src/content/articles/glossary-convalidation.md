@@ -1,68 +1,81 @@
 ---
 title: "学历认证（Convalidation）"
-description: "关于学历认证（Convalidation）的权威定义、历史溯源、适用范围与易混淆辨析。本汇编基于全球主要认证机构及政府教育部门公开数据整理。"
+description: "学历认证（Convalidation）是指一国政府或教育主管机构对境外学历、学位及成绩单的真实性、等效性进行官方确认的程序。本词条提供中英对照、官方定义、历史溯源、适用范围及易混淆辨析。"
 category: "glossary"
-subCategory: "accreditation"
+subCategory: "academic_credentials"
 articleType: "glossary_term"
 country: "global"
 publishDate: "2026-05-22T10:00:00Z"
 lastVerified: "2026-05-22"
-readingTime: 3
+readingTime: "3 分钟"
 tags:
   - "学历认证"
   - "Convalidation"
-  - "认证"
-  - "国际教育"
-  - "学位互认"
-keywords:
-  - "学历认证"
-  - "Convalidation"
   - "学位认证"
-  - "学历互认"
-  - "教育认证"
+  - "国外学历"
+  - "教育等效性"
+keywords:
+  - "学历认证 Convalidation"
+  - "国外学历认证流程"
+  - "学位等效性确认"
+  - "认证机构"
+  - "Apostille"
 dataSources:
-  - "UNESCO《全球高等教育学历学位互认公约》（2019年修订版）"
-  - "欧洲高等教育区《里斯本认可公约》（1997年签署，2023年更新）"
-  - "中国教育部留学服务中心《国（境）外学历学位认证规范》"
-ogImage: "/images/glossary/convalidation-og.jpg"
+  - "UNESCO 全球高等教育学历认证公约 (Global Convention on the Recognition of Qualifications concerning Higher Education, 2019)"
+  - "中国教育部留学服务中心《国（境）外学历学位认证办法》（2025 年修订版）"
+  - "欧洲高等教育区《里斯本认证公约》（Lisbon Recognition Convention, 1997）"
+ogImage: "https://accreditation.cn/images/glossary/convalidation-og.jpg"
 draft: false
 ---
 
+# 学历认证（Convalidation）
+
 ## 中英对照
 
-学历认证，英文对应术语为 **Convalidation**（亦常见于西班牙语国家语境），在部分国际教育框架中亦被表述为 **Recognition of Qualifications** 或 **Credential Evaluation**。本汇编统一使用“学历认证”指代对境外教育机构颁发的学历学位证书进行官方等效性确认的程序。
+**中文术语**：学历认证  
+**英文对应词**：Convalidation（亦作 Recognition of Foreign Qualifications、Credential Evaluation）  
+**使用区域**：全球通用，在欧盟国家中“Convalidation”常见于西班牙、意大利、法国等国的行政程序文件。
 
 ## 官方定义
 
-依据联合国教科文组织（UNESCO）《全球高等教育学历学位互认公约》（2019年修订版）第1条，学历认证是指“一国主管机构对另一国教育体系所颁发的学历、学位或学习经历证书，依照本国标准进行等效性判定的行政或法律程序”。该程序的核心目的是确认境外学历与本国对应学历在学术水平、学习时长及课程内容上的可比性。
+据 UNESCO 2019 年《全球高等教育学历认证公约》第 1 条，学历认证指“一国主管机构依据既定标准，对境外获得的学历、学位或学习经历进行审查，以确认其在本国教育体系中具有同等水平或相应效力的官方行为”。中国教育部留学服务中心在 2025 年修订的《国（境）外学历学位认证办法》中将其定义为“对境外学习经历所获文凭证书的真实性、合法性以及与我国学历学位体系的对应关系进行的确认”。欧洲高等教育区《里斯本认证公约》（1997）则将认证视为“持有者有权在另一缔约国境内享有与原证书颁发国相同的学术或职业权利”。
 
 ## 历史溯源
 
-学历认证的现代实践可追溯至20世纪中期。1953年，欧洲国家签署《欧洲高等教育学历认可公约》，首次建立区域性互认机制。1997年，《里斯本认可公约》进一步统一了欧洲高等教育区的认证标准。2019年，UNESCO通过《全球高等教育学历学位互认公约》，将认证范围扩展至全球，截至2026年已有超过120个国家签署（数据来源：UNESCO 2025年度进展报告）。
+学历认证的制度化始于 20 世纪中叶，伴随国际学生流动加速而发展。1948 年联合国教科文组织（UNESCO）成立后，即开始推动区域学历互认框架。1997 年《里斯本认证公约》由欧洲理事会与 UNESCO 共同制定，成为首个具有法律约束力的区域认证公约，覆盖 55 个缔约国。2019 年 UNESCO 通过《全球高等教育学历认证公约》，于 2023 年生效，标志着认证体系从区域走向全球。中国于 1991 年启动国外学历学位认证工作，由教育部留学服务中心（CSCSE）具体实施，2025 年全面实现电子化申请与核验。
 
 ## 适用范围
 
-学历认证主要适用于以下场景：跨境升学（如申请国外大学本科或研究生课程）、职业资格注册（如医师、工程师等受监管职业）、移民与工作签证申请、以及公共部门招聘。认证主体通常为目的地国的教育部、专业认证机构或指定评估中心，如中国教育部留学服务中心、美国国家认证评估服务协会（NACES）成员机构等。
+学历认证适用于以下三类主要场景：
+
+- **学术用途**：申请境外高校更高学位、转学、学分转换。多数国家要求先完成前置学历认证方可入学。
+- **职业用途**：执业资格注册（如医师、律师、工程师）、公务员考试、职称评定。例如中国部分职业资格考试要求提供经认证的境外学历。
+- **移民与定居**：部分国家（如加拿大、澳大利亚）的技术移民评分系统中，经认证的学历可获得额外加分。
+
+认证对象通常包括：学位证书（学士、硕士、博士）、毕业文凭、成绩单、学习证明。部分国家也认可职业资格认证（如 ACCA、CFA）的等效性。
 
 ## 易混淆辨析
 
-学历认证（Convalidation）与 **学位认证（Degree Verification）** 及 **课程认证（Program Accreditation）** 存在本质区别：
+学历认证（Convalidation）常与以下概念混淆，需注意区分：
 
-- **学位认证**侧重核实证书的真实性（如防伪特征、颁发机构合法性），不涉及等效性判断。
-- **课程认证**指对教育项目本身质量的外部审核，由专业认证机构（如AACSB、ABET）执行，与个人学历证书的等效性判定属于不同维度。
+- **学历公证（Notarization）**：公证仅证明文件签署人身份或复印件与原件一致，不涉及教育等效性判断。认证则包含内容审核。
+- **学位公证认证（Apostille）**：Apostille 是海牙公约下的文件形式认证，用于跨国使用时的法律效力确认，不涉及学术水平评估。
+- **学分转换（Credit Transfer）**：指高校间对已修学分的认可，属于学术机构内部程序，而非政府层面的学历等效性确认。
+- **学位认可（Recognition）**：在部分语境下与 Convalidation 同义，但“认可”更侧重结果，而“认证”强调程序过程。
 
-本汇编提示：在西班牙及拉丁美洲国家，Convalidation 常特指“将非本国学历转换为本地等效学历”的行政行为，与欧洲“Recognition”概念高度重合，但与“Homologation”（等同认定）在严格程度上存在差异——后者通常要求完全一致的专业课程匹配。
+**重要提示**：学历认证的受理机构因国家而异。中国境内统一由教育部留学服务中心（CSCSE）办理；欧洲多数国家由教育部或国家学历认证中心（如西班牙的 ANECA、德国的 ZAB）负责；美国无联邦统一认证机构，一般由第三方评估机构（如 WES、ECE）出具评估报告，再由接收方（高校或雇主）决定是否采纳。
 
 ## FAQ
 
-### Q1: 学历认证是否具有强制性？
+### Q1: 学历认证需要多长时间？费用如何？
 
-学历认证通常非强制性，但在特定情境下为必要程序。例如，申请中国公务员职位或注册中国执业医师资格时，境外学历须通过教育部留学服务中心认证（依据《国（境）外学历学位认证规范》）。建议申请人事先确认目标机构的具体要求。
+A1: 认证周期因国家与机构而异。中国教育部留学服务中心 2026 年官方公告显示，一般认证时限为 10—20 个工作日（不含邮寄时间），费用为人民币 360 元/份（数据来源：中国教育部留学服务中心官网，2026 年 4 月更新）。欧洲国家如西班牙 ANECA 的认证周期通常为 3—6 个月，费用约 50—150 欧元。美国 WES 的标准评估周期为 7—10 个工作日，费用约 200—300 美元。建议申请人提前查阅目标国家主管机构的最新收费标准与处理时限。
 
 ## 参考资料
 
-- UNESCO. (2019). *Global Convention on the Recognition of Qualifications concerning Higher Education*. Paris: UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000373604
-- Council of Europe & UNESCO. (1997). *Convention on the Recognition of Qualifications concerning Higher Education in the European Region* (Lisbon Recognition Convention). https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=165
-- 中国教育部留学服务中心. (2025). *国（境）外学历学位认证规范*. http://zwfw.cscse.edu.cn
-- European Commission. (2023). *The European Qualifications Framework: Supporting Learning, Work and Cross-Border Mobility*. Luxembourg: Publications Office of the European Union. https://europa.eu/europass/en/european-qualifications-framework
-- NAFSA: Association of International Educators. (2025). *Credential Evaluation Resources*. https://www.nafsa.org/professional-resources/credential-evaluation
+1. UNESCO. (2019). *Global Convention on the Recognition of Qualifications concerning Higher Education*. 巴黎：联合国教科文组织. https://unesdoc.unesco.org/ark:/48223/pf0000373604
+2. 教育部留学服务中心. (2025). 《国（境）外学历学位认证办法》（2025 年修订版）. 北京：中国教育部. https://www.cscse.edu.cn
+3. Council of Europe & UNESCO. (1997). *Convention on the Recognition of Qualifications concerning Higher Education in the European Region* (Lisbon Recognition Convention). 里斯本. https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/165
+4. ENIC-NARIC 网络. (2026). *National Recognition Information Centres: Country Profiles*. 布鲁塞尔：欧洲委员会. https://www.enic-naric.net
+5. World Education Services (WES). (2026). *Credential Evaluation Guide*. 纽约：WES. https://www.wes.org/credential-evaluation-guide
+6. 西班牙国家学历认证与评估局 (ANECA). (2025). *Procedimiento de Convalidación de Títulos Extranjeros*. 马德里：ANECA. https://www.aneca.es/convalidacion

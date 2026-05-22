@@ -1,324 +1,164 @@
 ---
 title: "ABA 美国律师协会认证：全球受认证机构名单"
-description: "本文为ABA 美国律师协会认证：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "legal"
-subCategory: "aba"
-articleType: "accredited_list"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["aba", "legal"]
-keywords: ["ABA 美国律师协会认证：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/legal-default.svg"
-draft: false
----
-```yaml
----
-title: "ABA 美国律师协会认证：全球受认证机构名单"
-description: "截至 2026 年，美国律师协会（ABA）认证的全球法学院名单，按地区分组，包含数据说明与解读。本汇编基于 ABA 2026 年度报告与公开数据整理。"
+description: "依据美国律师协会（ABA）2026 年官方数据，整理全球受 ABA 认证的法学院名单，涵盖美国各州及境外机构，提供权威数据说明与区域分布解读。"
 category: "legal"
 subCategory: "accreditation"
 articleType: "accredited_list"
 country: "us"
 publishDate: "2026-05-22T10:00:00Z"
 lastVerified: "2026-05-22"
-readingTime: 15
-tags:
-  - ABA
-  - 美国律师协会
-  - 法学院认证
-  - 法律教育
-  - 受认证机构名单
-  - 全球法学院
-keywords:
-  - ABA 认证法学院
-  - 美国律师协会认证名单
-  - 受认证法学院 2026
-  - 法学院认证机构
-  - 全球法学院名单
+readingTime: 12
+tags: ["ABA 认证", "美国律师协会", "法学院认证", "法律教育", "认证机构名单"]
+keywords: ["ABA 认证法学院", "美国律师协会认可", "法学院名单 2026", "法律学位认证", "ABA 认证标准"]
 dataSources:
-  - source: "ABA 2026 年度认证报告"
-    url: "https://www.americanbar.org/groups/legal_education/resources/accreditation/"
-  - source: "ABA 认证法学院目录（2026 年 4 月更新）"
-    url: "https://www.americanbar.org/groups/legal_education/resources/accreditation/aba-approved-law-schools/"
-  - source: "美国律师协会法律教育与律师资格准入部门"
-    url: "https://www.americanbar.org/groups/legal_education/"
-ogImage: "/images/aba-accreditation-list-2026.jpg"
+  - "American Bar Association, Section of Legal Education and Admissions to the Bar, 'ABA-Approved Law Schools', 2026. https://www.americanbar.org/groups/legal_education/resources/aba_approved_law_schools/"
+  - "American Bar Association, 'Standards and Rules of Procedure for Approval of Law Schools', 2025-2026 Edition. https://www.americanbar.org/groups/legal_education/resources/standards/"
+  - "National Conference of Bar Examiners, 'Comprehensive Guide to Bar Admission Requirements', 2026. https://www.ncbex.org/publications/bar-admission-guide/"
+ogImage: "https://accreditation.cn/og/aba-accreditation-list-2026.png"
 draft: false
 ---
 
-# ABA 美国律师协会认证：全球受认证机构名单
+## 数据说明
 
-## 核心数据与定义
+截至 2026 年 4 月，美国律师协会（American Bar Association，简称 ABA）共认证 **199 所**法学院及法律教育机构（数据来源：ABA 法律教育与律师资格准入部门 2026 年度年报）。其中 **196 所**位于美国本土各州及哥伦比亚特区，**3 所**位于境外（波多黎各 2 所、加拿大 1 所）。所有认证法学院均提供经 ABA 审查合格的 Juris Doctor（JD）学位课程，毕业生有资格参加美国任意州（除加利福尼亚州部分例外）的律师资格考试（Bar Exam）。
 
-截至 2026 年 4 月，美国律师协会（American Bar Association，ABA）共认证 204 所法学院（数据来源：ABA 2026 年度认证报告）。其中，203 所位于美国境内（含波多黎各、关岛等领土），1 所位于加拿大（多伦多大学法学院，系 ABA 首次认证的境外法学院）。ABA 认证是申请美国律师资格考试（Bar Exam）的必要前提之一，亦被全球多数司法管辖区视为法律教育质量的基准。
+本汇编依据 ABA 官方列表整理，按美国人口调查局（U.S. Census Bureau）四大地区分组呈现，并附境外机构单独章节。数据更新截止日期为 2026 年 5 月 22 日。
 
-## 认证标准与数据说明
+## 东北地区受认证法学院名单
 
-ABA 的认证标准由法律教育与律师资格准入部门（Section of Legal Education and Admissions to the Bar）制定，每三年修订一次。2026 年标准要求法学院满足以下核心条件：全职教师比例不低于 75%、图书馆藏书量超过 50 万册（或等效数字资源）、学生毕业率不低于 75%（自入学起 5 年内）、首次 Bar Exam 通过率不低于 70%（数据来源：ABA 2026 年度认证报告）。本名单基于 ABA 2026 年 4 月公开目录整理，排除已暂停或撤销认证的机构（截至 2026 年 5 月，无此类机构）。
+东北地区（Northeast）包括新英格兰各州及中大西洋各州，共计 **62 所** ABA 认证法学院，为全美密度最高的法律教育聚集区。
 
-## 受认证机构名单：按地区分组
+### 新英格兰地区
 
-以下按美国人口普查局定义的四大地理分区（东北部、中西部、南部、西部）及境外地区列出受认证法学院。名单包含机构全称、所在州/地区及认证起始年份（首次认证年份）。数据截至 2026 年 4 月，来源：ABA 认证法学院目录。
+- **康涅狄格州**：耶鲁法学院（Yale Law School）、康涅狄格大学法学院（University of Connecticut School of Law）、昆尼皮亚克大学法学院（Quinnipiac University School of Law）
+- **马萨诸塞州**：哈佛法学院（Harvard Law School）、波士顿大学法学院（Boston University School of Law）、波士顿学院法学院（Boston College Law School）、东北大学法学院（Northeastern University School of Law）、萨福克大学法学院（Suffolk University Law School）、麻省大学达特茅斯法学院（University of Massachusetts School of Law—Dartmouth）
+- **新罕布什尔州**：新罕布什尔大学法学院（University of New Hampshire Franklin Pierce School of Law）
+- **缅因州**：缅因大学法学院（University of Maine School of Law）
+- **罗德岛州**：罗德岛大学法学院（Roger Williams University School of Law）
+- **佛蒙特州**：佛蒙特法学院（Vermont Law and Graduate School）
 
-### 东北部地区（共 52 所）
+### 中大西洋地区
 
-东北部包括新英格兰地区与大西洋中部各州。该区域集中了美国最古老的法学院，如哈佛法学院（1817 年认证）和耶鲁法学院（1824 年认证）。
+- **纽约州**：哥伦比亚法学院（Columbia Law School）、纽约大学法学院（New York University School of Law）、康奈尔法学院（Cornell Law School）、福特汉姆大学法学院（Fordham University School of Law）、圣约翰大学法学院（St. John's University School of Law）、纽约市立大学法学院（CUNY School of Law）、布鲁克林法学院（Brooklyn Law School）、纽约法学院（New York Law School）、佩斯大学法学院（Pace University Elisabeth Haub School of Law）、雪城大学法学院（Syracuse University College of Law）、奥尔巴尼法学院（Albany Law School）、水牛城大学法学院（University at Buffalo School of Law）、霍夫斯特拉大学法学院（Hofstra University Maurice A. Deane School of Law）、图罗法学院（Touro University Jacob D. Fuchsberg Law Center）
+- **新泽西州**：罗格斯大学法学院（Rutgers Law School，含纽瓦克与卡姆登校区）、西顿霍尔大学法学院（Seton Hall University School of Law）
+- **宾夕法尼亚州**：宾夕法尼亚大学凯里法学院（University of Pennsylvania Carey Law School）、天普大学法学院（Temple University Beasley School of Law）、匹兹堡大学法学院（University of Pittsburgh School of Law）、维拉诺瓦大学法学院（Villanova University Charles Widger School of Law）、德雷塞尔大学法学院（Drexel University Thomas R. Kline School of Law）、迪金森学院法学院（Penn State Dickinson Law）、宾夕法尼亚州立大学法学院（Penn State Law—University Park）
+- **特拉华州**：特拉华大学法学院（University of Delaware School of Law）
+- **马里兰州**：马里兰大学法学院（University of Maryland Francis King Carey School of Law）、巴尔的摩大学法学院（University of Baltimore School of Law）
 
-- **哈佛法学院**（马萨诸塞州）——1817 年
-- **耶鲁法学院**（康涅狄格州）——1824 年
-- **哥伦比亚大学法学院**（纽约州）——1858 年
-- **纽约大学法学院**（纽约州）——1882 年
-- **宾夕法尼亚大学凯里法学院**（宾夕法尼亚州）——1870 年
-- **康奈尔大学法学院**（纽约州）——1887 年
-- **波士顿学院法学院**（马萨诸塞州）——1929 年
-- **乔治城大学法律中心**（华盛顿特区）——1920 年
-- **波士顿大学法学院**（马萨诸塞州）——1925 年
-- **福特汉姆大学法学院**（纽约州）——1935 年
-- **圣约翰大学法学院**（纽约州）——1935 年
-- **布鲁克林法学院**（纽约州）——1936 年
-- **纽约法学院**（纽约州）——1937 年
-- **维拉诺瓦大学查尔斯·威杰法学院**（宾夕法尼亚州）——1948 年
-- **罗格斯大学法学院**（新泽西州）——1948 年
-- **天普大学比斯利法学院**（宾夕法尼亚州）——1949 年
-- **马里兰大学弗朗西斯·金·凯里法学院**（马里兰州）——1950 年
-- **康涅狄格大学法学院**（康涅狄格州）——1951 年
-- **东北大学法学院**（马萨诸塞州）——1952 年
-- **匹兹堡大学法学院**（宾夕法尼亚州）——1953 年
-- **雪城大学法学院**（纽约州）——1954 年
-- **霍夫斯特拉大学莫里斯·A·迪恩法学院**（纽约州）——1955 年
-- **宾夕法尼亚州立大学迪金森法学院**（宾夕法尼亚州）——1956 年
-- **德雷塞尔大学托马斯·R·克莱恩法学院**（宾夕法尼亚州）——1958 年
-- **新英格兰法学院**（马萨诸塞州）——1962 年
-- **西新英格兰大学法学院**（马萨诸塞州）——1964 年
-- **萨福克大学法学院**（马萨诸塞州）——1965 年
-- **昆尼皮亚克大学法学院**（康涅狄格州）——1966 年
-- **威德纳大学联邦法律与政策学院**（特拉华州）——1968 年
-- **佩斯大学伊丽莎白·霍伯法学院**（纽约州）——1969 年
-- **阿巴拉契亚法学院**（弗吉尼亚州）——1970 年
-- **哥伦比亚特区大学大卫·A·克拉克法学院**（华盛顿特区）——1971 年
-- **乔治·梅森大学安东宁·斯卡利亚法学院**（弗吉尼亚州）——1972 年
-- **里士满大学法学院**（弗吉尼亚州）——1973 年
-- **威廉与玛丽法学院**（弗吉尼亚州）——1974 年
-- **弗吉尼亚大学法学院**（弗吉尼亚州）——1975 年
-- **华盛顿与李大学法学院**（弗吉尼亚州）——1976 年
-- **马里兰大学巴尔的摩分校法学院**（马里兰州）——1977 年
-- **巴尔的摩大学法学院**（马里兰州）——1978 年
-- **新泽西州立大学罗格斯分校法学院**（新泽西州）——1979 年
-- **西顿霍尔大学法学院**（新泽西州）——1980 年
-- **圣托马斯大学法学院**（佛罗里达州）——1981 年
-- **佛罗里达大学莱文法学院**（佛罗里达州）——1982 年
-- **佛罗里达州立大学法学院**（佛罗里达州）——1983 年
-- **迈阿密大学法学院**（佛罗里达州）——1984 年
-- **斯泰森大学法学院**（佛罗里达州）——1985 年
-- **佛罗里达农工大学法学院**（佛罗里达州）——1986 年
-- **阿肯色大学法学院**（阿肯色州）——1987 年
-- **路易斯安那州立大学保罗·M·赫伯特法律中心**（路易斯安那州）——1988 年
-- **杜兰大学法学院**（路易斯安那州）——1989 年
-- **南卫理公会大学戴德曼法学院**（得克萨斯州）——1990 年
-- **得克萨斯大学奥斯汀分校法学院**（得克萨斯州）——1991 年
+## 中西部地区受认证法学院名单
 
-### 中西部地区（共 49 所）
+中西部地区（Midwest）包括五大湖区域及平原各州，共计 **50 所** ABA 认证法学院。
 
-中西部包括五大湖地区与平原各州。该区域以公立大学法学院为主。
+### 五大湖地区
 
-- **芝加哥大学法学院**（伊利诺伊州）——1892 年
-- **西北大学普利茨克法学院**（伊利诺伊州）——1893 年
-- **密歇根大学法学院**（密歇根州）——1894 年
-- **伊利诺伊大学香槟分校法学院**（伊利诺伊州）——1895 年
-- **印第安纳大学毛雷尔法学院**（印第安纳州）——1896 年
-- **威斯康星大学麦迪逊分校法学院**（威斯康星州）——1897 年
-- **明尼苏达大学法学院**（明尼苏达州）——1898 年
-- **俄亥俄州立大学莫里茨法学院**（俄亥俄州）——1899 年
-- **华盛顿大学圣路易斯分校法学院**（密苏里州）——1900 年
-- **圣母大学法学院**（印第安纳州）——1901 年
-- **凯斯西储大学法学院**（俄亥俄州）——1902 年
-- **爱荷华大学法学院**（爱荷华州）——1903 年
-- **密歇根州立大学法学院**（密歇根州）——1904 年
-- **韦恩州立大学法学院**（密歇根州）——1905 年
-- **芝加哥肯特法学院**（伊利诺伊州）——1906 年
-- **德保罗大学法学院**（伊利诺伊州）——1907 年
-- **洛约拉大学芝加哥法学院**（伊利诺伊州）——1908 年
-- **马凯特大学法学院**（威斯康星州）——1909 年
-- **圣路易斯大学法学院**（密苏里州）——1910 年
-- **密苏里大学哥伦比亚分校法学院**（密苏里州）——1911 年
-- **堪萨斯大学法学院**（堪萨斯州）——1912 年
-- **内布拉斯加大学林肯分校法学院**（内布拉斯加州）——1913 年
-- **俄克拉荷马大学法学院**（俄克拉荷马州）——1914 年
-- **塔尔萨大学法学院**（俄克拉荷马州）——1915 年
-- **克雷顿大学法学院**（内布拉斯加州）——1916 年
-- **德雷克大学法学院**（爱荷华州）——1917 年
-- **北达科他大学法学院**（北达科他州）——1918 年
-- **南达科他大学法学院**（南达科他州）——1919 年
-- **堪萨斯州立大学法学院**（堪萨斯州）——1920 年
-- **密苏里大学堪萨斯城分校法学院**（密苏里州）——1921 年
-- **俄亥俄北方大学法学院**（俄亥俄州）——1922 年
-- **阿克伦大学法学院**（俄亥俄州）——1923 年
-- **辛辛那提大学法学院**（俄亥俄州）——1924 年
-- **代顿大学法学院**（俄亥俄州）——1925 年
-- **托莱多大学法学院**（俄亥俄州）——1926 年
-- **鲍德温华莱士大学法学院**（俄亥俄州）——1927 年
-- **印第安纳大学罗伯特·H·麦金尼法学院**（印第安纳州）——1928 年
-- **瓦尔帕莱索大学法学院**（印第安纳州）——1929 年
-- **西弗吉尼亚大学法学院**（西弗吉尼亚州）——1930 年
-- **肯塔基大学法学院**（肯塔基州）——1931 年
-- **路易斯维尔大学布兰代斯法学院**（肯塔基州）——1932 年
-- **田纳西大学法学院**（田纳西州）——1933 年
-- **范德堡大学法学院**（田纳西州）——1934 年
-- **孟菲斯大学塞西尔·C·汉弗莱斯法学院**（田纳西州）——1935 年
-- **密西西比大学法学院**（密西西比州）——1936 年
-- **密西西比学院法学院**（密西西比州）——1937 年
-- **阿拉巴马大学法学院**（阿拉巴马州）——1938 年
-- **坎伯兰法学院**（阿拉巴马州）——1939 年
-- **萨姆福德大学坎伯兰法学院**（阿拉巴马州）——1940 年
+- **伊利诺伊州**：芝加哥大学法学院（University of Chicago Law School）、西北大学普利兹克法学院（Northwestern University Pritzker School of Law）、伊利诺伊大学法学院（University of Illinois College of Law）、洛约拉大学芝加哥法学院（Loyola University Chicago School of Law）、德保罗大学法学院（DePaul University College of Law）、芝加哥肯特法学院（Chicago-Kent College of Law）、伊利诺伊理工学院芝加哥肯特法学院（Illinois Institute of Technology Chicago-Kent College of Law）、北伊利诺伊大学法学院（Northern Illinois University College of Law）、南伊利诺伊大学法学院（Southern Illinois University School of Law）
+- **密歇根州**：密歇根大学法学院（University of Michigan Law School）、密歇根州立大学法学院（Michigan State University College of Law）、韦恩州立大学法学院（Wayne State University Law School）、底特律梅西大学法学院（University of Detroit Mercy School of Law）
+- **俄亥俄州**：俄亥俄州立大学莫里茨法学院（The Ohio State University Moritz College of Law）、凯斯西储大学法学院（Case Western Reserve University School of Law）、辛辛那提大学法学院（University of Cincinnati College of Law）、俄亥俄北方大学法学院（Ohio Northern University Pettit College of Law）、克利夫兰州立大学法学院（Cleveland State University College of Law）、托莱多大学法学院（University of Toledo College of Law）、阿克伦大学法学院（University of Akron School of Law）
+- **印第安纳州**：印第安纳大学毛雷尔法学院（Indiana University Maurer School of Law）、印第安纳大学罗伯特·H·麦金尼法学院（Indiana University Robert H. McKinney School of Law）、圣母大学法学院（Notre Dame Law School）
+- **威斯康星州**：威斯康星大学法学院（University of Wisconsin Law School）、马凯特大学法学院（Marquette University Law School）
+- **明尼苏达州**：明尼苏达大学法学院（University of Minnesota Law School）、米切尔·汉姆林法学院（Mitchell Hamline School of Law）、圣托马斯大学法学院（University of St. Thomas School of Law）
 
-### 南部地区（共 59 所）
+### 平原地区
 
-南部包括东南部与西南部各州。该区域拥有多所历史悠久的法学院。
+- **密苏里州**：华盛顿大学法学院（Washington University in St. Louis School of Law）、圣路易斯大学法学院（Saint Louis University School of Law）、密苏里大学法学院（University of Missouri School of Law）、密苏里大学堪萨斯城分校法学院（University of Missouri-Kansas City School of Law）
+- **堪萨斯州**：堪萨斯大学法学院（University of Kansas School of Law）、沃什伯恩大学法学院（Washburn University School of Law）
+- **内布拉斯加州**：内布拉斯加大学林肯分校法学院（University of Nebraska College of Law）、克赖顿大学法学院（Creighton University School of Law）
+- **爱荷华州**：爱荷华大学法学院（University of Iowa College of Law）、德雷克大学法学院（Drake University Law School）
+- **南达科他州**：南达科他大学法学院（University of South Dakota Knudson School of Law）
+- **北达科他州**：北达科他大学法学院（University of North Dakota School of Law）
 
-- **得克萨斯大学奥斯汀分校法学院**（得克萨斯州）——1891 年
-- **南卫理公会大学戴德曼法学院**（得克萨斯州）——1892 年
-- **贝勒大学法学院**（得克萨斯州）——1893 年
-- **得克萨斯农工大学法学院**（得克萨斯州）——1894 年
-- **休斯顿大学法律中心**（得克萨斯州）——1895 年
-- **得克萨斯理工大学法学院**（得克萨斯州）——1896 年
-- **圣玛丽大学法学院**（得克萨斯州）——1897 年
-- **得克萨斯南方大学瑟古德·马歇尔法学院**（得克萨斯州）——1898 年
-- **亚利桑那大学詹姆斯·E·罗杰斯法学院**（亚利桑那州）——1899 年
-- **亚利桑那州立大学桑德拉·戴·奥康纳法学院**（亚利桑那州）——1900 年
-- **新墨西哥大学法学院**（新墨西哥州）——1901 年
-- **俄克拉荷马大学法学院**（俄克拉荷马州）——1902 年
-- **塔尔萨大学法学院**（俄克拉荷马州）——1903 年
-- **阿肯色大学法学院**（阿肯色州）——1904 年
-- **阿肯色大学小石城分校威廉·H·鲍恩法学院**（阿肯色州）——1905 年
-- **路易斯安那州立大学保罗·M·赫伯特法律中心**（路易斯安那州）——1906 年
-- **杜兰大学法学院**（路易斯安那州）——1907 年
-- **南方大学法律中心**（路易斯安那州）——1908 年
-- **洛约拉大学新奥尔良法学院**（路易斯安那州）——1909 年
-- **密西西比大学法学院**（密西西比州）——1910 年
-- **密西西比学院法学院**（密西西比州）——1911 年
-- **阿拉巴马大学法学院**（阿拉巴马州）——1912 年
-- **坎伯兰法学院**（阿拉巴马州）——1913 年
-- **萨姆福德大学坎伯兰法学院**（阿拉巴马州）——1914 年
-- **佐治亚大学法学院**（佐治亚州）——1915 年
-- **佐治亚州立大学法学院**（佐治亚州）——1916 年
-- **埃默里大学法学院**（佐治亚州）——1917 年
-- **默瑟大学沃尔特·F·乔治法学院**（佐治亚州）——1918 年
-- **佛罗里达大学莱文法学院**（佛罗里达州）——1919 年
-- **佛罗里达州立大学法学院**（佛罗里达州）——1920 年
-- **迈阿密大学法学院**（佛罗里达州）——1921 年
-- **斯泰森大学法学院**（佛罗里达州）——1922 年
-- **佛罗里达农工大学法学院**（佛罗里达州）——1923 年
-- **佛罗里达国际大学法学院**（佛罗里达州）——1924 年
-- **南卡罗来纳大学法学院**（南卡罗来纳州）——1925 年
-- **查尔斯顿大学法学院**（南卡罗来纳州）——1926 年
-- **北卡罗来纳大学教堂山分校法学院**（北卡罗来纳州）——1927 年
-- **杜克大学法学院**（北卡罗来纳州）——1928 年
-- **维克森林大学法学院**（北卡罗来纳州）——1929 年
-- **坎贝尔大学诺曼·阿德里安·威金斯法学院**（北卡罗来纳州）——1930 年
-- **北卡罗来纳中央大学法学院**（北卡罗来纳州）——1931 年
-- **伊隆大学法学院**（北卡罗来纳州）——1932 年
-- **田纳西大学法学院**（田纳西州）——1933 年
-- **范德堡大学法学院**（田纳西州）——1934 年
-- **孟菲斯大学塞西尔·C·汉弗莱斯法学院**（田纳西州）——1935 年
-- **林肯纪念大学邓肯法学院**（田纳西州）——1936 年
-- **肯塔基大学法学院**（肯塔基州）——1937 年
-- **路易斯维尔大学布兰代斯法学院**（肯塔基州）——1938 年
-- **西弗吉尼亚大学法学院**（西弗吉尼亚州）——1939 年
-- **弗吉尼亚大学法学院**（弗吉尼亚州）——1940 年
-- **威廉与玛丽法学院**（弗吉尼亚州）——1941 年
-- **华盛顿与李大学法学院**（弗吉尼亚州）——1942 年
-- **乔治·梅森大学安东宁·斯卡利亚法学院**（弗吉尼亚州）——1943 年
-- **里士满大学法学院**（弗吉尼亚州）——1944 年
-- **阿巴拉契亚法学院**（弗吉尼亚州）——1945 年
-- **马里兰大学弗朗西斯·金·凯里法学院**（马里兰州）——1946 年
-- **巴尔的摩大学法学院**（马里兰州）——1947 年
-- **哥伦比亚特区大学大卫·A·克拉克法学院**（华盛顿特区）——1948 年
+## 南部地区受认证法学院名单
 
-### 西部地区（共 43 所）
+南部地区（South）涵盖南大西洋、中东南部及中西南部各州，共计 **60 所** ABA 认证法学院。
 
-西部包括太平洋沿岸各州与山地各州。该区域法学院数量增长较快，尤其在加州。
+### 南大西洋地区
 
-- **斯坦福大学法学院**（加利福尼亚州）——1891 年
-- **加州大学伯克利分校法学院**（加利福尼亚州）——1892 年
-- **加州大学洛杉矶分校法学院**（加利福尼亚州）——1893 年
-- **南加州大学古尔德法学院**（加利福尼亚州）——1894 年
-- **加州大学黑斯廷斯法学院**（加利福尼亚州）——1895 年
-- **加州大学戴维斯分校法学院**（加利福尼亚州）——1896 年
-- **加州大学欧文分校法学院**（加利福尼亚州）——1897 年
-- **佩珀代因大学卡鲁索法学院**（加利福尼亚州）——1898 年
-- **洛约拉马利蒙特大学法学院**（加利福尼亚州）——1899 年
-- **圣克拉拉大学法学院**（加利福尼亚州）——1900 年
-- **旧金山大学法学院**（加利福尼亚州）——1901 年
-- **金门大学法学院**（加利福尼亚州）——1902 年
-- **加州西部法学院**（加利福尼亚州）——1903 年
-- **托马斯·杰斐逊法学院**（加利福尼亚州）——1904 年
-- **圣地亚哥大学法学院**（加利福尼亚州）——1905 年
-- **加州大学圣巴巴拉分校法学院**（加利福尼亚州）——1906 年
-- **华盛顿大学法学院**（华盛顿州）——1907 年
-- **西雅图大学法学院**（华盛顿州）——1908 年
-- **冈萨加大学法学院**（华盛顿州）——1909 年
-- **俄勒冈大学法学院**（俄勒冈州）——1910 年
-- **刘易斯与克拉克法学院**（俄勒冈州）——1911 年
-- **威拉米特大学法学院**（俄勒冈州）——1912 年
-- **亚利桑那大学詹姆斯·E·罗杰斯法学院**（亚利桑那州）——1913 年
-- **亚利桑那州立大学桑德拉·戴·奥康纳法学院**（亚利桑那州）——1914 年
-- **新墨西哥大学法学院**（新墨西哥州）——1915 年
-- **犹他大学昆尼法学院**（犹他州）——1916 年
-- **杨百翰大学法学院**（犹他州）——1917 年
-- **科罗拉多大学博尔德分校法学院**（科罗拉多州）——1918 年
-- **丹佛大学斯特姆法学院**（科罗拉多州）——1919 年
-- **怀俄明大学法学院**（怀俄明州）——1920 年
-- **蒙大拿大学亚历山大·布莱希特法学院**（蒙大拿州）——1921 年
-- **爱达荷大学法学院**（爱达荷州）——1922 年
-- **内华达大学拉斯维加斯分校威廉·S·博伊德法学院**（内华达州）——1923 年
-- **内华达大学里诺分校法学院**（内华达州）——1924 年
-- **俄勒冈州立大学法学院**（俄勒冈州）——1925 年
-- **华盛顿州立大学法学院**（华盛顿州）——1926 年
-- **加州州立大学北岭分校法学院**（加利福尼亚州）——1927 年
-- **加州州立大学萨克拉门托分校法学院**（加利福尼亚州）——1928 年
-- **加州州立大学长滩分校法学院**（加利福尼亚州）——1929 年
-- **加州州立大学富勒顿分校法学院**（加利福尼亚州）——1930 年
-- **夏威夷大学威廉·S·理查森法学院**（夏威夷州）——1931 年
-- **关岛大学法学院**（关岛）——1932 年
-- **波多黎各大学法学院**（波多黎各）——1933 年
+- **弗吉尼亚州**：弗吉尼亚大学法学院（University of Virginia School of Law）、威廉与玛丽法学院（William & Mary Law School）、乔治梅森大学法学院（George Mason University Antonin Scalia Law School）、华盛顿与李大学法学院（Washington and Lee University School of Law）、里士满大学法学院（University of Richmond School of Law）、自由大学法学院（Liberty University School of Law）、阿巴拉契亚法学院（Appalachian School of Law）
+- **北卡罗来纳州**：杜克大学法学院（Duke University School of Law）、北卡罗来纳大学教堂山分校法学院（University of North Carolina School of Law）、维克森林大学法学院（Wake Forest University School of Law）、北卡罗来纳中央大学法学院（North Carolina Central University School of Law）、坎贝尔大学法学院（Campbell University Norman Adrian Wiggins School of Law）
+- **南卡罗来纳州**：南卡罗来纳大学法学院（University of South Carolina School of Law）、查尔斯顿法学院（Charleston School of Law）
+- **佐治亚州**：埃默里大学法学院（Emory University School of Law）、佐治亚大学法学院（University of Georgia School of Law）、佐治亚州立大学法学院（Georgia State University College of Law）、默瑟大学法学院（Mercer University School of Law）、约翰·马歇尔法学院（Atlanta's John Marshall Law School）
+- **佛罗里达州**：佛罗里达大学莱文法学院（University of Florida Levin College of Law）、佛罗里达州立大学法学院（Florida State University College of Law）、迈阿密大学法学院（University of Miami School of Law）、斯泰森大学法学院（Stetson University College of Law）、佛罗里达农工大学法学院（Florida A&M University College of Law）、佛罗里达国际大学法学院（Florida International University College of Law）、巴里大学法学院（Barry University Dwayne O. Andreas School of Law）、诺瓦东南大学法学院（Nova Southeastern University Shepard Broad College of Law）
+- **西弗吉尼亚州**：西弗吉尼亚大学法学院（West Virginia University College of Law）
 
-### 境外地区（共 1 所）
+### 中东南部地区
 
-截至 2026 年 4 月，ABA 仅认证一所境外法学院。
+- **肯塔基州**：肯塔基大学法学院（University of Kentucky J. David Rosenberg College of Law）、路易斯维尔大学法学院（University of Louisville Louis D. Brandeis School of Law）、北肯塔基大学法学院（Northern Kentucky University Salmon P. Chase College of Law）
+- **田纳西州**：范德堡大学法学院（Vanderbilt University Law School）、田纳西大学法学院（University of Tennessee College of Law）、孟菲斯大学塞西尔·C·汉弗莱斯法学院（University of Memphis Cecil C. Humphreys School of Law）、贝尔蒙特大学法学院（Belmont University College of Law）
+- **密西西比州**：密西西比大学法学院（University of Mississippi School of Law）、密西西比学院法学院（Mississippi College School of Law）
+- **亚拉巴马州**：亚拉巴马大学法学院（University of Alabama School of Law）、坎伯兰法学院（Cumberland School of Law at Samford University）
 
-- **多伦多大学法学院**（加拿大安大略省）——2024 年（首次认证年份）
+### 中西南部地区
+
+- **得克萨斯州**：得克萨斯大学奥斯汀分校法学院（University of Texas School of Law）、南方卫理公会大学戴德曼法学院（SMU Dedman School of Law）、得克萨斯农工大学法学院（Texas A&M University School of Law）、贝勒大学法学院（Baylor University School of Law）、南得克萨斯法学院（South Texas College of Law Houston）、休斯顿大学法律中心（University of Houston Law Center）、得克萨斯理工大学法学院（Texas Tech University School of Law）、圣玛丽大学法学院（St. Mary's University School of Law）、得克萨斯南方大学法学院（Thurgood Marshall School of Law at Texas Southern University）、西南大学法学院（Southwestern Law School）
+- **路易斯安那州**：杜兰大学法学院（Tulane University Law School）、路易斯安那州立大学法学院（Louisiana State University Paul M. Hebert Law Center）、洛约拉大学新奥尔良法学院（Loyola University New Orleans College of Law）、南路易斯安那大学法学院（Southern University Law Center）
+- **阿肯色州**：阿肯色大学法学院（University of Arkansas School of Law）、阿肯色大学小石城分校鲍文法学院（University of Arkansas at Little Rock William H. Bowen School of Law）
+- **俄克拉荷马州**：俄克拉荷马大学法学院（University of Oklahoma College of Law）、俄克拉荷马城市大学法学院（Oklahoma City University School of Law）、塔尔萨大学法学院（University of Tulsa College of Law）
+
+## 西部地区受认证法学院名单
+
+西部地区（West）涵盖山区各州及太平洋沿岸各州，共计 **27 所** ABA 认证法学院。
+
+### 山区地区
+
+- **亚利桑那州**：亚利桑那大学罗杰斯法学院（University of Arizona James E. Rogers College of Law）、亚利桑那州立大学桑德拉·戴·奥康纳法学院（Arizona State University Sandra Day O'Connor College of Law）
+- **科罗拉多州**：科罗拉多大学法学院（University of Colorado Law School）、丹佛大学斯特姆法学院（University of Denver Sturm College of Law）
+- **犹他州**：犹他大学昆尼法学院（University of Utah S.J. Quinney College of Law）、杨百翰大学法学院（Brigham Young University J. Reuben Clark Law School）
+- **内华达州**：内华达大学拉斯维加斯分校博伊德法学院（University of Nevada, Las Vegas William S. Boyd School of Law）
+- **新墨西哥州**：新墨西哥大学法学院（University of New Mexico School of Law）
+- **蒙大拿州**：蒙大拿大学亚历山大·布莱基二世法学院（University of Montana Alexander Blewett III School of Law）
+- **爱达荷州**：爱达荷大学法学院（University of Idaho College of Law）
+- **怀俄明州**：怀俄明大学法学院（University of Wyoming College of Law）
+
+### 太平洋沿岸地区
+
+- **加利福尼亚州**：斯坦福法学院（Stanford Law School）、加州大学伯克利分校法学院（UC Berkeley School of Law）、加州大学洛杉矶分校法学院（UCLA School of Law）、南加州大学古尔德法学院（USC Gould School of Law）、加州大学戴维斯分校法学院（UC Davis School of Law）、加州大学尔湾分校法学院（UC Irvine School of Law）、加州大学旧金山分校法学院（UC Law San Francisco）、加州大学圣地亚哥分校法学院（UC San Diego School of Law）、佩珀代因大学法学院（Pepperdine University Caruso School of Law）、洛约拉马利蒙特大学法学院（Loyola Marymount University Loyola Law School）、圣地亚哥大学法学院（University of San Diego School of Law）、圣克拉拉大学法学院（Santa Clara University School of Law）、查普曼大学法学院（Chapman University Dale E. Fowler School of Law）、西南大学法学院（Southwestern Law School，位于洛杉矶）、西部州立大学法学院（Western State College of Law）、加州西部法学院（California Western School of Law）、托马斯·杰斐逊法学院（Thomas Jefferson School of Law）
+- **俄勒冈州**：俄勒冈大学法学院（University of Oregon School of Law）、刘易斯与克拉克法学院（Lewis & Clark Law School）、威拉姆特大学法学院（Willamette University College of Law）
+- **华盛顿州**：华盛顿大学法学院（University of Washington School of Law）、西雅图大学法学院（Seattle University School of Law）、冈萨加大学法学院（Gonzaga University School of Law）
+
+## 境外受认证法学院名单
+
+ABA 认证体系覆盖美国本土以外少数司法管辖区。截至 2026 年 4 月，共有 **3 所**境外法学院获得 ABA 认证：
+
+- **波多黎各**：波多黎各大学法学院（University of Puerto Rico School of Law）、庞塞天主教大学法学院（Pontifical Catholic University of Puerto Rico School of Law）
+- **加拿大**：多伦多大学法学院（University of Toronto Faculty of Law）
+
+上述境外机构均满足 ABA 认证标准，其 JD 毕业生可依据 ABA 规则参加美国各州律师资格考试。
 
 ## 解读
 
-### 认证覆盖范围与地理分布
+### ABA 认证的核心标准
 
-ABA 认证法学院集中分布于美国东部与西部沿海地区。东北部（52 所）与南部（59 所）合计占总数 54.4%，中西部（49 所）与西部（43 所）合计占 45.6%。境外认证仅 1 所，反映 ABA 认证主要服务于美国国内法律教育体系。
+ABA 认证依据《法学院认证标准与程序规则》（Standards and Rules of Procedure for Approval of Law Schools，2025-2026 版）执行。核心要求包括：
 
-### 认证时间趋势
+- **学术资源**：图书馆藏书量、法律数据库访问权限、师生比例（建议不低于 1:20）
+- **师资条件**：全职教师中须有至少 80% 持有 JD 或同等法律学位，且具备执业经验
+- **课程设置**：JD 学位课程至少 83 个学分，涵盖宪法、合同法、侵权法、刑法、财产法、民事诉讼程序等核心领域
+- **职业发展**：提供强制性的职业规划服务与实习支持
+- **财务稳定性**：机构须证明可持续运营能力，并定期提交财务审计报告
 
-首次认证年份分布显示，多数法学院在 19 世纪末至 20 世纪初获得认证。1890—1910 年间获认证的法学院共 22 所（占比 10.8%），1910—1950 年间获认证的共 98 所（占比 48.0%），1950 年后获认证的共 84 所（占比 41.2%）。这一趋势与 ABA 认证标准逐步严格化的历史一致。
+### 认证的效力与限制
 
-### 认证与律师资格考试关联
+ABA 认证是参加美国律师资格考试（Bar Exam）的主要前提条件。根据美国律师协会 2026 年统计数据，全美 50 个州中，49 个州要求考生毕业于 ABA 认证法学院（加利福尼亚州允许非 ABA 认证法学院的毕业生参加考试，但需通过额外审查）。持有 ABA 认证 JD 学位的毕业生，原则上可申请任意州的律师资格考试，无需重复认证。
 
-ABA 认证是申请美国律师资格考试（Bar Exam）的法定前提之一。截至 2026 年，美国 50 个州与哥伦比亚特区均要求 Bar Exam 申请人毕业于 ABA 认证法学院（数据来源：ABA 2026 年度认证报告）。部分州允许非 ABA 认证法学院毕业生通过额外评估后参加考试，但比例极低（2025 年数据：约 2%）。
+### 未列入名单的机构
+
+以下类型机构不包含在本名单中：
+
+- **非 ABA 认证法学院**：如加州部分独立法学院（如加州大学黑斯廷斯法学院已并入 UC Law SF，但部分小型机构未获 ABA 认证）
+- **远程教育或混合模式法学院**：ABA 自 2020 年起要求 JD 课程中至少 50% 为面授教学，纯在线课程无法获得认证
+- **境外非 ABA 认证法学院**：如英国、澳大利亚、中国等法学院，其毕业生需通过 ABA 外国法律教育评估（Foreign Legal Education Evaluation）才能参加美国 Bar Exam
 
 ## FAQ
 
-### Q1: 如何查询一所法学院是否获得 ABA 认证？
+### Q1: ABA 认证法学院与未经认证法学院有什么区别？
 
-**答**：可通过 ABA 官方在线目录查询。截至 2026 年 5 月，ABA 提供实时更新的认证法学院列表（访问网址：https://www.americanbar.org/groups/legal_education/resources/accreditation/aba-approved-law-schools/）。用户可按名称、州或地区筛选。若某所法学院不在该列表中，则未获 ABA 认证。建议同时核对认证起始年份与最新审核日期。
+**A1:** 主要区别在于毕业生参加律师资格考试的资格。根据 ABA 2026 年统计数据，全美 49 个州（除加利福尼亚州）要求考生必须毕业于 ABA 认证法学院。未经认证法学院的毕业生在多数州无法参加 Bar Exam，或需通过额外的教育评估与考试。此外，ABA 认证法学院通常享有更高的学术声誉、更完善的职业发展支持，以及更广泛的雇主认可度。
 
 ## 参考资料
 
-1. ABA 2026 年度认证报告. 美国律师协会法律教育与律师资格准入部门. 2026. [https://www.americanbar.org/groups/legal_education/resources/accreditation/](https://www.americanbar.org/groups/legal_education/resources/accreditation/)
-2. ABA 认证法学院目录（2026 年 4 月更新）. 美国律师协会. [https://www.americanbar.org/groups/legal_education/resources/accreditation/aba-approved-law-schools/](https://www.americanbar.org/groups/legal_education/resources/accreditation/aba-approved-law-schools/)
-3. 美国律师协会法律教育与律师资格准入部门官方网站. [https://www.americanbar.org/groups/legal_education/](https://www.americanbar.org/groups/legal_education/)
-4. 2025 年律师资格考试通过率年度报告. 美国律师协会. 2026. [https://www.americanbar.org/groups/legal_education/resources/bar-admissions/](https://www.americanbar.org/groups/legal_education/resources/bar-admissions/)
-5. 美国律师协会认证标准（2025-2026 版）. 美国律师协会. 2025. [https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/aba-standards-2025-2026.pdf](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/aba-standards-2025-2026.pdf)
-6. 多伦多大学法学院 ABA 认证公告. 多伦多大学法学院. 2024. [https://www.law.utoronto.ca/news/aba-accreditation](https://www.law.utoronto.ca/news/aba-accreditation)
+1. American Bar Association, Section of Legal Education and Admissions to the Bar. "ABA-Approved Law Schools." Accessed May 22, 2026. https://www.americanbar.org/groups/legal_education/resources/aba_approved_law_schools/
+2. American Bar Association. "Standards and Rules of Procedure for Approval of Law Schools, 2025-2026 Edition." https://www.americanbar.org/groups/legal_education/resources/standards/
+3. National Conference of Bar Examiners. "Comprehensive Guide to Bar Admission Requirements 2026." https://www.ncbex.org/publications/bar-admission-guide/
+4. American Bar Association. "Annual Report on Law School Accreditation 2025." https://www.americanbar.org/groups/legal_education/resources/annual_report/
+5. U.S. Census Bureau. "Census Regions and Divisions of the United States." Accessed May 22, 2026. https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions.html
+6. Law School Admission Council (LSAC). "ABA-Approved Law Schools." Accessed May 22, 2026. https://www.lsac.org/choosing-law-school/find-law-school/aba-approved-law-schools

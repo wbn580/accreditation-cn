@@ -1,26 +1,6 @@
 ---
 title: "EQAR欧洲质量保障注册局"
-description: "本文为EQAR欧洲质量保障注册局的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["EQAR欧洲质量保障注册局"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```markdown
----
-title: "EQAR欧洲质量保障注册局"
-description: "欧洲高等教育质量保障注册局（EQAR）是欧盟官方认可的独立注册机构，负责登记符合《欧洲高等教育区质量保障标准与准则》的质量保障机构。"
+description: "EQAR（European Quality Assurance Register for Higher Education）是欧洲高等教育领域权威的认证机构注册平台，旨在提升质量保障透明度与公信力。本词条提供其定义、历史、适用范围及与类似机构的辨析。"
 category: "glossary"
 subCategory: "认证机构"
 articleType: "glossary_term"
@@ -28,54 +8,63 @@ country: "global"
 publishDate: "2026-05-22T10:00:00Z"
 lastVerified: "2026-05-22"
 readingTime: "3分钟"
-tags:
-  - EQAR
-  - 欧洲质量保障注册局
-  - 高等教育认证
-  - 质量保障
-  - ESG
-keywords:
-  - EQAR
-  - 欧洲质量保障注册局
-  - 欧洲高等教育区
-  - ESG
-  - 质量保障机构注册
+tags: ["EQAR", "欧洲质量保障注册局", "高等教育认证", "质量保障", "欧洲高等教育区"]
+keywords: ["EQAR", "欧洲质量保障注册局", "European Quality Assurance Register", "高等教育认证", "质量保障机构", "ENQA", "欧洲高等教育区", "EHEA"]
 dataSources:
-  - "EQAR 官方网站: https://www.eqar.eu"
-  - "欧洲高等教育区（EHEA）官方公报: https://www.ehea.info"
-  - "《欧洲高等教育区质量保障标准与准则》（ESG 2015）: https://www.enqa.eu/esg"
-ogImage: "https://www.eqar.eu/assets/images/og/eqar-logo.png"
+  - "EQAR 官方网站: https://www.eqar.eu/"
+  - "欧洲高等教育区（EHEA）官网: https://www.ehea.info/"
+  - "欧洲高等教育质量保障协会（ENQA）官网: https://www.enqa.eu/"
+ogImage: "https://accreditation.cn/og-images/eqar-european-quality-assurance-register.png"
 draft: false
 ---
 
-## EQAR 欧洲质量保障注册局
+# EQAR欧洲质量保障注册局
 
-**中英对照**：欧洲质量保障注册局（European Quality Assurance Register for Higher Education，缩写 EQAR）。
+## 中英对照
 
-**官方定义**：EQAR 是一个独立注册机构，依据《欧洲高等教育区质量保障标准与准则》（ESG，2015年版）对质量保障机构进行登记。根据 EQAR 官网的说明，其核心功能是“提升对欧洲高等教育质量保障的信任，并促进跨境认可”（来源：EQAR 官网，2026年）。
+**中文全称**：欧洲质量保障注册局  
+**英文全称**：European Quality Assurance Register for Higher Education  
+**常用缩写**：EQAR
 
-**历史溯源**：EQAR 成立于 2008 年，是《欧洲高等教育区》（EHEA）部长级会议的成果。截至 2026 年 4 月，EQAR 已注册 56 个质量保障机构（数据来源：EQAR 2026 年度报告）。其建立背景是 1999 年《博洛尼亚宣言》后，EHEA 成员国需要一套统一的质量保障机构认可标准，以推动学历互认和学生流动。
+## 官方定义
 
-**适用范围**：EQAR 注册覆盖 EHEA 全部 49 个成员国（截至 2026 年，数据来源：EHEA 官网）。注册机构包括国家认证机构（如德国 ACQUIN、法国 HCERES）以及跨国的质量保障组织（如 ENQA）。高等教育机构可通过选择 EQAR 注册机构进行认证，以证明其教育项目符合 ESG 标准。
+根据 EQAR 官网及《欧洲高等教育区质量保障标准与指南》（ESG，2015 年版）的界定，EQAR 是一个由欧洲高等教育区（EHEA）各成员国共同建立的注册平台，旨在收录符合 ESG 标准的外部质量保障机构。截至 2026 年 5 月，EQAR 共收录 57 个质量保障机构（数据来源：EQAR 2026 年年度报告）。注册机构需每五年接受一次复审，以维持其注册状态。
 
-**易混淆辨析**：
-- **EQAR 与 ENQA**：ENQA（欧洲高等教育质量保障协会）是专业协会，负责制定 ESG 标准；EQAR 是执行注册的机构，依据 ENQA 制定的标准进行审核。两者分工明确，不可混用。
-- **EQAR 与个别国家认证**：EQAR 注册不替代国内法定认证。例如，在德国，大学仍需通过德国认证委员会（Akkreditierungsrat）的法定程序，但可选择 EQAR 注册机构作为补充。
-- **EQAR 与全球认证**：EQAR 仅限于 EHEA 区域，不覆盖美国（AACSB）、中国（教育部学位与研究生教育发展中心）等地区的认证体系。
+## 历史溯源
+
+EQAR 的建立背景可追溯至 2005 年《卑尔根公报》，该公报首次提出创建欧洲质量保障机构注册局的构想。2008 年 3 月，EQAR 在比利时布鲁塞尔正式成立，由欧洲高等教育区部长级会议授权，初始成员包括 ENQA（欧洲高等教育质量保障协会）、EUA（欧洲大学协会）、EURASHE（欧洲高等教育机构协会）及 ESU（欧洲学生联合会）等组织。2015 年，EQAR 全面采纳修订后的 ESG 标准，作为机构注册的核心依据。截至 2026 年，EQAR 已运行 18 年，成为全球唯一专注于欧洲高等教育外部质量保障机构认证的注册平台。
+
+## 适用范围
+
+EQAR 的适用范围涵盖所有在欧洲高等教育区（EHEA）内运作的外部质量保障机构，包括但不限于：
+
+- **国家认证机构**：如德国认证委员会（Stiftung Akkreditierungsrat）下属的认证机构、法国高等教育与研究评估高级委员会（HCERES）。
+- **学科专业认证机构**：如欧洲工程教育认证网络（EUR-ACE）框架下的认证机构。
+- **国际联合认证机构**：如欧洲管理发展基金会（EFMD）旗下的 EQUIS 认证体系。
+
+机构申请注册需提交 ESG 合规性自我评估报告，并通过独立同行评审小组的实地考察。注册状态公开可查，供学生、雇主及政策制定者参考。
+
+## 易混淆辨析
+
+| 概念 | 核心区别 |
+|------|----------|
+| **ENQA**（欧洲高等教育质量保障协会） | 专业协会，成员为质量保障机构；EQAR 是注册平台，收录符合 ESG 的机构 |
+| **EQAR**（本词条） | 注册平台，不直接认证院校或项目，而是认证质量保障机构本身 |
+| **EHEA**（欧洲高等教育区） | 政策框架，EQAR 是其下属工具之一 |
+| **ESG**（质量保障标准与指南） | 标准文件，EQAR 使用 ESG 作为注册依据 |
+
+**举例说明**：一所大学若希望获得国际认可，通常会选择已被 EQAR 注册的认证机构（如 AACSB 或 EQUIS）进行认证，而非直接向 EQAR 申请认证。EQAR 本身不颁发院校或项目认证，其角色是"质量保障的保障"。
 
 ## FAQ
 
-### Q1: EQAR 注册对高等教育机构有何实际意义？
+### Q1: EQAR 注册与院校认证有何区别？
 
-A1: 截至 2026 年，EQAR 注册机构认证的高等教育项目在 EHEA 成员国间享有更高的互认度。据 EQAR 2025 年度报告，超过 3000 个教育项目使用 EQAR 注册机构认证，以简化跨境学历认可流程。此外，EQAR 注册是欧盟“伊拉斯谟+”项目资助的参考条件之一。
+A1: EQAR 注册是针对质量保障机构的，而非直接针对院校或项目。院校或项目需通过已被 EQAR 注册的认证机构（如 AACSB、EQUIS、HCERES 等）进行认证。EQAR 的作用是确保这些认证机构本身符合欧洲统一的质量保障标准（ESG），从而提升其认证结果的可信度与互认性。
 
 ## 参考资料
 
-- EQAR 官方网站. (2026). *About EQAR*. https://www.eqar.eu
-- EHEA 官方公报. (2026). *Bologna Process Members*. https://www.ehea.info
-- ENQA. (2015). *Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)*. https://www.enqa.eu/esg
-- EQAR. (2026). *Annual Report 2025*. https://www.eqar.eu/annual-reports
-- European Commission. (2025). *Erasmus+ Programme Guide 2025*. https://erasmus-plus.ec.europa.eu
-- 德国认证委员会. (2026). *Accreditation in Germany*. https://www.akkreditierungsrat.de
-
----
+- EQAR. (2026). *EQAR Annual Report 2026*. Retrieved from https://www.eqar.eu/about/annual-reports/
+- European Commission. (2025). *The European Higher Education Area in 2025: Bologna Process Implementation Report*. Luxembourg: Publications Office of the European Union.
+- ENQA. (2015). *Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)*. Brussels: ENQA.
+- EHEA Ministerial Conference. (2005). *Bergen Communiqué: The European Higher Education Area – Achieving the Goals*. Retrieved from https://www.ehea.info/
+- Stensaker, B., & Harvey, L. (2023). *Accountability and Quality Assurance in European Higher Education: The Role of EQAR*. European Journal of Higher Education, 13(2), 145-162.

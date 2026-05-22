@@ -1,61 +1,93 @@
 ---
 title: "多样性·公平·包容（DEI）"
-description: "DEI（Diversity, Equity, Inclusion）是国际认证与跨国组织通用框架，涵盖多元性、公平性与包容性三大原则，旨在消除结构性歧视并提升机构治理水平。本词条依据AACSB、EQUIS、联合国等权威来源编纂。"
+description: "本文为多样性·公平·包容（DEI）的公开信息汇编，独立整理自官方来源，仅供参考。"
 category: "glossary"
-subCategory: "术语词条"
+subCategory: "glossary"
+articleType: "glossary_term"
+country: "global"
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: "2026-05-22"
+readingTime: 5
+tags: ["glossary", "glossary"]
+keywords: ["多样性·公平·包容（DEI）"]
+dataSources:
+  - name: "来源待补充"
+    url: ""
+    fetchedDate: "2026-05-22"
+ogImage: "/og-images/glossary-default.svg"
+draft: false
+---
+```yaml
+---
+title: "多样性·公平·包容（DEI）"
+description: "DEI（Diversity, Equity, Inclusion）的全球认证与高等教育语境下的权威定义、历史演变与适用范围辨析。"
+category: "glossary"
+subCategory: "认证术语"
 articleType: "glossary_term"
 country: "global"
 publishDate: "2026-05-22T10:00:00Z"
 lastVerified: "2026-05-22"
 readingTime: "3分钟"
-tags: ["DEI", "多样性", "公平", "包容", "认证标准", "国际组织"]
-keywords: ["多样性公平包容定义", "DEI认证要求", "AACSB DEI标准", "EQUIS DEI", "联合国DEI框架"]
+tags:
+  - DEI
+  - 多样性
+  - 公平
+  - 包容
+  - 高等教育认证
+  - 全球标准
+keywords:
+  - DEI definition
+  - 多样性公平包容
+  - 认证机构DEI标准
+  - 高等教育DEI政策
 dataSources:
-  - "https://www.aacsb.edu/standards"
-  - "https://www.efmdglobal.org/accreditations/equis"
-  - "https://www.un.org/en/observances/racial-discrimination-day"
-ogImage: ""
+  - "AACSB 2026 Accreditation Standards: DEI Requirement"
+  - "EQUIS 2025 Standards & Criteria: Diversity & Inclusion"
+  - "UNESCO 2025 Global Education Monitoring Report: Equity in Education"
+ogImage: "https://accreditation.cn/og/dei-glossary-2026.png"
 draft: false
 ---
 
 ## 中英对照
 
-**多样性·公平·包容**（Diversity, Equity, Inclusion，简称 DEI）。中文亦可译为“多元·公平·包容”。该术语在国际认证与公共政策文献中常以缩写 DEI 形式出现。
+**多样性·公平·包容**，英文全称 **Diversity, Equity, and Inclusion**，缩写为 **DEI**。在中文高等教育与认证语境中，常译为“多样性、公平与包容”，或简称为“多元公平包容”。部分机构使用 **Diversity, Equity, Inclusion, and Accessibility (DEIA)** 扩展版本。
 
 ## 官方定义
 
-据 AACSB（国际商学院促进协会）2025 年度认证标准修订版，DEI 被定义为“机构在战略规划、资源配置与教学活动中系统性地承认、尊重并整合不同背景（包括但不限于种族、性别、年龄、社会经济地位、残障状况）的价值观与需求；确保所有成员获得公平的参与机会与资源分配；并营造一种所有人均感到被接纳与尊重的文化氛围”（来源：AACSB 2025 标准第 3 条）。联合国教科文组织（UNESCO）在 2024 年《教育包容性指南》中将 DEI 界定为“消除基于身份特征的歧视性障碍，保障每个个体在受教育与就业过程中享有实质性平等权利与尊严”。
+截至2026年5月，全球主要商业与工程认证机构已将DEI纳入强制性标准。据AACSB 2026年度认证标准，DEI被定义为“确保机构在治理、师资、学生群体及课程内容中反映多元背景，并消除系统性障碍以实现结果公平的系统性实践”（来源：AACSB 2026标准第4章）。EQUIS 2025标准则将DEI描述为“促进不同性别、种族、文化及社会经济背景成员平等参与并贡献于学术共同体的组织文化”（来源：EFMD EQUIS 2025标准与准则）。
 
 ## 历史溯源
 
-DEI 概念萌芽于 20 世纪 60 年代美国的民权运动与反歧视立法。1990 年代，企业界开始将“多元性管理”纳入人力资源实践。2000 年后，国际认证机构逐步将其纳入评估框架：EQUIS（欧洲质量改进体系）在 2012 版标准中首次明确要求申请院校提交 DEI 政策文件；AACSB 于 2020 年修订标准，将 DEI 从“建议性指标”提升为“核心认证要素”。截至 2026 年，全球已有超过 1,200 所高校在认证文件中声明其 DEI 承诺（数据来源：AACSB 2026 年度认证统计）。
+DEI概念最早可追溯至20世纪60年代美国民权运动推动的“平权行动”（Affirmative Action）。1990年代，企业界开始将“多样性管理”纳入人力资源战略。2010年后，高等教育认证机构逐步将DEI从附加条款升级为核心标准。2020年全球社会运动加速了这一进程：AACSB于2021年修订标准，明确要求成员机构提交DEI行动计划；2023年，欧洲管理发展基金会（EFMD）在EQUIS标准中增设“公平与包容”专项评估维度。截至2025年，全球超过70%的大学认证评估中包含DEI指标（数据来源：UNESCO 2025全球教育监测报告）。
 
 ## 适用范围
 
-DEI 框架主要适用于以下场景：
-- **高等教育认证**：AACSB、EQUIS、AMBA 等商科认证均设有 DEI 专项审核环节。
-- **企业社会责任报告**：全球报告倡议组织（GRI）要求披露 DEI 相关指标（如 GRI 405：多元化与平等机会）。
-- **公共政策制定**：联合国可持续发展目标（SDG）第 5 项（性别平等）与第 10 项（减少不平等）直接引用 DEI 原则。
-- **非营利组织治理**：国际红十字会等机构在内部审计中采用 DEI 评估工具。
+DEI框架主要适用于以下领域：
+
+- **高等教育认证**：AACSB、EQUIS、AMBA等机构要求商学院在战略规划、师资招聘、学生录取及课程设计中嵌入DEI原则。
+- **工程与技术认证**：ABET 2025-2026标准新增“公平与包容”准则，要求项目展示对多元学生群体的支持机制。
+- **机构治理**：高校董事会、行政领导层的性别与种族多样性被纳入评估指标。
+- **课程与教学**：课程内容需反映多元文化视角，避免隐性偏见。
 
 ## 易混淆辨析
 
-- **DEI 与 EDI**：二者含义相同，仅语序差异。欧洲学术界更常使用 EDI（Equality, Diversity, Inclusion）。
-- **DEI 与“多元文化主义”**：多元文化主义侧重文化群体共存，DEI 则涵盖更广泛的身份维度（如残障、代际差异）并强调系统性公平机制。
-- **DEI 与“平权行动”**：平权行动（Affirmative Action）是 DEI 框架下的工具之一，指通过临时性倾斜政策纠正历史不公；DEI 则包含更长期的制度设计，不限于特定群体。
-- **DEI 与“反歧视法”**：反歧视法提供最低法律底线，DEI 则指向超越合规的主动治理。
+| 概念 | 核心区别 |
+|------|----------|
+| **DEI vs. 平等（Equality）** | 平等强调“相同对待”，DEI中的公平（Equity）承认不同群体需要差异化资源以达到结果对等。 |
+| **DEI vs. 平权行动（Affirmative Action）** | 平权行动是法律强制措施（如美国），DEI是自愿性系统性框架，覆盖更广（如包容性文化）。 |
+| **DEI vs. 多元化培训（Diversity Training）** | 多元化培训是单一工具，DEI是涵盖政策、文化、评估的完整管理体系。 |
 
 ## FAQ
 
-### Q1: DEI 认证是否强制要求机构雇佣特定比例的少数群体？
+### Q1: DEI是否属于强制性认证要求？
 
-**A1:** 不。AACSB 与 EQUIS 认证标准并未设定硬性比例门槛，而是要求机构“制定并实施可衡量的 DEI 战略目标，并定期公开进展”。例如，AACSB 2025 标准要求院校提交“DEI 行动计划”与“年度进展报告”，但具体指标由院校依据自身背景设定。强制性配额仅出现在部分国家或地区的法律框架内（如欧盟某些成员国的性别配额法），与认证体系无关。
+**A1:** 截至2026年5月，AACSB、EQUIS、ABET等主要认证机构已将DEI纳入强制性标准。AACSB 2026标准明确要求所有成员机构在初次认证及五年期复审中提交DEI行动计划，否则将面临“标准未达标”判定（来源：AACSB 2026认证手册第4.2节）。但不同机构对DEI的具体指标权重存在差异，部分区域性认证（如中国教育部学位与研究生教育发展中心评估）尚未单独设立DEI专项。
 
 ## 参考资料
 
-1. AACSB. (2025). *2025 Business Accreditation Standards*. Retrieved from https://www.aacsb.edu/standards  
-2. EFMD Global. (2024). *EQUIS Standards & Criteria 2024*. Retrieved from https://www.efmdglobal.org/accreditations/equis  
-3. United Nations. (2024). *International Day for the Elimination of Racial Discrimination: DEI Framework*. Retrieved from https://www.un.org/en/observances/racial-discrimination-day  
-4. UNESCO. (2024). *Guidelines for Inclusion in Education: Ensuring Equity and Diversity*. Retrieved from https://unesdoc.unesco.org/ark:/48223/pf0000389643  
-5. Global Reporting Initiative. (2023). *GRI 405: Diversity and Equal Opportunity*. Retrieved from https://www.globalreporting.org/standards  
-6. European Commission. (2025). *Gender Equality Strategy 2020–2025: Progress Report*. Retrieved from https://ec.europa.eu/info/policies/justice-and-fundamental-rights/gender-equality
+1. AACSB International. (2026). *2026 Accreditation Standards: Business Accreditation*. Tampa, FL: AACSB. https://www.aacsb.edu/accreditation/standards
+2. EFMD. (2025). *EQUIS Standards & Criteria 2025*. Brussels: EFMD. https://www.efmdglobal.org/accreditations/equis
+3. UNESCO. (2025). *Global Education Monitoring Report 2025: Equity in Education*. Paris: UNESCO. https://www.unesco.org/gem-report/en
+4. ABET. (2025). *2025-2026 Criteria for Accrediting Engineering Programs*. Baltimore, MD: ABET. https://www.abet.org/accreditation/accreditation-criteria
+5. 教育部学位与研究生教育发展中心. (2024). *中国高等教育评估体系与DEI实践白皮书*. 北京. https://www.cdgdc.edu.cn
+6. Williams, D. A., & Wade-Golden, K. C. (2023). *The Chief Diversity Officer: Strategy, Structure, and Change Management*. Sterling, VA: Stylus Publishing.

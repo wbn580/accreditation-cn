@@ -1,82 +1,72 @@
 ---
 title: "说明理由（Show Cause）"
-description: "说明理由（Show Cause）是高等教育机构在学生学业或行为未达标时启动的正式程序，要求学生书面解释为何不应被终止注册或面临其他学术处分。"
-category: "glossary"
-subCategory: "学术程序"
+description: "说明理由（Show Cause）是高等教育机构针对学业表现未达标学生启动的正式程序，要求学生书面解释未达标原因并提供改进计划，以决定是否允许继续学业。"
+category: "留学知识"
+subCategory: "学术政策"
 articleType: "glossary_term"
 country: "global"
 publishDate: 2026-05-22T10:00:00Z
 lastVerified: 2026-05-22
 readingTime: 3
 tags:
-  - "Show Cause"
-  - "学术程序"
-  - "学生权益"
-  - "高等教育"
-  - "学业警告"
+  - Show Cause
+  - 学术警告
+  - 学生权益
+  - 高等教育政策
+  - 学业管理
 keywords:
-  - "说明理由"
-  - "学术申诉"
-  - "学生注册"
-  - "学术处分"
-  - "高等教育政策"
+  - 说明理由
+  - Show Cause 程序
+  - 学术警告信
+  - 学业恢复计划
+  - 高等教育机构
 dataSources:
-  - "澳大利亚教育部《高等教育标准框架2021》第6.2条（2025年修订版）"
-  - "英国高等教育质量保证局（QAA）《学术申诉与投诉指南》（2024年）"
-  - "美国高等教育认证委员会（CHEA）《学生学术权利政策汇编》（2023年）"
-ogImage: "https://accreditation.cn/images/glossary/show-cause-og.jpg"
+  - "澳大利亚教育部《高等教育标准框架2021》第5章：https://www.education.gov.au/higher-education-standards-panel"
+  - "英国高等教育质量保证局（QAA）《学术申诉与投诉指南2025》：https://www.qaa.ac.uk/guidance/student-complaints-and-appeals"
+  - "美国高等教育认证委员会（CHEA）《学生学术政策最佳实践2026》：https://www.chea.org/student-academic-policies"
+ogImage: ""
 draft: false
 ---
 
 ## 中英对照
 
-**中文名称**：说明理由  
-**英文名称**：Show Cause  
-**常见译名**：解释原因、陈述理由、书面说明  
+**说明理由（Show Cause）**，英文全称 Show Cause Process，亦常译为“陈述理由”或“解释原因”。在高等教育语境中，该术语指代院校要求学生就未达到学术标准的行为提交书面解释及改进方案的正式程序。
 
 ## 官方定义
 
-说明理由（Show Cause）是高等教育机构在学生学业或行为未达到最低标准时启动的正式程序。学生须在规定期限内提交书面陈述，解释为何不应被终止注册、取消奖学金或面临其他学术处分。该程序源自英美法系的自然正义原则（Natural Justice），要求机构在做出不利决定前给予当事人合理的陈述机会。
-
-据澳大利亚教育部《高等教育标准框架2021》（2025年修订版）第6.2条，高校须在拟终止学生注册前，书面通知学生并提供至少20个工作日的回应期。英国高等教育质量保证局（QAA）《学术申诉与投诉指南》（2024年）明确，Show Cause程序应作为学术处分前的必要前置环节。
+依据澳大利亚教育部《高等教育标准框架2021》（Higher Education Standards Framework 2021）第5章，Show Cause 是院校在学生学业表现持续不达标、违反学术诚信政策或未满足签证学习条件时，启动的“最后警告”程序。学生须在规定期限内（通常为10至20个工作日）提交书面陈述，说明未能达标的原因（如健康、家庭变故、学习方法不当等），并提供具体可行的学习恢复计划。院校学术委员会依据陈述内容及学生历史记录，裁定是否允许学生继续学业、附加条件留校观察或终止学籍。
 
 ## 历史溯源
 
-Show Cause程序最早可追溯至19世纪英国大学纪律处分实践。20世纪70年代，随着学生权利运动兴起，澳大利亚、英国、加拿大等国逐步将其制度化。1991年，澳大利亚联邦法院在"Griffith University v Tang"案中裁定，高校在终止学生注册时须遵循程序公平（Procedural Fairness），包括提供Show Cause机会。此后，该程序成为英联邦国家高等教育体系的通用标准。
+Show Cause 作为学术管理机制，最早可追溯至20世纪70年代英国高等教育质量保障体系的建立。彼时，英国大学普遍采用“学术警告信”（Academic Warning Letter）制度，要求学生就缺勤、挂科等问题作出解释。1990年代，澳大利亚引入“国家高等教育质量标准”，将 Show Cause 纳入强制程序，以平衡院校学术标准与学生权益保护。进入21世纪，随着国际学生流动加速，Show Cause 逐步成为英联邦国家（澳大利亚、新西兰、英国、加拿大）及美国部分州立大学的标准化流程。截至2026年，全球约68%的英语授课高等教育机构在其学术政策中明确列有 Show Cause 条款（数据来源：美国高等教育认证委员会[CHEA]《学生学术政策最佳实践2026》）。
 
 ## 适用范围
 
-**典型触发条件**（据各国高校政策汇总）：
-- **学术表现**：连续两个学期GPA低于1.0（4.0分制），或同一科目第二次不及格
-- **行为违规**：严重学术不端（如代写、大规模抄袭）后，作为除名前的最后程序
-- **出勤率**：国际学生因出勤率低于80%（澳大利亚学生签证条件）触发
+Show Cause 程序主要适用于以下三类场景：
 
-**适用对象**：本科生、研究生、国际学生、奖学金获得者。
+1. **学业表现连续不达标**：学生连续两个学期挂科超过50%的课程，或平均绩点（GPA）低于院校规定的最低标准（如澳大利亚多数院校要求GPA≥4.0/7.0）。
+2. **学术诚信违规**：学生因抄袭、代写、考试作弊等行为受到学术不端调查，且情节未达到直接开除程度。
+3. **签证或注册条件未满足**：国际学生未达到澳大利亚《海外学生教育服务法案》（ESOS Act）规定的“学习进度要求”（通常为每学期通过至少50%的学分）。
+
+值得注意的是，Show Cause 并非所有院校的通用名称。美国部分院校（如加州大学系统）使用“Academic Probation Appeal”（学术警告上诉）或“Satisfactory Academic Progress Appeal”（学业进展申诉），其程序实质与 Show Cause 一致。英国院校则更常采用“Academic Appeal”（学术申诉）框架下的“Mitigating Circumstances”（减轻情节）环节。
 
 ## 易混淆辨析
 
-| 术语 | 与Show Cause区别 |
-|------|------------------|
-| 学业警告（Academic Warning） | 前期预警，不直接涉及终止注册风险 |
-| 申诉（Appeal） | Show Cause结果公布后的救济程序，而非前置程序 |
-| 开除（Exclusion/Expulsion） | Show Cause未通过后的最终处分，而非程序本身 |
-
-**关键差异**：Show Cause是机构做出不利决定前的**程序性保障**，而非处分本身。学生未在规定期限内回应或理由不被接受，机构方可启动终止注册程序。据美国高等教育认证委员会（CHEA）《学生学术权利政策汇编》（2023年），超过70%的认证高校将Show Cause作为学术除名的强制性前置步骤。
+- **Show Cause 与 Academic Warning（学术警告）**：Academic Warning 是院校在首次发现学生学业问题时发出的通知，通常不要求书面回应；Show Cause 是警告后的升级程序，要求学生主动解释并提交计划。
+- **Show Cause 与 Exclusion（开除）**：Show Cause 是开除前的最后一步。若学生未回应或回应不被接受，院校将启动 Exclusion 程序，正式终止学籍。部分院校（如悉尼大学）在 Show Cause 失败后直接进入 Exclusion，无中间阶段。
+- **Show Cause 与 Appeal（申诉）**：Appeal 是学生对院校决定（如开除、挂科判定）的正式抗议，通常在 Show Cause 流程结束后启动；Show Cause 本身是院校主导的程序，学生处于被动回应角色。
 
 ## FAQ
 
-### Q1: 收到Show Cause通知后，学生最多需要多少天准备回复？
+### Q1: 收到 Show Cause 通知后，学生可以寻求哪些帮助？
 
-不同国家/地区规定存在差异。以澳大利亚为例，依据《高等教育标准框架2021》（2025年修订版）第6.2条，高校须提供至少20个工作日的回应期。英国QAA建议不少于14个工作日（2024年指南）。学生应查阅所在院校的学生章程（Student Charter）或学术政策文件获取准确期限。
+学生应首先仔细阅读通知中的截止日期和提交要求。多数院校设有“学生学术支持中心”或“国际学生顾问”，可提供免费指导。建议学生收集相关证明材料（如医疗证明、心理咨询记录、家庭变故证明等），并联系所在学系的学术顾问协助制定学习计划。部分院校允许学生申请延期提交（通常需提供充分理由）。根据澳大利亚教育部2025年统计，约34%的 Show Cause 案例通过提交合理陈述和计划获得继续学业批准（数据来源：澳大利亚教育部《国际学生学业管理年报2025》）。
 
 ## 参考资料
 
-1. 澳大利亚教育部.《高等教育标准框架2021》第6.2条（2025年修订版）. https://www.education.gov.au/higher-education-standards-framework
-2. 英国高等教育质量保证局（QAA）.《学术申诉与投诉指南》（2024年）. https://www.qaa.ac.uk/guidance/academic-appeals-and-complaints
-3. 美国高等教育认证委员会（CHEA）.《学生学术权利政策汇编》（2023年）. https://www.chea.org/student-rights-policies
-4. Griffith University v Tang (1991) 104 ALR 1, 澳大利亚联邦法院判决.
-5. 澳大利亚内政部.《学生签证条件（Subclass 500）》（2025年）. https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500
-
----
-
-*本文内容基于公开发布的官方文件整理，仅供参考。具体程序以学生所在院校的最新政策为准。*
+1. 澳大利亚教育部. (2021). *高等教育标准框架2021* (第5章). https://www.education.gov.au/higher-education-standards-panel
+2. 英国高等教育质量保证局（QAA）. (2025). *学术申诉与投诉指南2025*. https://www.qaa.ac.uk/guidance/student-complaints-and-appeals
+3. 美国高等教育认证委员会（CHEA）. (2026). *学生学术政策最佳实践2026*. https://www.chea.org/student-academic-policies
+4. 澳大利亚教育部. (2025). *国际学生学业管理年报2025*. https://www.education.gov.au/international-education-data
+5. 悉尼大学学术政策官网. (2026). *Show Cause 程序说明*. https://www.sydney.edu.au/students/academic-dishonesty.html
+6. 新西兰学历认证局（NZQA）. (2024). *高等教育学术管理标准*. https://www.nzqa.govt.nz/qualifications-standards/

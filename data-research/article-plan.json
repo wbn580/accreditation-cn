@@ -1,0 +1,4693 @@
+[
+  {
+    "slug": "university-aacsb-overview",
+    "title": "AACSB 国际商管学院促进协会：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "aacsb",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-aacsb-history",
+    "title": "AACSB 国际商管学院促进协会：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "aacsb",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-aacsb-criteria",
+    "title": "AACSB 国际商管学院促进协会：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "aacsb",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-aacsb-accredited_list",
+    "title": "AACSB 国际商管学院促进协会：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "aacsb",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-aacsb-how_to_apply",
+    "title": "AACSB 国际商管学院促进协会：申请流程完整指南",
+    "category": "university",
+    "subCategory": "aacsb",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-aacsb-faq",
+    "title": "AACSB 国际商管学院促进协会：常见问题与解答",
+    "category": "university",
+    "subCategory": "aacsb",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-aacsb-comparison",
+    "title": "AACSB 国际商管学院促进协会：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "aacsb",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-equis-overview",
+    "title": "EQUIS 欧洲质量改进体系：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "equis",
+    "articleType": "overview",
+    "country": "eu",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-equis-history",
+    "title": "EQUIS 欧洲质量改进体系：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "equis",
+    "articleType": "history",
+    "country": "eu",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-equis-criteria",
+    "title": "EQUIS 欧洲质量改进体系：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "equis",
+    "articleType": "criteria",
+    "country": "eu",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-equis-accredited_list",
+    "title": "EQUIS 欧洲质量改进体系：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "equis",
+    "articleType": "accredited_list",
+    "country": "eu",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-equis-how_to_apply",
+    "title": "EQUIS 欧洲质量改进体系：申请流程完整指南",
+    "category": "university",
+    "subCategory": "equis",
+    "articleType": "how_to_apply",
+    "country": "eu",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-equis-faq",
+    "title": "EQUIS 欧洲质量改进体系：常见问题与解答",
+    "category": "university",
+    "subCategory": "equis",
+    "articleType": "faq",
+    "country": "eu",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-equis-comparison",
+    "title": "EQUIS 欧洲质量改进体系：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "equis",
+    "articleType": "comparison",
+    "country": "eu",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-amba-overview",
+    "title": "AMBA 工商管理硕士协会：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "amba",
+    "articleType": "overview",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-amba-history",
+    "title": "AMBA 工商管理硕士协会：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "amba",
+    "articleType": "history",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-amba-criteria",
+    "title": "AMBA 工商管理硕士协会：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "amba",
+    "articleType": "criteria",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-amba-accredited_list",
+    "title": "AMBA 工商管理硕士协会：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "amba",
+    "articleType": "accredited_list",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-amba-how_to_apply",
+    "title": "AMBA 工商管理硕士协会：申请流程完整指南",
+    "category": "university",
+    "subCategory": "amba",
+    "articleType": "how_to_apply",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-amba-faq",
+    "title": "AMBA 工商管理硕士协会：常见问题与解答",
+    "category": "university",
+    "subCategory": "amba",
+    "articleType": "faq",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-amba-comparison",
+    "title": "AMBA 工商管理硕士协会：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "amba",
+    "articleType": "comparison",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-triple-crown-overview",
+    "title": "三皇冠认证（Triple Crown）：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "triple-crown",
+    "articleType": "overview",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-triple-crown-history",
+    "title": "三皇冠认证（Triple Crown）：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "triple-crown",
+    "articleType": "history",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-triple-crown-criteria",
+    "title": "三皇冠认证（Triple Crown）：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "triple-crown",
+    "articleType": "criteria",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-triple-crown-accredited_list",
+    "title": "三皇冠认证（Triple Crown）：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "triple-crown",
+    "articleType": "accredited_list",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-triple-crown-how_to_apply",
+    "title": "三皇冠认证（Triple Crown）：申请流程完整指南",
+    "category": "university",
+    "subCategory": "triple-crown",
+    "articleType": "how_to_apply",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-triple-crown-faq",
+    "title": "三皇冠认证（Triple Crown）：常见问题与解答",
+    "category": "university",
+    "subCategory": "triple-crown",
+    "articleType": "faq",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-triple-crown-comparison",
+    "title": "三皇冠认证（Triple Crown）：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "triple-crown",
+    "articleType": "comparison",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-abet-overview",
+    "title": "ABET 工程与技术认证：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "abet",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-abet-history",
+    "title": "ABET 工程与技术认证：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "abet",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-abet-criteria",
+    "title": "ABET 工程与技术认证：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "abet",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-abet-accredited_list",
+    "title": "ABET 工程与技术认证：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "abet",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-abet-how_to_apply",
+    "title": "ABET 工程与技术认证：申请流程完整指南",
+    "category": "university",
+    "subCategory": "abet",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-abet-faq",
+    "title": "ABET 工程与技术认证：常见问题与解答",
+    "category": "university",
+    "subCategory": "abet",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-abet-comparison",
+    "title": "ABET 工程与技术认证：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "abet",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-chea-overview",
+    "title": "CHEA 美国高等教育认证委员会：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "chea",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-chea-history",
+    "title": "CHEA 美国高等教育认证委员会：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "chea",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-chea-criteria",
+    "title": "CHEA 美国高等教育认证委员会：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "chea",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-chea-accredited_list",
+    "title": "CHEA 美国高等教育认证委员会：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "chea",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-chea-how_to_apply",
+    "title": "CHEA 美国高等教育认证委员会：申请流程完整指南",
+    "category": "university",
+    "subCategory": "chea",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-chea-faq",
+    "title": "CHEA 美国高等教育认证委员会：常见问题与解答",
+    "category": "university",
+    "subCategory": "chea",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-chea-comparison",
+    "title": "CHEA 美国高等教育认证委员会：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "chea",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-teqsa-overview",
+    "title": "TEQSA 澳洲高等教育质量与标准署：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "teqsa",
+    "articleType": "overview",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-teqsa-history",
+    "title": "TEQSA 澳洲高等教育质量与标准署：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "teqsa",
+    "articleType": "history",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-teqsa-criteria",
+    "title": "TEQSA 澳洲高等教育质量与标准署：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "teqsa",
+    "articleType": "criteria",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-teqsa-accredited_list",
+    "title": "TEQSA 澳洲高等教育质量与标准署：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "teqsa",
+    "articleType": "accredited_list",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-teqsa-how_to_apply",
+    "title": "TEQSA 澳洲高等教育质量与标准署：申请流程完整指南",
+    "category": "university",
+    "subCategory": "teqsa",
+    "articleType": "how_to_apply",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-teqsa-faq",
+    "title": "TEQSA 澳洲高等教育质量与标准署：常见问题与解答",
+    "category": "university",
+    "subCategory": "teqsa",
+    "articleType": "faq",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-teqsa-comparison",
+    "title": "TEQSA 澳洲高等教育质量与标准署：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "teqsa",
+    "articleType": "comparison",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-qaa-overview",
+    "title": "QAA 英国质量保证局：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "qaa",
+    "articleType": "overview",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-qaa-history",
+    "title": "QAA 英国质量保证局：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "qaa",
+    "articleType": "history",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-qaa-criteria",
+    "title": "QAA 英国质量保证局：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "qaa",
+    "articleType": "criteria",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-qaa-accredited_list",
+    "title": "QAA 英国质量保证局：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "qaa",
+    "articleType": "accredited_list",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-qaa-how_to_apply",
+    "title": "QAA 英国质量保证局：申请流程完整指南",
+    "category": "university",
+    "subCategory": "qaa",
+    "articleType": "how_to_apply",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-qaa-faq",
+    "title": "QAA 英国质量保证局：常见问题与解答",
+    "category": "university",
+    "subCategory": "qaa",
+    "articleType": "faq",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-qaa-comparison",
+    "title": "QAA 英国质量保证局：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "qaa",
+    "articleType": "comparison",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-niad-qe-overview",
+    "title": "NIAD-QE 日本大学评价与学位授予：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "niad-qe",
+    "articleType": "overview",
+    "country": "jp",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-niad-qe-history",
+    "title": "NIAD-QE 日本大学评价与学位授予：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "niad-qe",
+    "articleType": "history",
+    "country": "jp",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-niad-qe-criteria",
+    "title": "NIAD-QE 日本大学评价与学位授予：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "niad-qe",
+    "articleType": "criteria",
+    "country": "jp",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-niad-qe-accredited_list",
+    "title": "NIAD-QE 日本大学评价与学位授予：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "niad-qe",
+    "articleType": "accredited_list",
+    "country": "jp",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-niad-qe-how_to_apply",
+    "title": "NIAD-QE 日本大学评价与学位授予：申请流程完整指南",
+    "category": "university",
+    "subCategory": "niad-qe",
+    "articleType": "how_to_apply",
+    "country": "jp",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-niad-qe-faq",
+    "title": "NIAD-QE 日本大学评价与学位授予：常见问题与解答",
+    "category": "university",
+    "subCategory": "niad-qe",
+    "articleType": "faq",
+    "country": "jp",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-niad-qe-comparison",
+    "title": "NIAD-QE 日本大学评价与学位授予：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "niad-qe",
+    "articleType": "comparison",
+    "country": "jp",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-hkcaavq-overview",
+    "title": "HKCAAVQ 香港学术及职业资历评审局：全面解析与最新认证标准",
+    "category": "university",
+    "subCategory": "hkcaavq",
+    "articleType": "overview",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-hkcaavq-history",
+    "title": "HKCAAVQ 香港学术及职业资历评审局：历史演变与关键里程碑",
+    "category": "university",
+    "subCategory": "hkcaavq",
+    "articleType": "history",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-hkcaavq-criteria",
+    "title": "HKCAAVQ 香港学术及职业资历评审局：认证标准逐条详解",
+    "category": "university",
+    "subCategory": "hkcaavq",
+    "articleType": "criteria",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "university-hkcaavq-accredited_list",
+    "title": "HKCAAVQ 香港学术及职业资历评审局：全球受认证机构名单",
+    "category": "university",
+    "subCategory": "hkcaavq",
+    "articleType": "accredited_list",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-hkcaavq-how_to_apply",
+    "title": "HKCAAVQ 香港学术及职业资历评审局：申请流程完整指南",
+    "category": "university",
+    "subCategory": "hkcaavq",
+    "articleType": "how_to_apply",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-hkcaavq-faq",
+    "title": "HKCAAVQ 香港学术及职业资历评审局：常见问题与解答",
+    "category": "university",
+    "subCategory": "hkcaavq",
+    "articleType": "faq",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "university-hkcaavq-comparison",
+    "title": "HKCAAVQ 香港学术及职业资历评审局：与其他同类认证的横向对比",
+    "category": "university",
+    "subCategory": "hkcaavq",
+    "articleType": "comparison",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-qeac-overview",
+    "title": "QEAC 澳洲留学中介持牌资格：全面解析与最新认证标准",
+    "category": "agent",
+    "subCategory": "qeac",
+    "articleType": "overview",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-qeac-history",
+    "title": "QEAC 澳洲留学中介持牌资格：历史演变与关键里程碑",
+    "category": "agent",
+    "subCategory": "qeac",
+    "articleType": "history",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-qeac-criteria",
+    "title": "QEAC 澳洲留学中介持牌资格：认证标准逐条详解",
+    "category": "agent",
+    "subCategory": "qeac",
+    "articleType": "criteria",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-qeac-accredited_list",
+    "title": "QEAC 澳洲留学中介持牌资格：全球受认证机构名单",
+    "category": "agent",
+    "subCategory": "qeac",
+    "articleType": "accredited_list",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-qeac-how_to_apply",
+    "title": "QEAC 澳洲留学中介持牌资格：申请流程完整指南",
+    "category": "agent",
+    "subCategory": "qeac",
+    "articleType": "how_to_apply",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-qeac-faq",
+    "title": "QEAC 澳洲留学中介持牌资格：常见问题与解答",
+    "category": "agent",
+    "subCategory": "qeac",
+    "articleType": "faq",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-qeac-comparison",
+    "title": "QEAC 澳洲留学中介持牌资格：与其他同类认证的横向对比",
+    "category": "agent",
+    "subCategory": "qeac",
+    "articleType": "comparison",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-icef-overview",
+    "title": "ICEF 国际教育中介认证：全面解析与最新认证标准",
+    "category": "agent",
+    "subCategory": "icef",
+    "articleType": "overview",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-icef-history",
+    "title": "ICEF 国际教育中介认证：历史演变与关键里程碑",
+    "category": "agent",
+    "subCategory": "icef",
+    "articleType": "history",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-icef-criteria",
+    "title": "ICEF 国际教育中介认证：认证标准逐条详解",
+    "category": "agent",
+    "subCategory": "icef",
+    "articleType": "criteria",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-icef-accredited_list",
+    "title": "ICEF 国际教育中介认证：全球受认证机构名单",
+    "category": "agent",
+    "subCategory": "icef",
+    "articleType": "accredited_list",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-icef-how_to_apply",
+    "title": "ICEF 国际教育中介认证：申请流程完整指南",
+    "category": "agent",
+    "subCategory": "icef",
+    "articleType": "how_to_apply",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-icef-faq",
+    "title": "ICEF 国际教育中介认证：常见问题与解答",
+    "category": "agent",
+    "subCategory": "icef",
+    "articleType": "faq",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-icef-comparison",
+    "title": "ICEF 国际教育中介认证：与其他同类认证的横向对比",
+    "category": "agent",
+    "subCategory": "icef",
+    "articleType": "comparison",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-bac-overview",
+    "title": "BAC 英国认证委员会：全面解析与最新认证标准",
+    "category": "agent",
+    "subCategory": "bac",
+    "articleType": "overview",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-bac-history",
+    "title": "BAC 英国认证委员会：历史演变与关键里程碑",
+    "category": "agent",
+    "subCategory": "bac",
+    "articleType": "history",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-bac-criteria",
+    "title": "BAC 英国认证委员会：认证标准逐条详解",
+    "category": "agent",
+    "subCategory": "bac",
+    "articleType": "criteria",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-bac-accredited_list",
+    "title": "BAC 英国认证委员会：全球受认证机构名单",
+    "category": "agent",
+    "subCategory": "bac",
+    "articleType": "accredited_list",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-bac-how_to_apply",
+    "title": "BAC 英国认证委员会：申请流程完整指南",
+    "category": "agent",
+    "subCategory": "bac",
+    "articleType": "how_to_apply",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-bac-faq",
+    "title": "BAC 英国认证委员会：常见问题与解答",
+    "category": "agent",
+    "subCategory": "bac",
+    "articleType": "faq",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-bac-comparison",
+    "title": "BAC 英国认证委员会：与其他同类认证的横向对比",
+    "category": "agent",
+    "subCategory": "bac",
+    "articleType": "comparison",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-airc-overview",
+    "title": "AIRC 美国国际招生委员会：全面解析与最新认证标准",
+    "category": "agent",
+    "subCategory": "airc",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-airc-history",
+    "title": "AIRC 美国国际招生委员会：历史演变与关键里程碑",
+    "category": "agent",
+    "subCategory": "airc",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-airc-criteria",
+    "title": "AIRC 美国国际招生委员会：认证标准逐条详解",
+    "category": "agent",
+    "subCategory": "airc",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-airc-accredited_list",
+    "title": "AIRC 美国国际招生委员会：全球受认证机构名单",
+    "category": "agent",
+    "subCategory": "airc",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-airc-how_to_apply",
+    "title": "AIRC 美国国际招生委员会：申请流程完整指南",
+    "category": "agent",
+    "subCategory": "airc",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-airc-faq",
+    "title": "AIRC 美国国际招生委员会：常见问题与解答",
+    "category": "agent",
+    "subCategory": "airc",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-airc-comparison",
+    "title": "AIRC 美国国际招生委员会：与其他同类认证的横向对比",
+    "category": "agent",
+    "subCategory": "airc",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-nacac-overview",
+    "title": "NACAC 美国大学招生咨询协会：全面解析与最新认证标准",
+    "category": "agent",
+    "subCategory": "nacac",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-nacac-history",
+    "title": "NACAC 美国大学招生咨询协会：历史演变与关键里程碑",
+    "category": "agent",
+    "subCategory": "nacac",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-nacac-criteria",
+    "title": "NACAC 美国大学招生咨询协会：认证标准逐条详解",
+    "category": "agent",
+    "subCategory": "nacac",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-nacac-accredited_list",
+    "title": "NACAC 美国大学招生咨询协会：全球受认证机构名单",
+    "category": "agent",
+    "subCategory": "nacac",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-nacac-how_to_apply",
+    "title": "NACAC 美国大学招生咨询协会：申请流程完整指南",
+    "category": "agent",
+    "subCategory": "nacac",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-nacac-faq",
+    "title": "NACAC 美国大学招生咨询协会：常见问题与解答",
+    "category": "agent",
+    "subCategory": "nacac",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "agent-nacac-comparison",
+    "title": "NACAC 美国大学招生咨询协会：与其他同类认证的横向对比",
+    "category": "agent",
+    "subCategory": "nacac",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-mara-omara-overview",
+    "title": "MARN 澳洲注册移民代理制度：全面解析与最新认证标准",
+    "category": "migration",
+    "subCategory": "mara-omara",
+    "articleType": "overview",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-mara-omara-history",
+    "title": "MARN 澳洲注册移民代理制度：历史演变与关键里程碑",
+    "category": "migration",
+    "subCategory": "mara-omara",
+    "articleType": "history",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-mara-omara-criteria",
+    "title": "MARN 澳洲注册移民代理制度：认证标准逐条详解",
+    "category": "migration",
+    "subCategory": "mara-omara",
+    "articleType": "criteria",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-mara-omara-accredited_list",
+    "title": "MARN 澳洲注册移民代理制度：全球受认证机构名单",
+    "category": "migration",
+    "subCategory": "mara-omara",
+    "articleType": "accredited_list",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-mara-omara-how_to_apply",
+    "title": "MARN 澳洲注册移民代理制度：申请流程完整指南",
+    "category": "migration",
+    "subCategory": "mara-omara",
+    "articleType": "how_to_apply",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-mara-omara-faq",
+    "title": "MARN 澳洲注册移民代理制度：常见问题与解答",
+    "category": "migration",
+    "subCategory": "mara-omara",
+    "articleType": "faq",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-mara-omara-comparison",
+    "title": "MARN 澳洲注册移民代理制度：与其他同类认证的横向对比",
+    "category": "migration",
+    "subCategory": "mara-omara",
+    "articleType": "comparison",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-lcm-iaa-overview",
+    "title": "LCM 新西兰持牌移民顾问：全面解析与最新认证标准",
+    "category": "migration",
+    "subCategory": "lcm-iaa",
+    "articleType": "overview",
+    "country": "nz",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-lcm-iaa-history",
+    "title": "LCM 新西兰持牌移民顾问：历史演变与关键里程碑",
+    "category": "migration",
+    "subCategory": "lcm-iaa",
+    "articleType": "history",
+    "country": "nz",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-lcm-iaa-criteria",
+    "title": "LCM 新西兰持牌移民顾问：认证标准逐条详解",
+    "category": "migration",
+    "subCategory": "lcm-iaa",
+    "articleType": "criteria",
+    "country": "nz",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-lcm-iaa-accredited_list",
+    "title": "LCM 新西兰持牌移民顾问：全球受认证机构名单",
+    "category": "migration",
+    "subCategory": "lcm-iaa",
+    "articleType": "accredited_list",
+    "country": "nz",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-lcm-iaa-how_to_apply",
+    "title": "LCM 新西兰持牌移民顾问：申请流程完整指南",
+    "category": "migration",
+    "subCategory": "lcm-iaa",
+    "articleType": "how_to_apply",
+    "country": "nz",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-lcm-iaa-faq",
+    "title": "LCM 新西兰持牌移民顾问：常见问题与解答",
+    "category": "migration",
+    "subCategory": "lcm-iaa",
+    "articleType": "faq",
+    "country": "nz",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-lcm-iaa-comparison",
+    "title": "LCM 新西兰持牌移民顾问：与其他同类认证的横向对比",
+    "category": "migration",
+    "subCategory": "lcm-iaa",
+    "articleType": "comparison",
+    "country": "nz",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-cicc-overview",
+    "title": "CICC 加拿大移民和公民顾问管理局：全面解析与最新认证标准",
+    "category": "migration",
+    "subCategory": "cicc",
+    "articleType": "overview",
+    "country": "ca",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-cicc-history",
+    "title": "CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑",
+    "category": "migration",
+    "subCategory": "cicc",
+    "articleType": "history",
+    "country": "ca",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-cicc-criteria",
+    "title": "CICC 加拿大移民和公民顾问管理局：认证标准逐条详解",
+    "category": "migration",
+    "subCategory": "cicc",
+    "articleType": "criteria",
+    "country": "ca",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-cicc-accredited_list",
+    "title": "CICC 加拿大移民和公民顾问管理局：全球受认证机构名单",
+    "category": "migration",
+    "subCategory": "cicc",
+    "articleType": "accredited_list",
+    "country": "ca",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-cicc-how_to_apply",
+    "title": "CICC 加拿大移民和公民顾问管理局：申请流程完整指南",
+    "category": "migration",
+    "subCategory": "cicc",
+    "articleType": "how_to_apply",
+    "country": "ca",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-cicc-faq",
+    "title": "CICC 加拿大移民和公民顾问管理局：常见问题与解答",
+    "category": "migration",
+    "subCategory": "cicc",
+    "articleType": "faq",
+    "country": "ca",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-cicc-comparison",
+    "title": "CICC 加拿大移民和公民顾问管理局：与其他同类认证的横向对比",
+    "category": "migration",
+    "subCategory": "cicc",
+    "articleType": "comparison",
+    "country": "ca",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-oisc-overview",
+    "title": "OISC 英国移民服务专员办公室：全面解析与最新认证标准",
+    "category": "migration",
+    "subCategory": "oisc",
+    "articleType": "overview",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-oisc-history",
+    "title": "OISC 英国移民服务专员办公室：历史演变与关键里程碑",
+    "category": "migration",
+    "subCategory": "oisc",
+    "articleType": "history",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-oisc-criteria",
+    "title": "OISC 英国移民服务专员办公室：认证标准逐条详解",
+    "category": "migration",
+    "subCategory": "oisc",
+    "articleType": "criteria",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-oisc-accredited_list",
+    "title": "OISC 英国移民服务专员办公室：全球受认证机构名单",
+    "category": "migration",
+    "subCategory": "oisc",
+    "articleType": "accredited_list",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-oisc-how_to_apply",
+    "title": "OISC 英国移民服务专员办公室：申请流程完整指南",
+    "category": "migration",
+    "subCategory": "oisc",
+    "articleType": "how_to_apply",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-oisc-faq",
+    "title": "OISC 英国移民服务专员办公室：常见问题与解答",
+    "category": "migration",
+    "subCategory": "oisc",
+    "articleType": "faq",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-oisc-comparison",
+    "title": "OISC 英国移民服务专员办公室：与其他同类认证的横向对比",
+    "category": "migration",
+    "subCategory": "oisc",
+    "articleType": "comparison",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-hksia-overview",
+    "title": "HKSIA 香港移民服务行业协会：全面解析与最新认证标准",
+    "category": "migration",
+    "subCategory": "hksia",
+    "articleType": "overview",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-hksia-history",
+    "title": "HKSIA 香港移民服务行业协会：历史演变与关键里程碑",
+    "category": "migration",
+    "subCategory": "hksia",
+    "articleType": "history",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-hksia-criteria",
+    "title": "HKSIA 香港移民服务行业协会：认证标准逐条详解",
+    "category": "migration",
+    "subCategory": "hksia",
+    "articleType": "criteria",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-hksia-accredited_list",
+    "title": "HKSIA 香港移民服务行业协会：全球受认证机构名单",
+    "category": "migration",
+    "subCategory": "hksia",
+    "articleType": "accredited_list",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-hksia-how_to_apply",
+    "title": "HKSIA 香港移民服务行业协会：申请流程完整指南",
+    "category": "migration",
+    "subCategory": "hksia",
+    "articleType": "how_to_apply",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-hksia-faq",
+    "title": "HKSIA 香港移民服务行业协会：常见问题与解答",
+    "category": "migration",
+    "subCategory": "hksia",
+    "articleType": "faq",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "migration-hksia-comparison",
+    "title": "HKSIA 香港移民服务行业协会：与其他同类认证的横向对比",
+    "category": "migration",
+    "subCategory": "hksia",
+    "articleType": "comparison",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-mfaa-overview",
+    "title": "MFAA 澳洲贷款与金融协会：全面解析与最新认证标准",
+    "category": "broker",
+    "subCategory": "mfaa",
+    "articleType": "overview",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-mfaa-history",
+    "title": "MFAA 澳洲贷款与金融协会：历史演变与关键里程碑",
+    "category": "broker",
+    "subCategory": "mfaa",
+    "articleType": "history",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-mfaa-criteria",
+    "title": "MFAA 澳洲贷款与金融协会：认证标准逐条详解",
+    "category": "broker",
+    "subCategory": "mfaa",
+    "articleType": "criteria",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-mfaa-accredited_list",
+    "title": "MFAA 澳洲贷款与金融协会：全球受认证机构名单",
+    "category": "broker",
+    "subCategory": "mfaa",
+    "articleType": "accredited_list",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-mfaa-how_to_apply",
+    "title": "MFAA 澳洲贷款与金融协会：申请流程完整指南",
+    "category": "broker",
+    "subCategory": "mfaa",
+    "articleType": "how_to_apply",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-mfaa-faq",
+    "title": "MFAA 澳洲贷款与金融协会：常见问题与解答",
+    "category": "broker",
+    "subCategory": "mfaa",
+    "articleType": "faq",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-mfaa-comparison",
+    "title": "MFAA 澳洲贷款与金融协会：与其他同类认证的横向对比",
+    "category": "broker",
+    "subCategory": "mfaa",
+    "articleType": "comparison",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fbaa-overview",
+    "title": "FBAA 澳洲金融经纪协会：全面解析与最新认证标准",
+    "category": "broker",
+    "subCategory": "fbaa",
+    "articleType": "overview",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fbaa-history",
+    "title": "FBAA 澳洲金融经纪协会：历史演变与关键里程碑",
+    "category": "broker",
+    "subCategory": "fbaa",
+    "articleType": "history",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fbaa-criteria",
+    "title": "FBAA 澳洲金融经纪协会：认证标准逐条详解",
+    "category": "broker",
+    "subCategory": "fbaa",
+    "articleType": "criteria",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fbaa-accredited_list",
+    "title": "FBAA 澳洲金融经纪协会：全球受认证机构名单",
+    "category": "broker",
+    "subCategory": "fbaa",
+    "articleType": "accredited_list",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fbaa-how_to_apply",
+    "title": "FBAA 澳洲金融经纪协会：申请流程完整指南",
+    "category": "broker",
+    "subCategory": "fbaa",
+    "articleType": "how_to_apply",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fbaa-faq",
+    "title": "FBAA 澳洲金融经纪协会：常见问题与解答",
+    "category": "broker",
+    "subCategory": "fbaa",
+    "articleType": "faq",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fbaa-comparison",
+    "title": "FBAA 澳洲金融经纪协会：与其他同类认证的横向对比",
+    "category": "broker",
+    "subCategory": "fbaa",
+    "articleType": "comparison",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-nmls-overview",
+    "title": "NMLS 美国全国多州许可系统：全面解析与最新认证标准",
+    "category": "broker",
+    "subCategory": "nmls",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-nmls-history",
+    "title": "NMLS 美国全国多州许可系统：历史演变与关键里程碑",
+    "category": "broker",
+    "subCategory": "nmls",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-nmls-criteria",
+    "title": "NMLS 美国全国多州许可系统：认证标准逐条详解",
+    "category": "broker",
+    "subCategory": "nmls",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-nmls-accredited_list",
+    "title": "NMLS 美国全国多州许可系统：全球受认证机构名单",
+    "category": "broker",
+    "subCategory": "nmls",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-nmls-how_to_apply",
+    "title": "NMLS 美国全国多州许可系统：申请流程完整指南",
+    "category": "broker",
+    "subCategory": "nmls",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-nmls-faq",
+    "title": "NMLS 美国全国多州许可系统：常见问题与解答",
+    "category": "broker",
+    "subCategory": "nmls",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-nmls-comparison",
+    "title": "NMLS 美国全国多州许可系统：与其他同类认证的横向对比",
+    "category": "broker",
+    "subCategory": "nmls",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fca-broker-overview",
+    "title": "FCA 英国金融行为监管局持牌经纪：全面解析与最新认证标准",
+    "category": "broker",
+    "subCategory": "fca-broker",
+    "articleType": "overview",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fca-broker-history",
+    "title": "FCA 英国金融行为监管局持牌经纪：历史演变与关键里程碑",
+    "category": "broker",
+    "subCategory": "fca-broker",
+    "articleType": "history",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fca-broker-criteria",
+    "title": "FCA 英国金融行为监管局持牌经纪：认证标准逐条详解",
+    "category": "broker",
+    "subCategory": "fca-broker",
+    "articleType": "criteria",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fca-broker-accredited_list",
+    "title": "FCA 英国金融行为监管局持牌经纪：全球受认证机构名单",
+    "category": "broker",
+    "subCategory": "fca-broker",
+    "articleType": "accredited_list",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fca-broker-how_to_apply",
+    "title": "FCA 英国金融行为监管局持牌经纪：申请流程完整指南",
+    "category": "broker",
+    "subCategory": "fca-broker",
+    "articleType": "how_to_apply",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fca-broker-faq",
+    "title": "FCA 英国金融行为监管局持牌经纪：常见问题与解答",
+    "category": "broker",
+    "subCategory": "fca-broker",
+    "articleType": "faq",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-fca-broker-comparison",
+    "title": "FCA 英国金融行为监管局持牌经纪：与其他同类认证的横向对比",
+    "category": "broker",
+    "subCategory": "fca-broker",
+    "articleType": "comparison",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-hkma-broker-overview",
+    "title": "HKMA 香港金融管理局持牌机构：全面解析与最新认证标准",
+    "category": "broker",
+    "subCategory": "hkma-broker",
+    "articleType": "overview",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-hkma-broker-history",
+    "title": "HKMA 香港金融管理局持牌机构：历史演变与关键里程碑",
+    "category": "broker",
+    "subCategory": "hkma-broker",
+    "articleType": "history",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-hkma-broker-criteria",
+    "title": "HKMA 香港金融管理局持牌机构：认证标准逐条详解",
+    "category": "broker",
+    "subCategory": "hkma-broker",
+    "articleType": "criteria",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-hkma-broker-accredited_list",
+    "title": "HKMA 香港金融管理局持牌机构：全球受认证机构名单",
+    "category": "broker",
+    "subCategory": "hkma-broker",
+    "articleType": "accredited_list",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-hkma-broker-how_to_apply",
+    "title": "HKMA 香港金融管理局持牌机构：申请流程完整指南",
+    "category": "broker",
+    "subCategory": "hkma-broker",
+    "articleType": "how_to_apply",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-hkma-broker-faq",
+    "title": "HKMA 香港金融管理局持牌机构：常见问题与解答",
+    "category": "broker",
+    "subCategory": "hkma-broker",
+    "articleType": "faq",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "broker-hkma-broker-comparison",
+    "title": "HKMA 香港金融管理局持牌机构：与其他同类认证的横向对比",
+    "category": "broker",
+    "subCategory": "hkma-broker",
+    "articleType": "comparison",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-aba-overview",
+    "title": "ABA 美国律师协会认证：全面解析与最新认证标准",
+    "category": "legal",
+    "subCategory": "aba",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-aba-history",
+    "title": "ABA 美国律师协会认证：历史演变与关键里程碑",
+    "category": "legal",
+    "subCategory": "aba",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-aba-criteria",
+    "title": "ABA 美国律师协会认证：认证标准逐条详解",
+    "category": "legal",
+    "subCategory": "aba",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-aba-accredited_list",
+    "title": "ABA 美国律师协会认证：全球受认证机构名单",
+    "category": "legal",
+    "subCategory": "aba",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-aba-how_to_apply",
+    "title": "ABA 美国律师协会认证：申请流程完整指南",
+    "category": "legal",
+    "subCategory": "aba",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-aba-faq",
+    "title": "ABA 美国律师协会认证：常见问题与解答",
+    "category": "legal",
+    "subCategory": "aba",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-aba-comparison",
+    "title": "ABA 美国律师协会认证：与其他同类认证的横向对比",
+    "category": "legal",
+    "subCategory": "aba",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-sra-overview",
+    "title": "SRA 英国律师监管局：全面解析与最新认证标准",
+    "category": "legal",
+    "subCategory": "sra",
+    "articleType": "overview",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-sra-history",
+    "title": "SRA 英国律师监管局：历史演变与关键里程碑",
+    "category": "legal",
+    "subCategory": "sra",
+    "articleType": "history",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-sra-criteria",
+    "title": "SRA 英国律师监管局：认证标准逐条详解",
+    "category": "legal",
+    "subCategory": "sra",
+    "articleType": "criteria",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-sra-accredited_list",
+    "title": "SRA 英国律师监管局：全球受认证机构名单",
+    "category": "legal",
+    "subCategory": "sra",
+    "articleType": "accredited_list",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-sra-how_to_apply",
+    "title": "SRA 英国律师监管局：申请流程完整指南",
+    "category": "legal",
+    "subCategory": "sra",
+    "articleType": "how_to_apply",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-sra-faq",
+    "title": "SRA 英国律师监管局：常见问题与解答",
+    "category": "legal",
+    "subCategory": "sra",
+    "articleType": "faq",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-sra-comparison",
+    "title": "SRA 英国律师监管局：与其他同类认证的横向对比",
+    "category": "legal",
+    "subCategory": "sra",
+    "articleType": "comparison",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-lc-australia-overview",
+    "title": "澳洲法律委员会与律师认证：全面解析与最新认证标准",
+    "category": "legal",
+    "subCategory": "lc-australia",
+    "articleType": "overview",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-lc-australia-history",
+    "title": "澳洲法律委员会与律师认证：历史演变与关键里程碑",
+    "category": "legal",
+    "subCategory": "lc-australia",
+    "articleType": "history",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-lc-australia-criteria",
+    "title": "澳洲法律委员会与律师认证：认证标准逐条详解",
+    "category": "legal",
+    "subCategory": "lc-australia",
+    "articleType": "criteria",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-lc-australia-accredited_list",
+    "title": "澳洲法律委员会与律师认证：全球受认证机构名单",
+    "category": "legal",
+    "subCategory": "lc-australia",
+    "articleType": "accredited_list",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-lc-australia-how_to_apply",
+    "title": "澳洲法律委员会与律师认证：申请流程完整指南",
+    "category": "legal",
+    "subCategory": "lc-australia",
+    "articleType": "how_to_apply",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-lc-australia-faq",
+    "title": "澳洲法律委员会与律师认证：常见问题与解答",
+    "category": "legal",
+    "subCategory": "lc-australia",
+    "articleType": "faq",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-lc-australia-comparison",
+    "title": "澳洲法律委员会与律师认证：与其他同类认证的横向对比",
+    "category": "legal",
+    "subCategory": "lc-australia",
+    "articleType": "comparison",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-icc-arbitration-overview",
+    "title": "ICC 国际商会仲裁院：全面解析与最新认证标准",
+    "category": "legal",
+    "subCategory": "icc-arbitration",
+    "articleType": "overview",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-icc-arbitration-history",
+    "title": "ICC 国际商会仲裁院：历史演变与关键里程碑",
+    "category": "legal",
+    "subCategory": "icc-arbitration",
+    "articleType": "history",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-icc-arbitration-criteria",
+    "title": "ICC 国际商会仲裁院：认证标准逐条详解",
+    "category": "legal",
+    "subCategory": "icc-arbitration",
+    "articleType": "criteria",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-icc-arbitration-accredited_list",
+    "title": "ICC 国际商会仲裁院：全球受认证机构名单",
+    "category": "legal",
+    "subCategory": "icc-arbitration",
+    "articleType": "accredited_list",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-icc-arbitration-how_to_apply",
+    "title": "ICC 国际商会仲裁院：申请流程完整指南",
+    "category": "legal",
+    "subCategory": "icc-arbitration",
+    "articleType": "how_to_apply",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-icc-arbitration-faq",
+    "title": "ICC 国际商会仲裁院：常见问题与解答",
+    "category": "legal",
+    "subCategory": "icc-arbitration",
+    "articleType": "faq",
+    "country": "global",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-icc-arbitration-comparison",
+    "title": "ICC 国际商会仲裁院：与其他同类认证的横向对比",
+    "category": "legal",
+    "subCategory": "icc-arbitration",
+    "articleType": "comparison",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-siac-overview",
+    "title": "SIAC 新加坡国际仲裁中心：全面解析与最新认证标准",
+    "category": "legal",
+    "subCategory": "siac",
+    "articleType": "overview",
+    "country": "sg",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-siac-history",
+    "title": "SIAC 新加坡国际仲裁中心：历史演变与关键里程碑",
+    "category": "legal",
+    "subCategory": "siac",
+    "articleType": "history",
+    "country": "sg",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-siac-criteria",
+    "title": "SIAC 新加坡国际仲裁中心：认证标准逐条详解",
+    "category": "legal",
+    "subCategory": "siac",
+    "articleType": "criteria",
+    "country": "sg",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-siac-accredited_list",
+    "title": "SIAC 新加坡国际仲裁中心：全球受认证机构名单",
+    "category": "legal",
+    "subCategory": "siac",
+    "articleType": "accredited_list",
+    "country": "sg",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-siac-how_to_apply",
+    "title": "SIAC 新加坡国际仲裁中心：申请流程完整指南",
+    "category": "legal",
+    "subCategory": "siac",
+    "articleType": "how_to_apply",
+    "country": "sg",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-siac-faq",
+    "title": "SIAC 新加坡国际仲裁中心：常见问题与解答",
+    "category": "legal",
+    "subCategory": "siac",
+    "articleType": "faq",
+    "country": "sg",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-siac-comparison",
+    "title": "SIAC 新加坡国际仲裁中心：与其他同类认证的横向对比",
+    "category": "legal",
+    "subCategory": "siac",
+    "articleType": "comparison",
+    "country": "sg",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-hkiac-overview",
+    "title": "HKIAC 香港国际仲裁中心：全面解析与最新认证标准",
+    "category": "legal",
+    "subCategory": "hkiac",
+    "articleType": "overview",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-hkiac-history",
+    "title": "HKIAC 香港国际仲裁中心：历史演变与关键里程碑",
+    "category": "legal",
+    "subCategory": "hkiac",
+    "articleType": "history",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-hkiac-criteria",
+    "title": "HKIAC 香港国际仲裁中心：认证标准逐条详解",
+    "category": "legal",
+    "subCategory": "hkiac",
+    "articleType": "criteria",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-hkiac-accredited_list",
+    "title": "HKIAC 香港国际仲裁中心：全球受认证机构名单",
+    "category": "legal",
+    "subCategory": "hkiac",
+    "articleType": "accredited_list",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-hkiac-how_to_apply",
+    "title": "HKIAC 香港国际仲裁中心：申请流程完整指南",
+    "category": "legal",
+    "subCategory": "hkiac",
+    "articleType": "how_to_apply",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-hkiac-faq",
+    "title": "HKIAC 香港国际仲裁中心：常见问题与解答",
+    "category": "legal",
+    "subCategory": "hkiac",
+    "articleType": "faq",
+    "country": "hk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "legal-hkiac-comparison",
+    "title": "HKIAC 香港国际仲裁中心：与其他同类认证的横向对比",
+    "category": "legal",
+    "subCategory": "hkiac",
+    "articleType": "comparison",
+    "country": "hk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-jci-overview",
+    "title": "JCI 国际联合委员会医院认证：全面解析与最新认证标准",
+    "category": "medical",
+    "subCategory": "jci",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-jci-history",
+    "title": "JCI 国际联合委员会医院认证：历史演变与关键里程碑",
+    "category": "medical",
+    "subCategory": "jci",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-jci-criteria",
+    "title": "JCI 国际联合委员会医院认证：认证标准逐条详解",
+    "category": "medical",
+    "subCategory": "jci",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-jci-accredited_list",
+    "title": "JCI 国际联合委员会医院认证：全球受认证机构名单",
+    "category": "medical",
+    "subCategory": "jci",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-jci-how_to_apply",
+    "title": "JCI 国际联合委员会医院认证：申请流程完整指南",
+    "category": "medical",
+    "subCategory": "jci",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-jci-faq",
+    "title": "JCI 国际联合委员会医院认证：常见问题与解答",
+    "category": "medical",
+    "subCategory": "jci",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-jci-comparison",
+    "title": "JCI 国际联合委员会医院认证：与其他同类认证的横向对比",
+    "category": "medical",
+    "subCategory": "jci",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-ahpra-overview",
+    "title": "AHPRA 澳洲卫生执业者管理局：全面解析与最新认证标准",
+    "category": "medical",
+    "subCategory": "ahpra",
+    "articleType": "overview",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-ahpra-history",
+    "title": "AHPRA 澳洲卫生执业者管理局：历史演变与关键里程碑",
+    "category": "medical",
+    "subCategory": "ahpra",
+    "articleType": "history",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-ahpra-criteria",
+    "title": "AHPRA 澳洲卫生执业者管理局：认证标准逐条详解",
+    "category": "medical",
+    "subCategory": "ahpra",
+    "articleType": "criteria",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-ahpra-accredited_list",
+    "title": "AHPRA 澳洲卫生执业者管理局：全球受认证机构名单",
+    "category": "medical",
+    "subCategory": "ahpra",
+    "articleType": "accredited_list",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-ahpra-how_to_apply",
+    "title": "AHPRA 澳洲卫生执业者管理局：申请流程完整指南",
+    "category": "medical",
+    "subCategory": "ahpra",
+    "articleType": "how_to_apply",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-ahpra-faq",
+    "title": "AHPRA 澳洲卫生执业者管理局：常见问题与解答",
+    "category": "medical",
+    "subCategory": "ahpra",
+    "articleType": "faq",
+    "country": "au",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-ahpra-comparison",
+    "title": "AHPRA 澳洲卫生执业者管理局：与其他同类认证的横向对比",
+    "category": "medical",
+    "subCategory": "ahpra",
+    "articleType": "comparison",
+    "country": "au",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-gmc-overview",
+    "title": "GMC 英国医学总会：全面解析与最新认证标准",
+    "category": "medical",
+    "subCategory": "gmc",
+    "articleType": "overview",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-gmc-history",
+    "title": "GMC 英国医学总会：历史演变与关键里程碑",
+    "category": "medical",
+    "subCategory": "gmc",
+    "articleType": "history",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-gmc-criteria",
+    "title": "GMC 英国医学总会：认证标准逐条详解",
+    "category": "medical",
+    "subCategory": "gmc",
+    "articleType": "criteria",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-gmc-accredited_list",
+    "title": "GMC 英国医学总会：全球受认证机构名单",
+    "category": "medical",
+    "subCategory": "gmc",
+    "articleType": "accredited_list",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-gmc-how_to_apply",
+    "title": "GMC 英国医学总会：申请流程完整指南",
+    "category": "medical",
+    "subCategory": "gmc",
+    "articleType": "how_to_apply",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-gmc-faq",
+    "title": "GMC 英国医学总会：常见问题与解答",
+    "category": "medical",
+    "subCategory": "gmc",
+    "articleType": "faq",
+    "country": "uk",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-gmc-comparison",
+    "title": "GMC 英国医学总会：与其他同类认证的横向对比",
+    "category": "medical",
+    "subCategory": "gmc",
+    "articleType": "comparison",
+    "country": "uk",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-abms-overview",
+    "title": "ABMS 美国医学专科委员会：全面解析与最新认证标准",
+    "category": "medical",
+    "subCategory": "abms",
+    "articleType": "overview",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-abms-history",
+    "title": "ABMS 美国医学专科委员会：历史演变与关键里程碑",
+    "category": "medical",
+    "subCategory": "abms",
+    "articleType": "history",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-abms-criteria",
+    "title": "ABMS 美国医学专科委员会：认证标准逐条详解",
+    "category": "medical",
+    "subCategory": "abms",
+    "articleType": "criteria",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-abms-accredited_list",
+    "title": "ABMS 美国医学专科委员会：全球受认证机构名单",
+    "category": "medical",
+    "subCategory": "abms",
+    "articleType": "accredited_list",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-abms-how_to_apply",
+    "title": "ABMS 美国医学专科委员会：申请流程完整指南",
+    "category": "medical",
+    "subCategory": "abms",
+    "articleType": "how_to_apply",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-abms-faq",
+    "title": "ABMS 美国医学专科委员会：常见问题与解答",
+    "category": "medical",
+    "subCategory": "abms",
+    "articleType": "faq",
+    "country": "us",
+    "word_count_target": 2500,
+    "status": "pending"
+  },
+  {
+    "slug": "medical-abms-comparison",
+    "title": "ABMS 美国医学专科委员会：与其他同类认证的横向对比",
+    "category": "medical",
+    "subCategory": "abms",
+    "articleType": "comparison",
+    "country": "us",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-001",
+    "title": "全球三大商学院认证AACSB-EQUIS-AMBA含金量对比",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-002",
+    "title": "三皇冠认证商学院2026完整名单与申请门槛",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-003",
+    "title": "工程认证ABET-IET-IPMA-EUR-ACE跨国对比",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-004",
+    "title": "澳洲TEQSA与英国QAA政策严格度数据透视",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-005",
+    "title": "AACSB使命驱动标准2020年改革后实操影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-006",
+    "title": "美国CHEA与USDE双重认证体系差异与冲突",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-007",
+    "title": "跨国学位互认从博洛尼亚进程到东亚教育圈",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-008",
+    "title": "留学中介QEAC持牌制度自PIER退场后的演变",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-009",
+    "title": "澳洲MARA与国内留学顾问称谓根本区别",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-010",
+    "title": "加拿大CICC考试通过率与监管力度",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-011",
+    "title": "英国OISC三级牌照系统对中介市场结构影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-012",
+    "title": "澳洲MFAA与FBAA贷款broker协会合规差异",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-013",
+    "title": "美国NMLS在跨州贷款broker监管中的地位",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-014",
+    "title": "国际医院JCI认证在中国大陆的实操扩张",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-015",
+    "title": "澳洲AHPRA注册医生身份在中国大陆就医承认度",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-016",
+    "title": "英国GMC注册医生跨国流动监管路径",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-017",
+    "title": "持牌律师跨国执业reciprocity协定与认证体系",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-018",
+    "title": "国际仲裁机构ICC-SIAC-HKIAC-CIETAC认证标准对比",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-019",
+    "title": "各国留学认证体系在反野鸡大学中的实际效力",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-020",
+    "title": "认证撤销案例被撤销AACSB认证商学院的后续发展",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-021",
+    "title": "假冒认证标志的识别与法律责任",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-022",
+    "title": "认证体系自我监管局限性第三方审计需求",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-023",
+    "title": "认证有效期与续展机制对比",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-024",
+    "title": "不同认证体系费用结构对比",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-025",
+    "title": "认证标准软指标与硬指标博弈",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-026",
+    "title": "跨国教育集团应对多重认证的合规成本",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-027",
+    "title": "ESG维度纳入认证标准最新趋势",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-028",
+    "title": "AI时代认证体系数字化转型",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-029",
+    "title": "学位认证课程认证机构认证三层结构",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-030",
+    "title": "Provisional与Full Accreditation实际差别",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-031",
+    "title": "Specialized与Regional Accreditation在美国的实操",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-032",
+    "title": "中国双一流名单与海外主流认证对应关系",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-033",
+    "title": "985-211在国际认证视野下的地位",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-034",
+    "title": "国际幼教NAEYC认证与中国早教机构接轨",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-035",
+    "title": "欧盟Europass与全球认证标准对接",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-036",
+    "title": "华盛顿协议与工程教育国际互认",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-037",
+    "title": "悉尼协议与都柏林协议在全球工程教育中的作用",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-038",
+    "title": "EAIE-NAFSA-APAIE三大国际教育协会职能对比",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-039",
+    "title": "美国区域认证与全国认证的优劣辩论",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-040",
+    "title": "认证体系对在线教育与微证书的态度转变",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-041",
+    "title": "博洛尼亚进程对欧洲高等教育认证的深层影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-042",
+    "title": "澳洲TEQSA对私立高等教育提供者的监管强度",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-043",
+    "title": "日本文部科学省与NIAD-QE在日本大学评价中的分工",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-044",
+    "title": "新加坡CPE教育信托认证与海外院校合作要求",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-045",
+    "title": "新西兰NZQA学历认证框架对国际申请人的影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-046",
+    "title": "马来西亚MQA认证体系对中国留学生的影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-047",
+    "title": "全球商科认证费用指数AACSB-EQUIS-AMBA年费比较",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-048",
+    "title": "不同认证体系的现场访问标准与流程对比",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-049",
+    "title": "认证体系质量保证机制中的学生参与程度比较",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-050",
+    "title": "认证体系的数据收集与公开透明度对比分析",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-051",
+    "title": "证书有效期从永久认证到周期性续展的趋势",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-052",
+    "title": "留学生如何通过认证信息判断院校真实办学水平",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-053",
+    "title": "认证标识商业化院校在宣传材料中的认证标志使用规范",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-054",
+    "title": "德国FIBAA认证在东欧与中亚的扩张",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-055",
+    "title": "法国CGE大学校联盟认证体系详解",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-056",
+    "title": "国际幼教认证如何影响择校决策",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-057",
+    "title": "商学院排名与认证是两个维度不要混淆",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-058",
+    "title": "工程教育认证对工业4.0时代人才培养的影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-059",
+    "title": "疫情后认证体系的远程评审机制是否可持续",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-060",
+    "title": "微证书与传统学位的认证能否等值互认",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-061",
+    "title": "数字徽章与区块链证书是否将取代传统认证",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-062",
+    "title": "认证机构自身的透明度和问责制",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-063",
+    "title": "认证收费对发展中国家院校是否构成准入壁垒",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-064",
+    "title": "美国联邦政府与认证机构之间的权力博弈",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-065",
+    "title": "英国脱欧对QAA认证框架及欧洲互认的影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-066",
+    "title": "美国六大区域认证机构各自的地理辖区与差异",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-067",
+    "title": "认证与排名的关系相互独立还是相互影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-068",
+    "title": "在线学位项目的认证与传统校园学位有无差别",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-069",
+    "title": "认证体系中校友追踪调查的数据价值",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-070",
+    "title": "中国教育部涉外监管信息网与海外认证体系的衔接",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-071",
+    "title": "澳洲CRICOS注册与TEQSA认证之间的关系",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-072",
+    "title": "香港教育局非本地课程注册与认证制度",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-073",
+    "title": "跨国学位荣誉认证与本土认证的换算逻辑",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-074",
+    "title": "认证术语从Accreditation到Validation的语义辨析",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-075",
+    "title": "学生评价对认证标准的反向驱动",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-076",
+    "title": "认证体系如何回应社会对教育公平的关切",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-077",
+    "title": "认证流程中的利益冲突管理机制",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-078",
+    "title": "认证机构如何评估学校的财务可持续性",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-079",
+    "title": "认证标准中的国际化维度缺少了什么的批评",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-080",
+    "title": "认证体系对双学位和联合学位项目的处理",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-081",
+    "title": "如何向认证机构提交正式投诉",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-082",
+    "title": "持牌专业人士的持续专业发展CPD要求",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-083",
+    "title": "认证与注册在法律意义上的区别",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-084",
+    "title": "为什么有些优秀学校选择不申请AACSB认证",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-085",
+    "title": "认证申请被拒绝后多久可以重新申请",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-086",
+    "title": "澳洲大学注册与大学认证是两套不同体系",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-087",
+    "title": "认证体系对学术自由的影响是保障还是限制",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-088",
+    "title": "认证标准中的多样性公平包容DEI要求",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-089",
+    "title": "雇主如何看待不同认证体系的含金量",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-090",
+    "title": "留学申请中认证信息该如何正确使用",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-091",
+    "title": "认证体系如何应对外包教育和跨国分校的监管挑战",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-092",
+    "title": "高等教育大众化对认证体系提出的新要求",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-093",
+    "title": "国际学生流动对认证标准的跨国趋同压力",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-094",
+    "title": "认证体系如何评估跨境教育提供商",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-095",
+    "title": "全球化背景下的认证标准趋同与分化趋势",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-096",
+    "title": "认证体系的去殖民化议题对全球南方国家的影响",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-097",
+    "title": "ISO认证与教育认证的关联与差异",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-098",
+    "title": "如何构建一个理想的认证体系框架",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-099",
+    "title": "行业认证与学术认证在国家资格框架中的位置",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "insights-100",
+    "title": "认证作为质量信号在信息不对称市场中的作用",
+    "category": "insights",
+    "articleType": "insight",
+    "country": "global",
+    "word_count_target": 3000,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-accreditation",
+    "title": "认证（Accreditation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-certification",
+    "title": "证明（Certification）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-licensing",
+    "title": "牌照（Licensing）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-chartered",
+    "title": "特许（Chartered）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-registered",
+    "title": "注册（Registered）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-triple-crown",
+    "title": "三皇冠认证（Triple Crown）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-quality-assurance",
+    "title": "质量保障（Quality Assurance）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-bologna-process",
+    "title": "博洛尼亚进程（Bologna Process）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-washington-accord",
+    "title": "华盛顿协议（Washington Accord）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-mutual-recognition",
+    "title": "互认协议（Mutual Recognition Agreement）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-nafsa",
+    "title": "NAFSA国际教育协会",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-eaie",
+    "title": "EAIE欧洲国际教育协会",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-apaie",
+    "title": "APAIE亚太国际教育协会",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-qf-ehea",
+    "title": "欧洲高等教育区资格框架（QF-EHEA）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-eqf",
+    "title": "欧洲资格框架（EQF）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-nqf",
+    "title": "国家资格框架（NQF）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-enqa",
+    "title": "ENQA欧洲高等教育质量保障协会",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-eqar",
+    "title": "EQAR欧洲质量保障注册局",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-regional-accreditation",
+    "title": "区域认证（Regional Accreditation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-national-accreditation",
+    "title": "全国认证（National Accreditation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-programmatic-accreditation",
+    "title": "专业认证（Programmatic Accreditation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-institutional-accreditation",
+    "title": "机构认证（Institutional Accreditation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-cricos",
+    "title": "CRICOS联邦招收海外学生院校及课程注册",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-esg-standards",
+    "title": "欧洲高等教育区质量保障标准与指南（ESG）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-self-study",
+    "title": "自评报告（Self-Study Report）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-peer-review",
+    "title": "同行评审（Peer Review）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-site-visit",
+    "title": "现场访问（Site Visit）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-probation",
+    "title": "观察期（Probation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-show-cause",
+    "title": "说明理由（Show Cause）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-withdrawal",
+    "title": "撤销认证（Withdrawal）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-articulation",
+    "title": "学分衔接（Articulation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-reciprocity",
+    "title": "对等承认（Reciprocity）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-naces",
+    "title": "NACES美国学历评估服务协会",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-convalidation",
+    "title": "学历认证（Convalidation）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-benchmark-statement",
+    "title": "基准声明（Benchmark Statement）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-the-ref",
+    "title": "英国研究卓越框架（REF）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-tef",
+    "title": "英国教学卓越框架（TEF）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-micro-credential",
+    "title": "微证书（Micro-credential）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-digital-badge",
+    "title": "数字徽章（Digital Badge）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-blockchain-credential",
+    "title": "区块链证书（Blockchain Credential）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-cefr",
+    "title": "欧洲语言共同参考框架（CEFR）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-ects",
+    "title": "欧洲学分转移与累积系统（ECTS）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-chea-recognized",
+    "title": "CHEA认可（CHEA-recognized）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-usde-recognized",
+    "title": "USDE认可（USDE-recognized）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-aacup",
+    "title": "美国学院与大学协会（AAC&U）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-cpd",
+    "title": "持续专业发展（CPD）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-dei",
+    "title": "多样性·公平·包容（DEI）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-substantive-change",
+    "title": "实质性变更（Substantive Change）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-voluntary-withdrawal",
+    "title": "自愿退出（Voluntary Withdrawal）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "glossary-erasmus-charter",
+    "title": "伊拉斯谟高等教育宪章（ECHE）",
+    "category": "glossary",
+    "articleType": "glossary_term",
+    "country": "global",
+    "word_count_target": 500,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-001",
+    "title": "AACSB认证的商学院含金量更高吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-002",
+    "title": "EQUIS认证和AACSB认证有什么区别",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-003",
+    "title": "三皇冠认证商学院值得多花钱吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-004",
+    "title": "中国有哪些大学获得AACSB认证",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-005",
+    "title": "出国读MBA一定要选认证的商学院吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-006",
+    "title": "AMBA认证只适用于MBA项目吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-007",
+    "title": "ABET认证对工科留学生有多重要",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-008",
+    "title": "澳洲TEQSA注册和CRICOS注册是什么关系",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-009",
+    "title": "英国QAA不是认证机构为什么重要",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-010",
+    "title": "在中国的教育部学历认证里XX国大学算几等",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-011",
+    "title": "留学中介必须有QEAC持牌吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-012",
+    "title": "如何查验留学中介的认证资质",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-013",
+    "title": "ICEF Agency认证和QEAC认证有什么不同",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-014",
+    "title": "找移民顾问要看哪个认证",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-015",
+    "title": "MARN和QEAC有什么区别",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-016",
+    "title": "加拿大的RCIC移民顾问比普通中介靠谱吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-017",
+    "title": "假认证标志怎么识别",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-018",
+    "title": "认证机构的网站上查不到我的学校怎么办",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-019",
+    "title": "Provisional Accreditation和Full Accreditation差别大吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-020",
+    "title": "被撤销认证的学校学位还能用吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-021",
+    "title": "区域性认证比全国性认证含金量高吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-022",
+    "title": "美国区域认证在中国教育部有效吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-023",
+    "title": "在线学历和在校学历在认证上有区别吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-024",
+    "title": "微证书和传统认证是什么关系",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-025",
+    "title": "博洛尼亚进程对我留学有什么实际影响",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-026",
+    "title": "澳洲的大学都有TEQSA注册吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-027",
+    "title": "日本大学哪家认证更受中国教育部认可",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-028",
+    "title": "新加坡的私立大学有哪些认证要求",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-029",
+    "title": "马来西亚的MQA认证国际认可度如何",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-030",
+    "title": "怎么判断一个认证体系是不是国际公认",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-031",
+    "title": "为什么同一个学校有多个不同认证",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-032",
+    "title": "认证有效期过了会怎么样",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-033",
+    "title": "公立大学和私立大学在认证要求上有区别吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-034",
+    "title": "本科认证和研究生认证是分开的吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-035",
+    "title": "不同国家之间的学历互认是怎么运作的",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-036",
+    "title": "留学选校应该更看重排名还是认证",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-037",
+    "title": "认证费用谁出学生要承担吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-038",
+    "title": "认证机构的年报在哪里可以找到",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-039",
+    "title": "澳大利亚的贷款broker需要什么认证",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-040",
+    "title": "美国的贷款officer如何查询持牌状态",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-041",
+    "title": "英国的金融顾问认证包括哪些",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-042",
+    "title": "美国律师考试与ABA认证法学院的关系",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-043",
+    "title": "英国SRA对国际律师有什么要求",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-044",
+    "title": "澳洲律师如何在海外执业",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-045",
+    "title": "JCI认证的医院在中国有哪些",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-046",
+    "title": "AHPRA注册医生在国外怎么核实身份",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-047",
+    "title": "英国的GMC注册医生和专科医生认证是什么关系",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-048",
+    "title": "国际仲裁员的认证有什么要求",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-049",
+    "title": "认证标准和行业标准的区别是什么",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-050",
+    "title": "第三方认证和第一方声明的区别是什么",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-051",
+    "title": "如何验证某机构是否真的持有某项认证",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-052",
+    "title": "认证标志的法律保护有哪些",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-053",
+    "title": "认证过期未续展的机构是否仍在运营",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-054",
+    "title": "认证机构收取申请费的定价机制",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-055",
+    "title": "同一机构可以同时持有多个认证吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-056",
+    "title": "认证体系存在哪些常见的漏洞",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-057",
+    "title": "如何向认证机构举报违规行为",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-058",
+    "title": "认证机构如何处理投诉和申诉",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-059",
+    "title": "认证有效期内的监督机制是什么",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-060",
+    "title": "认证可以从高级别降级到低级别吗",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-061",
+    "title": "认证转移是什么意思",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-062",
+    "title": "联合认证和双重认证有什么区别",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-063",
+    "title": "认证在国家间的效力是否一致",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-064",
+    "title": "认证结果是否可以被司法审查",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-065",
+    "title": "认证过程中的保密原则如何运作",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-066",
+    "title": "认证机构是否有权查询被认证方的内部文件",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-067",
+    "title": "认证机构的董事会成员如何产生",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-068",
+    "title": "认证标准修订的流程和时间周期",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-069",
+    "title": "公众如何参与认证标准的修订",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-070",
+    "title": "认证机构接受哪些机构的监督",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-071",
+    "title": "国际认证联盟是否存在",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-072",
+    "title": "认证结果的跨境承认需要哪些条件",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-073",
+    "title": "认证信息应当如何公开",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-074",
+    "title": "认证标志的使用规范有哪些",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-075",
+    "title": "认证被暂停后需要多长时间恢复",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-076",
+    "title": "认证机构是否能同时提供咨询服务",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-077",
+    "title": "认证结果的等效性评估是如何进行的",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-078",
+    "title": "基于风险的认证方法是什么",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-079",
+    "title": "认证对小型机构是否造成不成比例的负担",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-080",
+    "title": "专业认证与机构认证的异同",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-081",
+    "title": "部委认证与行业认证的效力差异",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-082",
+    "title": "认证结果对保险费率有什么影响",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-083",
+    "title": "认证对市场的信号传递作用",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-084",
+    "title": "如何量化认证的经济价值",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-085",
+    "title": "认证对教育质量的实际提升有多大",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-086",
+    "title": "认证对毕业生的就业竞争力提升程度",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-087",
+    "title": "认证是否能促进教育创新",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-088",
+    "title": "认证与评估Assessment和审计Audit的区别",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-089",
+    "title": "认证是否限制了院校的办学自主权",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-090",
+    "title": "认证标准的制定过程是如何保证多利益相关方参与的",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-091",
+    "title": "认证体系的更新频率是否跟得上社会发展",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-092",
+    "title": "认证是否应该包含对院校治理结构的评价",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-093",
+    "title": "认证中定量指标和定性判断的权重分配",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-094",
+    "title": "认证是否应当公开评分细节",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-095",
+    "title": "认证被拒绝后申诉的成功率是多少",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-096",
+    "title": "学校的宣传材料如何使用认证标志才算合规",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-097",
+    "title": "认证术语的标准化是否有助于国际比较",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-098",
+    "title": "认证是否应区分不同层次的院校",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  },
+  {
+    "slug": "faq-099",
+    "title": "认证的交叉承认能否减少重复认证的负担",
+    "category": "faq",
+    "articleType": "faq_answer",
+    "country": "global",
+    "word_count_target": 1200,
+    "status": "pending"
+  }
+]
