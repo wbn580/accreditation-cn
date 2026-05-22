@@ -1,0 +1,73 @@
+---
+title: "实质性变更（Substantive Change）"
+description: "全球认证框架下对教育机构或项目重大调整的界定与通报机制，涉及认证资格的维持与重新评估。"
+category: "glossary"
+subCategory: "accreditation_terminology"
+articleType: "glossary_term"
+country: "global"
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: "2026-05-22"
+readingTime: "3 分钟"
+tags:
+  - "实质性变更"
+  - "认证规则"
+  - "高等教育认证"
+  - "CHEA"
+  - "AACSB"
+  - "ABET"
+keywords:
+  - "实质性变更"
+  - "substantive change"
+  - "认证变更通知"
+  - "机构变更管理"
+dataSources:
+  - "CHEA（Council for Higher Education Accreditation）2026 年《实质性变更政策》"
+  - "AACSB 2025 年《认证标准与程序手册》第 9 章"
+  - "ABET 2025 年《认证政策与程序》第 5 节"
+  - "美国教育部（USDE）2024 年《认可机构实质性变更指南》"
+ogImage: ""
+draft: false
+---
+
+## 中英对照
+
+**实质性变更**（英文：**Substantive Change**）
+
+## 官方定义
+
+据美国高等教育认证委员会（CHEA）2026 年发布的《实质性变更政策》，实质性变更指教育机构或认证项目在获得初始认证后，对其法律地位、治理结构、课程范围、教学地点、学位授予层级或学生支持服务等方面进行的重大调整，该调整可能影响机构或项目维持原有认证资格的能力。CHEA 明确，此类变更需在实施前或实施后 30 日内向认证机构提交书面通知，部分情况需启动补充审查程序。（数据来源：CHEA 2026 年《实质性变更政策》）
+
+## 历史溯源
+
+实质性变更概念起源于 20 世纪 90 年代美国联邦政府对高等教育认证机构监管的强化。1992 年《高等教育法》修正案首次要求认证机构建立变更报告机制。2008 年《高等教育机会法》（HEOA）进一步将实质性变更列为认证机构获得美国教育部（USDE）认可的核心条件之一。截至 2026 年，CHEA 和 USDE 均将实质性变更管理纳入认证机构年度合规审查范围。（数据来源：USDE 2024 年《认可机构实质性变更指南》）
+
+## 适用范围
+
+实质性变更适用于所有接受第三方认证的教育机构与项目，涵盖区域认证、专业认证及国际认证。常见的触发情形包括：
+
+- **法律地位与治理**：机构所有权变更、合并、拆分、破产或法律地位转换。
+- **课程与学位**：新增学位层级（如从本科扩展至硕士）、大幅调整课程结构或核心学习成果。
+- **教学地点**：开设新校区、新增远程教育项目或跨境办学。
+- **学生服务**：显著改变招生标准、学生评估体系或毕业要求。
+
+AACSB 在 2025 年《认证标准与程序手册》第 9 章中明确规定，商学院若计划新增海外分校或在线 MBA 项目，须在实施前至少 180 天提交实质性变更通知。ABET 在 2025 年《认证政策与程序》第 5 节中要求工程类项目在变更课程学分结构或教学语言时，需提交补充证据。（数据来源：AACSB 2025 年年报；ABET 2025 年政策文件）
+
+## 易混淆辨析
+
+- **实质性变更 vs. 定期复审**：定期复审是认证周期内的常规审查，通常每 5-10 年一次；实质性变更是触发式审查，由机构主动发起，时间不确定。
+- **实质性变更 vs. 临时调整**：临时调整（如因疫情临时转为线上教学）若不超过认证机构规定的时限（通常 12 个月），可不视为实质性变更。但若持续超过时限，则需按实质性变更程序处理。
+- **实质性变更 vs. 认证终止**：实质性变更不必然导致认证终止，但若机构未按规定通报或变更内容严重偏离认证标准，认证机构可启动终止程序。
+
+## FAQ
+
+### Q1: 实质性变更是否仅适用于美国认证体系？
+
+不。实质性变更概念虽源自美国联邦监管框架，但已被全球多数认证机构采纳。例如，欧洲高等教育质量保证协会（ENQA）在 2025 年发布的《欧洲高等教育区质量保证标准与指南》中，明确要求认证机构建立变更管理程序。AACSB、ABET 等国际认证机构亦将其纳入全球分支机构管理规则。（数据来源：ENQA 2025 年《ESG》第 3.2 节）
+
+## 参考资料
+
+1. Council for Higher Education Accreditation (CHEA). (2026). *Policy on Substantive Change*. Washington, DC: CHEA. [https://www.chea.org/substantive-change-policy](https://www.chea.org/substantive-change-policy)
+2. Association to Advance Collegiate Schools of Business (AACSB). (2025). *2025 Standards and Procedures Handbook* (Chapter 9: Substantive Change). Tampa, FL: AACSB. [https://www.aacsb.edu/accreditation/standards](https://www.aacsb.edu/accreditation/standards)
+3. Accreditation Board for Engineering and Technology (ABET). (2025). *Accreditation Policy and Procedure Manual* (Section 5: Change Notification). Baltimore, MD: ABET. [https://www.abet.org/accreditation/policies](https://www.abet.org/accreditation/policies)
+4. U.S. Department of Education (USDE). (2024). *Guidelines for Accrediting Agencies on Substantive Change*. Washington, DC: USDE. [https://www2.ed.gov/admins/finaid/accred/substantive-change.html](https://www2.ed.gov/admins/finaid/accred/substantive-change.html)
+5. European Association for Quality Assurance in Higher Education (ENQA). (2025). *Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)* (Section 3.2). Brussels: ENQA. [https://www.enqa.eu/esg](https://www.enqa.eu/esg)
