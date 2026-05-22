@@ -1,0 +1,40 @@
+---
+// ArticleDisclaimer.astro — End-of-article disclaimer block
+export interface Props {
+  dataSources?: { name: string; url?: string }[];
+  publishDate?: string;
+}
+const { dataSources = [], publishDate = '—' } = Astro.props;
+---
+<hr class="my-10 border-divider" />
+
+<section class="text-sm text-ink-600 leading-relaxed" aria-label="数据来源与免责声明">
+  <!-- 数据来源 -->
+  <h3 class="font-serif text-base font-bold text-ink-800 mb-2">数据来源</h3>
+  {dataSources.length > 0 ? (
+    <ul class="list-disc pl-5 space-y-1 mb-6">
+      {dataSources.map((ds) => (
+        <li>
+          {ds.name}
+          {ds.url && (
+            <>（<a href={ds.url} class="text-primary-600 underline" target="_blank" rel="noopener noreferrer">原文链接</a>）</>
+          )}
+        </li>
+      ))}
+    </ul>
+  ) : (
+    <p class="mb-6">本文数据来源于各机构官方网站及公开发布的年度报告、公开数据库等公开渠道。</p>
+  )}
+
+  <!-- 整理日期 -->
+  <h3 class="font-serif text-base font-bold text-ink-800 mb-2">本文整理日期</h3>
+  <p class="mb-6">{publishDate}</p>
+
+  <!-- 免责声明 -->
+  <h3 class="font-serif text-base font-bold text-ink-800 mb-2">免责声明</h3>
+  <p>
+    本文内容为公开信息汇编，<strong>仅供参考</strong>。本文不构成法律、教育、移民或任何形式的专业建议。
+    涉及您本人申请、认证、移民等重要决策时，请直接咨询相应<strong>持牌专业人士</strong>或访问<strong>相应机构官方渠道</strong>。
+    本文数据可能存在更新延迟，最终以各机构官方公告为准。
+  </p>
+</section>

@@ -1,0 +1,27 @@
+---
+// AccreditationOverviewCard.astro — Metadata card for an accreditation system
+export interface Props {
+  name: string;
+  nameEn?: string;
+  org: string;
+  orgUrl?: string;
+  founded?: number;
+  headquarters?: string;
+  scope?: string;
+  globalCount?: string;
+  chinaCount?: string;
+}
+
+const { name, nameEn, org, orgUrl, founded, headquarters, scope, globalCount, chinaCount } = Astro.props;
+---
+<div class="bg-white border border-divider rounded-sm p-5 my-4 not-prose">
+  <h4 class="font-serif text-lg font-bold text-ink-900 mb-3">{name}{nameEn ? ` · ${nameEn}` : ''}</h4>
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm text-ink-600">
+    <div><span class="font-medium text-ink-700">认证机构：</span>{orgUrl ? <a href={orgUrl} class="text-primary-600 underline" target="_blank" rel="noopener">{org}</a> : org}</div>
+    {founded != null && <div><span class="font-medium text-ink-700">成立年份：</span>{founded} 年</div>}
+    {headquarters && <div><span class="font-medium text-ink-700">总部：</span>{headquarters}</div>}
+    {scope && <div><span class="font-medium text-ink-700">适用范围：</span>{scope}</div>}
+    {globalCount && <div><span class="font-medium text-ink-700">全球认证数：</span>{globalCount}</div>}
+    {chinaCount && <div><span class="font-medium text-ink-700">中国大陆：</span>{chinaCount}</div>}
+  </div>
+</div>

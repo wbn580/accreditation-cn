@@ -1,0 +1,23 @@
+{
+  "name": "accreditation-cn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Global Accreditation Registry · 全球认证体系中文权威信息汇编",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "astro": "^5.7.0",
+    "typescript": "^5.8.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "tailwindcss": "^4.1.0",
+    "wrangler": "^4.0.0"
+  }
+}

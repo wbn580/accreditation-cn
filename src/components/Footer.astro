@@ -1,0 +1,85 @@
+---
+// Footer.astro — Detailed multi-section footer with disclaimer
+---
+<footer class="border-t border-divider bg-white mt-16">
+  <div class="max-w-6xl mx-auto px-5 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 text-sm text-ink-600 leading-relaxed">
+
+      <!-- 1. 关于本站 -->
+      <section>
+        <h3 class="font-serif text-base font-bold text-ink-900 mb-3">关于本站</h3>
+        <ul class="space-y-2 list-none p-0 m-0">
+          <li>本站是独立运营的信息汇编平台，由民间研究团队维护。</li>
+          <li>与所有列示机构、政府部门、认证体系无任何隶属、合作、代理关系。</li>
+          <li>不接受商业合作、推广、广告投放。</li>
+        </ul>
+      </section>
+
+      <!-- 2. 数据声明 -->
+      <section>
+        <h3 class="font-serif text-base font-bold text-ink-900 mb-3">数据声明</h3>
+        <ul class="space-y-2 list-none p-0 m-0">
+          <li>本站数据来自各机构公开发布的信息、官方网站、年度报告、公开数据库等公开渠道。</li>
+          <li>已尽力核对数据准确性，但不对数据的完整性、时效性、准确性作出任何明示或暗示的担保。</li>
+          <li>数据可能存在延迟，最终以各机构官方公告为准。</li>
+          <li>本站不存储任何用户个人信息。</li>
+        </ul>
+      </section>
+
+      <!-- 3. 使用限制 -->
+      <section>
+        <h3 class="font-serif text-base font-bold text-ink-900 mb-3">使用限制</h3>
+        <ul class="space-y-2 list-none p-0 m-0">
+          <li>本站内容仅供学习、研究、信息参考之用。</li>
+          <li><strong>不构成</strong>法律建议、移民建议、教育规划建议、金融建议或任何形式的专业咨询。</li>
+          <li>涉及您本人的重要决策时，请<strong>直接咨询相应持牌专业人士</strong>或访问相关机构官方渠道。</li>
+        </ul>
+      </section>
+
+      <!-- 4. 联系我们 -->
+      <section>
+        <h3 class="font-serif text-base font-bold text-ink-900 mb-3">联系我们</h3>
+        <ul class="space-y-2 list-none p-0 m-0">
+          <li>数据更正建议：feedback@accreditation.cn</li>
+          <li class="text-ink-400">（仅接受数据更正反馈，不接受咨询）</li>
+          <li>不接受商业合作邮件。</li>
+          <li class="text-ink-500 mt-1"><strong>本站编辑不持任何相关认证/持牌资质</strong>，请勿向本站咨询认证或申请相关业务。</li>
+        </ul>
+      </section>
+
+      <!-- 5. 导航 -->
+      <section>
+        <h3 class="font-serif text-base font-bold text-ink-900 mb-3">导航</h3>
+        <ul class="space-y-1 list-none p-0 m-0">
+          <li><a href="/disclaimer" class="text-ink-600 hover:text-primary-600 underline">完整免责声明</a></li>
+          <li><a href="/methodology" class="text-ink-600 hover:text-primary-600 underline">编辑方法论</a></li>
+          <li><a href="/data-sources" class="text-ink-600 hover:text-primary-600 underline">数据来源</a></li>
+          <li><a href="/about" class="text-ink-600 hover:text-primary-600 underline">关于本站</a></li>
+        </ul>
+      </section>
+
+      <!-- 6. 搜索 -->
+      <section>
+        <h3 class="font-serif text-base font-bold text-ink-900 mb-3">查找认证</h3>
+        <form action="/search" method="GET" class="flex gap-2">
+          <input
+            type="search"
+            name="q"
+            placeholder="输入机构或认证名称…"
+            class="flex-1 px-3 py-2 border border-divider rounded text-sm focus:outline-none focus:border-primary-400 focus:ring-1 focus:ring-primary-200"
+            aria-label="搜索认证体系"
+          />
+          <button type="submit" class="px-4 py-2 bg-primary-600 text-white text-sm rounded hover:bg-primary-700 transition-colors">
+            搜索
+          </button>
+        </form>
+      </section>
+    </div>
+
+    <!-- 底部署名 -->
+    <div class="mt-10 pt-6 border-t border-divider text-xs text-ink-400 text-center space-y-1">
+      <p id="last-updated">本站最后更新：2026-05-22 · 版本 v1.0</p>
+      <p>本站由民间研究团队独立维护。与任何政府部门、认证机构均无隶属关系。</p>
+    </div>
+  </div>
+</footer>

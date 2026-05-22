@@ -1,0 +1,79 @@
+---
+// ArticleLayout.astro — Layout for individual articles
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import DisclaimerBanner from '../components/DisclaimerBanner.astro';
+import ArticleDisclaimer from '../components/ArticleDisclaimer.astro';
+import '../styles/global.css';
+
+export interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  canonicalURL?: string;
+  publishDate?: string;
+  category?: string;
+  categoryLabel?: string;
+  readingTime?: number;
+  tags?: string[];
+  dataSources?: { name: string; url?: string }[];
+  schema?: string;
+}
+
+const {
+  title, description, ogImage, canonicalURL,
+  publishDate, category, categoryLabel, readingTime,
+  tags = [], dataSources = [],
+} = Astro.props;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <BaseHead {title} {description} {ogImage} {canonicalURL} />
+    {Astro.props.schema && <script type="application/ld+json" set:html={Astro.props.schema}></script>}
+  </head>
+  <body class="bg-paper-50 text-ink-900 font-sans min-h-screen flex flex-col">
+    <Header />
+    <DisclaimerBanner />
+    <main class="flex-1">
+      <article class="prose prose--wide py-12">
+        <!-- Breadcrumb -->
+        <nav class="text-sm text-ink-400 mb-6" aria-label="面包屑导航">
+          <a href="/" class="hover:text-primary-600">首页</a>
+          {category && (
+            <>
+              <span class="mx-2">/</span>
+              <a href={`/${category}/`} class="hover:text-primary-600">{categoryLabel || category}</a>
+            </>
+          )}
+          <span class="mx-2">/</span>
+          <span class="text-ink-600">{title}</span>
+        </nav>
+
+        <!-- Article Header -->
+        <header class="mb-8">
+          <h1 class="text-3xl font-serif font-bold text-ink-900 leading-tight mb-4">{title}</h1>
+          <div class="flex flex-wrap gap-x-5 gap-y-1 text-sm text-ink-500">
+            {publishDate && <time datetime={publishDate}>整理日期：{publishDate}</time>}
+            {readingTime != null && <span>阅读约 {readingTime} 分钟</span>}
+          </div>
+          {tags.length > 0 && (
+            <div class="flex flex-wrap gap-2 mt-3">
+              {tags.map((tag) => (
+                <span class="px-2 py-0.5 bg-primary-50 text-primary-700 text-xs rounded">{tag}</span>
+              ))}
+            </div>
+          )}
+        </header>
+
+        <!-- Article Body -->
+        <slot />
+
+        <!-- Article Disclaimer -->
+        <ArticleDisclaimer {dataSources} {publishDate} />
+      </article>
+    </main>
+    <Footer />
+  </body>
+</html>

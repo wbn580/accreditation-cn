@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="页面未找到" description="404 — 您访问的页面不存在。">
+
+<div class="max-w-lg mx-auto px-5 py-20 text-center">
+  <h1 class="font-serif text-6xl font-bold text-primary-500 mb-4">404</h1>
+  <h2 class="font-serif text-xl font-bold text-ink-900 mb-4">页面未找到</h2>
+  <p class="text-ink-500 mb-8">您访问的页面可能已被移除、地址有误，或暂时不可用。</p>
+  <div class="flex flex-col sm:flex-row gap-3 justify-center">
+    <a href="/" class="px-6 py-3 bg-primary-600 text-white rounded hover:bg-primary-700 transition-colors">返回首页</a>
+    <a href="/glossary/" class="px-6 py-3 border border-divider rounded text-ink-600 hover:border-primary-300 transition-colors">浏览词汇表</a>
+  </div>
+</div>
+
+</BaseLayout>

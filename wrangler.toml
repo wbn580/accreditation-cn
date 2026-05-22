@@ -1,0 +1,15 @@
+# wrangler.toml — Cloudflare Workers + Static Assets
+name = "accreditation-cn"
+compatibility_date = "2025-01-01"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+not_found_handling = "404-page"
+
+[observability]
+enabled = true
+
+# Custom domains will be added post-deploy:
+# accreditation.cn — apex
+# www.accreditation.cn — 301 redirect to apex

@@ -1,0 +1,94 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="全球认证信息汇编"
+  description="全球认证体系中文权威信息汇编平台。独立运营，覆盖高等院校、留学中介、移民顾问、金融顾问、律师律所、医师机构等专业认证体系的数据查询、标准解读与深度分析。"
+>
+
+<!-- Hero -->
+<section class="max-w-3xl mx-auto px-5 pt-16 pb-10 text-center">
+  <h1 class="font-serif text-3xl md:text-4xl font-bold text-ink-900 leading-tight mb-4">
+    全球认证体系中文权威信息汇编
+  </h1>
+  <p class="text-lg text-ink-600 max-w-xl mx-auto mb-2">
+    独立运营的信息汇编平台
+  </p>
+  <p class="text-base text-ink-500 max-w-2xl mx-auto leading-relaxed">
+    本平台独立整理并收录全球主要认证体系（accreditation body）的公开信息——涵盖高等院校、留学中介、移民顾问、金融顾问、律师律所、医师机构等专业认证领域。所有数据均来自各机构官方网站及公开发布的年度报告，以中文呈现，便于中国大陆读者查阅。
+  </p>
+
+  <!-- Search Bar -->
+  <form action="/search" method="GET" class="mt-8 max-w-lg mx-auto flex gap-2">
+    <input
+      type="search"
+      name="q"
+      placeholder="搜索认证体系或机构名称…"
+      class="flex-1 px-4 py-3 border border-divider rounded text-base focus:outline-none focus:border-primary-400 focus:ring-2 focus:ring-primary-100"
+      aria-label="搜索"
+    />
+    <button type="submit" class="px-6 py-3 bg-primary-600 text-white rounded hover:bg-primary-700 transition-colors font-medium">
+      搜索
+    </button>
+  </form>
+</section>
+
+<!-- Category Grid -->
+<section class="max-w-6xl mx-auto px-5 py-10">
+  <h2 class="font-serif text-xl font-bold text-ink-900 mb-8 text-center">认证体系分类浏览</h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+    <a href="/university/" class="block p-6 bg-white border border-divider rounded-sm hover:border-primary-300 transition-colors group">
+      <h3 class="font-serif text-lg font-bold text-ink-900 mb-2 group-hover:text-primary-600">高等院校认证</h3>
+      <p class="text-sm text-ink-500">AACSB / EQUIS / AMBA / ABET / CHEA / TEQSA / QAA 等</p>
+    </a>
+    <a href="/agent/" class="block p-6 bg-white border border-divider rounded-sm hover:border-primary-300 transition-colors group">
+      <h3 class="font-serif text-lg font-bold text-ink-900 mb-2 group-hover:text-primary-600">留学中介认证</h3>
+      <p class="text-sm text-ink-500">QEAC / ICEF Agency / BAC / AIRC / ICCRC-Education / NACAC</p>
+    </a>
+    <a href="/migration/" class="block p-6 bg-white border border-divider rounded-sm hover:border-primary-300 transition-colors group">
+      <h3 class="font-serif text-lg font-bold text-ink-900 mb-2 group-hover:text-primary-600">移民顾问认证</h3>
+      <p class="text-sm text-ink-500">MARN / LCM / CICC / OISC / HKSIA / MARA</p>
+    </a>
+    <a href="/broker/" class="block p-6 bg-white border border-divider rounded-sm hover:border-primary-300 transition-colors group">
+      <h3 class="font-serif text-lg font-bold text-ink-900 mb-2 group-hover:text-primary-600">金融顾问认证</h3>
+      <p class="text-sm text-ink-500">MFAA / FBAA / NMLS / CMBA / FCA Broker / HKMA</p>
+    </a>
+    <a href="/legal/" class="block p-6 bg-white border border-divider rounded-sm hover:border-primary-300 transition-colors group">
+      <h3 class="font-serif text-lg font-bold text-ink-900 mb-2 group-hover:text-primary-600">律师律所认证</h3>
+      <p class="text-sm text-ink-500">ABA / SRA / LCAQ / Law Society 系列 / 国际仲裁机构</p>
+    </a>
+    <a href="/medical/" class="block p-6 bg-white border border-divider rounded-sm hover:border-primary-300 transition-colors group">
+      <h3 class="font-serif text-lg font-bold text-ink-900 mb-2 group-hover:text-primary-600">医师机构认证</h3>
+      <p class="text-sm text-ink-500">JCI / AHPRA / GMC / ABMS / 香港医务委员会</p>
+    </a>
+  </div>
+
+  <!-- Secondary nav -->
+  <div class="flex flex-wrap justify-center gap-4 mt-8">
+    <a href="/insights/" class="px-4 py-2 border border-divider rounded-sm text-sm text-ink-600 hover:border-primary-300 hover:text-primary-600 transition-colors">
+      深度分析
+    </a>
+    <a href="/glossary/" class="px-4 py-2 border border-divider rounded-sm text-sm text-ink-600 hover:border-primary-300 hover:text-primary-600 transition-colors">
+      术语词汇表
+    </a>
+    <a href="/faq/" class="px-4 py-2 border border-divider rounded-sm text-sm text-ink-600 hover:border-primary-300 hover:text-primary-600 transition-colors">
+      常见问题
+    </a>
+    <a href="/news/" class="px-4 py-2 border border-divider rounded-sm text-sm text-ink-600 hover:border-primary-300 hover:text-primary-600 transition-colors">
+      政策更新
+    </a>
+  </div>
+</section>
+
+<!-- Key Stats -->
+<section class="max-w-4xl mx-auto px-5 py-8 text-center">
+  <p class="text-sm text-ink-400">
+    本站由民间研究团队独立维护 · 非官方机构 · 不接受商业合作 · 
+    <a href="/disclaimer" class="underline text-ink-500 hover:text-primary-600">完整免责声明</a>
+    ·
+    <a href="/methodology" class="underline text-ink-500 hover:text-primary-600">编辑方法论</a>
+  </p>
+</section>
+
+</BaseLayout>

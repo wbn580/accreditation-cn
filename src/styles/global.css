@@ -1,0 +1,184 @@
+@import "tailwindcss";
+
+/* ─── Design Tokens ─── */
+@theme {
+  /* 主色：深邃藏蓝（部委系 + 学会冷静感） */
+  --color-primary-50: #f0f5fa;
+  --color-primary-100: #dce6f2;
+  --color-primary-200: #b9cde5;
+  --color-primary-300: #8dadd2;
+  --color-primary-400: #6087ba;
+  --color-primary-500: #1A365D;
+  --color-primary-600: #152d4e;
+  --color-primary-700: #0f2440;
+  --color-primary-800: #0b1c33;
+  --color-primary-900: #08172a;
+
+  /* 强调色：朱印红（中式权威印章感） */
+  --color-accent-50: #fef2f2;
+  --color-accent-100: #fee2e2;
+  --color-accent-200: #fecaca;
+  --color-accent-300: #fca5a5;
+  --color-accent-400: #f87171;
+  --color-accent-500: #B91C1C;
+  --color-accent-600: #991B1B;
+  --color-accent-700: #7f1d1d;
+  --color-accent-800: #671717;
+  --color-accent-900: #450a0a;
+
+  /* 文字：墨黑系 */
+  --color-ink-900: #1F2937;
+  --color-ink-800: #283545;
+  --color-ink-700: #374151;
+  --color-ink-600: #4B5563;
+  --color-ink-500: #6B7280;
+  --color-ink-400: #9CA3AF;
+
+  /* 背景：米白宣纸感 */
+  --color-paper-50: #FAFAF7;
+  --color-paper-100: #F4F4EF;
+  --color-paper-200: #EBEBE4;
+  --color-paper-300: #DDDDD3;
+
+  /* 边框 */
+  --color-divider: #E5E7EB;
+  --color-divider-strong: #9CA3AF;
+
+  /* 警示色 */
+  --color-warning-50: #FEF3C7;
+  --color-warning-100: #FDE68A;
+  --color-warning-500: #D97706;
+  --color-warning-700: #92400E;
+
+  /* 字体 */
+  --font-serif: "Noto Serif CJK SC", "Source Han Serif SC", "PingFang SC", "Songti SC", serif;
+  --font-sans: "Noto Sans CJK SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-mono: "JetBrains Mono", "SF Mono", "Consolas", monospace;
+}
+
+/* ─── Base ─── */
+html {
+  font-family: var(--font-sans);
+  color: var(--color-ink-900);
+  background: var(--color-paper-50);
+  scroll-behavior: smooth;
+}
+
+body {
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Typography ─── */
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--color-ink-900);
+}
+
+h1 { font-size: 2rem; letter-spacing: -0.02em; }
+h2 { font-size: 1.5rem; margin-top: 2.5rem; }
+h3 { font-size: 1.25rem; margin-top: 1.75rem; }
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+a {
+  color: var(--color-primary-500);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+a:hover {
+  color: var(--color-accent-600);
+}
+
+/* ─── Prose ─── */
+.prose {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.prose--wide {
+  max-width: 48rem;
+}
+
+/* ─── Table (dense data-centric) ─── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  margin: 1.5rem 0;
+}
+
+thead {
+  background: var(--color-primary-500);
+  color: white;
+}
+
+th {
+  font-weight: 600;
+  text-align: left;
+  padding: 0.625rem 0.875rem;
+  font-family: var(--font-sans);
+}
+
+td {
+  padding: 0.5rem 0.875rem;
+  border-bottom: 1px solid var(--color-divider);
+}
+
+tr:nth-child(even) td {
+  background: var(--color-paper-100);
+}
+
+/* ─── Blockquote ─── */
+blockquote {
+  border-left: 3px solid var(--color-primary-300);
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: var(--color-paper-100);
+  font-style: normal;
+}
+
+/* ─── Code ─── */
+code {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+  background: var(--color-paper-200);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+}
+
+pre {
+  background: #1e293b;
+  color: #e2e8f0;
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  font-size: 0.875rem;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+}
+
+/* ─── Utility ─── */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

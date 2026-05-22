@@ -1,0 +1,15 @@
+# humans.txt — accreditation.cn
+
+/* TEAM */
+Editorial Board: Independent research team
+Location: Global
+Contact: feedback@accreditation.cn
+
+/* SITE */
+Language: zh-CN (primary), en (secondary)
+Framework: Astro
+Deployment: Cloudflare Workers + Static Assets
+Last updated: 2026-05-22
+
+/* THANKS */
+All accreditation bodies whose public data makes this compilation possible.

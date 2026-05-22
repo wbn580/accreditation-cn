@@ -1,0 +1,33 @@
+---
+// CategoryLayout.astro — Category index page layout
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import DisclaimerBanner from '../components/DisclaimerBanner.astro';
+import '../styles/global.css';
+
+export interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <BaseHead {title} {description} />
+  </head>
+  <body class="bg-paper-50 text-ink-900 font-sans min-h-screen flex flex-col">
+    <Header />
+    <DisclaimerBanner />
+    <main class="flex-1">
+      <div class="prose prose--wide py-12">
+        <h1 class="font-serif">{title}</h1>
+        <p class="text-ink-500">{description}</p>
+        <slot />
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>

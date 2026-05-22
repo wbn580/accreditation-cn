@@ -1,0 +1,16 @@
+---
+// DataSourceCitation.astro — Data source + last verified date tag
+export interface Props {
+  sources: string;
+  lastVerified: string;
+}
+
+const { sources, lastVerified } = Astro.props;
+---
+<div class="inline-flex items-center gap-2 px-3 py-1 bg-paper-100 border border-divider rounded-sm text-xs text-ink-500 not-prose">
+  <span class="font-medium text-ink-700">数据来源</span>
+  <span>{sources}</span>
+  <span class="mx-1 text-divider-strong">|</span>
+  <span class="font-medium text-ink-700">最后核对</span>
+  <time datetime={lastVerified}>{lastVerified}</time>
+</div>

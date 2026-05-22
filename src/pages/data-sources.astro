@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="数据来源清单"
+  description="全球认证信息汇编的数据来源清单——列出本站使用的所有数据来源，含来源名称、URL、数据获取日期和数据字段。"
+>
+
+<div class="prose prose--wide py-12">
+  <h1>数据来源清单</h1>
+  <p class="text-ink-500">最后更新：2026-05-22</p>
+
+  <p>以下列出本平台编制过程中引用的主要数据来源。每条标注来源名称、官方网址及该来源贡献的数据字段类别。本清单将随平台内容扩展持续更新。</p>
+
+  <h2>高等院校认证</h2>
+  <table>
+    <thead>
+      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>AACSB</td><td>aacsb.edu</td><td>商学院认证名单、认证标准、全球统计</td></tr>
+      <tr><td>EFMD Global (EQUIS)</td><td>efmdglobal.org</td><td>EQUIS 认证院校、EFMD 项目认证</td></tr>
+      <tr><td>AMBA / BGA</td><td>mbaworld.com</td><td>MBA/DBA/MM 项目认证名单</td></tr>
+      <tr><td>ABET</td><td>abet.org</td><td>工程与技术专业认证</td></tr>
+      <tr><td>CHEA (美国)</td><td>chea.org</td><td>美国高教认证机构总名录</td></tr>
+      <tr><td>TEQSA (澳洲)</td><td>teqsa.gov.au</td><td>澳洲高等教育提供者注册</td></tr>
+      <tr><td>QAA (英国)</td><td>qaa.ac.uk</td><td>英国高等教育质量保障</td></tr>
+      <tr><td>NIAD-QE (日本)</td><td>niad.ac.jp</td><td>日本大学评价与学位授予</td></tr>
+      <tr><td>HKCAAVQ (香港)</td><td>hkcaavq.edu.hk</td><td>香港学术及职业资历评审</td></tr>
+      <tr><td>中国教育部学位中心</td><td>chsi.com.cn</td><td>学位认证服务、涉外监管信息</td></tr>
+    </tbody>
+  </table>
+
+  <h2>留学中介认证</h2>
+  <table>
+    <thead>
+      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>QEAC (原 PIER)</td><td>—</td><td>澳洲留学中介持牌资格</td></tr>
+      <tr><td>ICEF Agency</td><td>icef.com</td><td>国际教育中介认证机构</td></tr>
+      <tr><td>BAC (英国)</td><td>the-bac.org</td><td>英国留学中介认证</td></tr>
+      <tr><td>AIRC (美国)</td><td>airc-education.org</td><td>美国国际招生中介认证</td></tr>
+      <tr><td>NACAC</td><td>nacacnet.org</td><td>美国大学招生咨询协会</td></tr>
+    </tbody>
+  </table>
+
+  <h2>移民顾问认证</h2>
+  <table>
+    <thead>
+      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>OMARA (澳洲)</td><td>omara.gov.au</td><td>澳洲注册移民代理登记册</td></tr>
+      <tr><td>IAA (新西兰)</td><td>iaa.govt.nz</td><td>新西兰持牌移民顾问</td></tr>
+      <tr><td>CICC (加拿大)</td><td>college-ic.ca</td><td>加拿大移民和公民顾问</td></tr>
+      <tr><td>OISC (英国)</td><td>oisc.gov.uk</td><td>英国移民服务专员</td></tr>
+      <tr><td>HKSIA (香港)</td><td>hksia.org.hk</td><td>香港移民服务行业协会</td></tr>
+    </tbody>
+  </table>
+
+  <h2>金融顾问认证</h2>
+  <table>
+    <thead>
+      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>MFAA (澳洲)</td><td>mfaa.com.au</td><td>澳洲贷款经纪协会</td></tr>
+      <tr><td>FBAA (澳洲)</td><td>fbaa.com.au</td><td>澳洲金融经纪协会</td></tr>
+      <tr><td>NMLS (美国)</td><td>nmlsconsumeraccess.org</td><td>美国贷款发起人注册</td></tr>
+      <tr><td>FCA (英国)</td><td>fca.org.uk</td><td>英国金融行为监管局</td></tr>
+      <tr><td>HKMA (香港)</td><td>hkma.org.hk</td><td>香港金融管理局持牌机构</td></tr>
+    </tbody>
+  </table>
+
+  <p class="text-sm text-ink-400 mt-8">* 数据获取日期和具体字段贡献详见各认证体系对应文章的数据来源段。本清单可能因新增数据来源而不定期更新。</p>
+</div>
+
+</BaseLayout>

@@ -1,0 +1,22 @@
+---
+// ArticleCard.astro — Compact article card
+export interface Props {
+  href: string;
+  title: string;
+  description: string;
+  publishDate?: string;
+  readingTime?: number;
+  category?: string;
+}
+
+const { href, title, description, publishDate, readingTime, category } = Astro.props;
+---
+<a href={href} class="block p-5 bg-white border border-divider rounded-sm hover:border-primary-300 transition-colors group no-underline">
+  <div class="flex items-center gap-2 text-xs text-ink-400 mb-2">
+    {category && <span class="px-2 py-0.5 bg-primary-50 text-primary-600 rounded">{category}</span>}
+    {publishDate && <time>{publishDate}</time>}
+  </div>
+  <h3 class="font-serif text-lg font-bold text-ink-900 group-hover:text-primary-600 mb-1.5">{title}</h3>
+  <p class="text-sm text-ink-500 line-clamp-2">{description}</p>
+  {readingTime != null && <span class="text-xs text-ink-400 mt-2 inline-block">阅读约 {readingTime} 分钟</span>}
+</a>

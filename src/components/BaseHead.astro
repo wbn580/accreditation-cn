@@ -1,0 +1,61 @@
+---
+// BaseHead.astro — Common <head> for all pages
+export interface Props {
+  title: string;
+  description: string;
+  canonicalURL?: string;
+  ogImage?: string;
+  schema?: string;
+}
+const {
+  title,
+  description,
+  canonicalURL = 'https://accreditation.cn',
+  ogImage = '/og-images/default.svg',
+} = Astro.props;
+---
+
+<!-- Primary Meta -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>{title} · 全球认证信息汇编</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Open Graph -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:image" content={new URL(ogImage, 'https://accreditation.cn').href} />
+<meta property="og:site_name" content="全球认证信息汇编" />
+<meta property="og:locale" content="zh_CN" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+
+<!-- GEO / AI -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+<meta name="googlebot" content="index, follow" />
+<link rel="alternate" hreflang="zh-CN" href={canonicalURL} />
+<link rel="alternate" hreflang="x-default" href={canonicalURL} />
+
+<!-- Structured Data -->
+<script type="application/ld+json" set:html={`
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "全球认证信息汇编",
+  "url": "https://accreditation.cn",
+  "description": "全球认证体系中文权威信息汇编平台。独立运营，非官方机构。",
+  "publisher": {
+    "@type": "Organization",
+    "name": "全球认证信息汇编"
+  }
+}
+`}></script>
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="alternate icon" href="/favicon.ico" />
