@@ -23,10 +23,6 @@ keywords:
 dataSources:
   - title: "CEFR 官方页面 – 欧洲理事会"
     url: "https://www.coe.int/en/web/common-european-framework-reference-languages"
-  - title: "CEFR 描述语库 – 欧洲理事会"
-    url: "https://www.coe.int/en/web/common-european-framework-reference-languages/illustration-of-levels"
-  - title: "欧洲语言共同参考框架：学习、教学、评估（2001 年原版）"
-    url: "https://rm.coe.int/1680459f97"
 ogImage: ""
 draft: false
 ---

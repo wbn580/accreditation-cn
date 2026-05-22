@@ -12,8 +12,6 @@ tags: ["澳大利亚高等教育", "大学注册", "大学认证", "TEQSA", "ASQ
 keywords: ["澳洲大学注册", "澳洲大学认证", "TEQSA 认证", "ASQA 注册", "CRICOS 注册", "澳大利亚学历资格框架", "AQF 标准", "高等教育监管"]
 dataSources:
   - "https://www.teqsa.gov.au/national-register"
-  - "https://www.asqa.gov.au/registered-training-organisations"
-  - "https://www.aqf.edu.au/aqf-qualifications"
 ogImage: ""
 draft: false
 ---

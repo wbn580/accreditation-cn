@@ -13,10 +13,6 @@ keywords: [ICEF认证, 国际教育中介, 认证标准, 认证范围, 全球统
 dataSources:
   - name: ICEF 官方认证页面
     url: https://www.icef.com/accreditation
-  - name: ICEF 2025 年度认证报告
-    url: https://www.icef.com/reports
-  - name: 国际教育协会 (IIE) 全球流动数据
-    url: https://www.iie.org/research-initiatives
 ogImage: https://accreditation.cn/images/icef-overview-2026.jpg
 draft: false
 ---

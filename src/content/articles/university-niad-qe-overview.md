@@ -12,8 +12,6 @@ tags: ["NIAD-QE", "日本大学评价", "学位授予", "认证标准", "高等�
 keywords: ["NIAD-QE", "日本大学评价与学位授予机构", "大学认证", "日本高等教育", "学位授予", "认证标准", "2026"]
 dataSources: [
     "https://www.niad.ac.jp/english/",
-    "https://www.mext.go.jp/en/policy/education/index.htm",
-    "https://www.chea.org/portal-directory"
 ]
 ogImage: "https://accreditation.cn/images/niad-qe-overview-2026.jpg"
 draft: false

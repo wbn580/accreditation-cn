@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles
+    .filter(a => !a.data.draft)
+    .map(a => ({
+      params: { slug: a.id },
+      props: { article: a },
+    }));
+}
+
+const { article } = Astro.props;
+const { Content } = await article.render();
+const data = article.data;
+---
+<ArticleLayout
+  title={data.title}
+  description={data.description || ''}
+  ogImage={data.ogImage}
+  canonicalURL={`https://accreditation.cn/${article.id}`}
+  publishDate={typeof data.publishDate === 'string' ? data.publishDate : data.publishDate?.toISOString?.() || ''}
+  category={data.category}
+  readingTime={typeof data.readingTime === 'number' ? data.readingTime : parseInt(data.readingTime) || undefined}
+  tags={Array.isArray(data.tags) ? data.tags.map(String) : []}
+  dataSources={Array.isArray(data.dataSources) ? data.dataSources : []}
+>
+  <Content />
+</ArticleLayout>

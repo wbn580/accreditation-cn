@@ -23,14 +23,6 @@ keywords:
 dataSources:
   - title: "INQAAHE Guidelines for Cross-Border Higher Education"
     url: "https://www.inqaahe.org/guidelines-cross-border-higher-education"
-  - title: "CHEA International Quality Group (CIQG) International Recognition Directory"
-    url: "https://www.chea.org/ciqg-directory"
-  - title: "UNESCO Global Convention on the Recognition of Qualifications concerning Higher Education"
-    url: "https://unesdoc.unesco.org/ark:/48223/pf0000380979"
-  - title: "AACSB 2026 Annual Report"
-    url: "https://www.aacsb.edu/insights/reports/2026-annual-report"
-  - title: "EQAR Annual Report 2025"
-    url: "https://www.eqar.eu/publications/annual-reports/2025/"
 ogImage: "https://accreditation.cn/images/insights-cross-border-accreditation-2026.jpg"
 draft: false
 ---

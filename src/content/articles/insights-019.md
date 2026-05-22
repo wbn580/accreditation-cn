@@ -13,10 +13,6 @@ keywords: ["认证体系", "反野鸡大学", "学位认证", "AACSB认证", "EQ
 dataSources:
   - title: "AACSB 2026年度年报"
     url: "https://www.aacsb.edu/about-us/data-and-reports/annual-report"
-  - title: "CHEA 2025年认证机构名录与更新"
-    url: "https://www.chea.org/directories"
-  - title: "中国教育部留学服务中心国（境）外学历学位认证系统"
-    url: "https://cscse.edu.cn"
 ogImage: "/images/insights/accreditation-anti-diploma-mills-2026.jpg"
 draft: false
 ---

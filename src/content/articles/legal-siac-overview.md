@@ -27,10 +27,6 @@ keywords:
 dataSources:
   - title: "SIAC 2025 年度年报"
     url: "https://www.siac.org.sg/annual-reports"
-  - title: "SIAC 仲裁规则 2025 版"
-    url: "https://www.siac.org.sg/our-rules"
-  - title: "新加坡国际仲裁法（第 143A 章）"
-    url: "https://sso.agc.gov.sg/Act/IAA1994"
 ogImage: "https://www.siac.org.sg/themes/custom/siac/images/og-image.jpg"
 draft: false
 ---

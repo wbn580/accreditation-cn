@@ -26,10 +26,6 @@ keywords:
 dataSources:
   - source: "Law Council of Australia — Overseas Practitioner Registration"
     url: "https://www.lawcouncil.asn.au/policy-agenda/admission-to-the-legal-profession/overseas-practitioners"
-  - source: "Legal Profession Admission Board (LPAB) NSW — Assessment Guidelines 2025"
-    url: "https://www.lpab.justice.nsw.gov.au/Pages/assessments/overseas-qualifications.aspx"
-  - source: "Victorian Legal Admissions Board (VLAB) — Overseas Applicants 2025"
-    url: "https://www.vlab.vic.gov.au/overseas-applicants"
 ogImage: "https://accreditation.cn/images/au-legal-accreditation-guide-2026.jpg"
 draft: false
 ---

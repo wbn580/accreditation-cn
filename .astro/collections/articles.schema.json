@@ -8,89 +8,90 @@
           "type": "string"
         },
         "description": {
-          "type": "string"
+          "type": "string",
+          "default": ""
         },
         "category": {
-          "type": "string",
-          "enum": [
-            "university",
-            "agent",
-            "migration",
-            "broker",
-            "legal",
-            "medical",
-            "insights",
-            "glossary",
-            "faq",
-            "news"
+          "type": [
+            "string",
+            "null"
           ]
         },
         "subCategory": {
-          "type": "string"
+          "type": [
+            "string",
+            "null"
+          ]
         },
         "articleType": {
-          "type": "string",
-          "enum": [
-            "overview",
-            "history",
-            "criteria",
-            "accredited_list",
-            "how_to_apply",
-            "faq",
-            "comparison",
-            "case_studies",
-            "insight",
-            "glossary_term",
-            "faq_answer"
-          ]
+          "type": "string"
         },
         "country": {
           "type": "string",
           "default": "global"
         },
         "publishDate": {
-          "type": "string"
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                {
+                  "type": "string",
+                  "format": "date"
+                },
+                {
+                  "type": "integer",
+                  "format": "unix-time"
+                }
+              ]
+            }
+          ]
         },
         "lastVerified": {
-          "type": "string"
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                {
+                  "type": "string",
+                  "format": "date"
+                },
+                {
+                  "type": "integer",
+                  "format": "unix-time"
+                }
+              ]
+            }
+          ]
         },
         "readingTime": {
-          "type": "number"
+          "type": [
+            "number",
+            "string"
+          ]
         },
         "tags": {
           "type": "array",
-          "items": {
-            "type": "string"
-          },
           "default": []
         },
         "keywords": {
           "type": "array",
-          "items": {
-            "type": "string"
-          },
           "default": []
         },
         "dataSources": {
           "type": "array",
-          "items": {
-            "type": "object",
-            "properties": {
-              "name": {
-                "type": "string"
-              },
-              "url": {
-                "type": "string"
-              },
-              "fetchedDate": {
-                "type": "string"
-              }
-            },
-            "required": [
-              "name"
-            ],
-            "additionalProperties": false
-          },
           "default": []
         },
         "ogImage": {
@@ -106,14 +107,9 @@
         }
       },
       "required": [
-        "title",
-        "description",
-        "category",
-        "articleType",
-        "publishDate",
-        "lastVerified"
+        "title"
       ],
-      "additionalProperties": false
+      "additionalProperties": true
     }
   },
   "$schema": "http://json-schema.org/draft-07/schema#"

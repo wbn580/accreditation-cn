@@ -13,10 +13,6 @@ keywords: [认证标志使用规范, 院校宣传合规, 认证标识商业化, 
 dataSources:
   - title: AACSB Accreditation Standards (2026)
     url: https://www.aacsb.edu/accreditation/standards
-  - title: EQUIS Standards & Criteria (2025)
-    url: https://www.efmdglobal.org/accreditations/equis/equis-standards/
-  - title: AMBA Accreditation Guidance for Accredited Schools (2025)
-    url: https://www.associationofmbas.com/business-schools/accreditation/
 ogImage: https://accreditation.cn/images/og-insight-logo-compliance.jpg
 draft: false
 ---

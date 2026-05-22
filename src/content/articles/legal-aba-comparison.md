@@ -26,10 +26,6 @@ keywords:
 dataSources:
   - title: ABA 法律教育与律师资格准入部门官方认证列表
     url: https://www.americanbar.org/groups/legal_education/resources/aba_approved_law_schools/
-  - title: Association of American Law Schools (AALS) 会员学校目录
-    url: https://www.aals.org/membership/member-schools/
-  - title: National Conference of Bar Examiners (NCBE) 律师资格准入指南
-    url: https://www.ncbex.org/exams/mpre/
 ogImage: https://accreditation.cn/og/aba-comparison-2026.jpg
 draft: false
 ---

@@ -12,8 +12,6 @@ tags: ["CHEA", "高等教育认证", "美国认证", "质量保障", "国际比�
 keywords: ["CHEA对比", "美国高等教育认证委员会", "AACSB", "ABET", "认证体系差异", "全球认证机构"]
 dataSources: [
   "https://www.chea.org/",
-  "https://www.aacsb.edu/",
-  "https://www.abet.org/"
 ]
 ogImage: "https://accreditation.cn/images/chea-comparison-og.png"
 draft: false

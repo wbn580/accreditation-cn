@@ -23,10 +23,6 @@ keywords:
 dataSources:
   - title: "OISC 官方手册（2026 版）"
     url: "https://www.gov.uk/government/publications/oisc-code-of-standards"
-  - title: "OISC 2025 年度报告"
-    url: "https://www.gov.uk/government/publications/oisc-annual-report-2025"
-  - title: "英国移民规则（Immigration Rules）2026 年更新"
-    url: "https://www.gov.uk/guidance/immigration-rules"
 ogImage: "https://accreditation.cn/images/og-oisc-standards-2026.jpg"
 draft: false
 ---

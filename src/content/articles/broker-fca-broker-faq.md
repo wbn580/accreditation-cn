@@ -23,10 +23,6 @@ keywords:
 dataSources:
   - title: FCA 金融行为监管局官方网站
     url: https://www.fca.org.uk/
-  - title: FCA 金融服务登记册
-    url: https://register.fca.org.uk/
-  - title: FCA 2026 年度报告与账目
-    url: https://www.fca.org.uk/publication/annual-reports/annual-report-2025-26.pdf
 ogImage: "https://www.fca.org.uk/static/images/og-default.png"
 draft: false
 ---

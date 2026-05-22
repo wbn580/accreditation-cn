@@ -12,8 +12,6 @@ tags: ["NIAD-QE", "日本大学评价", "学位授予", "申请流程", "高等�
 keywords: ["NIAD-QE 申请", "日本大学评价", "学位授予流程", "认证申请指南", "日本高等教育质量保障"]
 dataSources: [
   "https://www.niad.ac.jp/english/",
-  "https://www.mext.go.jp/en/policy/education/index.htm",
-  "https://www.jabee.org/english/"
 ]
 ogImage: "/images/niad-qe-guide-2026-og.jpg"
 draft: false

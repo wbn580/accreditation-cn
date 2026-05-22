@@ -23,14 +23,6 @@ keywords:
 dataSources:
   - title: "马来西亚资格认证局（MQA）官方网站"
     url: "https://www.mqa.gov.my"
-  - title: "中国教育部留学服务中心（CSCSE）认证系统"
-    url: "https://www.cscse.edu.cn"
-  - title: "联合国教科文组织（UNESCO）全球高等教育认证数据库"
-    url: "https://www.unesco.org/en/education/higher-education/recognition"
-  - title: "马来西亚高等教育部（KPT）统计年报"
-    url: "https://www.mohe.gov.my/en/statistics"
-  - title: "中国教育部教育涉外监管信息网"
-    url: "http://www.jsj.edu.cn"
 ogImage: "https://accreditation.cn/images/insights/malaysia-mqa-chinese-students-2026.jpg"
 draft: false
 ---

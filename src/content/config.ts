@@ -5,31 +5,20 @@ const articles = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
-    description: z.string(),
-    category: z.enum([
-      'university', 'agent', 'migration', 'broker',
-      'legal', 'medical', 'insights', 'glossary', 'faq', 'news',
-    ]),
-    subCategory: z.string().optional(),
-    articleType: z.enum([
-      'overview', 'history', 'criteria', 'accredited_list',
-      'how_to_apply', 'faq', 'comparison', 'case_studies',
-      'insight', 'glossary_term', 'faq_answer',
-    ]),
-    country: z.string().default('global'),
-    publishDate: z.string(),
-    lastVerified: z.string(),
-    readingTime: z.number().optional(),
-    tags: z.array(z.string()).default([]),
-    keywords: z.array(z.string()).default([]),
-    dataSources: z.array(z.object({
-      name: z.string(),
-      url: z.string().optional(),
-      fetchedDate: z.string().optional(),
-    })).default([]),
-    ogImage: z.string().default('/og-images/default.svg'),
-    draft: z.boolean().default(false),
-  }),
+    description: z.string().optional().default(''),
+    category: z.string().nullable().optional(),
+    subCategory: z.string().nullable().optional(),
+    articleType: z.string().optional(),
+    country: z.string().optional().default('global'),
+    publishDate: z.union([z.string(), z.date()]).optional(),
+    lastVerified: z.union([z.string(), z.date()]).optional(),
+    readingTime: z.union([z.number(), z.string()]).optional(),
+    tags: z.array(z.any()).optional().default([]),
+    keywords: z.array(z.any()).optional().default([]),
+    dataSources: z.array(z.any()).optional().default([]),
+    ogImage: z.string().optional().default('/og-images/default.svg'),
+    draft: z.boolean().optional().default(false),
+  }).passthrough(),  // accept extra fields from DSPro
 });
 
 export const collections = { articles };

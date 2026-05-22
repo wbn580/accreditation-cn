@@ -13,14 +13,6 @@ keywords: [三皇冠认证商学院, 三重认证, AACSB认证, EQUIS认证, AMB
 dataSources:
   - title: AACSB 2026年度年报
     url: https://www.aacsb.edu/accreditation/accredited-schools
-  - title: EFMD EQUIS Accredited Schools 2026
-    url: https://www.efmd.org/accreditation/equis/accredited-schools
-  - title: AMBA Accredited Schools List 2026
-    url: https://www.associationofmbas.com/accreditation/accredited-schools
-  - title: Financial Times Global MBA Ranking 2026
-    url: https://www.ft.com/content/global-mba-ranking-2026
-  - title: QS World University Rankings: Business Masters 2026
-    url: https://www.topuniversities.com/university-rankings/business-masters-rankings/2026
 ogImage: /images/triple-crown-business-schools-2026.jpg
 draft: false
 ---

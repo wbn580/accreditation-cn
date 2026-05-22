@@ -13,14 +13,6 @@ keywords: ["学生参与度", "认证质量保证", "AACSB学生代表", "EQUIS�
 dataSources:
   - title: "AACSB 2026 Accreditation Standards"
     url: "https://www.aacsb.edu/accreditation/standards"
-  - title: "EQUIS Standards & Criteria 2025"
-    url: "https://www.efmdglobal.org/accreditations/equis/equis-standards/"
-  - title: "ABET Accreditation Criteria 2025-2026"
-    url: "https://www.abet.org/accreditation/accreditation-criteria/"
-  - title: "CHEA 2025 Student Involvement in Accreditation Report"
-    url: "https://www.chea.org/student-involvement"
-  - title: "ENQA 2026 Standards and Guidelines for Quality Assurance in the EHEA (ESG)"
-    url: "https://www.enqa.eu/esg-standards-and-guidelines/"
 ogImage: ""
 draft: false
 ---
