@@ -17,27 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "三皇冠认证（Triple Crown）"
-description: "三皇冠认证（Triple Crown）是商学院领域由AACSB、AMBA、EQUIS三大国际认证机构联合授予的顶级认证组合。本词条整理其定义、历史溯源、适用范围及常见混淆概念。"
-category: "glossary"
-subCategory: "认证术语"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: "3分钟"
-tags: ["三皇冠认证", "Triple Crown", "AACSB", "AMBA", "EQUIS", "商学院认证", "国际认证"]
-keywords: ["三皇冠认证", "Triple Crown accreditation", "商学院三重认证", "AACSB认证", "AMBA认证", "EQUIS认证", "商学院质量认证"]
-dataSources:
-  - "AACSB 2026年度年报: https://www.aacsb.edu"
-  - "AMBA 2025年度报告: https://www.associationofmbas.com"
-  - "EFMD 2026年EQUIS认证标准: https://www.efmdglobal.org"
-ogImage: "https://accreditation.cn/images/glossary/triple-crown-og.png"
-draft: false
----
-
 ## 中英对照
 
 **三皇冠认证**（英文：Triple Crown accreditation），亦称“三重认证”或“商学院三重认证”。
@@ -91,4 +70,3 @@ draft: false
 3. EFMD. (2026). *EQUIS Standards and Criteria 2026*. Retrieved from https://www.efmdglobal.org
 4. 教育部学位与研究生教育发展中心. (2025). *境外认证机构认可名单（2025年版）*. Retrieved from https://www.cdgdc.edu.cn
 5. 国际高等教育认证委员会（CHEA）. (2025). *Directory of Recognized Accreditation Organizations*. Retrieved from https://www.chea.org
-```

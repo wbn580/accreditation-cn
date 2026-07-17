@@ -1,25 +1,5 @@
 ---
 title: "雇主如何看待不同认证体系的含金量"
-description: "本文为雇主如何看待不同认证体系的含金量的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["雇主如何看待不同认证体系的含金量"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "雇主如何看待不同认证体系的含金量"
 description: "基于2025-2026年全球雇主调查与人力资源行业数据，分析AACSB、EQUIS、AMBA等主流商科认证体系在招聘决策中的实际权重与认知差异。"
 category: "insights"
 subCategory: "accreditation"
@@ -50,7 +30,6 @@ dataSources:
 ogImage: "https://accreditation.cn/og/employer-view-accreditation-2026.png"
 draft: false
 ---
-
 # 雇主如何看待不同认证体系的含金量
 
 ## 导语
@@ -81,12 +60,11 @@ draft: false
 
 GMAC 2025年数据进一步量化了认证的“溢价效应”：
 
-| 认证组合 | 毕业生平均起薪溢价（对比无认证院校） | 第一轮面试通过率提升 |
-|----------|--------------------------------------|----------------------|
-| AACSB 仅 | +12%                                 | +18%                 |
-| EQUIS 仅 | +8%                                  | +14%                 |
-| AMBA 仅  | +5%                                  | +9%                  |
-| 三重认证 | +20%                                 | +27%                 |
+- **AACSB 仅**: +12% · +18%
+- **EQUIS 仅**: +8% · +14%
+- **AMBA 仅**: +5% · +9%
+- **三重认证**: +20% · +27%
+
 
 注：样本为全球500强企业2025年校招数据，控制院校排名、专业、行业变量后计算（数据来源：GMAC 2025 Corporate Recruiters Survey, Section 4.2）。
 

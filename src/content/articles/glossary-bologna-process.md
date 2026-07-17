@@ -1,25 +1,5 @@
 ---
 title: "博洛尼亚进程（Bologna Process）"
-description: "本文为博洛尼亚进程（Bologna Process）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["博洛尼亚进程（Bologna Process）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "博洛尼亚进程（Bologna Process）"
 description: "博洛尼亚进程是欧洲高等教育区（EHEA）的核心改革框架，旨在通过统一学位结构、质量保障体系与学分互认机制，促进欧洲各国高等教育的可比性与流动性。本词条依据官方文件与学术文献，梳理其定义、历史、适用范围及常见混淆点。"
 category: "术语"
 subCategory: "高等教育治理"
@@ -51,8 +31,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/glossary/bologna-process-og.jpg"
 draft: false
 ---
-```
-
 ## 中英对照
 
 **中文**：博洛尼亚进程  
@@ -78,12 +56,11 @@ draft: false
 
 ## 易混淆辨析
 
-| 易混淆概念 | 与博洛尼亚进程的关系 |
-|------------|----------------------|
-| **欧盟高等教育政策** | 博洛尼亚进程独立于欧盟机构，但欧盟委员会作为观察员参与协调。 |
-| **里斯本公约（1997）** | 该公约为博洛尼亚进程的学历认可提供了法律基础，但进程本身不取代公约。 |
-| **欧洲学分转换系统（ECTS）** | ECTS 是博洛尼亚进程的配套工具，而非进程本身。 |
-| **欧洲大学协会（EUA）** | EUA 是进程的咨询机构，负责协调大学层面的反馈。 |
+- **欧盟高等教育政策**: 博洛尼亚进程独立于欧盟机构，但欧盟委员会作为观察员参与协调。
+- **里斯本公约（1997）**: 该公约为博洛尼亚进程的学历认可提供了法律基础，但进程本身不取代公约。
+- **欧洲学分转换系统（ECTS）**: ECTS 是博洛尼亚进程的配套工具，而非进程本身。
+- **欧洲大学协会（EUA）**: EUA 是进程的咨询机构，负责协调大学层面的反馈。
+
 
 ## FAQ
 

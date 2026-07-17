@@ -1,25 +1,5 @@
 ---
 title: "TEQSA 澳洲高等教育质量与标准署：历史演变与关键里程碑"
-description: "本文为TEQSA 澳洲高等教育质量与标准署：历史演变与关键里程碑的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "teqsa"
-articleType: "history"
-country: "au"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["teqsa", "university"]
-keywords: ["TEQSA 澳洲高等教育质量与标准署：历史演变与关键里程碑"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "TEQSA 澳洲高等教育质量与标准署：历史演变与关键里程碑"
 description: "本文系统梳理澳大利亚高等教育质量与标准署（TEQSA）的创立背景、关键里程碑、重大改革与近年演变，基于官方文件与公开数据，提供第三方中立的历史信息汇编。"
 category: "university"
 subCategory: "accreditation"
@@ -48,7 +28,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/teqsa-history-og.png"
 draft: false
 ---
-
 # TEQSA 澳洲高等教育质量与标准署：历史演变与关键里程碑
 
 ## 导言

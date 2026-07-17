@@ -1,25 +1,5 @@
 ---
 title: "QEAC 澳洲留学中介持牌资格：认证标准逐条详解"
-description: "本文为QEAC 澳洲留学中介持牌资格：认证标准逐条详解的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "agent"
-subCategory: "qeac"
-articleType: "criteria"
-country: "au"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["qeac", "agent"]
-keywords: ["QEAC 澳洲留学中介持牌资格：认证标准逐条详解"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/agent-default.svg"
-draft: false
----
-```yaml
----
-title: "QEAC 澳洲留学中介持牌资格：认证标准逐条详解"
 description: "依据澳大利亚教育部与澳大利亚留学中介监管机构（OMARA）公开文件，逐条解析 QEAC 认证标准，包括教育背景、从业经验、道德准则与持续合规要求。"
 category: "agent"
 subCategory: "accreditation"
@@ -48,8 +28,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/qeac-australia-2026.jpg"
 draft: false
 ---
-```
-
 # QEAC 澳洲留学中介持牌资格：认证标准逐条详解
 
 ## 认证标准总览

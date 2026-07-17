@@ -17,37 +17,6 @@ dataSources:
 ogImage: "/og-images/medical-default.svg"
 draft: false
 ---
-```markdown
----
-title: "ABMS 美国医学专科委员会：认证标准逐条详解"
-description: "依据 ABMS 2026 年度官方文件，逐条解析美国医学专科委员会（ABMS）认证标准，涵盖总览、详解、演进及常见问题。"
-category: "medical"
-subCategory: "accreditation"
-articleType: "criteria"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 15
-tags:
-  - ABMS
-  - 美国医学专科委员会
-  - 医学认证
-  - 专科医师认证
-  - 认证标准
-keywords:
-  - ABMS 认证标准
-  - 美国医学专科委员会
-  - 专科医师认证
-  - 医学认证要求
-  - 认证标准详解
-dataSources:
-  - "ABMS 2026 年度报告：Standards for Accreditation of Medical Specialty Boards"
-  - "ABMS 官方网站：https://www.abms.org"
-  - "ABMS 2025 年认证政策更新公告"
-ogImage: "https://accreditation.cn/images/abms-standards-2026.jpg"
-draft: false
----
-
 # ABMS 美国医学专科委员会：认证标准逐条详解
 
 截至 2026 年 5 月，**美国医学专科委员会**（American Board of Medical Specialties, ABMS）共认证 26 个专科领域，涵盖 150 个以上的亚专科（数据来源：ABMS 2026 年度报告）。ABMS 认证标准旨在确保专科医师的教育、培训、评估与持续专业发展符合严格的质量框架。本文依据 ABMS 官方 2026 年版《认证标准》（Standards for Accreditation of Medical Specialty Boards）逐条详解核心要求。

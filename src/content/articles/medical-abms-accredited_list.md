@@ -1,25 +1,5 @@
 ---
 title: "ABMS 美国医学专科委员会：全球受认证机构名单"
-description: "本文为ABMS 美国医学专科委员会：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "medical"
-subCategory: "abms"
-articleType: "accredited_list"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["abms", "medical"]
-keywords: ["ABMS 美国医学专科委员会：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/medical-default.svg"
-draft: false
----
-```yaml
----
-title: "ABMS 美国医学专科委员会：全球受认证机构名单"
 description: "本汇编整理美国医学专科委员会（ABMS）截至2026年5月认证的医学专科机构名单，按地区分组列出，并附数据说明与解读。数据来源包括ABMS官方年度报告、美国医学会（AMA）数据库及联邦认证数据库。"
 category: "medical"
 subCategory: "accreditation"
@@ -38,17 +18,16 @@ tags:
 keywords:
   - ABMS认证机构名单
   - 美国医学专科委员会
-  dataSources:
-    - url: "https://www.abms.org/board-certification/"
-      title: "ABMS Board Certification Overview"
-    - url: "https://www.ama-assn.org/topics/board-certification"
-      title: "AMA Board Certification Data"
-    - url: "https://accreditation.org/medical"
-      title: "Accreditation.cn Medical Directory"
+dataSources:
+  - url: "https://www.abms.org/board-certification/"
+    title: "ABMS Board Certification Overview"
+  - url: "https://www.ama-assn.org/topics/board-certification"
+    title: "AMA Board Certification Data"
+  - url: "https://accreditation.org/medical"
+    title: "Accreditation.cn Medical Directory"
 ogImage: "https://accreditation.cn/images/abms-certified-boards-2026.jpg"
 draft: false
 ---
-
 # ABMS 美国医学专科委员会：全球受认证机构名单
 
 截至 2026 年 5 月，美国医学专科委员会（American Board of Medical Specialties, ABMS）共认证 **24 个医学专科机构**，涵盖超过 **150 个专科与亚专科领域**。据 ABMS 2026 年度年报数据，全球范围内持有 ABMS 认证的医师总数超过 **95 万人**，其中约 88% 在美国执业，其余分布在加拿大、澳大利亚、英国等 40 余个国家和地区。本汇编基于 ABMS 官方公开名录、美国医学会（AMA）认证数据库及联邦认证数据库整理，所列机构均为截至 2026 年 5 月仍保持有效认证状态。

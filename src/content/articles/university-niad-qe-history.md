@@ -1,25 +1,5 @@
 ---
 title: "NIAD-QE 日本大学评价与学位授予：历史演变与关键里程碑"
-description: "本文为NIAD-QE 日本大学评价与学位授予：历史演变与关键里程碑的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "niad-qe"
-articleType: "history"
-country: "jp"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["niad-qe", "university"]
-keywords: ["NIAD-QE 日本大学评价与学位授予：历史演变与关键里程碑"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "NIAD-QE 日本大学评价与学位授予：历史演变与关键里程碑"
 description: "本文梳理 NIAD-QE（日本大学评价与学位授予机构）自 2000 年创立以来的历史演变，涵盖创立背景、关键里程碑、重大改革与近年动态，为高等教育质量保障研究者提供第三方中立信息汇编。"
 category: "高等教育"
 subCategory: "质量保障"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "https://www.niad.ac.jp/ogimage.jpg"
 draft: false
 ---
-
 # NIAD-QE 日本大学评价与学位授予：历史演变与关键里程碑
 
 ## 引言

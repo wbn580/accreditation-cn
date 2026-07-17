@@ -16,7 +16,7 @@ const articles = defineCollection({
     tags: z.array(z.any()).optional().default([]),
     keywords: z.array(z.any()).optional().default([]),
     dataSources: z.array(z.any()).optional().default([]),
-    ogImage: z.string().optional().default('/og-images/default.svg'),
+    ogImage: z.string().optional().default('/og-images/default.png'),
     draft: z.boolean().optional().default(false),
   }).passthrough(),  // accept extra fields from DSPro
 });

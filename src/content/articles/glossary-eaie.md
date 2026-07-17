@@ -1,25 +1,5 @@
 ---
 title: "EAIE欧洲国际教育协会"
-description: "本文为EAIE欧洲国际教育协会的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["EAIE欧洲国际教育协会"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "EAIE欧洲国际教育协会"
 description: "EAIE（European Association for International Education）是欧洲高等教育国际化领域的核心专业协会，为全球教育工作者提供知识共享、专业发展及政策倡导平台。本词条梳理其官方定义、历史沿革、适用范围及与同类组织的辨析。"
 category: "glossary"
 subCategory: "专业协会"
@@ -48,8 +28,6 @@ dataSources:
 ogImage: "https://www.eaie.org/static/og-image.png"
 draft: false
 ---
-```
-
 # EAIE欧洲国际教育协会
 
 ## 中英对照与官方定义

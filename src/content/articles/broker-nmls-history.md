@@ -1,25 +1,5 @@
 ---
 title: "NMLS 美国全国多州许可系统：历史演变与关键里程碑"
-description: "本文为NMLS 美国全国多州许可系统：历史演变与关键里程碑的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "broker"
-subCategory: "nmls"
-articleType: "history"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["nmls", "broker"]
-keywords: ["NMLS 美国全国多州许可系统：历史演变与关键里程碑"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/broker-default.svg"
-draft: false
----
-```yaml
----
-title: "NMLS 美国全国多州许可系统：历史演变与关键里程碑"
 description: "本文梳理 NMLS（美国全国多州许可系统）的创立背景、关键发展里程碑及近年改革，基于公开监管数据与行业报告，为从业者与研究者提供中立的系统沿革参考。"
 category: "broker"
 subCategory: "licensing"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "https://accreditation.cn/assets/images/nmls-history-og.png"
 draft: false
 ---
-
 # NMLS 美国全国多州许可系统：历史演变与关键里程碑
 
 ## 引言：NMLS 的监管角色与行业定位

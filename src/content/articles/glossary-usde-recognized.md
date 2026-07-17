@@ -1,25 +1,5 @@
 ---
 title: "USDE认可（USDE-recognized）"
-description: "本文为USDE认可（USDE-recognized）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["USDE认可（USDE-recognized）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "USDE认可（USDE-recognized）"
 description: "USDE认可指美国教育部（U.S. Department of Education）对高等教育认证机构的官方承认，是确保认证机构资质和院校学位公信力的核心机制。"
 category: "认证体系"
 subCategory: "认证机构认可"
@@ -47,7 +27,6 @@ dataSources:
 ogImage: "/images/og/usde-recognized-glossary.jpg"
 draft: false
 ---
-
 ## 中英对照
 
 - **中文术语**：美国教育部认可（USDE认可）
@@ -75,13 +54,12 @@ USDE认可主要适用于以下场景：
 
 ### USDE认可 vs. CHEA认可
 
-| 维度 | USDE认可 | CHEA认可 |
-|------|----------|----------|
-| 主管机构 | 美国教育部（联邦政府） | 高等教育认证委员会（非政府组织） |
-| 法律依据 | 《高等教育法》Title IV | 行业自律章程 |
-| 核心目的 | 保障联邦资助的合规性 | 提升认证质量与学术标准 |
-| 认可对象 | 认证机构 | 认证机构 |
-| 数据来源 | U.S. Department of Education, 2026 | Council for Higher Education Accreditation, 2025 |
+- **主管机构**: 美国教育部（联邦政府） · 高等教育认证委员会（非政府组织）
+- **法律依据**: 《高等教育法》Title IV · 行业自律章程
+- **核心目的**: 保障联邦资助的合规性 · 提升认证质量与学术标准
+- **认可对象**: 认证机构 · 认证机构
+- **数据来源**: U.S. Department of Education, 2026 · Council for Higher Education Accreditation, 2025
+
 
 两者并非互斥。部分认证机构同时获得USDE和CHEA认可（如Higher Learning Commission），但USDE认可侧重于联邦资金合规，CHEA认可侧重于学术质量保障。
 
@@ -109,4 +87,3 @@ A1: 可通过美国教育部官方数据库“Database of Accredited Postseconda
 4. U.S. Congress. (1965). *Higher Education Act of 1965* (Public Law 89-329). https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg1219.pdf
 5. National Center for Education Statistics. (2025). *Integrated Postsecondary Education Data System (IPEDS)*. https://nces.ed.gov/ipeds/
 6. Federal Student Aid. (2026). *Accreditation and the Role of the U.S. Department of Education*. https://studentaid.gov/understand-aid/eligibility/requirements/accreditation
-```

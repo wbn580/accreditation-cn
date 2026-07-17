@@ -1,25 +1,5 @@
 ---
 title: "博洛尼亚进程对欧洲高等教育认证的深层影响"
-description: "本文为博洛尼亚进程对欧洲高等教育认证的深层影响的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["博洛尼亚进程对欧洲高等教育认证的深层影响"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "博洛尼亚进程对欧洲高等教育认证的深层影响"
 description: "本文基于欧洲高等教育区（EHEA）官方数据与多国认证机构年报，分析博洛尼亚进程自1999年启动以来，如何系统性重塑欧洲高等教育认证的框架、标准与运行逻辑。"
 category: "insights"
 subCategory: "深度分析"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/insights/bologna-process-impact-og.png"
 draft: false
 ---
-
 # 博洛尼亚进程对欧洲高等教育认证的深层影响
 
 ## 导语

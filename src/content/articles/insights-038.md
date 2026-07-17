@@ -1,25 +1,5 @@
 ---
 title: "EAIE-NAFSA-APAIE三大国际教育协会职能对比"
-description: "本文为EAIE-NAFSA-APAIE三大国际教育协会职能对比的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["EAIE-NAFSA-APAIE三大国际教育协会职能对比"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "EAIE-NAFSA-APAIE三大国际教育协会职能对比"
 description: "基于2025-2026年公开年报与政策文件，系统对比欧洲国际教育协会（EAIE）、美国国际教育工作者协会（NAFSA）与亚太国际教育协会（APAIE）的职能定位、核心服务与全球影响力。"
 category: "insights"
 subCategory: "国际教育治理"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "/images/insights/eai-nafsa-apaie-comparison-og.jpg"
 draft: false
 ---
-
 # EAIE-NAFSA-APAIE三大国际教育协会职能对比
 
 截至2026年5月，全球国际教育领域形成了以欧洲国际教育协会（EAIE）、美国国际教育工作者协会（NAFSA）与亚太国际教育协会（APAIE）为核心的三大区域组织架构。依据三机构2025-2026年度公开年报，EAIE拥有注册会员约3,200个机构（EAIE 2026年报），NAFSA个人会员超过11,000人（NAFSA 2026年报），APAIE机构会员约450个（APAIE 2026年报）。三者虽同属国际教育专业协会，但在职能定位、核心服务与政策影响力上存在显著差异。本汇编基于公开数据，对三大协会的职能进行系统对比分析。

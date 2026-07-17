@@ -17,38 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "区域认证（Regional Accreditation）"
-description: "区域认证是美国高等教育领域的一种质量保障机制，由经认可的认证机构对特定地理区域内的高等院校进行整体性认证。本词条提供中英对照、官方定义、历史溯源、适用范围及易混淆辨析。"
-category: "glossary"
-subCategory: "accreditation"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: "3分钟"
-tags:
-  - "区域认证"
-  - "regional accreditation"
-  - "高等教育认证"
-  - "美国认证体系"
-  - "认证机构"
-keywords:
-  - "区域认证"
-  - "regional accreditation"
-  - "美国高等教育认证"
-  - "认证机构"
-  - "CHEA"
-  - "USDE"
-dataSources:
-  - "Council for Higher Education Accreditation (CHEA). 'Regional Accreditation.' CHEA, 2026. https://www.chea.org/regional-accreditation"
-  - "U.S. Department of Education (USDE). 'Accreditation in the United States.' USDE, 2025. https://www.ed.gov/accreditation"
-  - "Western Association of Schools and Colleges (WASC). 'Accreditation Overview.' WASC, 2026. https://www.wascsenior.org/accreditation-overview"
-ogImage: "/images/glossary/regional-accreditation-og.jpg"
-draft: false
----
-
 ## 中英对照
 
 **中文术语**：区域认证  
@@ -89,4 +57,3 @@ draft: false
 - New England Commission of Higher Education (NECHE). "History of Accreditation." NECHE, 2025. https://www.neche.org/about/history
 - Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). "Accreditation Principles." SACSCOC, 2026. https://sacscoc.org/accreditation-principles
 - Higher Learning Commission (HLC). "Regional Accreditation: A Primer." HLC, 2025. https://www.hlcommission.org/accreditation/primer
-```

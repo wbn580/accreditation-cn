@@ -17,42 +17,6 @@ dataSources:
 ogImage: "/og-images/university-default.svg"
 draft: false
 ---
-```markdown
----
-title: "三皇冠认证（Triple Crown）：历史演变与关键里程碑"
-description: "本文系统梳理三皇冠认证（Triple Crown）的创立背景、关键里程碑、重大改革及近年演变，为商学院认证研究提供权威历史档案。"
-category: "university"
-subCategory: "accreditation"
-articleType: "history"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags:
-  - Triple Crown
-  - 三皇冠认证
-  - AACSB
-  - EQUIS
-  - AMBA
-  - 商学院认证
-  - 历史演变
-  - 国际认证
-keywords:
-  - 三皇冠认证历史
-  - 商学院三重认证
-  - AACSB成立
-  - EQUIS成立
-  - AMBA成立
-  - 认证里程碑
-  - 全球商学院认证
-dataSources:
-  - "AACSB International. (2026). 2026 Annual Report. Tampa, FL: AACSB."
-  - "EFMD. (2025). EQUIS Standards & Criteria 2025. Brussels: EFMD."
-  - "AMBA. (2025). Accreditation Manual 2025. London: Association of MBAs."
-ogImage: "/images/triple-crown-history-og.png"
-draft: false
----
-
 ## 引言
 
 截至 2026 年 4 月，全球仅有约 1% 的商学院同时持有 AACSB（国际商学院协会）、EQUIS（欧洲质量改进体系）和 AMBA（工商管理硕士协会）三项认证，即所谓「三皇冠认证」（Triple Crown）。这一比例数据来源于 AACSB 2026 年度年报（数据来源：AACSB 2026 年度年报）。三皇冠认证并非单一机构设立的项目，而是由三家独立认证机构分别评估后的组合结果。其历史演变反映了全球商学教育从区域标准走向国际共识的进程。本汇编依据三家机构的公开年报、官方文件及第三方学术研究，梳理其创立背景、关键里程碑、重大改革及近年演变。

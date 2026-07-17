@@ -1,25 +1,5 @@
 ---
 title: "EQUIS 欧洲质量改进体系：申请流程完整指南"
-description: "本文为EQUIS 欧洲质量改进体系：申请流程完整指南的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "equis"
-articleType: "how_to_apply"
-country: "eu"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["equis", "university"]
-keywords: ["EQUIS 欧洲质量改进体系：申请流程完整指南"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "EQUIS 欧洲质量改进体系：申请流程完整指南"
 description: "本文基于 EFMD 官方文件与历年认证数据，系统梳理 EQUIS 认证的申请条件、分步流程、时间线与费用结构，并归纳常见被拒原因。适用于希望了解欧洲商学院认证标准的高等教育机构管理者与研究人员。"
 category: "university"
 subCategory: "accreditation"
@@ -37,8 +17,6 @@ dataSources:
 ogImage: "https://accreditation.cn/og/equis-guide-2026.jpg"
 draft: false
 ---
-```
-
 # EQUIS 欧洲质量改进体系：申请流程完整指南
 
 ## 引言：EQUIS 认证的定位与适用范围
@@ -93,12 +71,11 @@ EFMD 从认证专家库中选派 **4-5 名**评审员组成评审小组，成员
 
 ### 时间线概览
 
-| 阶段 | 预计耗时 | 关键节点 |
-|------|----------|----------|
-| 资格确认至自评报告提交 | 6 个月 | 截止日前 6 个月开始撰写 |
-| 自评报告提交至评审访问 | 6-9 个月 | EFMD 安排评审小组 |
-| 评审访问至裁决 | 3-6 个月 | 访问后 60 天出报告 |
-| 总周期（首次申请） | 15-21 个月 | 平均 18 个月（EFMD 2025 数据） |
+- **资格确认至自评报告提交**: 6 个月 · 截止日前 6 个月开始撰写
+- **自评报告提交至评审访问**: 6-9 个月 · EFMD 安排评审小组
+- **评审访问至裁决**: 3-6 个月 · 访问后 60 天出报告
+- **总周期（首次申请）**: 15-21 个月 · 平均 18 个月（EFMD 2025 数据）
+
 
 ### 费用结构（截至 2026 年）
 

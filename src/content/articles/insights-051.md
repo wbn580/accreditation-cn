@@ -17,42 +17,6 @@ dataSources:
 ogImage: "/og-images/insights-default.svg"
 draft: false
 ---
-```markdown
----
-title: "证书有效期从永久认证到周期性续展的趋势"
-description: "本汇编整理了全球高等教育认证体系中证书有效期从永久制向周期性续展转变的历程、现状与未来趋势。依据AACSB、CHEA、ENQA等权威机构的公开数据，分析周期性评估机制的演进逻辑与实施效果。"
-category: "insights"
-subCategory: "accreditation"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags:
-  - 认证有效期
-  - 周期性续展
-  - 永久认证
-  - 高等教育认证
-  - 质量保障
-  - 认证改革
-keywords:
-  - 证书有效期
-  - 永久认证转周期性续展
-  - 认证周期
-  - 中期评审
-  - 认证续展
-  - 全球认证趋势
-  - 质量保障机制
-dataSources:
-  - "AACSB 2026年度年报"
-  - "CHEA 2025年认证机构名录"
-  - "ENQA 2024年欧洲高等教育质量保障报告"
-  - "美国教育部2025年认证机构认可规则"
-  - "英国QAA 2025年质量保障框架"
-ogImage: "/images/og/insights-accreditation-renewal-trend.jpg"
-draft: false
----
-
 ## 导语
 
 全球高等教育认证体系正经历一项结构性转变：证书有效期从永久认证模式逐步转向周期性续展模式。截至2026年5月，依据AACSB 2026年度年报数据，全球989所获得AACSB认证的商学院中，约92%处于周期性续展流程中，仅有极少数历史早期获批的机构仍保留永久认证状态。本汇编基于CHEA、ENQA、美国教育部等公开数据，梳理这一趋势的演进逻辑、现状特征及未来方向。
@@ -114,4 +78,3 @@ draft: false
 - Quality Assurance Agency for Higher Education (QAA). (2025). *QAA Quality Assurance Framework for Higher Education Providers: Cyclical Review Requirements*. Gloucester, UK: QAA. Retrieved from https://www.qaa.ac.uk/review-requirements-2025
 - 中国教育部学位与研究生教育发展中心. (2025). *中国工程教育认证年度报告（2025）*. 北京: 教育部学位中心. Retrieved from https://www.cdgdc.edu.cn/engineering-accreditation-report-2025
 - National Assessment and Accreditation Council (NAAC). (2025). *NAAC Accreditation Cycle Reform: 2022-2025 Implementation Report*. Bengaluru, India: NAAC. Retrieved from https://www.naac.gov.in/cycle-reform-report-2025
-```

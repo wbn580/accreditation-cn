@@ -1,25 +1,5 @@
 ---
 title: "多样性·公平·包容（DEI）"
-description: "本文为多样性·公平·包容（DEI）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["多样性·公平·包容（DEI）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "多样性·公平·包容（DEI）"
 description: "DEI（Diversity, Equity, Inclusion）的全球认证与高等教育语境下的权威定义、历史演变与适用范围辨析。"
 category: "glossary"
 subCategory: "认证术语"
@@ -47,7 +27,6 @@ dataSources:
 ogImage: "https://accreditation.cn/og/dei-glossary-2026.png"
 draft: false
 ---
-
 ## 中英对照
 
 **多样性·公平·包容**，英文全称 **Diversity, Equity, and Inclusion**，缩写为 **DEI**。在中文高等教育与认证语境中，常译为“多样性、公平与包容”，或简称为“多元公平包容”。部分机构使用 **Diversity, Equity, Inclusion, and Accessibility (DEIA)** 扩展版本。
@@ -71,11 +50,10 @@ DEI框架主要适用于以下领域：
 
 ## 易混淆辨析
 
-| 概念 | 核心区别 |
-|------|----------|
-| **DEI vs. 平等（Equality）** | 平等强调“相同对待”，DEI中的公平（Equity）承认不同群体需要差异化资源以达到结果对等。 |
-| **DEI vs. 平权行动（Affirmative Action）** | 平权行动是法律强制措施（如美国），DEI是自愿性系统性框架，覆盖更广（如包容性文化）。 |
-| **DEI vs. 多元化培训（Diversity Training）** | 多元化培训是单一工具，DEI是涵盖政策、文化、评估的完整管理体系。 |
+- **DEI vs. 平等（Equality）**: 平等强调“相同对待”，DEI中的公平（Equity）承认不同群体需要差异化资源以达到结果对等。
+- **DEI vs. 平权行动（Affirmative Action）**: 平权行动是法律强制措施（如美国），DEI是自愿性系统性框架，覆盖更广（如包容性文化）。
+- **DEI vs. 多元化培训（Diversity Training）**: 多元化培训是单一工具，DEI是涵盖政策、文化、评估的完整管理体系。
+
 
 ## FAQ
 

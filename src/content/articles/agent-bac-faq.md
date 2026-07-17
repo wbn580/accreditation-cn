@@ -1,25 +1,5 @@
 ---
 title: "BAC 英国认证委员会：常见问题与解答"
-description: "本文为BAC 英国认证委员会：常见问题与解答的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "agent"
-subCategory: "bac"
-articleType: "faq"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["bac", "agent"]
-keywords: ["BAC 英国认证委员会：常见问题与解答"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/agent-default.svg"
-draft: false
----
-```yaml
----
-title: "BAC 英国认证委员会：常见问题与解答"
 description: "本汇编整理了关于BAC英国认证委员会的常见问题与解答，涵盖认证流程、标准、效力及查询方式，旨在为读者提供基于官方信息的第三方中立参考。"
 category: "agent"
 subCategory: "国际认证"
@@ -52,7 +32,6 @@ dataSources:
 ogImage: "https://www.the-bac.org/images/bac-og-2026.jpg"
 draft: false
 ---
-
 # BAC 英国认证委员会：常见问题与解答
 
 ## 引言

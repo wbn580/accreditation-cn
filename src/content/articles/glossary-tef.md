@@ -1,25 +1,5 @@
 ---
 title: "英国教学卓越框架（TEF）"
-description: "本文为英国教学卓越框架（TEF）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["英国教学卓越框架（TEF）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "英国教学卓越框架（TEF）"
 description: "英国教学卓越框架（Teaching Excellence Framework, TEF）是英国政府主导的高等教育教学质量评估体系，旨在衡量并提升本科阶段的教学水平、学习环境及学生成果。本词条提供TEF的官方定义、历史沿革、适用范围及与同类体系的辨析。"
 category: "glossary"
 subCategory: "认证体系"
@@ -47,7 +27,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/og/tef-glossary-2026.png"
 draft: false
 ---
-
 # 英国教学卓越框架（TEF）
 
 ## 中英对照
@@ -70,11 +49,10 @@ TEF 仅适用于 **英国境内** 的 **本科层次** 教学项目。参与机�
 
 ## 易混淆辨析
 
-| 体系 | 评估焦点 | 覆盖范围 | 主导机构 |
-|------|----------|----------|----------|
-| **TEF** | 本科教学质量与学生成果 | 英格兰本科层次 | Office for Students (OfS) |
-| **REF**（研究卓越框架） | 研究产出质量与影响力 | 全英所有学科 | Research England |
-| **QAA 审核** | 学术标准与质量保障程序 | 全英所有层次 | Quality Assurance Agency (QAA) |
+- **TEF**: 本科教学质量与学生成果 · 英格兰本科层次 · Office for Students (OfS)
+- ****REF**（研究卓越框架）**: 研究产出质量与影响力 · 全英所有学科 · Research England
+- **QAA 审核**: 学术标准与质量保障程序 · 全英所有层次 · Quality Assurance Agency (QAA)
+
 
 - **TEF 与 REF 的区别**：REF 评估的是研究活动，TEF 评估的是教学活动。两者并行，但 TEF 更关注学生体验与就业结果。
 - **TEF 与 QAA 审核的区别**：QAA 审核属于合规性检查，确认院校是否达到最低学术标准；TEF 则属于绩效性评级，衡量超越基准的卓越程度。

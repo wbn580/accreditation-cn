@@ -17,41 +17,6 @@ dataSources:
 ogImage: "/og-images/legal-default.svg"
 draft: false
 ---
-```markdown
----
-title: "SIAC 新加坡国际仲裁中心：认证标准逐条详解"
-description: "依据SIAC 2025年官方仲裁规则、机构年报及新加坡法律体系，逐条详解新加坡国际仲裁中心的认证标准、仲裁员资格要求、仲裁程序框架及标准演进历程。"
-category: "legal"
-subCategory: "仲裁与替代性争议解决"
-articleType: "criteria"
-country: "sg"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 15
-tags:
-  - SIAC
-  - 新加坡国际仲裁中心
-  - 仲裁规则
-  - 认证标准
-  - 仲裁员资格
-  - 国际仲裁
-  - 新加坡法律
-keywords:
-  - SIAC 认证标准
-  - 新加坡国际仲裁中心仲裁规则
-  - 仲裁员任命标准
-  - 仲裁程序要求
-  - 仲裁裁决执行
-dataSources:
-  - "SIAC 2025年仲裁规则（第7版）"
-  - "SIAC 2025年度年报"
-  - "新加坡《国际仲裁法》（2020年修订版）"
-  - "新加坡国际仲裁中心官网：仲裁员名册"
-  - "联合国国际贸易法委员会（UNCITRAL）《国际商事仲裁示范法》"
-ogImage: "https://accreditation.cn/images/og/siac-arbitration-criteria-2026.jpg"
-draft: false
----
-
 # SIAC 新加坡国际仲裁中心：认证标准逐条详解
 
 截至 2026 年 5 月，新加坡国际仲裁中心（SIAC）依据其 2025 年仲裁规则（第 7 版）管理全球超过 1,200 件在办案件（数据来源：SIAC 2025 年度年报）。作为亚太地区最常被选用的仲裁机构之一，SIAC 的**认证标准**涵盖仲裁员资格、仲裁程序启动、案件管理、裁决作出及后续执行等全流程。本汇编依据 SIAC 官方发布的规则文本、年度报告及新加坡现行法律体系，逐条进行中立的条款解释与标准梳理。

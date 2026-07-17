@@ -1,25 +1,5 @@
 ---
 title: "CHEA 美国高等教育认证委员会：常见问题与解答"
-description: "本文为CHEA 美国高等教育认证委员会：常见问题与解答的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "chea"
-articleType: "faq"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["chea", "university"]
-keywords: ["CHEA 美国高等教育认证委员会：常见问题与解答"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "CHEA 美国高等教育认证委员会：常见问题与解答"
 description: "基于 CHEA 官方文件及美国教育部（USDE）公开数据，系统梳理美国高等教育认证体系的核心概念、机构职能、认证流程及常见疑问。本汇编旨在为院校管理者、政策研究人员及国际学生提供中立、可核查的参考信息。"
 category: "university"
 subCategory: "accreditation"
@@ -59,7 +39,6 @@ dataSources:
 ogImage: "https://www.chea.org/sites/default/files/2025-08/CHEA_logo_0.png"
 draft: false
 ---
-
 # CHEA 美国高等教育认证委员会：常见问题与解答
 
 **本汇编整理截至 2026 年 5 月 22 日，所有信息均来自 CHEA 及美国教育部（USDE）公开发布的文件与数据库。** 美国高等教育认证体系由多个独立机构构成，其中 **CHEA（美国高等教育认证委员会）** 与 **USDE（美国教育部）** 是两大核心认可主体。截至 2026 年 4 月，CHEA 共认可 60 个认证机构（数据来源：CHEA 2026 年度认可机构名录），USDE 认可 47 个认证机构（数据来源：USDE 认证数据库，2026 年 4 月更新）。这些机构负责对院校及专业项目进行质量审查，确保其达到既定标准。

@@ -1,25 +1,5 @@
 ---
 title: "现场访问（Site Visit）"
-description: "本文为现场访问（Site Visit）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["现场访问（Site Visit）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "现场访问（Site Visit）"
 description: "全球高等教育认证过程中，认证机构派遣评审团队赴被认证院校进行实地考察的标准程序。本词条梳理其定义、历史演变、适用范围及常见误区。"
 category: "glossary"
 subCategory: "认证流程"
@@ -38,8 +18,6 @@ dataSources:
 ogImage: ""
 draft: false
 ---
-```
-
 # 现场访问（Site Visit）
 
 ## 中英对照与官方定义
@@ -64,11 +42,10 @@ draft: false
 
 现场访问常与以下概念混淆：
 
-| 概念 | 区别要点 |
-|------|----------|
-| **自评报告（Self-Study Report）** | 自评报告是院校提交的书面文件，现场访问是对该文件的验证与补充。二者为先后关系，不可替代。 |
-| **远程评审（Remote Review）** | 2020 年后部分认证机构允许临时采用远程方式，但现场访问仍是标准程序。远程评审仅适用于例外情况（如疫情），且需经认证机构特别批准（来源：CHEA, 2025）。 |
-| **同行评议（Peer Review）** | 同行评议是现场访问的核心方法论，但现场访问是完整流程（包含准备、执行、报告撰写），并非仅指评议行为。 |
+- **自评报告（Self-Study Report）**: 自评报告是院校提交的书面文件，现场访问是对该文件的验证与补充。二者为先后关系，不可替代。
+- **远程评审（Remote Review）**: 2020 年后部分认证机构允许临时采用远程方式，但现场访问仍是标准程序。远程评审仅适用于例外情况（如疫情），且需经认证机构特别批准（来源：CHEA, 2025）。
+- **同行评议（Peer Review）**: 同行评议是现场访问的核心方法论，但现场访问是完整流程（包含准备、执行、报告撰写），并非仅指评议行为。
+
 
 ## FAQ
 

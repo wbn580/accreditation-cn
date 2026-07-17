@@ -1,25 +1,5 @@
 ---
 title: "FCA 英国金融行为监管局持牌经纪：申请流程完整指南"
-description: "本文为FCA 英国金融行为监管局持牌经纪：申请流程完整指南的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "broker"
-subCategory: "fca-broker"
-articleType: "how_to_apply"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["fca-broker", "broker"]
-keywords: ["FCA 英国金融行为监管局持牌经纪：申请流程完整指南"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/broker-default.svg"
-draft: false
----
-```yaml
----
-title: "FCA 英国金融行为监管局持牌经纪：申请流程完整指南"
 description: "依据 FCA 官方手册与历年公开数据，系统梳理英国金融行为监管局（FCA）持牌经纪的申请流程、材料准备、时间线与费用结构，并分析常见被拒原因。"
 category: "broker"
 subCategory: "regulatory"
@@ -49,8 +29,6 @@ dataSources:
 ogImage: "https://accreditation.cn/og/fca-uk-broker-license-guide.jpg"
 draft: false
 ---
-```
-
 # FCA 英国金融行为监管局持牌经纪：申请流程完整指南
 
 ## 概述：FCA 牌照的法律地位与适用范围
@@ -129,12 +107,11 @@ FCA 依据《欧盟金融工具市场指令 II》（MiFID II）转化后的英�
 
 ## 时间线与费用汇总
 
-| 阶段 | 预计时长 | 主要费用（英镑） |
-|------|----------|------------------|
-| 预申请准备 | 1–3 个月 | 法律/合规咨询费：10,000–50,000 |
-| 正式提交 | 4–6 个月 | 申请费：1,500–25,000 |
-| FCA 审核 | 6–12 个月 | 无额外申请费，但需持续支付合规顾问费 |
-| 批准与授权 | 12–18 个月 | 年度监管费：取决于规模，通常 5,000–100,000+ |
+- **预申请准备**: 1–3 个月 · 法律/合规咨询费：10,000–50,000
+- **正式提交**: 4–6 个月 · 申请费：1,500–25,000
+- **FCA 审核**: 6–12 个月 · 无额外申请费，但需持续支付合规顾问费
+- **批准与授权**: 12–18 个月 · 年度监管费：取决于规模，通常 5,000–100,000+
+
 
 **总计时间**：典型申请周期为 12–18 个月，复杂案件可能延长至 24 个月。
 

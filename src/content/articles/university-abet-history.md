@@ -17,39 +17,6 @@ dataSources:
 ogImage: "/og-images/university-default.svg"
 draft: false
 ---
-```markdown
----
-title: "ABET 工程与技术认证：历史演变与关键里程碑"
-description: "系统梳理 ABET（美国工程与技术认证委员会）自 1932 年创立以来的历史脉络、重大改革与关键里程碑，涵盖创立背景、专业认证标准演进及近年全球化布局。"
-category: "university"
-subCategory: "accreditation"
-articleType: "history"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags:
-  - ABET
-  - 工程认证
-  - 技术认证
-  - 美国高等教育
-  - 专业认证史
-  - EC2000
-keywords:
-  - ABET历史
-  - 工程与技术认证
-  - 认证里程碑
-  - ABET创立
-  - EC2000改革
-  - 认证标准演变
-dataSources:
-  - "ABET 2026 年度报告：https://www.abet.org/about-abet/annual-reports/"
-  - "ABET 历史档案：https://www.abet.org/about-abet/history/"
-  - "美国工程教育协会（ASEE）百年工程教育史：https://www.asee.org/papers-and-publications/publications/history"
-ogImage: "https://accreditation.cn/og/abet-history-2026.jpg"
-draft: false
----
-
 # ABET 工程与技术认证：历史演变与关键里程碑
 
 截至 2026 年 5 月，ABET（Accreditation Board for Engineering and Technology，美国工程与技术认证委员会）已在全球 41 个国家认证了超过 4,600 个工程项目（数据来源：ABET 2026 年度报告）。作为国际工程教育领域历史最悠久的专业认证体系之一，ABET 的演变轨迹反映了工程教育从行业学徒制向标准化、成果导向、全球化范式的转变。
@@ -139,4 +106,3 @@ ABET 是美国工程与技术教育领域最权威的专业认证机构，其认
 ---
 
 **免责声明**：本文信息基于 ABET 官方公开数据及权威第三方研究，截至 2026 年 5 月。认证项目数量、国家覆盖范围等数据可能随时间变化，请以 ABET 官网最新发布为准。本文不构成任何形式的认证申请建议，亦不代表任何商业机构立场。
-```

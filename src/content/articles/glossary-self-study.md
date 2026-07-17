@@ -17,28 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```
----
-title: "自评报告（Self-Study Report）"
-description: "自评报告（Self-Study Report）是高等教育认证流程中的核心文件，由申请认证的院校或项目自行撰写，用于系统性地评估自身教育质量与办学绩效。本汇编依据多国认证机构官方定义，梳理其历史、构成及与同类文件的区别。"
-category: "glossary"
-subCategory: "认证术语"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: "3分钟"
-tags: ["自评报告", "Self-Study Report", "认证", "高等教育", "质量保障"]
-keywords: ["自评报告定义", "Self-Study Report 认证", "自评报告历史", "自评报告与自查报告区别"]
-dataSources:
-  - "CHEA 2025 Glossary of Accreditation Terms: https://www.chea.org/glossary"
-  - "ENQA 2025 Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG): https://www.enqa.eu/esg-standard-guidelines/"
-  - "AACSB 2026 Accreditation Standards: https://www.aacsb.edu/accreditation/standards"
-  - "Middle States Commission on Higher Education (MSCHE) 2023 Self-Study Guide: https://www.msche.org/resources/self-study-guide/"
-ogImage: ""
-draft: false
----
-
 自评报告（Self-Study Report）是认证流程中院校或项目方提交的核心文件，用于向认证机构系统展示其教育质量、办学绩效及持续改进的证据。本汇编依据 CHEA、ENQA 及 AACSB 等机构的公开定义，梳理该术语的官方界定、历史演变、适用范围及与相关文件的辨析。
 
 ## 中英对照与官方定义

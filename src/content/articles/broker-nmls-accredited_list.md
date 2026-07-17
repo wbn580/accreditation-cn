@@ -1,25 +1,5 @@
 ---
 title: "NMLS 美国全国多州许可系统：全球受认证机构名单"
-description: "本文为NMLS 美国全国多州许可系统：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "broker"
-subCategory: "nmls"
-articleType: "accredited_list"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["nmls", "broker"]
-keywords: ["NMLS 美国全国多州许可系统：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/broker-default.svg"
-draft: false
----
-```yaml
----
-title: "NMLS 美国全国多州许可系统：全球受认证机构名单"
 description: "本汇编整理 NMLS 认证的全球受监管机构名单，涵盖按地区分组的信息、数据来源及解读。截至 2026 年 5 月，NMLS 注册机构超过 48,000 家。"
 category: "金融监管"
 subCategory: "认证许可"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/nmls-accredited-list-2026.jpg"
 draft: false
 ---
-
 # NMLS 美国全国多州许可系统：全球受认证机构名单
 
 ## 数据说明

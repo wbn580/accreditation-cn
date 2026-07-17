@@ -1,25 +1,5 @@
 ---
 title: "MARN 澳洲注册移民代理制度：历史演变与关键里程碑"
-description: "本文为MARN 澳洲注册移民代理制度：历史演变与关键里程碑的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "migration"
-subCategory: "mara-omara"
-articleType: "history"
-country: "au"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["mara-omara", "migration"]
-keywords: ["MARN 澳洲注册移民代理制度：历史演变与关键里程碑"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/migration-default.svg"
-draft: false
----
-```yaml
----
-title: "MARN 澳洲注册移民代理制度：历史演变与关键里程碑"
 description: "系统梳理澳大利亚注册移民代理（MARN）制度自1992年创立以来的历史演变、关键里程碑与重大改革。基于MARA官方文件与政府报告，提供中立、严谨的制度演进分析。"
 category: "migration"
 subCategory: "regulation"
@@ -54,7 +34,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/marn-australia-history-og.png"
 draft: false
 ---
-
 # MARN 澳洲注册移民代理制度：历史演变与关键里程碑
 
 ## 引言

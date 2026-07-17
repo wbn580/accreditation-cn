@@ -17,41 +17,6 @@ dataSources:
 ogImage: "/og-images/legal-default.svg"
 draft: false
 ---
-```markdown
----
-title: "澳洲法律委员会与律师认证：全球受认证机构名单"
-description: "本汇编整理了澳大利亚法律委员会（Law Admissions Consultative Committee, LACC）及澳大利亚法律执业者准入委员会（LPAB）认证的全球法学教育机构名单，数据截至2026年5月。"
-category: "法律"
-subCategory: "专业认证"
-articleType: "accredited_list"
-country: "au"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 14
-tags:
-  - 澳洲法律委员会
-  - 律师认证
-  - 受认证机构名单
-  - 法学教育
-  - 全球认证
-  - 法律执业资格
-  - 澳大利亚法律执业者准入委员会
-keywords:
-  - 澳洲法律委员会认证
-  - 律师资格认证
-  - 全球受认证法学院
-  - LACC认证机构
-  - LPAB认证名单
-  - 澳大利亚法律教育
-  - 外国律师资格
-dataSources:
-  - "Law Admissions Consultative Committee (LACC). 'List of Approved Qualifications'. 2026 Edition. https://www.lawcouncil.asn.au/policy-agenda/admission-to-the-legal-profession"
-  - "Legal Profession Admission Board (LPAB) NSW. 'Accredited Law Courses'. 2026. https://www.lpab.justice.nsw.gov.au"
-  - "Council of Australian Law Deans (CALD). 'Accredited Law Programs in Australia'. 2026. https://www.cald.asn.au"
-ogImage: "https://accreditation.cn/images/legal/au-law-accreditation-og.jpg"
-draft: false
----
-
 ## 引言
 
 截至2026年5月，澳大利亚法律执业资格的认证体系由**澳大利亚法律委员会（Law Admissions Consultative Committee, LACC）**与各州**法律执业者准入委员会（Legal Profession Admission Board, LPAB）**共同管理。本汇编依据LACC 2026年度发布的《Approved Qualifications List》及LPAB NSW 2026年度的公开数据，整理出全球范围内受认证的法学教育机构名单。该名单是海外法学毕业生申请澳洲律师资格（Admission to the Legal Profession）的核心依据。

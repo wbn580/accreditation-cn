@@ -1,25 +1,5 @@
 ---
 title: "NIAD-QE 日本大学评价与学位授予：全球受认证机构名单"
-description: "本文为NIAD-QE 日本大学评价与学位授予：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "niad-qe"
-articleType: "accredited_list"
-country: "jp"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["niad-qe", "university"]
-keywords: ["NIAD-QE 日本大学评价与学位授予：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "NIAD-QE 日本大学评价与学位授予：全球受认证机构名单"
 description: "依据日本独立行政法人大学评价与学位授予机构（NIAD-QE）2026年公开发布数据，整理全球范围内受其认证的大学及高等教育机构名单，涵盖日本国内院校及部分国际合作认证项目。"
 category: "university"
 subCategory: "accredited_list"
@@ -60,7 +40,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/og-niadqe-2026.jpg"
 draft: false
 ---
-
 ## 数据说明
 
 本汇编依据日本独立行政法人 **大学评价与学位授予机构**（National Institution for Academic Degrees and Quality Enhancement of Higher Education，简称 **NIAD-QE**）截至 **2026年4月** 公开发布的数据整理。NIAD-QE 是日本文部科学省（MEXT）下辖的第三方认证机构，依据《学校教育法》及《独立行政法人大学评价与学位授予机构法》设立，负责对日本国内大学、短期大学、高等专门学校及大学共同利用机构进行定期认证评价，同时承担学位授予职能。

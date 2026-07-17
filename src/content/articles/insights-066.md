@@ -17,44 +17,6 @@ dataSources:
 ogImage: "/og-images/insights-default.svg"
 draft: false
 ---
-```markdown
----
-title: "美国六大区域认证机构各自的地理辖区与差异"
-description: "基于CHEA与USDE官方数据，系统梳理美国六大区域认证机构的地理辖区划分、认证标准差异及历史沿革，为高等教育质量保障研究提供第三方参考。"
-category: "insights"
-subCategory: "accreditation"
-articleType: "insight"
-country: "global"
-publishDate: 2026-05-22T10:00:00Z
-lastVerified: 2026-05-22
-readingTime: 15
-tags:
-  - 美国高等教育认证
-  - 区域认证
-  - SACSCOC
-  - WASC
-  - HLC
-  - MSCHE
-  - NECHE
-  - NWCCU
-  - 认证机构
-  - 质量保障
-keywords:
-  - 美国六大区域认证机构
-  - 地理辖区
-  - 认证标准差异
-  - CHEA
-  - USDE
-dataSources:
-  - "Council for Higher Education Accreditation (CHEA). 2026. 'Directory of CHEA-Recognized Organizations.' https://www.chea.org/directory"
-  - "U.S. Department of Education (USDE). 2026. 'Accreditation in the United States: Regional Accrediting Organizations.' https://www2.ed.gov/admins/finaid/accred/accreditation_pg6.html"
-  - "Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). 2025. 'Member and Candidate List.' https://sacscoc.org/members/"
-  - "Western Association of Schools and Colleges (WASC) Senior College and University Commission (WSCUC). 2026. 'About WSCUC.' https://www.wscuc.org/about/"
-  - "Higher Learning Commission (HLC). 2026. 'About HLC.' https://www.hlcommission.org/About-HLC/"
-ogImage: "https://accreditation.cn/images/us-regional-accreditation-map-2026.png"
-draft: false
----
-
 # 美国六大区域认证机构各自的地理辖区与差异
 
 ## 导语

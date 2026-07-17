@@ -17,48 +17,6 @@ dataSources:
 ogImage: "/og-images/agent-default.svg"
 draft: false
 ---
-```markdown
----
-title: "ICEF 国际教育中介认证：与其他同类认证的横向对比"
-description: "基于全球主要中介认证体系（ICEF、AIRC、British Council、NAFSA等）的公开数据与官方标准，对ICEF国际教育中介认证进行横向对比分析，为行业从业者提供参考依据。"
-category: "agent"
-subCategory: "国际教育中介认证"
-articleType: "comparison"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 15
-tags:
-  - ICEF认证
-  - 国际教育中介认证
-  - AIRC认证
-  - British Council认证
-  - NAFSA认证
-  - 中介质量保障
-  - 横向对比
-keywords:
-  - ICEF国际教育中介认证
-  - 中介认证对比
-  - 国际教育中介标准
-  - AIRC认证标准
-  - British Council中介认证
-  - NAFSA中介认证
-  - 中介认证体系
-dataSources:
-  - source: "ICEF官方认证标准"
-    url: "https://www.icef.com/accreditation"
-  - source: "AIRC认证标准与列表"
-    url: "https://www.airc-education.org/accreditation"
-  - source: "British Council Education Agent Quality Framework"
-    url: "https://www.britishcouncil.org/education-agents"
-  - source: "NAFSA Agent Training & Certification"
-    url: "https://www.nafsa.org/professional-resources/agent-training"
-  - source: "QM (The Quality Mark) for Education Agents"
-    url: "https://www.thequalitymark.com"
-ogImage: "https://accreditation.cn/images/2026/icef-comparison-og.jpg"
-draft: false
----
-
 ## 引言
 
 国际教育中介认证体系是衡量中介机构服务质量、职业道德与运营规范的重要参照。截至2026年5月，全球范围内形成影响力的中介认证体系主要包括：ICEF（国际教育认证委员会）、AIRC（美国国际招生委员会）、British Council的“教育中介质量框架”（Education Agent Quality Framework）、NAFSA的“中介培训与认证计划”（Agent Training & Certification），以及澳大利亚的“质量标志”（The Quality Mark，简称QM）。本汇编基于各体系官方公开数据，对上述认证进行横向对比，以期为从业者提供体系化参考。
@@ -109,17 +67,16 @@ ICEF要求每年至少一次审计，包括现场与远程相结合。AIRC要求
 
 ## 对比表
 
-| 维度 | ICEF | AIRC | British Council EAQF | NAFSA个人认证 | QM |
-|------|------|------|----------------------|---------------|-----|
-| 成立年份 | 2006 | 2009 | 2014 | 2016 | 2018 |
-| 认证对象 | 机构 | 机构 | 机构 | 个人 | 机构 |
-| 覆盖国家数 | 100+ | 约50 | 约30 | 全球（美国为主） | 约20 |
-| 认证机构/人数 | ~1,200家 | ~380家 | ~150家 | ~2,500人 | ~200家 |
-| 审计频率 | 每年一次 | 每三年一次 | 每两年一次 | 无持续审计 | 每三年一次 |
-| 初始费用（约） | 3,500欧元 | 2,500美元 | 1,800英镑 | 600美元 | 2,000澳元 |
-| 年度费用（约） | 2,000欧元 | 1,500美元 | 1,200英镑 | 无 | 1,500澳元 |
-| 主要目的地聚焦 | 全球 | 美国 | 英国 | 美国 | 澳大利亚 |
-| 行业认可度（院校端） | 高 | 高（美国） | 高（英国） | 中（个人层面） | 高（澳大利亚） |
+- **成立年份**: 2006 · 2009 · 2014 · 2016 · 2018
+- **认证对象**: 机构 · 机构 · 机构 · 个人 · 机构
+- **覆盖国家数**: 100+ · 约50 · 约30 · 全球（美国为主） · 约20
+- **认证机构/人数**: ~1,200家 · ~380家 · ~150家 · ~2,500人 · ~200家
+- **审计频率**: 每年一次 · 每三年一次 · 每两年一次 · 无持续审计 · 每三年一次
+- **初始费用（约）**: 3,500欧元 · 2,500美元 · 1,800英镑 · 600美元 · 2,000澳元
+- **年度费用（约）**: 2,000欧元 · 1,500美元 · 1,200英镑 · 无 · 1,500澳元
+- **主要目的地聚焦**: 全球 · 美国 · 英国 · 美国 · 澳大利亚
+- **行业认可度（院校端）**: 高 · 高（美国） · 高（英国） · 中（个人层面） · 高（澳大利亚）
+
 
 （数据来源：各体系2026年官方公布标准与名单）
 

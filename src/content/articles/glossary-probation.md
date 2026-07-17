@@ -1,25 +1,5 @@
 ---
 title: "观察期（Probation）"
-description: "本文为观察期（Probation）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["观察期（Probation）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "观察期（Probation）"
 description: "认证观察期（Probation）的术语定义、官方解释、历史背景、适用范围及常见混淆辨析。"
 category: "术语"
 subCategory: "认证流程"
@@ -49,8 +29,6 @@ dataSources:
 ogImage: "/images/glossary-probation-og.jpg"
 draft: false
 ---
-```
-
 # 观察期（Probation）
 
 ## 中英对照

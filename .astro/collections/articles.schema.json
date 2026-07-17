@@ -96,7 +96,7 @@
         },
         "ogImage": {
           "type": "string",
-          "default": "/og-images/default.svg"
+          "default": "/og-images/default.png"
         },
         "draft": {
           "type": "boolean",

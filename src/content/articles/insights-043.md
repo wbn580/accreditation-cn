@@ -17,45 +17,6 @@ dataSources:
 ogImage: "/og-images/insights-default.svg"
 draft: false
 ---
-```markdown
----
-title: "日本文部科学省与NIAD-QE在日本大学评价中的分工"
-description: "分析日本文部科学省与大学评价·学位授予机构（NIAD-QE）在高等教育质量保障体系中的法定分工、运行机制与数据支撑，基于2026年最新法规与年度报告。"
-category: "insights"
-subCategory: "quality-assurance"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags:
-  - 日本高等教育
-  - 大学评价
-  - 文部科学省
-  - NIAD-QE
-  - 认证
-  - 质量保障
-  - 第三方评价
-keywords:
-  - 日本大学评价体系
-  - 文部科学省 大学设置基准
-  - NIAD-QE 认证
-  - 大学评价分工
-  - 日本高等教育质量保障
-  - 2026 年日本大学评价
-  - 法定认证机构
-  - 大学设置与评价分离
-dataSources:
-  - source: "日本文部科学省「大学設置基準」"
-    url: "https://www.mext.go.jp/a_menu/koutou/kijun/index.htm"
-  - source: "NIAD-QE「大学評価に関する基本方針（2025年度版）」"
-    url: "https://www.niad.ac.jp/evaluation/basic-policy/"
-  - source: "OECD「Education at a Glance 2025」"
-    url: "https://www.oecd.org/en/publications/education-at-a-glance-2025_abc12345-en.html"
-ogImage: "https://accreditation.cn/images/insights/japan-mext-niad-qe-2026.jpg"
-draft: false
----
-
 ## 导语
 
 截至2026年4月，日本共有 **786所** 大学（其中国立86所、公立103所、私立597所）（数据来源：文部科学省「令和7年度学校基本調査速報」）。这些大学的设置与质量保障涉及两个核心机构：**文部科学省（MEXT）** 与 **大学评价·学位授予机构（NIAD-QE）**。二者的分工遵循「设置许可与事后评价分离」原则——文部科学省负责大学设立的行政许可与基准设定，NIAD-QE 负责大学设立后的定期认证评价。本汇编依据日本《学校教育法》第109条、第110条以及 NIAD-QE 2025年度基本方略，梳理两机构在评价体系中的法定职能、运行流程与数据支撑。
@@ -129,4 +90,3 @@ draft: false
 5. NIAD-QE. (2025). 2025年度認証評価結果報告. https://www.niad.ac.jp/evaluation/results/2025/
 6. 文部科学省. (2026). 令和7年度学校基本調査速報. https://www.mext.go.jp/b_menu/toukei/chousa01/kihon/kekka/k_detail/1420359.htm
 7. 独立行政法人大学評価・学位授与機構法（1999年法律第94号）. https://elaws.e-gov.go.jp/document?lawid=411AC0000000094
-```

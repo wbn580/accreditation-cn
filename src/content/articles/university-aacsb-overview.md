@@ -1,25 +1,5 @@
 ---
 title: "AACSB 国际商管学院促进协会：全面解析与最新认证标准"
-description: "本文为AACSB 国际商管学院促进协会：全面解析与最新认证标准的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "aacsb"
-articleType: "overview"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["aacsb", "university"]
-keywords: ["AACSB 国际商管学院促进协会：全面解析与最新认证标准"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "AACSB 国际商管学院促进协会：全面解析与最新认证标准"
 description: "基于 AACSB 2026 年度年报等公开数据，全面解析 AACSB 认证的起源、范围、全球统计、费用与时效，以及最新认证标准。"
 category: "university"
 subCategory: "accreditation"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "https://www.aacsb.edu/-/media/aacsb/images/about/aacsb-logo-og.jpg"
 draft: false
 ---
-
 # AACSB 国际商管学院促进协会：全面解析与最新认证标准
 
 ## 起源与发展
@@ -73,14 +52,13 @@ AACSB 认证覆盖 **商科教育** 的多个层次，包括：
 
 根据 AACSB 2026 年度年报，全球认证院校分布如下：
 
-| 地区 | 认证院校数量 | 占全球比例 |
-|------|--------------|------------|
-| 北美 | 487 | 49.2% |
-| 欧洲 | 248 | 25.1% |
-| 亚太 | 167 | 16.9% |
-| 拉丁美洲 | 52 | 5.3% |
-| 中东与非洲 | 35 | 3.5% |
-| **合计** | **989** | **100%** |
+- **北美**: 487 · 49.2%
+- **欧洲**: 248 · 25.1%
+- **亚太**: 167 · 16.9%
+- **拉丁美洲**: 52 · 5.3%
+- **中东与非洲**: 35 · 3.5%
+- **合计**: **989** · **100%**
+
 
 北美（特别是美国）仍为认证最密集区域，占全球近一半。亚太地区增长最快，2020 年至 2026 年间新增 42 所认证院校，主要来自中国（含港澳台）、印度和韩国。中国内地共有 32 所院校获得 AACSB 认证，包括清华大学经济管理学院、北京大学光华管理学院、上海交通大学安泰经济与管理学院、复旦大学管理学院等（数据来源：AACSB 认证机构名录，2026 年 4 月访问）。
 

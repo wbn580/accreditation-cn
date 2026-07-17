@@ -1,25 +1,5 @@
 ---
 title: "GMC 英国医学总会：历史演变与关键里程碑"
-description: "本文为GMC 英国医学总会：历史演变与关键里程碑的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "medical"
-subCategory: "gmc"
-articleType: "history"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["gmc", "medical"]
-keywords: ["GMC 英国医学总会：历史演变与关键里程碑"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/medical-default.svg"
-draft: false
----
-```yaml
----
-title: "GMC 英国医学总会：历史演变与关键里程碑"
 description: "本文系统梳理 GMC（英国医学总会）的创立背景、关键历史里程碑、重大改革及近年演变，为医疗从业者及研究者提供权威历史参照。"
 category: "Medical"
 subCategory: "Regulatory Bodies"
@@ -47,8 +27,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/gmc-history-og.jpg"
 draft: false
 ---
-```
-
 # GMC 英国医学总会：历史演变与关键里程碑
 
 ## 引言

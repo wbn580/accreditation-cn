@@ -1,25 +1,5 @@
 ---
 title: "SRA 英国律师监管局：常见问题与解答"
-description: "本文为SRA 英国律师监管局：常见问题与解答的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "legal"
-subCategory: "sra"
-articleType: "faq"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["sra", "legal"]
-keywords: ["SRA 英国律师监管局：常见问题与解答"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/legal-default.svg"
-draft: false
----
-```yaml
----
-title: "SRA 英国律师监管局：常见问题与解答"
 description: "本汇编整理 SRA 英国律师监管局的核心职能、认证流程与常见疑问，基于 2025-2026 年官方数据，为法律从业者与公众提供中立信息参考。"
 category: "legal"
 subCategory: "professional-regulation"
@@ -47,7 +27,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/sra-uk-og.jpg"
 draft: false
 ---
-
 # SRA 英国律师监管局：常见问题与解答
 
 ## 引言

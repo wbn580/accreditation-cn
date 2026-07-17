@@ -1,25 +1,5 @@
 ---
 title: "AMBA 工商管理硕士协会：认证标准逐条详解"
-description: "本文为AMBA 工商管理硕士协会：认证标准逐条详解的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "amba"
-articleType: "criteria"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["amba", "university"]
-keywords: ["AMBA 工商管理硕士协会：认证标准逐条详解"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "AMBA 工商管理硕士协会：认证标准逐条详解"
 description: "基于 AMBA 2025 版认证手册，逐条解析 MBA/DBA 认证的 8 项核心标准，涵盖治理、课程、师资、成果等维度，为院校自评与申请提供参考框架。"
 category: "university"
 subCategory: "accreditation"
@@ -51,7 +31,6 @@ dataSources:
 ogImage: "/images/og/amba-criteria-2026.jpg"
 draft: false
 ---
-
 ## 认证标准详解：标准总览
 
 截至 2026 年 4 月，全球共有 289 所商学院持有 AMBA 认证（数据来源：AMBA 2026 年度报告），覆盖 70 余个国家和地区。AMBA 认证仅针对研究生层次的工商管理项目（MBA、EMBA、DBA 等），不评估本科项目。认证标准以“项目质量”为核心，强调战略一致性、学术严谨性与实践导向的平衡。2025 版认证手册（AMBA 2025 Accreditation Manual）将评估框架整合为 8 项核心标准，每项标准下包含若干子条款及证据要求。本文逐条解析这 8 项标准的定义、评估要点及常见误区。

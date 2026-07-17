@@ -1,25 +1,5 @@
 ---
 title: "AIRC 美国国际招生委员会：全球受认证机构名单"
-description: "本文为AIRC 美国国际招生委员会：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "agent"
-subCategory: "airc"
-articleType: "accredited_list"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["airc", "agent"]
-keywords: ["AIRC 美国国际招生委员会：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/agent-default.svg"
-draft: false
----
-```yaml
----
-title: "AIRC 美国国际招生委员会：全球受认证机构名单"
 description: "依据 AIRC 2026 年度报告，本汇编整理 AIRC 全球受认证机构完整清单，涵盖机构名称、所在地区与认证状态，供行业参考。"
 category: "agent"
 subCategory: "accreditation_info"

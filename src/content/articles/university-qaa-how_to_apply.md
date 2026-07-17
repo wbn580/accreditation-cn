@@ -1,25 +1,5 @@
 ---
 title: "QAA 英国质量保证局：申请流程完整指南"
-description: "本文为QAA 英国质量保证局：申请流程完整指南的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "qaa"
-articleType: "how_to_apply"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["qaa", "university"]
-keywords: ["QAA 英国质量保证局：申请流程完整指南"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "QAA 英国质量保证局：申请流程完整指南"
 description: "本指南依据英国质量保证局（QAA）官方文件与英国高等教育统计署（HESA）最新数据，系统梳理 QAA 认证的申请准备、分步流程、时间线、费用及常见被拒原因，为高等教育机构提供第三方中立参考。"
 category: "university"
 subCategory: "accreditation"
@@ -52,8 +32,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/qaa-application-guide-2026.jpg"
 draft: false
 ---
-```
-
 # QAA 英国质量保证局：申请流程完整指南
 
 ## 引言：QAA 认证的核心地位与数据基础
@@ -127,13 +105,12 @@ QAA 认证委员会（Accreditation Committee）在收到最终审计报告与�
 
 ### 时间线概览
 
-| 阶段 | 预计时间 | 说明 |
-|------|----------|------|
-| 初步咨询与预审 | 10 个工作日 | EOI 提交至预审结果 |
-| 正式申请审核 | 20 个工作日 | 材料完整性检查 |
-| 现场审计 | 2-3 天 | 审计团队实地考察 |
-| 审计报告出具 | 6-8 周 | 草案至最终报告 |
-| 认证委员会决定 | 4 周 | 最终认证结果 |
+- **初步咨询与预审**: 10 个工作日 · EOI 提交至预审结果
+- **正式申请审核**: 20 个工作日 · 材料完整性检查
+- **现场审计**: 2-3 天 · 审计团队实地考察
+- **审计报告出具**: 6-8 周 · 草案至最终报告
+- **认证委员会决定**: 4 周 · 最终认证结果
+
 
 总周期：12-18 个月（来源：QAA 2026 版《申请流程指南》）。
 

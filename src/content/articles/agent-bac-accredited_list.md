@@ -17,37 +17,6 @@ dataSources:
 ogImage: "/og-images/agent-default.svg"
 draft: false
 ---
-```markdown
----
-title: "BAC 英国认证委员会：全球受认证机构名单"
-description: "基于 BAC 英国认证委员会 2026 年 4 月公开数据，整理全球受认证机构完整名单，涵盖英国本土及海外院校，按地区分组呈现，并附认证解读与 FAQ。"
-category: "agent"
-subCategory: "accreditation"
-articleType: "accredited_list"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags:
-  - "BAC认证"
-  - "英国认证委员会"
-  - "受认证机构名单"
-  - "国际教育认证"
-keywords:
-  - "BAC 认证"
-  - "英国认证委员会 名单"
-  - "受认证院校"
-  - "英国高等教育认证"
-  - "BAC 2026 年度报告"
-dataSources:
-  - "BAC 2026 年度认证机构名录 (https://www.the-bac.org/accredited-institutions)"
-  - "BAC 2025 年度报告 (https://www.the-bac.org/annual-report-2025)"
-  - "英国教育部 (Department for Education) 认可认证机构列表 (https://www.gov.uk/government/publications/recognised-uk-degrees)"
-  - "英国高等教育质量保证局 (QAA) 外部审查框架 (https://www.qaa.ac.uk/reviewing-higher-education/external-quality-assurance)"
-ogImage: "https://accreditation.cn/images/bac-accredited-list-2026.jpg"
-draft: false
----
-
 ## 数据说明
 
 本汇编依据 **BAC（British Accreditation Council，英国认证委员会）** 截至 2026 年 4 月 30 日公开的认证机构名录整理。BAC 是英国教育部认可的主要独立认证机构之一，主要负责对英国及海外提供高等教育、继续教育与职业培训的私立院校进行质量评估与认证。据 BAC 2025 年度报告，截至 2025 年 12 月 31 日，BAC 全球共认证 **1,247 所机构**（数据来源：BAC 2025 年度报告，第 6 页）。

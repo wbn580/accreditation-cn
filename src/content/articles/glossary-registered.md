@@ -17,40 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: 注册（Registered）
-description: 在全球高等教育认证体系中，“注册”指机构或项目在官方认证机构完成信息登记、进入其公开名录的状态，与正式认证存在本质区别。
-category: glossary
-subCategory: accreditation
-articleType: glossary_term
-country: global
-publishDate: 2026-05-22T10:00:00Z
-lastVerified: 2026-05-22
-readingTime: 3 min
-tags:
-  - 注册
-  - Registered
-  - 认证
-  - 高等教育
-  - 术语
-keywords:
-  - 注册
-  - Registered
-  - 认证术语
-  - 高等教育认证
-  - 机构注册
-dataSources:
-  - title: "CHEA Glossary of Accreditation Terms"
-    url: "https://www.chea.org/glossary"
-  - title: "ENQA Glossary of Quality Assurance Terminology"
-    url: "https://www.enqa.eu/glossary/"
-  - title: "AACSB Accreditation Standards"
-    url: "https://www.aacsb.edu/accreditation/standards"
-ogImage: ""
-draft: false
----
-
 ## 中英对照
 
 **注册**（英文：Registered）
@@ -89,4 +55,3 @@ draft: false
 - U.S. Department of Education. (2026). *Database of Accredited Postsecondary Institutions and Programs*. https://ope.ed.gov/dapip/#/home
 - INQAAHE. (2025). *Annual Report 2025: Quality Assurance in Higher Education Worldwide*. International Network for Quality Assurance Agencies in Higher Education.
 - AACSB International. (2026). *AACSB Accreditation Standards: An Overview*. https://www.aacsb.edu/accreditation/standards
-```

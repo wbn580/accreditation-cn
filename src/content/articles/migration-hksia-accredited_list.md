@@ -1,25 +1,5 @@
 ---
 title: "HKSIA 香港移民服务行业协会：全球受认证机构名单"
-description: "本文为HKSIA 香港移民服务行业协会：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "migration"
-subCategory: "hksia"
-articleType: "accredited_list"
-country: "hk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["hksia", "migration"]
-keywords: ["HKSIA 香港移民服务行业协会：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/migration-default.svg"
-draft: false
----
-```yaml
----
-title: "HKSIA 香港移民服务行业协会：全球受认证机构名单"
 description: "基于 HKSIA 2026 年度认证名录，整理全球受认证移民服务机构的完整名单，按地区分组呈现，附数据来源与解读。"
 category: "migration"
 subCategory: "accredited_list"
@@ -28,13 +8,7 @@ country: "hk"
 publishDate: "2026-05-22T10:00:00Z"
 lastVerified: "2026-05-22"
 readingTime: "15 分钟"
-tags:
-  - HKSIA
-  - 香港移民服务行业协会
-  - 受认证机构名单
-  - 移民服务认证
-  - 全球认证
-  - 2026
+tags: ['HKSIA', '香港移民服务行业协会', '受认证机构名单', '移民服务认证', '全球认证', '2026']
 keywords:
   - HKSIA 认证机构
   - 香港移民服务行业协会 名单
@@ -50,8 +24,6 @@ dataSources:
 ogImage: "https://www.accreditation.cn/images/hksia-2026-list-og.png"
 draft: false
 ---
-```
-
 ## 引言
 
 **HKSIA（香港移民服务行业协会）** 是香港特别行政区内主要的移民服务行业自律组织，其认证体系旨在识别具备专业能力、遵守行业操守的移民服务机构。截至 2026 年 5 月，HKSIA 共认证 312 家机构，覆盖 23 个国家和地区（数据来源：HKSIA 2026 年度认证名录）。本汇编根据该名录，按地区分组呈现受认证机构名单，供行业参考。

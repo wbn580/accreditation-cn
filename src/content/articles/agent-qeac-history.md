@@ -1,25 +1,5 @@
 ---
 title: "QEAC 澳洲留学中介持牌资格：历史演变与关键里程碑"
-description: "本文为QEAC 澳洲留学中介持牌资格：历史演变与关键里程碑的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "agent"
-subCategory: "qeac"
-articleType: "history"
-country: "au"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["qeac", "agent"]
-keywords: ["QEAC 澳洲留学中介持牌资格：历史演变与关键里程碑"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/agent-default.svg"
-draft: false
----
-```yaml
----
-title: "QEAC 澳洲留学中介持牌资格：历史演变与关键里程碑"
 description: "本文系统梳理澳大利亚QEAC（Qualified Education Agent Counsellor）持牌资格制度的历史演变，涵盖创立背景、关键里程碑、重大改革及近年演变，为留学行业从业者与公众提供权威参考。"
 category: "agent"
 subCategory: "regulation"
@@ -48,7 +28,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/qeac-history-og.jpg"
 draft: false
 ---
-
 # QEAC 澳洲留学中介持牌资格：历史演变与关键里程碑
 
 ## 引言
@@ -138,4 +117,3 @@ QEAC 资格有效期为 3 年。续期需满足以下条件：完成至少 60 �
 - 澳大利亚内政部（Department of Home Affairs）. 《学生签证政策更新》（2025 年）. https://www.homeaffairs.gov.au/student-visa
 - 澳大利亚政府公报（Australian Government Gazette）. 《国家教育代理行为准则修订公告》（2024 年）. https://www.gazette.gov.au/2024/education-agents
 
-```

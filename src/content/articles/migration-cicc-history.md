@@ -1,25 +1,5 @@
 ---
 title: "CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑"
-description: "本文为CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "migration"
-subCategory: "cicc"
-articleType: "history"
-country: "ca"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["cicc", "migration"]
-keywords: ["CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/migration-default.svg"
-draft: false
----
-```yaml
----
-title: "CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑"
 description: "本文系统梳理加拿大移民和公民顾问管理局（CICC）自创立以来的历史演变、关键改革与重大里程碑，基于公开法规与年度报告，为政策研究者与行业从业者提供中立、权威的参考信息。"
 category: "migration"
 subCategory: "regulatory"
@@ -49,8 +29,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/cicc-history-og.jpg"
 draft: false
 ---
-```
-
 # CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑
 
 ## 引言：从行业自律到法定监管的历史转折

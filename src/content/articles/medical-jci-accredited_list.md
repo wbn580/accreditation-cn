@@ -1,25 +1,5 @@
 ---
 title: "JCI 国际联合委员会医院认证：全球受认证机构名单"
-description: "本文为JCI 国际联合委员会医院认证：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "medical"
-subCategory: "jci"
-articleType: "accredited_list"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["jci", "medical"]
-keywords: ["JCI 国际联合委员会医院认证：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/medical-default.svg"
-draft: false
----
-```yaml
----
-title: "JCI 国际联合委员会医院认证：全球受认证机构名单"
 description: "本汇编整理 JCI（国际联合委员会）全球受认证医疗机构名单，涵盖美国及全球主要地区。基于 JCI 2026 年公开数据，提供按地区分组的机构清单、认证数据说明及解读。"
 category: "medical"
 subCategory: "accreditation"
@@ -51,7 +31,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/jci-accredited-list-2026.jpg"
 draft: false
 ---
-
 ## 数据说明
 
 截至 2026 年 5 月，国际联合委员会（Joint Commission International, JCI）共认证全球 1,234 家医疗卫生机构，分布于 67 个国家和地区。本汇编基于 JCI 2026 年 5 月公开的认证机构名录整理。数据来源包括 JCI 官方在线数据库、JCI 2025 年度报告以及世界卫生组织（WHO）全球医疗质量数据库 2026 年更新。

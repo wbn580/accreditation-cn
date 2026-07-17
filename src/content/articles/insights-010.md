@@ -1,25 +1,5 @@
 ---
 title: "加拿大CICC考试通过率与监管力度"
-description: "本文为加拿大CICC考试通过率与监管力度的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["加拿大CICC考试通过率与监管力度"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "加拿大CICC考试通过率与监管力度"
 description: "基于2025-2026年最新数据，分析加拿大移民顾问监管委员会（CICC）执业考试的通过率趋势、监管机制演变及其对行业准入的影响。"
 category: "移民政策"
 subCategory: "职业认证"
@@ -47,7 +27,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/insights/canada-cicc-pass-rate-2026.jpg"
 draft: false
 ---
-
 ## 导语
 
 截至2026年5月，加拿大移民顾问监管委员会（College of Immigration and Citizenship Consultants，简称CICC）公布的2025年度执业考试通过率为54.7%，较2023年的61.2%下降6.5个百分点。这一变化反映出加拿大移民顾问行业准入标准正在持续收紧。本汇编依据CICC年度报告、加拿大移民、难民和公民部（IRCC）政策文件及第三方研究数据，系统梳理CICC考试通过率的历史趋势、监管力度演变及其对从业者与移民申请人的影响。

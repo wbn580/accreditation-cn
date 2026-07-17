@@ -1,25 +1,5 @@
 ---
 title: "中国教育部涉外监管信息网与海外认证体系的衔接"
-description: "本文为中国教育部涉外监管信息网与海外认证体系的衔接的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["中国教育部涉外监管信息网与海外认证体系的衔接"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "中国教育部涉外监管信息网与海外认证体系的衔接"
 description: "基于公开数据与政策文件，分析中国教育部涉外监管信息网（JSJ）与AACSB、EQUIS、ABET等海外认证体系之间的衔接机制、数据互认现状及未来趋势。"
 category: "insights"
 subCategory: "accreditation"
@@ -52,7 +32,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/insights/JSJ-overseas-accreditation-2026.jpg"
 draft: false
 ---
-
 # 中国教育部涉外监管信息网与海外认证体系的衔接
 
 截至2026年5月，中国教育部教育涉外监管信息网（以下简称JSJ）共收录境外高校及教育机构9,427所，其中约34%的院校持有至少一项国际公认的海外认证（数据来源：JSJ 2026年5月公开列表；AACSB 2026年度年报）。这一数据表明，JSJ与海外认证体系之间存在实质性的结构性衔接，但并非全面互认，而是基于特定标准与程序的筛选与引用机制。

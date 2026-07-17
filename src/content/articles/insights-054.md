@@ -17,38 +17,6 @@ dataSources:
 ogImage: "/og-images/insights-default.svg"
 draft: false
 ---
-```markdown
----
-title: "德国FIBAA认证在东欧与中亚的扩张"
-description: "依据FIBAA官方年度报告及区域教育合作数据，梳理该认证机构在东欧与中亚地区的认证扩展趋势、认证院校数量变化及区域影响力分析。"
-category: "insights"
-subCategory: "认证动态"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 15
-tags:
-  - FIBAA
-  - 东欧
-  - 中亚
-  - 国际认证
-  - 高等教育
-  - 区域扩张
-keywords:
-  - FIBAA认证
-  - 东欧高等教育
-  - 中亚认证
-  - 德国认证机构
-  - 跨境教育质量保障
-dataSources:
-  - "FIBAA 2025年度年报：https://www.fibaa.org/en/about-fibaa/annual-reports/"
-  - "ENQA（欧洲高等教育质量保障协会）2026年成员名单：https://www.enqa.eu/members/"
-  - "博洛尼亚进程执行报告（2024）：https://eacea.ec.europa.eu/national-policies/eurydice/content/european-education-area_en"
-ogImage: "/images/insights/fibaa-expansion-eurasia-2026.jpg"
-draft: false
----
-
 ## 导语：FIBAA认证的跨区域延伸
 
 截至2026年5月，德国非政府认证机构FIBAA（Foundation for International Business Administration Accreditation）已累计认证全球超过180所高等院校及项目，其中东欧与中亚地区占比从2016年的约12%上升至2025年的约28%（数据来源：FIBAA 2025年度年报）。这一变化标志着该机构正从传统的德语区及西欧市场，向欧亚大陆腹地系统性扩张。

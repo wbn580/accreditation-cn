@@ -17,37 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "国家资格框架（NQF）"
-description: "国家资格框架（National Qualifications Framework, NQF）是各国政府建立的资格认证体系，用于规范学历、职业资格与技能认证的等级、标准与互认。本词条梳理其定义、历史、适用范围及常见误区。"
-category: "glossary"
-subCategory: "qualification-framework"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: "3 分钟"
-tags:
-  - "国家资格框架"
-  - "NQF"
-  - "资格认证"
-  - "学历互认"
-  - "职业资格"
-keywords:
-  - "国家资格框架"
-  - "NQF definition"
-  - "资格等级"
-  - "学分互认"
-  - "EQF"
-dataSources:
-  - "European Commission. (2026). European Qualifications Framework (EQF). https://ec.europa.eu/ploteus/en/european-qualifications-framework"
-  - "Australian Government. (2026). Australian Qualifications Framework (AQF). https://www.aqf.edu.au/"
-  - "UNESCO. (2025). Global Inventory of Regional and National Qualifications Frameworks. https://unesdoc.unesco.org/"
-ogImage: "https://accreditation.cn/images/glossary/nqf-og.png"
-draft: false
----
-
 ## 中英对照
 
 **国家资格框架**（National Qualifications Framework, NQF），亦常简称为“资格框架”或“NQF”。在不同国家/地区，该体系可能有特定名称，如欧洲资格框架（EQF）、澳大利亚资格框架（AQF）、南非资格框架（NQF（SA））等。

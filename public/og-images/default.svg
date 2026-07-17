@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08172a"/>
+      <stop offset="0.56" stop-color="#1a365d"/>
+      <stop offset="1" stop-color="#243f63"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="84%" cy="10%" r="78%">
+      <stop offset="0" stop-color="#8dadd2" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#8dadd2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="630" rx="34" fill="url(#halo)"/>
+  <path d="M84 92h180" stroke="#b91c1c" stroke-width="8" stroke-linecap="round"/>
+  <text x="84" y="178" fill="#dce6f2" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" font-weight="600" letter-spacing="5">ACCREDITATION.CN</text>
+  <text x="84" y="298" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="72" font-weight="800">全球认证信息汇编</text>
+  <text x="86" y="370" fill="#b9cde5" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="500">教育 · 职业 · 资质的独立中文资料库</text>
+  <g transform="translate(892 166)">
+    <circle cx="118" cy="118" r="112" fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width="2"/>
+    <circle cx="118" cy="118" r="82" fill="#fafaf7" fill-opacity=".08" stroke="#8dadd2" stroke-width="3"/>
+    <path d="M118 62l18 36 40 6-29 28 7 40-36-19-36 19 7-40-29-28 40-6 18-36Z" fill="#fafaf7"/>
+    <path d="M75 208l43-23 43 23" fill="none" stroke="#b91c1c" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <rect x="84" y="492" width="1032" height="1" fill="#ffffff" opacity=".18"/>
+  <text x="84" y="548" fill="#dce6f2" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24">Independent · Source-led · Updated for 2026</text>
+</svg>

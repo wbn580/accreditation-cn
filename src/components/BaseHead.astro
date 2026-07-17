@@ -1,5 +1,8 @@
 ---
 // BaseHead.astro — Common <head> for all pages
+import fs from 'node:fs';
+import path from 'node:path';
+
 export interface Props {
   title: string;
   description: string;
@@ -11,8 +14,30 @@ const {
   title,
   description,
   canonicalURL = 'https://accreditation.cn',
-  ogImage = '/og-images/default.svg',
+  ogImage = '/og-images/default.png',
 } = Astro.props;
+
+const siteOrigin = 'https://accreditation.cn';
+const requestedOg = new URL(ogImage, siteOrigin);
+let resolvedOg = requestedOg.href;
+
+// Historical content generation emitted hundreds of same-domain OG paths
+// without creating the matching files. Resolve those deterministically to the
+// real branded fallback at build time; external images remain untouched and
+// are still checked by the shared remote-image deployment gate.
+if (requestedOg.hostname.replace(/^www\./, '') === 'accreditation.cn') {
+  const publicRoot = path.resolve(process.cwd(), 'public');
+  const localPath = path.resolve(publicRoot, decodeURIComponent(requestedOg.pathname).replace(/^\/+/, ''));
+  const safeLocalPath = localPath === publicRoot || localPath.startsWith(publicRoot + path.sep);
+  if (
+    !safeLocalPath
+    || !fs.existsSync(localPath)
+    || !fs.statSync(localPath).isFile()
+    || fs.statSync(localPath).size === 0
+  ) {
+    resolvedOg = new URL('/og-images/default.png', siteOrigin).href;
+  }
+}
 ---
 
 <!-- Primary Meta -->
@@ -27,7 +52,7 @@ const {
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonicalURL} />
-<meta property="og:image" content={new URL(ogImage, 'https://accreditation.cn').href} />
+<meta property="og:image" content={resolvedOg} />
 <meta property="og:site_name" content="全球认证信息汇编" />
 <meta property="og:locale" content="zh_CN" />
 
@@ -35,6 +60,7 @@ const {
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={resolvedOg} />
 
 <!-- GEO / AI -->
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
@@ -58,4 +84,3 @@ const {
 `}></script>
 
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-<link rel="alternate icon" href="/favicon.ico" />

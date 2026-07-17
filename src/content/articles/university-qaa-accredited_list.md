@@ -1,25 +1,5 @@
 ---
 title: "QAA 英国质量保证局：全球受认证机构名单"
-description: "本文为QAA 英国质量保证局：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "qaa"
-articleType: "accredited_list"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["qaa", "university"]
-keywords: ["QAA 英国质量保证局：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "QAA 英国质量保证局：全球受认证机构名单"
 description: "截至 2026 年 5 月，QAA（英国质量保证局）在全球范围内认证的高等教育机构名单，按地区分组整理，数据来源于 QAA 官方登记册。"
 category: "university"
 subCategory: "accredited_list"
@@ -52,7 +32,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/og/qaa-list-2026.jpg"
 draft: false
 ---
-
 # QAA 英国质量保证局：全球受认证机构名单
 
 ## 数据说明

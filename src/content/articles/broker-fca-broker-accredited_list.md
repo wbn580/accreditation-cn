@@ -1,25 +1,5 @@
 ---
 title: "FCA 英国金融行为监管局持牌经纪：全球受认证机构名单"
-description: "本文为FCA 英国金融行为监管局持牌经纪：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "broker"
-subCategory: "fca-broker"
-articleType: "accredited_list"
-country: "uk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["fca-broker", "broker"]
-keywords: ["FCA 英国金融行为监管局持牌经纪：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/broker-default.svg"
-draft: false
----
-```yaml
----
-title: "FCA 英国金融行为监管局持牌经纪：全球受认证机构名单"
 description: "本汇编整理了截至2026年5月英国金融行为监管局（FCA）授权并监管的全球经纪商名单，涵盖数据说明、按地区分组列表及解读。数据来源于FCA官方注册系统及相关年度报告。"
 category: "broker"
 subCategory: "accredited_list"
@@ -51,7 +31,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/fca-broker-list-2026-og.png"
 draft: false
 ---
-
 ## 数据说明
 
 截至 2026 年 5 月 22 日，英国金融行为监管局（Financial Conduct Authority, FCA）授权并监管的经纪商共计 1,847 家（数据来源：FCA Financial Services Register 实时查询，2026-05-22）。本汇编依据 FCA 公开注册系统、2025/26 年度报告及 Handbook 第 4 章（PERG 4）中的授权标准，筛选出面向零售及机构客户提供外汇、差价合约（CFD）及证券交易服务的持牌经纪商。数据涵盖公司注册号（FRN）、授权状态（Authorised / EEA Passporting / Temporary Permission）及主要业务类型。
@@ -64,43 +43,40 @@ draft: false
 
 英国本土注册的 FCA 持牌经纪商构成最大群体，截至 2026 年 5 月共 1,312 家（数据来源：FCA Financial Services Register，按注册地址筛选）。以下为部分代表机构（按 FRN 排序）：
 
-| 公司名称 | FRN | 授权状态 | 主要业务 |
-|----------|-----|----------|----------|
-| IG Group Holdings plc | 114059 | Authorised | 外汇、CFD、股票交易 |
-| CMC Markets plc | 173730 | Authorised | 外汇、CFD、差价合约 |
-| Hargreaves Lansdown Asset Management Ltd | 115248 | Authorised | 证券经纪、投资平台 |
-| AJ Bell Securities Ltd | 455123 | Authorised | 股票、基金交易 |
-| Saxo Bank UK Ltd | 551422 | Authorised | 外汇、CFD、多资产交易 |
-| Interactive Brokers (UK) Ltd | 208159 | Authorised | 证券、期货、外汇 |
-| Plus500UK Ltd | 509909 | Authorised | CFD、外汇 |
-| eToro (UK) Ltd | 583263 | Authorised | 社交交易、CFD、加密货币CFD |
-| LCG (London Capital Group) Ltd | 182110 | Authorised | 外汇、CFD |
-| OANDA Europe Ltd | 542574 | Authorised | 外汇、CFD |
+- **IG Group Holdings plc**: 114059 · Authorised · 外汇、CFD、股票交易
+- **CMC Markets plc**: 173730 · Authorised · 外汇、CFD、差价合约
+- **Hargreaves Lansdown Asset Management Ltd**: 115248 · Authorised · 证券经纪、投资平台
+- **AJ Bell Securities Ltd**: 455123 · Authorised · 股票、基金交易
+- **Saxo Bank UK Ltd**: 551422 · Authorised · 外汇、CFD、多资产交易
+- **Interactive Brokers (UK) Ltd**: 208159 · Authorised · 证券、期货、外汇
+- **Plus500UK Ltd**: 509909 · Authorised · CFD、外汇
+- **eToro (UK) Ltd**: 583263 · Authorised · 社交交易、CFD、加密货币CFD
+- **LCG (London Capital Group) Ltd**: 182110 · Authorised · 外汇、CFD
+- **OANDA Europe Ltd**: 542574 · Authorised · 外汇、CFD
+
 
 ### 欧盟及欧洲经济区（EEA）持牌经纪商
 
 截至 2026 年 5 月，FCA 通过临时许可制度（Temporary Permissions Regime, TPR）及 EEA Passporting 机制，允许 312 家 EEA 注册经纪商在英国开展业务（数据来源：FCA 2026 年度报告）。自 2021 年 1 月 1 日起，EEA 公司不再自动享有护照权利，但可通过 TPR 获得最长 3 年过渡期授权。以下为部分代表机构：
 
-| 公司名称 | 注册国 | FRN | 授权状态 | 主要业务 |
-|----------|--------|-----|----------|----------|
-| XTB Ltd | 波兰 | 528828 | Temporary Permission | 外汇、CFD |
-| AvaTrade Ltd | 爱尔兰 | 565561 | Temporary Permission | 外汇、CFD |
-| Swissquote Bank Europe SA | 卢森堡 | 591234 | Temporary Permission | 外汇、证券 |
-| eToro (Europe) Ltd | 塞浦路斯 | 583263 | Temporary Permission | 社交交易、CFD |
-| Plus500CY Ltd | 塞浦路斯 | 509909 | Temporary Permission | CFD、外汇 |
+- **XTB Ltd**: 波兰 · 528828 · Temporary Permission · 外汇、CFD
+- **AvaTrade Ltd**: 爱尔兰 · 565561 · Temporary Permission · 外汇、CFD
+- **Swissquote Bank Europe SA**: 卢森堡 · 591234 · Temporary Permission · 外汇、证券
+- **eToro (Europe) Ltd**: 塞浦路斯 · 583263 · Temporary Permission · 社交交易、CFD
+- **Plus500CY Ltd**: 塞浦路斯 · 509909 · Temporary Permission · CFD、外汇
+
 
 ### 亚太及中东地区持牌经纪商
 
 FCA 授权范围涵盖部分在亚太及中东注册、但在英国设有分支或通过代表处提供服务的经纪商。截至 2026 年 5 月，此类机构共 223 家（数据来源：FCA Financial Services Register）。以下为部分代表机构：
 
-| 公司名称 | 注册国 | FRN | 授权状态 | 主要业务 |
-|----------|--------|-----|----------|----------|
-| MUFG Bank Ltd (UK Branch) | 日本 | 124508 | Authorised | 外汇、衍生品 |
-| Nomura International plc | 日本 | 121882 | Authorised | 证券、外汇 |
-| HSBC Bank plc | 英国/香港 | 114216 | Authorised | 外汇、证券、衍生品 |
-| Standard Chartered Bank | 英国/新加坡 | 114235 | Authorised | 外汇、衍生品 |
-| DBS Bank Ltd (London Branch) | 新加坡 | 124510 | Authorised | 外汇、衍生品 |
-| Qatar National Bank (QNB) London Branch | 卡塔尔 | 124512 | Authorised | 外汇、衍生品 |
+- **MUFG Bank Ltd (UK Branch)**: 日本 · 124508 · Authorised · 外汇、衍生品
+- **Nomura International plc**: 日本 · 121882 · Authorised · 证券、外汇
+- **HSBC Bank plc**: 英国/香港 · 114216 · Authorised · 外汇、证券、衍生品
+- **Standard Chartered Bank**: 英国/新加坡 · 114235 · Authorised · 外汇、衍生品
+- **DBS Bank Ltd (London Branch)**: 新加坡 · 124510 · Authorised · 外汇、衍生品
+- **Qatar National Bank (QNB) London Branch**: 卡塔尔 · 124512 · Authorised · 外汇、衍生品
+
 
 ### 其他地区（北美、非洲、拉丁美洲）
 

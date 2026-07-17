@@ -1,25 +1,5 @@
 ---
 title: "ABA 美国律师协会认证：常见问题与解答"
-description: "本文为ABA 美国律师协会认证：常见问题与解答的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "legal"
-subCategory: "aba"
-articleType: "faq"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["aba", "legal"]
-keywords: ["ABA 美国律师协会认证：常见问题与解答"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/legal-default.svg"
-draft: false
----
-```yaml
----
-title: "ABA 美国律师协会认证：常见问题与解答"
 description: "关于美国律师协会（ABA）法学院认证的权威信息汇编，涵盖认证标准、申请流程、维持要求及常见疑问。"
 category: "legal"
 subCategory: "accreditation"
@@ -55,8 +35,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/og-aba-guide-2026.jpg"
 draft: false
 ---
-```
-
 # ABA 美国律师协会认证：常见问题与解答
 
 ## 引言

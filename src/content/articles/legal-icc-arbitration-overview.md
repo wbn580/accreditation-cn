@@ -1,25 +1,5 @@
 ---
 title: "ICC 国际商会仲裁院：全面解析与最新认证标准"
-description: "本文为ICC 国际商会仲裁院：全面解析与最新认证标准的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "legal"
-subCategory: "icc-arbitration"
-articleType: "overview"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["icc-arbitration", "legal"]
-keywords: ["ICC 国际商会仲裁院：全面解析与最新认证标准"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/legal-default.svg"
-draft: false
----
-```yaml
----
-title: "ICC 国际商会仲裁院：全面解析与最新认证标准"
 description: "基于ICC官方2025-2026年度报告及公开数据，系统梳理国际商会仲裁院（ICC International Court of Arbitration）的起源、认证范围、全球案件统计、费用与时效标准，并提供常见问题解答与参考资料来源。"
 category: "legal"
 subCategory: "国际仲裁"
@@ -54,7 +34,6 @@ dataSources:
 ogImage: "https://iccwbo.org/static/og-images/icc-arbitration-overview-2026.jpg"
 draft: false
 ---
-
 # ICC 国际商会仲裁院：全面解析与最新认证标准
 
 ICC 国际商会仲裁院（ICC International Court of Arbitration）是全球使用频率最高的国际商事仲裁机构之一。截至 2026 年 5 月，依据 ICC 2025 年度报告（ICC 2025 Annual Report），该机构自 1923 年成立以来累计受理案件超过 28,000 件，2025 年新立案件 1,032 件，涉及 142 个国家与地区。本汇编基于 ICC 官方公开数据（2021 年版仲裁规则及历年统计报告），从起源、认证范围、全球统计、费用时效等维度进行系统整理，以期为法律从业者、企业法务及研究人员提供可靠参考。

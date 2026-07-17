@@ -17,38 +17,6 @@ dataSources:
 ogImage: "/og-images/broker-default.svg"
 draft: false
 ---
-```markdown
----
-title: "HKMA 香港金融管理局持牌机构：申请流程完整指南"
-description: "依据香港金融管理局（HKMA）公开规定，系统梳理持牌机构申请流程、资质要求、时间线及常见被拒原因。本汇编整理截至2026年5月22日的最新信息。"
-category: "broker"
-subCategory: "金融牌照"
-articleType: "how_to_apply"
-country: "hk"
-publishDate: 2026-05-22T10:00:00Z
-lastVerified: 2026-05-22
-readingTime: 12
-tags:
-  - HKMA
-  - 香港金融管理局
-  - 持牌机构
-  - 牌照申请
-  - 金融监管
-  - 申请流程
-keywords:
-  - HKMA 持牌机构申请
-  - 香港金融管理局 牌照
-  - 银行牌照申请
-  - 认可机构 申请流程
-  - 香港金融监管
-dataSources:
-  - "香港金融管理局. (2026). 《银行业条例》及相关指引. https://www.hkma.gov.hk/chi/key-functions/banking/banking-regulatory-and-supervisory-regime/"
-  - "香港金融管理局. (2026). 认可机构申请指南. https://www.hkma.gov.hk/chi/key-functions/banking/authorization/application-for-authorization/"
-  - "香港金融管理局. (2026). 监管政策手册. https://www.hkma.gov.hk/chi/key-functions/banking/banking-regulatory-and-supervisory-regime/supervisory-policy-manual/"
-ogImage: "https://accreditation.cn/images/hkma-license-guide-2026.jpg"
-draft: false
----
-
 # HKMA 香港金融管理局持牌机构：申请流程完整指南
 
 ## 引言：HKMA 持牌机构的定义与监管框架
@@ -65,11 +33,10 @@ draft: false
 
 根据《银行业条例》第20条，不同类别认可机构的最低实缴资本要求如下（截至2026年5月22日，来源：HKMA《银行业条例》第155章附表1）：
 
-| 机构类别 | 最低实缴资本（港元） |
-|----------|----------------------|
-| 持牌银行 | 3亿 |
-| 有限制牌照银行 | 1亿 |
-| 接受存款公司 | 2500万 |
+- **持牌银行**: 3亿
+- **有限制牌照银行**: 1亿
+- **接受存款公司**: 2500万
+
 
 ### 股东与管理层资质
 
@@ -150,13 +117,12 @@ HKMA 在完成所有审查后，会向财政司司长提交建议。最终审批
 
 HKMA 对认可机构申请收取以下费用（依据《银行业条例》第155章，附表2，2026年标准）：
 
-| 费用项目 | 金额（港元） |
-|----------|--------------|
-| 申请费（不可退还） | 50,000 |
-| 授权费（审批通过后支付） | 200,000 |
-| 年度监管费（持牌银行） | 150,000 |
-| 年度监管费（有限制牌照银行） | 100,000 |
-| 年度监管费（接受存款公司） | 50,000 |
+- **申请费（不可退还）**: 50,000
+- **授权费（审批通过后支付）**: 200,000
+- **年度监管费（持牌银行）**: 150,000
+- **年度监管费（有限制牌照银行）**: 100,000
+- **年度监管费（接受存款公司）**: 50,000
+
 
 注：上述费用可能随年度调整，申请人应以 HKMA 官网最新公告为准。
 

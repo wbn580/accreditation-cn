@@ -17,37 +17,6 @@ dataSources:
 ogImage: "/og-images/agent-default.svg"
 draft: false
 ---
-```
----
-title: "QEAC 澳洲留学中介持牌资格：全球受认证机构名单"
-description: "截至2026年5月，全球共有1,247家留学代理机构持有澳大利亚QEAC认证。本文按地区分组列出所有受认证机构名单，并解读认证机制与查询方法。"
-category: "agent"
-subCategory: "accreditation"
-articleType: "accredited_list"
-country: "au"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags:
-  - "QEAC"
-  - "澳大利亚留学"
-  - "中介认证"
-  - "持牌资格"
-  - "留学代理"
-keywords:
-  - "QEAC认证机构名单"
-  - "澳洲留学中介持牌"
-  - "全球受认证留学代理"
-  - "澳大利亚教育部授权代理"
-  - "2026年QEAC认证清单"
-dataSources:
-  - "澳大利亚教育部 (Department of Education, Australian Government) - QEAC官方注册系统: https://www.education.gov.au/qeac"
-  - "澳大利亚移民局 (Department of Home Affairs) - 教育代理监管框架: https://www.homeaffairs.gov.au/help-support/education-agents"
-  - "澳大利亚贸易投资委员会 (Austrade) - 留学澳大利亚官方门户: https://www.studyinaustralia.gov.au/english/study-in-australia/education-agents"
-ogImage: "https://accreditation.cn/images/qeac-list-2026-og.jpg"
-draft: false
----
-
 # QEAC 澳洲留学中介持牌资格：全球受认证机构名单
 
 截至2026年5月22日，全球共有1,247家留学代理机构持有澳大利亚教育部（Department of Education）颁发的QEAC（Qualified Education Agent Counsellor）认证。该认证是澳大利亚政府为规范国际教育中介服务而设立的强制性持牌制度，所有向澳大利亚教育机构输送国际学生的中介均须通过QEAC考试并保持年度合规。本汇编基于澳大利亚教育部QEAC官方注册系统数据，按地区分组列出全部受认证机构名单，供利益相关方核查与参考。

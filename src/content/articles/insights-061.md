@@ -1,25 +1,5 @@
 ---
 title: "数字徽章与区块链证书是否将取代传统认证"
-description: "本文为数字徽章与区块链证书是否将取代传统认证的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["数字徽章与区块链证书是否将取代传统认证"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "数字徽章与区块链证书是否将取代传统认证"
 description: "基于2025-2026年全球教育认证领域的最新数据与趋势，分析数字徽章与区块链证书对传统认证体系的潜在影响与替代可能性。"
 category: "insights"
 subCategory: "教育认证趋势"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "/images/insights/digital-badges-blockchain-accreditation-2026.jpg"
 draft: false
 ---
-
 # 数字徽章与区块链证书是否将取代传统认证
 
 ## 导语
@@ -95,12 +74,11 @@ draft: false
 
 ### 数据对比：替代与互补的量化差异
 
-| 维度 | 传统认证 | 数字徽章/区块链证书 | 互补模式 |
-|------|----------|----------------------|----------|
-| 评估范围 | 机构/项目整体 | 单一技能或课程 | 整体+细粒度 |
-| 验证速度 | 数天至数周 | 实时（<10秒） | 实时验证核心信息 |
-| 更新频率 | 5-7年 | 持续更新 | 按需更新 |
-| 全球认可度 | 高（180+国家） | 中（约30国法律承认） | 逐步提升 |
+- **评估范围**: 机构/项目整体 · 单一技能或课程 · 整体+细粒度
+- **验证速度**: 数天至数周 · 实时（<10秒） · 实时验证核心信息
+- **更新频率**: 5-7年 · 持续更新 · 按需更新
+- **全球认可度**: 高（180+国家） · 中（约30国法律承认） · 逐步提升
+
 
 （数据来源：INQAAHE 2026年白皮书；European Commission 2025年微凭证框架指南）
 

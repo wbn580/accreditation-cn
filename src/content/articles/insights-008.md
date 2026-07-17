@@ -1,25 +1,5 @@
 ---
 title: "留学中介QEAC持牌制度自PIER退场后的演变"
-description: "本文为留学中介QEAC持牌制度自PIER退场后的演变的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["留学中介QEAC持牌制度自PIER退场后的演变"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "留学中介QEAC持牌制度自PIER退场后的演变"
 description: "基于公开数据与政策文件，梳理澳大利亚QEAC持牌制度自PIER系统退场后的监管框架、市场影响与未来走向。"
 category: "insights"
 subCategory: "accreditation"
@@ -49,8 +29,6 @@ dataSources:
 ogImage: "/images/insights/qeac-pier-evolution-og.jpg"
 draft: false
 ---
-```
-
 # 留学中介QEAC持牌制度自PIER退场后的演变
 
 ## 导语
@@ -79,13 +57,12 @@ PIER仅覆盖澳大利亚境内注册代理。2025年，澳大利亚与新西兰
 
 据澳大利亚教育部2026年第一季度统计，全球持有有效QEAC证书的顾问共计21,478人，分布如下（数据来源：Australian Government, Department of Education, 2026 Q1 Data Dashboard）：
 
-| 地区 | 持牌顾问人数 | 占比 | 较2022年变化 |
-|------|------------|------|------------|
-| 东亚（含中国） | 9,847 | 45.8% | -8.3% |
-| 南亚 | 5,231 | 24.4% | +3.1% |
-| 东南亚 | 3,102 | 14.4% | -1.2% |
-| 欧洲 | 1,689 | 7.9% | -0.5% |
-| 其他 | 1,609 | 7.5% | +2.4% |
+- **东亚（含中国）**: 9,847 · 45.8% · -8.3%
+- **南亚**: 5,231 · 24.4% · +3.1%
+- **东南亚**: 3,102 · 14.4% · -1.2%
+- **欧洲**: 1,689 · 7.9% · -0.5%
+- **其他**: 1,609 · 7.5% · +2.4%
+
 
 中国作为澳大利亚最大生源国，其持牌顾问数量下降8.3%，与同期中国赴澳学生签证申请量下降（-6.7%）趋势一致。南亚地区持牌顾问增长3.1%，主要受印度、尼泊尔生源增长驱动。
 

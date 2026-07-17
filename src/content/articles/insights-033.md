@@ -1,25 +1,5 @@
 ---
 title: "985-211在国际认证视野下的地位"
-description: "本文为985-211在国际认证视野下的地位的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["985-211在国际认证视野下的地位"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "985-211在国际认证视野下的地位"
 description: "基于AACSB、EQUIS、AMBA三大国际认证数据，分析中国大陆985-211工程高校在全球商科与工程认证体系中的表现与定位。"
 category: "insights"
 subCategory: "高等教育"
@@ -39,7 +19,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/insights/985-211-accreditation-status-2026.jpg"
 draft: false
 ---
-
 # 985-211在国际认证视野下的地位
 
 ## 导语：一个制度性框架的全球映射

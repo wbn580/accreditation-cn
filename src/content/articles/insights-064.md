@@ -1,25 +1,5 @@
 ---
 title: "美国联邦政府与认证机构之间的权力博弈"
-description: "本文为美国联邦政府与认证机构之间的权力博弈的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["美国联邦政府与认证机构之间的权力博弈"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "美国联邦政府与认证机构之间的权力博弈"
 description: "深度分析美国联邦政府与高等教育认证机构之间围绕认证标准、联邦资金与治理自主权的权力博弈历史、现状与未来趋势。"
 category: "insights"
 subCategory: "accreditation-policy"
@@ -54,7 +34,6 @@ dataSources:
 ogImage: "/images/insights/us-federal-accreditation-power-dynamics-og.jpg"
 draft: false
 ---
-
 # 美国联邦政府与认证机构之间的权力博弈
 
 ## 导语

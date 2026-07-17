@@ -1,25 +1,5 @@
 ---
 title: "三皇冠认证（Triple Crown）：全球受认证机构名单"
-description: "本文为三皇冠认证（Triple Crown）：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "triple-crown"
-articleType: "accredited_list"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["triple-crown", "university"]
-keywords: ["三皇冠认证（Triple Crown）：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "三皇冠认证（Triple Crown）：全球受认证机构名单"
 description: "本汇编整理截至2026年5月全球同时获得AACSB、AMBA、EQUIS三项认证的商学院名单，按地区分组呈现，并附数据来源与解读。"
 category: "university"
 subCategory: "accreditation"
@@ -49,8 +29,6 @@ dataSources:
 ogImage: "/images/triple-crown-list-2026.jpg"
 draft: false
 ---
-```
-
 # 三皇冠认证（Triple Crown）：全球受认证机构名单
 
 截至2026年5月，全球共有约120所商学院同时获得AACSB（国际商学院协会）、AMBA（工商管理硕士协会）与EQUIS（欧洲质量改进体系）三项认证，即“三皇冠认证”（Triple Crown）。该数量仅占全球商学院总数的约1%以下（数据来源：AACSB 2026年度年报、AMBA 2026年度年报、EFMD 2026年度报告）。以下按地区分组列出受认证机构名单，数据经三方官方数据库交叉验证。

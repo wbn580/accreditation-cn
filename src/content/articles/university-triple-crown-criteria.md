@@ -1,24 +1,4 @@
 ---
-title: "三皇冠认证（Triple Crown）：认证标准逐条详解"
-description: "本文为三皇冠认证（Triple Crown）：认证标准逐条详解的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "triple-crown"
-articleType: "criteria"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["triple-crown", "university"]
-keywords: ["三皇冠认证（Triple Crown）：认证标准逐条详解"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
 title: 三皇冠认证（Triple Crown）：认证标准逐条详解
 description: 本文基于 AACSB、EQUIS、AMBA 官方文件，逐条解析三皇冠认证的评估标准、历史演进与申请流程，为商学院提供中立、严谨的参考信息。
 category: university
@@ -61,8 +41,6 @@ dataSources:
 ogImage: /images/og-triple-crown-criteria.jpg
 draft: false
 ---
-```
-
 # 三皇冠认证（Triple Crown）：认证标准逐条详解
 
 ## 引言
@@ -81,11 +59,10 @@ draft: false
 
 下表汇总三家认证的核心标准领域：
 
-| 认证机构 | 标准数量 | 核心侧重领域 | 最新版本 |
-|----------|----------|--------------|----------|
-| AACSB    | 9        | 学术质量、师资资历、学习保障 | 2020 版 |
-| EQUIS    | 10       | 国际化、企业联系、治理 | 2025 版 |
-| AMBA     | 8        | MBA 项目设计、学生支持、校友网络 | 2025 版 |
+- **AACSB**: 9 · 学术质量、师资资历、学习保障 · 2020 版
+- **EQUIS**: 10 · 国际化、企业联系、治理 · 2025 版
+- **AMBA**: 8 · MBA 项目设计、学生支持、校友网络 · 2025 版
+
 
 ---
 

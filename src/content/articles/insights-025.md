@@ -1,25 +1,5 @@
 ---
 title: "认证标准软指标与硬指标博弈"
-description: "本文为认证标准软指标与硬指标博弈的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["认证标准软指标与硬指标博弈"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "认证标准软指标与硬指标博弈"
 description: "深度分析全球高等教育认证体系中软硬指标（量化成果与质性过程）的权重演变、争议焦点与未来趋势，基于AACSB、EQUIS、ABET等权威机构的最新标准与公开数据。"
 category: "insights"
 subCategory: "认证趋势"
@@ -50,7 +30,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/insights/soft-hard-indicators-2026.jpg"
 draft: false
 ---
-
 # 认证标准软指标与硬指标博弈
 
 ## 导语
@@ -87,11 +66,10 @@ draft: false
 
 本汇编整理基于 AACSB 2026 标准手册、EQUIS 2025 标准指南、ABET 2025-2026 政策手册，提取了各机构标准中明确标注的评估维度，并按硬指标（量化成果、就业数据、科研成果数）与软指标（过程描述、使命契合、利益相关方参与）进行分类统计：
 
-| 认证机构 | 硬指标占比（%） | 软指标占比（%） | 数据年份 |
-|----------|----------------|----------------|----------|
-| AACSB    | 38             | 62             | 2026     |
-| EQUIS    | 29             | 71             | 2025     |
-| ABET     | 55             | 45             | 2025     |
+- **AACSB**: 38 · 62 · 2026
+- **EQUIS**: 29 · 71 · 2025
+- **ABET**: 55 · 45 · 2025
+
 
 数据来源：各机构标准手册，经本汇编整理分类编码。ABET 因工程学科对量化成果的天然依赖，硬指标占比最高；EQUIS 因强调院校使命与区域影响力，软指标权重最大。
 

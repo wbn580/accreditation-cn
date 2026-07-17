@@ -17,37 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "NACES美国学历评估服务协会"
-description: "NACES（National Association of Credential Evaluation Services）是美国学历评估服务行业协会，负责制定认证标准并监督成员机构。本词条提供其定义、历史、适用范围及易混淆辨析。"
-category: "glossary"
-subCategory: "国际认证"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 4
-tags:
-  - NACES
-  - 学历评估
-  - 美国认证
-  - 国际教育
-  - 资历认证
-keywords:
-  - NACES
-  - 美国学历评估服务协会
-  - 学历评估认证
-  - 国际学历评估
-  - 资历评估机构
-dataSources:
-  - "NACES 官方网站：https://www.naces.org"
-  - "美国教育部（US Department of Education）关于认证评估机构的指南：https://www2.ed.gov/about/offices/list/ous/international/usnei/us/edlite-accreditation.html"
-  - "美国移民局（USCIS）关于学历评估的参考文件：https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2"
-ogImage: "https://accreditation.cn/images/glossary/naces-default-og.jpg"
-draft: false
----
-
 ## 中英对照
 
 **NACES** 全称 **National Association of Credential Evaluation Services**，中文译名"美国学历评估服务协会"。
@@ -88,4 +57,3 @@ NACES 会员机构的评估报告主要服务于以下场景：
 4. Association of International Credential Evaluators (AICE) 官方对比说明：https://aice-eval.org/about/comparison
 5. 美国大学注册与招生官员协会（AACRAO） - 国际学历评估实践报告（2025年版）：https://www.aacrao.org/resources/edupubs/international-education-resources
 6. 美国国务院（U.S. Department of State） - 教育信息中心关于学历评估的说明：https://educationusa.state.gov/your-5-steps-us-study/research-your-options/credential-evaluation
-```

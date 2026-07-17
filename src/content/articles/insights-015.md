@@ -1,25 +1,5 @@
 ---
 title: "澳洲AHPRA注册医生身份在中国大陆就医承认度"
-description: "本文为澳洲AHPRA注册医生身份在中国大陆就医承认度的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["澳洲AHPRA注册医生身份在中国大陆就医承认度"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "澳洲AHPRA注册医生身份在中国大陆就医承认度"
 description: "基于中国国家卫生健康委员会、澳大利亚卫生从业人员监管局（AHPRA）及国际医疗认证体系公开数据，系统分析澳洲注册医生在中国大陆执业与行医的法律承认度、实践限制及未来趋势。"
 category: "insights"
 subCategory: "医疗认证"
@@ -29,15 +9,6 @@ publishDate: "2026-05-22T10:00:00Z"
 lastVerified: "2026-05-22"
 readingTime: 12
 tags:
-  - AHPRA
-  - 澳洲医生
-  - 中国大陆医疗认证
-  - 境外医生执业
-  - 国际医疗资格认可
-  - 医疗监管
-  - 执业医师法
-  - 短期行医
-tags: 
   - AHPRA
   - 澳洲医生
   - 中国大陆医疗认证
@@ -63,7 +34,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/insights/ahpra-china-recognition-2026.jpg"
 draft: false
 ---
-
 # 澳洲AHPRA注册医生身份在中国大陆就医承认度
 
 ## 导语

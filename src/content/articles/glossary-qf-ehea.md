@@ -17,41 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "欧洲高等教育区资格框架（QF-EHEA）"
-description: "欧洲高等教育区资格框架（QF-EHEA）是博洛尼亚进程的核心工具之一，旨在促进欧洲高等教育体系的可比性与透明性。本词条提供中英对照、官方定义、历史溯源、适用范围及易混淆辨析。"
-category: "glossary"
-subCategory: "accreditation_terminology"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 3
-tags:
-  - QF-EHEA
-  - 欧洲高等教育区
-  - 博洛尼亚进程
-  - 资格框架
-  - 高等教育认证
-keywords:
-  - 欧洲高等教育区资格框架
-  - QF-EHEA
-  - 博洛尼亚进程
-  - 资格框架
-  - 欧洲学分转换与累积系统
-  - ECTS
-  - 高等教育认证
-dataSources:
-  - "European Higher Education Area (EHEA) Official Website. 'QF-EHEA Overview.' https://ehea.info/page-qf-ehea"
-  - "European Commission. 'The Bologna Process and the European Higher Education Area.' https://education.ec.europa.eu/education-levels/higher-education/bologna-process"
-  - "Council of Europe. 'Recognition of Qualifications.' https://www.coe.int/en/web/recognition"
-  - "ENQA. 'Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG).' https://www.enqa.eu/esg-standards-and-guidelines/"
-  - "UNESCO. 'Global Convention on the Recognition of Qualifications concerning Higher Education.' https://www.unesco.org/en/education/higher-education/recognition"
-ogImage: "https://accreditation.cn/images/glossary/qf-ehea-og.png"
-draft: false
----
-
 ## 中英对照
 
 **中文全称**：欧洲高等教育区资格框架  
@@ -77,11 +42,10 @@ QF-EHEA 本身不直接认证具体院校或课程，而是为各国资格框架
 
 ## 易混淆辨析
 
-| 概念 | 区别 |
-|------|------|
-| QF-EHEA vs. EQF | QF-EHEA 专注于高等教育领域，由 EHEA 管理；EQF（欧洲资格框架）覆盖所有教育层级（普通教育、职业教育、高等教育），由欧盟委员会管理。两者在高等教育层级（6-8级）有映射关系，但范围与治理机构不同。 |
-| QF-EHEA vs. ESG | QF-EHEA 是资格框架，规定学位结构与学习成果；ESG（欧洲高等教育区质量保障标准与指南）是质量保障标准，用于评估教育机构及课程质量。两者互补：QF-EHEA 提供结构，ESG 确保质量。 |
-| QF-EHEA vs. 国家资格框架 | QF-EHEA 是跨国框架，国家资格框架（NQF）是各国自行制定的具体框架。NQF 需通过自认证与 QF-EHEA 对齐，但保留本国特色（如学分要求、学位命名）。 |
+- **QF-EHEA vs. EQF**: QF-EHEA 专注于高等教育领域，由 EHEA 管理；EQF（欧洲资格框架）覆盖所有教育层级（普通教育、职业教育、高等教育），由欧盟委员会管理。两者在高等教育层级（6-8级）有映射关系，但范围与治理机构不同。
+- **QF-EHEA vs. ESG**: QF-EHEA 是资格框架，规定学位结构与学习成果；ESG（欧洲高等教育区质量保障标准与指南）是质量保障标准，用于评估教育机构及课程质量。两者互补：QF-EHEA 提供结构，ESG 确保质量。
+- **QF-EHEA vs. 国家资格框架**: QF-EHEA 是跨国框架，国家资格框架（NQF）是各国自行制定的具体框架。NQF 需通过自认证与 QF-EHEA 对齐，但保留本国特色（如学分要求、学位命名）。
+
 
 ## FAQ
 
@@ -98,4 +62,3 @@ QF-EHEA 本身不直接认证具体院校或课程，而是为各国资格框架
 - UNESCO. “Global Convention on the Recognition of Qualifications concerning Higher Education.” https://www.unesco.org/en/education/higher-education/recognition
 - European Commission. “European Qualifications Framework (EQF).” https://europa.eu/europass/en/european-qualifications-framework
 - European Students’ Union. “Bologna Process Overview.” https://www.esu-online.org/policy/bologna-process/
-```

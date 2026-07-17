@@ -1,25 +1,5 @@
 ---
 title: "不同认证体系费用结构对比"
-description: "本文为不同认证体系费用结构对比的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["不同认证体系费用结构对比"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
-title: "不同认证体系费用结构对比"
 description: "基于 AACSB、EQUIS、AMBA 三大认证体系 2025–2026 年度公开数据，对比其初始申请费、年费、评审费及隐性成本的结构差异，为院校决策提供中立参考。"
 category: "insights"
 subCategory: "认证体系分析"
@@ -48,8 +28,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/insights/fee-comparison-og.png"
 draft: false
 ---
-```
-
 # 不同认证体系费用结构对比
 
 截至 2026 年 5 月，全球商学院三大主流认证体系——AACSB（国际商学院协会）、EQUIS（欧洲质量改进体系）和 AMBA（工商管理硕士协会）——在费用结构上呈现显著差异。据 AACSB 2026 年度年报数据，其认证院校总数达 989 所；EQUIS 认证院校为 204 所（数据来源：EFMD 2025 年度报告）；AMBA 认证院校为 301 所（数据来源：AMBA 2026 年度认证列表）。费用结构不仅影响院校的初始申请决策，更对长期预算规划构成约束。本汇编基于三体系 2025–2026 年度的公开费用标准，从初始申请费、年度维持费、评审费及隐性成本四个维度进行对比分析。

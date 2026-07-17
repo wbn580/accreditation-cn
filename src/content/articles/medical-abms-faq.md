@@ -1,25 +1,5 @@
 ---
 title: "ABMS 美国医学专科委员会：常见问题与解答"
-description: "本文为ABMS 美国医学专科委员会：常见问题与解答的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "medical"
-subCategory: "abms"
-articleType: "faq"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["abms", "medical"]
-keywords: ["ABMS 美国医学专科委员会：常见问题与解答"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/medical-default.svg"
-draft: false
----
-```yaml
----
-title: "ABMS 美国医学专科委员会：常见问题与解答"
 description: "本汇编整理美国医学专科委员会（ABMS）的认证体系、流程、维持要求及常见疑问，基于 2025-2026 年度官方数据，为医学从业者与公众提供中立参考。"
 category: "medical"
 subCategory: "medical-licensing"
@@ -51,7 +31,6 @@ dataSources:
 ogImage: "https://via.placeholder.com/1200x630.png?text=ABMS+FAQ"
 draft: false
 ---
-
 # ABMS 美国医学专科委员会：常见问题与解答
 
 ## 引言

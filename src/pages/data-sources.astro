@@ -1,5 +1,57 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const sourceGroups = [
+  {
+    id: 'higher-education',
+    title: '高等院校认证',
+    sources: [
+      ['AACSB', 'https://www.aacsb.edu/', '商学院认证名单、认证标准、全球统计'],
+      ['EFMD Global (EQUIS)', 'https://www.efmdglobal.org/', 'EQUIS 认证院校、EFMD 项目认证'],
+      ['AMBA / BGA', 'https://www.mbaworld.com/', 'MBA/DBA/MM 项目认证名单'],
+      ['ABET', 'https://www.abet.org/', '工程与技术专业认证'],
+      ['CHEA (美国)', 'https://www.chea.org/', '美国高教认证机构总名录'],
+      ['TEQSA (澳洲)', 'https://www.teqsa.gov.au/', '澳洲高等教育提供者注册'],
+      ['QAA (英国)', 'https://www.qaa.ac.uk/', '英国高等教育质量保障'],
+      ['NIAD-QE (日本)', 'https://www.niad.ac.jp/', '日本大学评价与学位授予'],
+      ['HKCAAVQ (香港)', 'https://www.hkcaavq.edu.hk/', '香港学术及职业资历评审'],
+      ['中国教育部学位中心', 'https://www.chsi.com.cn/', '学位认证服务、涉外监管信息'],
+    ],
+  },
+  {
+    id: 'education-agencies',
+    title: '留学中介认证',
+    sources: [
+      ['QEAC (原 PIER)', '', '澳洲留学中介持牌资格'],
+      ['ICEF Agency', 'https://www.icef.com/', '国际教育中介认证机构'],
+      ['BAC (英国)', 'https://www.the-bac.org/', '英国留学中介认证'],
+      ['AIRC (美国)', 'https://www.airc-education.org/', '美国国际招生中介认证'],
+      ['NACAC', 'https://www.nacacnet.org/', '美国大学招生咨询协会'],
+    ],
+  },
+  {
+    id: 'migration-advisers',
+    title: '移民顾问认证',
+    sources: [
+      ['OMARA (澳洲)', 'https://omara.gov.au/', '澳洲注册移民代理登记册'],
+      ['IAA (新西兰)', 'https://www.iaa.govt.nz/', '新西兰持牌移民顾问'],
+      ['CICC (加拿大)', 'https://college-ic.ca/', '加拿大移民和公民顾问'],
+      ['OISC (英国)', 'https://oisc.gov.uk/', '英国移民服务专员'],
+      ['HKSIA (香港)', 'https://www.hksia.org.hk/', '香港移民服务行业协会'],
+    ],
+  },
+  {
+    id: 'financial-advisers',
+    title: '金融顾问认证',
+    sources: [
+      ['MFAA (澳洲)', 'https://www.mfaa.com.au/', '澳洲贷款经纪协会'],
+      ['FBAA (澳洲)', 'https://www.fbaa.com.au/', '澳洲金融经纪协会'],
+      ['NMLS (美国)', 'https://www.nmlsconsumeraccess.org/', '美国贷款发起人注册'],
+      ['FCA (英国)', 'https://www.fca.org.uk/', '英国金融行为监管局'],
+      ['HKMA (香港)', 'https://hkma.org.hk/', '香港金融管理局持牌机构'],
+    ],
+  },
+];
 ---
 
 <BaseLayout
@@ -13,68 +65,60 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
   <p>以下列出本平台编制过程中引用的主要数据来源。每条标注来源名称、官方网址及该来源贡献的数据字段类别。本清单将随平台内容扩展持续更新。</p>
 
-  <h2>高等院校认证</h2>
-  <table>
-    <thead>
-      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>AACSB</td><td>aacsb.edu</td><td>商学院认证名单、认证标准、全球统计</td></tr>
-      <tr><td>EFMD Global (EQUIS)</td><td>efmdglobal.org</td><td>EQUIS 认证院校、EFMD 项目认证</td></tr>
-      <tr><td>AMBA / BGA</td><td>mbaworld.com</td><td>MBA/DBA/MM 项目认证名单</td></tr>
-      <tr><td>ABET</td><td>abet.org</td><td>工程与技术专业认证</td></tr>
-      <tr><td>CHEA (美国)</td><td>chea.org</td><td>美国高教认证机构总名录</td></tr>
-      <tr><td>TEQSA (澳洲)</td><td>teqsa.gov.au</td><td>澳洲高等教育提供者注册</td></tr>
-      <tr><td>QAA (英国)</td><td>qaa.ac.uk</td><td>英国高等教育质量保障</td></tr>
-      <tr><td>NIAD-QE (日本)</td><td>niad.ac.jp</td><td>日本大学评价与学位授予</td></tr>
-      <tr><td>HKCAAVQ (香港)</td><td>hkcaavq.edu.hk</td><td>香港学术及职业资历评审</td></tr>
-      <tr><td>中国教育部学位中心</td><td>chsi.com.cn</td><td>学位认证服务、涉外监管信息</td></tr>
-    </tbody>
-  </table>
-
-  <h2>留学中介认证</h2>
-  <table>
-    <thead>
-      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>QEAC (原 PIER)</td><td>—</td><td>澳洲留学中介持牌资格</td></tr>
-      <tr><td>ICEF Agency</td><td>icef.com</td><td>国际教育中介认证机构</td></tr>
-      <tr><td>BAC (英国)</td><td>the-bac.org</td><td>英国留学中介认证</td></tr>
-      <tr><td>AIRC (美国)</td><td>airc-education.org</td><td>美国国际招生中介认证</td></tr>
-      <tr><td>NACAC</td><td>nacacnet.org</td><td>美国大学招生咨询协会</td></tr>
-    </tbody>
-  </table>
-
-  <h2>移民顾问认证</h2>
-  <table>
-    <thead>
-      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>OMARA (澳洲)</td><td>omara.gov.au</td><td>澳洲注册移民代理登记册</td></tr>
-      <tr><td>IAA (新西兰)</td><td>iaa.govt.nz</td><td>新西兰持牌移民顾问</td></tr>
-      <tr><td>CICC (加拿大)</td><td>college-ic.ca</td><td>加拿大移民和公民顾问</td></tr>
-      <tr><td>OISC (英国)</td><td>oisc.gov.uk</td><td>英国移民服务专员</td></tr>
-      <tr><td>HKSIA (香港)</td><td>hksia.org.hk</td><td>香港移民服务行业协会</td></tr>
-    </tbody>
-  </table>
-
-  <h2>金融顾问认证</h2>
-  <table>
-    <thead>
-      <tr><th>来源</th><th>网址</th><th>数据贡献</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>MFAA (澳洲)</td><td>mfaa.com.au</td><td>澳洲贷款经纪协会</td></tr>
-      <tr><td>FBAA (澳洲)</td><td>fbaa.com.au</td><td>澳洲金融经纪协会</td></tr>
-      <tr><td>NMLS (美国)</td><td>nmlsconsumeraccess.org</td><td>美国贷款发起人注册</td></tr>
-      <tr><td>FCA (英国)</td><td>fca.org.uk</td><td>英国金融行为监管局</td></tr>
-      <tr><td>HKMA (香港)</td><td>hkma.org.hk</td><td>香港金融管理局持牌机构</td></tr>
-    </tbody>
-  </table>
+  {sourceGroups.map((group) => (
+    <section class="source-group" aria-labelledby={group.id}>
+      <h2 id={group.id}>{group.title}</h2>
+      <ul class="source-list">
+        {group.sources.map(([name, url, contribution]) => (
+          <li>
+            <h3>{name}</h3>
+            <dl>
+              <div>
+                <dt>网址</dt>
+                <dd>
+                  {url
+                    ? <a href={url} target="_blank" rel="noopener noreferrer">{new URL(url).hostname.replace(/^www\./, '')}</a>
+                    : '未提供公开网址'}
+                </dd>
+              </div>
+              <div>
+                <dt>数据贡献</dt>
+                <dd>{contribution}</dd>
+              </div>
+            </dl>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
 
   <p class="text-sm text-ink-400 mt-8">* 数据获取日期和具体字段贡献详见各认证体系对应文章的数据来源段。本清单可能因新增数据来源而不定期更新。</p>
 </div>
 
 </BaseLayout>
+
+<style>
+  .source-group { margin-top: 2.5rem; }
+  .source-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    padding: 0;
+    list-style: none;
+  }
+  .source-list > li {
+    margin: 0;
+    padding: 1.1rem 1.2rem;
+    border: 1px solid var(--color-border, #dfe3e8);
+    border-radius: 0.8rem;
+    background: var(--color-surface, #fff);
+  }
+  .source-list h3 { margin: 0 0 0.75rem; font-size: 1rem; }
+  .source-list dl, .source-list dl div { margin: 0; }
+  .source-list dl div { display: grid; grid-template-columns: 5.25rem 1fr; gap: 0.5rem; padding-top: 0.45rem; }
+  .source-list dt { color: #667085; font-weight: 600; }
+  .source-list dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+  @media (max-width: 720px) {
+    .source-list { grid-template-columns: 1fr; }
+  }
+</style>

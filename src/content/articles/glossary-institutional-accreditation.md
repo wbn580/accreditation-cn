@@ -17,37 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "机构认证（Institutional Accreditation）"
-description: "机构认证（Institutional Accreditation）指认证机构对教育机构整体办学质量、治理结构、财务稳定性及学生支持服务进行的系统性评估与认可。本词条梳理其定义、历史沿革、适用范围及与项目认证的异同。"
-category: "glossary"
-subCategory: "accreditation"
-articleType: "glossary_term"
-country: "global"
-publishDate: 2026-05-22T10:00:00Z
-lastVerified: 2026-05-22
-readingTime: 3
-tags:
-  - 机构认证
-  - 认证
-  - 高等教育
-  - 质量保障
-  - 院校评估
-keywords:
-  - 机构认证
-  - 院校认证
-  - 项目认证
-  - 认证机构
-  - 高等教育质量
-dataSources:
-  - "CHEA (Council for Higher Education Accreditation). '2025-2026 CHEA Almanac of External Quality Review.' Accessed May 2026. https://www.chea.org/almanac"
-  - "ENQA (European Association for Quality Assurance in Higher Education). 'Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG) 2015.' Accessed May 2026. https://www.enqa.eu/esg/"
-  - "U.S. Department of Education. 'Database of Accredited Postsecondary Institutions and Programs.' Accessed May 2026. https://ope.ed.gov/dapip/"
-ogImage: ""
-draft: false
----
-
 ## 中英对照
 
 **机构认证**（英文：Institutional Accreditation）
@@ -74,12 +43,11 @@ draft: false
 
 ## 易混淆辨析
 
-| 对比维度 | 机构认证 | 项目认证 |
-|---------|---------|---------|
-| 评估对象 | 整所院校 | 特定学科或专业（如工程、商科、医学） |
-| 认证机构 | 区域性/全国性认证机构 | 专业协会或行业组织（如ABET、AACSB、LCME） |
-| 评估重点 | 院校整体办学能力与治理 | 课程设置、师资资质、行业对接 |
-| 典型结果 | 院校获得办学资格或持续认可 | 毕业生可获取行业执业资格或学分互认 |
+- **评估对象**: 整所院校 · 特定学科或专业（如工程、商科、医学）
+- **认证机构**: 区域性/全国性认证机构 · 专业协会或行业组织（如ABET、AACSB、LCME）
+- **评估重点**: 院校整体办学能力与治理 · 课程设置、师资资质、行业对接
+- **典型结果**: 院校获得办学资格或持续认可 · 毕业生可获取行业执业资格或学分互认
+
 
 **关键区别**：机构认证是院校获得办学合法性与公共资助的前提；项目认证则是在此基础上对特定专业质量的额外背书。一所院校若失去机构认证，其所有项目认证通常自动失效。
 
@@ -97,4 +65,3 @@ draft: false
 4. TEQSA (Tertiary Education Quality and Standards Agency). *National Register of Higher Education Providers*. 2026. https://www.teqsa.gov.au/national-register
 5. 中国教育部学位与研究生教育发展中心. *认证工作介绍*. 2025. https://www.cdgdc.edu.cn/xwyyjsjyxx/zlpj/rzzq/
 6. JUAA (Japan University Accreditation Association). *Accreditation Standards for Universities*. 2025. https://www.juaa.or.jp/en/standards/
-```

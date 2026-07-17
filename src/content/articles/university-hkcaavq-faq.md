@@ -1,25 +1,5 @@
 ---
 title: "HKCAAVQ 香港学术及职业资历评审局：常见问题与解答"
-description: "本文为HKCAAVQ 香港学术及职业资历评审局：常见问题与解答的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "university"
-subCategory: "hkcaavq"
-articleType: "faq"
-country: "hk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["hkcaavq", "university"]
-keywords: ["HKCAAVQ 香港学术及职业资历评审局：常见问题与解答"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/university-default.svg"
-draft: false
----
-```yaml
----
-title: "HKCAAVQ 香港学术及职业资历评审局：常见问题与解答"
 description: "本汇编整理香港学术及职业资历评审局（HKCAAVQ）的核心职能、认证流程及常见疑问，依据官方公开数据与年度报告编写，供资历认证相关方参考。"
 category: "university"
 subCategory: "qualification-assessment"
@@ -47,7 +27,6 @@ dataSources:
 ogImage: "https://www.hkcaavq.edu.hk/images/og-default.jpg"
 draft: false
 ---
-
 # HKCAAVQ 香港学术及职业资历评审局：常见问题与解答
 
 截至 2026 年 5 月，香港学术及职业资历评审局（HKCAAVQ）已累计完成超过 3,200 项资历评审个案（数据来源：HKCAAVQ 2025-2026 年度年报）。本汇编依据 HKCAAVQ 官方公开信息及香港资历架构（QF）相关文件，整理 20 项常见问题与解答，内容涵盖机构职能、认证流程、资历架构对接、非本地学历评审及持续进修基金申请等核心议题。所有信息均标注数据年份与来源，以确保准确性与中立性。

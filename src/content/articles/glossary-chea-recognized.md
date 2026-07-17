@@ -1,25 +1,5 @@
 ---
 title: "CHEA认可（CHEA-recognized）"
-description: "本文为CHEA认可（CHEA-recognized）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["CHEA认可（CHEA-recognized）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "CHEA认可（CHEA-recognized）"
 description: "CHEA（高等教育认证委员会）对美国高等教育认证机构的官方认可状态，代表该认证机构符合CHEA制定的质量标准。"
 category: "glossary"
 subCategory: "accreditation_basics"
@@ -47,8 +27,6 @@ dataSources:
 ogImage: "/images/glossary/chea-recognized-og.jpg"
 draft: false
 ---
-```
-
 # CHEA认可（CHEA-recognized）
 
 ## 中英对照

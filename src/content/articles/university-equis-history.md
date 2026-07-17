@@ -17,41 +17,6 @@ dataSources:
 ogImage: "/og-images/university-default.svg"
 draft: false
 ---
-```markdown
----
-title: "EQUIS 欧洲质量改进体系：历史演变与关键里程碑"
-description: "基于官方公开数据，系统梳理 EQUIS 认证体系从 1996 年创立至今的历史演变、关键里程碑与重大改革。本汇编为第三方中立信息整理，不构成任何机构推荐。"
-category: "university"
-subCategory: "accreditation"
-articleType: "history"
-country: "eu"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags:
-  - "EQUIS"
-  - "欧洲质量改进体系"
-  - "商学院认证"
-  - "EFMD"
-  - "国际认证"
-  - "历史演变"
-  - "关键里程碑"
-keywords:
-  - "EQUIS 历史"
-  - "EQUIS 认证里程碑"
-  - "欧洲质量改进体系"
-  - "EFMD 认证"
-  - "商学院国际认证"
-  - "EQUIS 发展历程"
-  - "EQUIS 改革"
-dataSources:
-  - "EFMD 官方 EQUIS 页面: https://www.efmd.org/accreditation/equis"
-  - "EQUIS 认证标准手册 (2025 版): https://www.efmd.org/accreditation/equis/standards"
-  - "EQUIS 认证院校名录 (2026 年 4 月更新): https://www.efmd.org/accreditation/equis/accredited-schools"
-ogImage: "https://accreditation.cn/images/equis-history-og.jpg"
-draft: false
----
-
 # EQUIS 欧洲质量改进体系：历史演变与关键里程碑
 
 ## 引言：EQUIS 的全球定位与早期构想

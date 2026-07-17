@@ -1,25 +1,5 @@
 ---
 title: "ICEF 国际教育中介认证：认证标准逐条详解"
-description: "本文为ICEF 国际教育中介认证：认证标准逐条详解的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "agent"
-subCategory: "icef"
-articleType: "criteria"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["icef", "agent"]
-keywords: ["ICEF 国际教育中介认证：认证标准逐条详解"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/agent-default.svg"
-draft: false
----
-```yaml
----
-title: "ICEF 国际教育中介认证：认证标准逐条详解"
 description: "依据 ICEF 官方公开文件，逐条详解 ICEF 国际教育中介认证的 12 项核心标准，涵盖机构资质、顾问操守、客户服务、数据保护等维度。"
 category: "agent"
 subCategory: "criteria"
@@ -46,7 +26,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/articles/icef-certification-standards-2026.jpg"
 draft: false
 ---
-
 # ICEF 国际教育中介认证：认证标准逐条详解
 
 截至 2026 年 5 月，ICEF 国际教育中介认证（ICEF Agent Certification）是全球范围内覆盖机构数量最多的教育中介认证体系之一，累计认证机构超过 1,200 家（数据来源：ICEF 2026 年度认证机构名录）。该认证由 ICEF GmbH 运营，旨在为国际教育行业建立中介服务质量基准。本汇编依据 ICEF 官方于 2026 年 1 月发布的《认证标准（2026 版）》及《道德与专业行为守则（2025 版）》等公开文件，对 12 项核心认证标准进行逐条详解。

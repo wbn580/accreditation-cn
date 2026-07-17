@@ -1,25 +1,5 @@
 ---
 title: "ICEF 国际教育中介认证：全球受认证机构名单"
-description: "本文为ICEF 国际教育中介认证：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "agent"
-subCategory: "icef"
-articleType: "accredited_list"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["icef", "agent"]
-keywords: ["ICEF 国际教育中介认证：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/agent-default.svg"
-draft: false
----
-```yaml
----
-title: "ICEF 国际教育中介认证：全球受认证机构名单"
 description: "截至 2026 年 5 月，ICEF 认证全球教育中介机构名单汇编，按地区分组列出受认证机构，并附数据来源与解读。"
 category: "agent"
 subCategory: "accreditation"
@@ -46,7 +26,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/icef-agent-list-2026.jpg"
 draft: false
 ---
-
 # ICEF 国际教育中介认证：全球受认证机构名单
 
 ## 数据说明

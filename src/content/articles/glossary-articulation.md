@@ -17,40 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "学分衔接（Articulation）"
-description: "学分衔接（Articulation）是国际高等教育体系中用于认定学生先前学习成果、实现学分转换与课程对接的标准化机制。本词条梳理其官方定义、历史演变、适用范围及与相近概念的辨析。"
-category: "glossary"
-subCategory: "学术术语"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: "3 分钟"
-tags:
-  - 学分衔接
-  - Articulation
-  - 学分转换
-  - 高等教育
-  - 国际教育
-  - 学历互认
-keywords:
-  - 学分衔接
-  - Articulation
-  - 学分转换协议
-  - 课程对接
-  - 先前学习认定
-  - 高等教育质量保障
-  - 国际学历互认
-dataSources:
-  - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education. Paris: UNESCO."
-  - "European Commission. (2026). European Credit Transfer and Accumulation System (ECTS) Users' Guide. Luxembourg: Publications Office of the European Union."
-  - "Council for Higher Education Accreditation (CHEA). (2025). Accreditation and Quality Assurance in Higher Education: A Global Perspective. Washington, DC: CHEA."
-ogImage: "https://accreditation.cn/assets/images/glossary-articulation-og.jpg"
-draft: false
----
-
 # 学分衔接（Articulation）
 
 ## 中英对照
@@ -96,4 +62,3 @@ draft: false
 4. National Center for Education Statistics (NCES). (2025). *Transfer and Articulation Policies in U.S. Higher Education*. Washington, DC: U.S. Department of Education. https://nces.ed.gov/pubs2025/transfer-articulation.pdf
 5. Australian Qualifications Framework (AQF). (2025). *AQF Recognition of Prior Learning Policy*. Canberra: Australian Government. https://www.aqf.edu.au/recognition-prior-learning
 6. Florida Legislature. (2024). *Florida Statutes § 1007.24: Articulation between secondary and postsecondary education*. Tallahassee, FL: Florida Legislature. https://www.flsenate.gov/Laws/Statutes/2024/1007.24
-```

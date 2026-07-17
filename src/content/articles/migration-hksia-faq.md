@@ -1,25 +1,5 @@
 ---
 title: "HKSIA 香港移民服务行业协会：常见问题与解答"
-description: "本文为HKSIA 香港移民服务行业协会：常见问题与解答的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "migration"
-subCategory: "hksia"
-articleType: "faq"
-country: "hk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["hksia", "migration"]
-keywords: ["HKSIA 香港移民服务行业协会：常见问题与解答"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/migration-default.svg"
-draft: false
----
-```yaml
----
-title: "HKSIA 香港移民服务行业协会：常见问题与解答"
 description: "关于香港移民服务行业协会（HKSIA）的常见问题与解答，涵盖协会背景、会员资质、监管标准、服务流程及投诉机制，依据2025-2026年公开信息汇编。"
 category: "移民与签证"
 subCategory: "香港移民"
@@ -47,7 +27,6 @@ dataSources:
 ogImage: "https://placeholder.com/hksia-faq-og.png"
 draft: false
 ---
-
 # HKSIA 香港移民服务行业协会：常见问题与解答
 
 截至 2026 年 5 月，香港移民服务行业协会（Hong Kong Immigration Services Industry Association，以下简称 HKSIA）是香港地区具有代表性的移民服务行业自律组织。依据 HKSIA 2025 年度年报，该协会目前共有 187 家正式会员机构，覆盖香港、内地及海外多个司法管辖区。本汇编整理 HKSIA 对外公开信息及香港入境事务处、香港消费者委员会等官方数据，就申请人常见疑问进行系统性解答。

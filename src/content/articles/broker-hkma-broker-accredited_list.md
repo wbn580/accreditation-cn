@@ -1,25 +1,5 @@
 ---
 title: "HKMA 香港金融管理局持牌机构：全球受认证机构名单"
-description: "本文为HKMA 香港金融管理局持牌机构：全球受认证机构名单的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "broker"
-subCategory: "hkma-broker"
-articleType: "accredited_list"
-country: "hk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 10
-tags: ["hkma-broker", "broker"]
-keywords: ["HKMA 香港金融管理局持牌机构：全球受认证机构名单"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/broker-default.svg"
-draft: false
----
-```yaml
----
-title: "HKMA 香港金融管理局持牌机构：全球受认证机构名单"
 description: "依据香港金融管理局公开数据，整理截至2026年5月全球获发牌照的受监管机构名单，按地区分组列出，并附解读与FAQ。"
 category: "broker"
 subCategory: "hkma"
@@ -49,8 +29,6 @@ dataSources:
 ogImage: "https://www.hkma.gov.hk/media/eng/images/og-image.jpg"
 draft: false
 ---
-```
-
 # HKMA 香港金融管理局持牌机构：全球受认证机构名单
 
 ## 数据说明

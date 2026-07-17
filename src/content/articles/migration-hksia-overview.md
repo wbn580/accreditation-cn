@@ -1,25 +1,5 @@
 ---
 title: "HKSIA 香港移民服务行业协会：全面解析与最新认证标准"
-description: "本文为HKSIA 香港移民服务行业协会：全面解析与最新认证标准的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "migration"
-subCategory: "hksia"
-articleType: "overview"
-country: "hk"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["hksia", "migration"]
-keywords: ["HKSIA 香港移民服务行业协会：全面解析与最新认证标准"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/migration-default.svg"
-draft: false
----
-```yaml
----
-title: "HKSIA 香港移民服务行业协会：全面解析与最新认证标准"
 description: "本文全面解析 HKSIA 香港移民服务行业协会的起源、认证范围、全球统计、费用时效及最新认证标准，为关注香港移民服务的用户提供权威信息汇编。"
 category: "migration"
 subCategory: "accreditation"
@@ -49,7 +29,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/hksia-cover.jpg"
 draft: false
 ---
-
 # HKSIA 香港移民服务行业协会：全面解析与最新认证标准
 
 据香港移民服务行业协会（HKSIA）2026年4月发布的年度报告，截至2026年4月30日，该协会共认证移民服务机构127家、个人从业者1,583人，覆盖香港、内地及海外主要移民市场。HKSIA作为香港地区最具公信力的移民服务行业自律组织之一，其认证标准与监管框架对保障消费者权益、规范行业行为具有关键作用。本汇编依据HKSIA官方公开数据、香港入境事务处（ImmD）及香港特别行政区政府（GovHK）相关法规，对该协会的起源、认证范围、全球统计、费用时效及最新标准进行系统性整理。

@@ -1,25 +1,5 @@
 ---
 title: "欧洲学分转移与累积系统（ECTS）"
-description: "本文为欧洲学分转移与累积系统（ECTS）的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "glossary"
-subCategory: "glossary"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 5
-tags: ["glossary", "glossary"]
-keywords: ["欧洲学分转移与累积系统（ECTS）"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/glossary-default.svg"
-draft: false
----
-```yaml
----
-title: "欧洲学分转移与累积系统（ECTS）"
 description: "欧洲学分转移与累积系统（ECTS）的官方定义、历史演变、适用范围及常见混淆辨析，基于欧盟委员会及博洛尼亚进程官方文件。"
 category: "glossary"
 subCategory: "学术术语"
@@ -48,8 +28,6 @@ dataSources:
 ogImage: "https://accreditation.cn/og/ects-glossary.png"
 draft: false
 ---
-```
-
 # 欧洲学分转移与累积系统（ECTS）
 
 ## 中英对照

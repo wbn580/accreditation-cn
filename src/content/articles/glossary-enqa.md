@@ -17,27 +17,6 @@ dataSources:
 ogImage: "/og-images/glossary-default.svg"
 draft: false
 ---
-```markdown
----
-title: "ENQA欧洲高等教育质量保障协会"
-description: "欧洲高等教育质量保障协会（ENQA）是欧洲高等教育区（EHEA）内负责协调并推广质量保障标准的伞状组织，其核心职能是维护《欧洲高等教育区质量保障标准和准则》（ESG）。"
-category: "glossary"
-subCategory: "国际质量保障"
-articleType: "glossary_term"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: "3分钟"
-tags: ["ENQA", "欧洲高等教育", "质量保障", "ESG", "认证"]
-keywords: ["ENQA", "欧洲高等教育质量保障协会", "ESG标准", "质量保障机构认证", "欧洲高等教育区"]
-dataSources:
-  - "ENQA官网: https://www.enqa.eu/"
-  - "欧洲高等教育区（EHEA）官方公报: https://www.ehea.info/"
-  - "《欧洲高等教育区质量保障标准和准则》（ESG 2015）全文: https://www.enqa.eu/esg/"
-ogImage: ""
-draft: false
----
-
 ## 中英对照
 
 **中文全称**：欧洲高等教育质量保障协会  

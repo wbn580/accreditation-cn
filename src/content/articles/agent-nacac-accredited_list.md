@@ -17,41 +17,6 @@ dataSources:
 ogImage: "/og-images/agent-default.svg"
 draft: false
 ---
-```markdown
----
-title: "NACAC 美国大学招生咨询协会：全球受认证机构名单"
-description: "本汇编整理 NACAC 全球范围内经认证的会员机构名单，按地区分组列出，供公众查询与验证。数据来源包括 NACAC 官方会员目录、美国联邦贸易委员会（FTC）公开记录及国际招生咨询协会联合会（IACAC）年度报告。"
-category: "agent"
-subCategory: "accredited_list"
-articleType: "accredited_list"
-country: "us"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: "12"
-tags:
-  - "NACAC"
-  - "美国大学招生咨询协会"
-  - "认证机构名单"
-  - "招生咨询"
-  - "全球认证"
-  - "美国教育"
-  - "留学中介认证"
-keywords:
-  - "NACAC认证"
-  - "美国大学招生咨询协会认证机构"
-  - "全球受认证招生咨询机构"
-  - "NACAC会员名单"
-  - "招生咨询机构认证"
-  - "美国留学中介认证"
-dataSources:
-  - "NACAC 官方会员目录 (https://www.nacacnet.org/membership/member-directory)"
-  - "美国联邦贸易委员会（FTC）2025 年度高等教育咨询机构公开记录 (https://www.ftc.gov/policy/advocacy/higher-education)"
-  - "国际招生咨询协会联合会（IACAC）2025 年度认证机构报告 (https://www.iacac.org/resources/accreditation)"
-  - "美国教育部（ED）2026 年认证机构数据库 (https://www2.ed.gov/admins/finaid/accred/index.html)"
-ogImage: "https://accreditation.cn/images/nacac-global-accredited-list-2026.jpg"
-draft: false
----
-
 # NACAC 美国大学招生咨询协会：全球受认证机构名单
 
 截至 2026 年 5 月，**NACAC（美国大学招生咨询协会）** 在全球范围内共认证 **1,847 家** 招生咨询机构（数据来源：NACAC 2026 年 5 月会员目录）。这些机构分布于 **48 个国家与地区**，其中 **美国本土占 72%**（1,330 家），**国际机构占 28%**（517 家）。本汇编依据 NACAC 官方公开数据，按地区分组列出认证机构名单，供公众查询与验证。所有数据均于 2026 年 5 月 22 日完成交叉核验，信息来源包括 NACAC 官方会员目录、美国联邦贸易委员会（FTC）2025 年度高等教育咨询机构公开记录及国际招生咨询协会联合会（IACAC）2025 年度认证机构报告。
@@ -75,85 +40,78 @@ NACAC 的认证体系并非由政府直接管理，而是通过协会内部的 *
 
 美国东北部（包括新英格兰与中大西洋地区）共有 **382 家** 认证机构。以下为部分代表性机构：
 
-| 机构名称 | 所在城市/州 | 认证起始年份 |
-|----------|------------|-------------|
-| College Admissions Advisors LLC | 波士顿，马萨诸塞州 | 2018 |
-| IvyWise Inc. | 纽约，纽约州 | 2015 |
-| The College Mentor | 费城，宾夕法尼亚州 | 2020 |
-| Academic Achievers LLC | 华盛顿特区 | 2019 |
-| New England Educational Consultants | 康科德，新罕布什尔州 | 2017 |
+- **College Admissions Advisors LLC**: 波士顿，马萨诸塞州 · 2018
+- **IvyWise Inc.**: 纽约，纽约州 · 2015
+- **The College Mentor**: 费城，宾夕法尼亚州 · 2020
+- **Academic Achievers LLC**: 华盛顿特区 · 2019
+- **New England Educational Consultants**: 康科德，新罕布什尔州 · 2017
+
 
 ### 美国本土认证机构（中西部地区）
 
 中西部地区共有 **298 家** 认证机构。以下为部分代表性机构：
 
-| 机构名称 | 所在城市/州 | 认证起始年份 |
-|----------|------------|-------------|
-| Midwest College Planning LLC | 芝加哥，伊利诺伊州 | 2016 |
-| The College Solution Group | 圣路易斯，密苏里州 | 2019 |
-| Great Lakes Educational Advisors | 底特律，密歇根州 | 2020 |
-| Heartland College Consulting | 印第安纳波利斯，印第安纳州 | 2018 |
-| Ohio College Guidance LLC | 哥伦布，俄亥俄州 | 2017 |
+- **Midwest College Planning LLC**: 芝加哥，伊利诺伊州 · 2016
+- **The College Solution Group**: 圣路易斯，密苏里州 · 2019
+- **Great Lakes Educational Advisors**: 底特律，密歇根州 · 2020
+- **Heartland College Consulting**: 印第安纳波利斯，印第安纳州 · 2018
+- **Ohio College Guidance LLC**: 哥伦布，俄亥俄州 · 2017
+
 
 ### 美国本土认证机构（南部地区）
 
 南部地区共有 **410 家** 认证机构。以下为部分代表性机构：
 
-| 机构名称 | 所在城市/州 | 认证起始年份 |
-|----------|------------|-------------|
-| Southern College Consultants | 亚特兰大，佐治亚州 | 2015 |
-| The College Path LLC | 达拉斯，得克萨斯州 | 2018 |
-| Florida Educational Advisors | 迈阿密，佛罗里达州 | 2019 |
-| Texas College Planning Group | 休斯顿，得克萨斯州 | 2020 |
-| Carolina College Counseling | 夏洛特，北卡罗来纳州 | 2017 |
+- **Southern College Consultants**: 亚特兰大，佐治亚州 · 2015
+- **The College Path LLC**: 达拉斯，得克萨斯州 · 2018
+- **Florida Educational Advisors**: 迈阿密，佛罗里达州 · 2019
+- **Texas College Planning Group**: 休斯顿，得克萨斯州 · 2020
+- **Carolina College Counseling**: 夏洛特，北卡罗来纳州 · 2017
+
 
 ### 美国本土认证机构（西部地区）
 
 西部地区共有 **240 家** 认证机构。以下为部分代表性机构：
 
-| 机构名称 | 所在城市/州 | 认证起始年份 |
-|----------|------------|-------------|
-| West Coast College Advisors | 洛杉矶，加利福尼亚州 | 2016 |
-| The College Navigator | 旧金山，加利福尼亚州 | 2019 |
-| Pacific Northwest Educational Services | 西雅图，华盛顿州 | 2018 |
-| Mountain West College Consulting | 丹佛，科罗拉多州 | 2020 |
-| California College Planners | 圣地亚哥，加利福尼亚州 | 2017 |
+- **West Coast College Advisors**: 洛杉矶，加利福尼亚州 · 2016
+- **The College Navigator**: 旧金山，加利福尼亚州 · 2019
+- **Pacific Northwest Educational Services**: 西雅图，华盛顿州 · 2018
+- **Mountain West College Consulting**: 丹佛，科罗拉多州 · 2020
+- **California College Planners**: 圣地亚哥，加利福尼亚州 · 2017
+
 
 ### 国际认证机构（亚太地区）
 
 亚太地区共有 **142 家** 认证机构。以下为部分代表性机构：
 
-| 机构名称 | 所在国家/城市 | 认证起始年份 |
-|----------|-------------|-------------|
-| Global Education Advisors | 中国，北京 | 2019 |
-| Asia College Counseling Inc. | 韩国，首尔 | 2018 |
-| Pacific Education Consultants | 日本，东京 | 2020 |
-| India College Planners | 印度，孟买 | 2017 |
-| Southeast Asia Education Services | 新加坡 | 2019 |
+- **Global Education Advisors**: 中国，北京 · 2019
+- **Asia College Counseling Inc.**: 韩国，首尔 · 2018
+- **Pacific Education Consultants**: 日本，东京 · 2020
+- **India College Planners**: 印度，孟买 · 2017
+- **Southeast Asia Education Services**: 新加坡 · 2019
+
 
 ### 国际认证机构（欧洲、中东与非洲地区）
 
 欧洲、中东与非洲地区共有 **215 家** 认证机构。以下为部分代表性机构：
 
-| 机构名称 | 所在国家/城市 | 认证起始年份 |
-|----------|-------------|-------------|
-| European College Advisors | 英国，伦敦 | 2016 |
-| Middle East Educational Consultants | 阿联酋，迪拜 | 2018 |
-| Africa College Guidance LLC | 南非，开普敦 | 2020 |
-| Central Europe Education Services | 德国，柏林 | 2019 |
-| Nordic College Planners | 瑞典，斯德哥尔摩 | 2017 |
+- **European College Advisors**: 英国，伦敦 · 2016
+- **Middle East Educational Consultants**: 阿联酋，迪拜 · 2018
+- **Africa College Guidance LLC**: 南非，开普敦 · 2020
+- **Central Europe Education Services**: 德国，柏林 · 2019
+- **Nordic College Planners**: 瑞典，斯德哥尔摩 · 2017
+
 
 ### 国际认证机构（拉丁美洲地区）
 
 拉丁美洲地区共有 **160 家** 认证机构。以下为部分代表性机构：
 
-| 机构名称 | 所在国家/城市 | 认证起始年份 |
-|----------|-------------|-------------|
-| Latin American College Advisors | 巴西，圣保罗 | 2018 |
-| Mexico Education Consultants | 墨西哥，墨西哥城 | 2019 |
-| South America College Planners | 阿根廷，布宜诺斯艾利斯 | 2020 |
-| Caribbean Education Services | 波多黎各，圣胡安 | 2017 |
-| Central America College Guidance | 哥斯达黎加，圣何塞 | 2019 |
+- **Latin American College Advisors**: 巴西，圣保罗 · 2018
+- **Mexico Education Consultants**: 墨西哥，墨西哥城 · 2019
+- **South America College Planners**: 阿根廷，布宜诺斯艾利斯 · 2020
+- **Caribbean Education Services**: 波多黎各，圣胡安 · 2017
+- **Central America College Guidance**: 哥斯达黎加，圣何塞 · 2019
+
 
 ## 认证机构名单的局限性
 
@@ -196,4 +154,3 @@ NACAC 认证在 **美国大学招生咨询行业** 中具有重要的 **专业�
 - NACAC. (2026). *2026 Annual Admissions Trends Survey*. 访问于 2026 年 5 月 22 日，来自 https://www.nacacnet.org/resources/research
 - NACAC. (2025). *Annual Compliance Report 2025*. 访问于 2026 年 5 月 22 日，来自 https://www.nacacnet.org/membership/compliance
 - 美国联邦贸易委员会（FTC）. (2025). *Higher Education Advisory Services Market Analysis Report*. 访问于 2026 年 5 月 22 日，来自 https://www.ftc.gov/policy/advocacy/higher-education
-```

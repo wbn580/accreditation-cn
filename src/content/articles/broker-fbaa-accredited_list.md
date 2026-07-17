@@ -47,13 +47,12 @@ draft: false
 
 ### 主要银行与贷款机构
 
-| 机构名称 | FBAA 会员编号 | 认证起始年份 | 主要业务领域 |
-|---|---|---|---|
-| **澳大利亚联邦银行（Commonwealth Bank of Australia）** | FBAA-0001 | 1999 | 抵押贷款、个人贷款 |
-| **西太平洋银行（Westpac Banking Corporation）** | FBAA-0012 | 2000 | 商业金融、住房贷款 |
-| **澳大利亚国民银行（NAB）** | FBAA-0023 | 2001 | 资产融资、企业贷款 |
-| **澳新银行（ANZ）** | FBAA-0034 | 2002 | 抵押贷款、信用卡 |
-| **麦格理银行（Macquarie Bank）** | FBAA-0045 | 2003 | 商业贷款、投资金融 |
+- **澳大利亚联邦银行（Commonwealth Bank of Australia）**: FBAA-0001 · 1999 · 抵押贷款、个人贷款
+- **西太平洋银行（Westpac Banking Corporation）**: FBAA-0012 · 2000 · 商业金融、住房贷款
+- **澳大利亚国民银行（NAB）**: FBAA-0023 · 2001 · 资产融资、企业贷款
+- **澳新银行（ANZ）**: FBAA-0034 · 2002 · 抵押贷款、信用卡
+- **麦格理银行（Macquarie Bank）**: FBAA-0045 · 2003 · 商业贷款、投资金融
+
 
 以上为按资产规模排序的前五大银行。完整列表可于 FBAA 官网按“银行”类别筛选。
 
@@ -79,13 +78,12 @@ FBAA 认证体系覆盖大量小型经纪商。截至 2026 年 5 月，**年营�
 
 ### 主要认证机构
 
-| 机构名称 | FBAA 会员编号 | 认证起始年份 | 主要业务领域 |
-|---|---|---|---|
-| **ANZ Bank New Zealand** | FBAA-2001 | 2005 | 抵押贷款、个人银行 |
-| **ASB Bank** | FBAA-2012 | 2006 | 住房贷款、商业金融 |
-| **BNZ（Bank of New Zealand）** | FBAA-2023 | 2007 | 资产融资、企业贷款 |
-| **Westpac New Zealand** | FBAA-2034 | 2008 | 抵押贷款、信用卡 |
-| **Kiwibank** | FBAA-2045 | 2009 | 个人贷款、储蓄产品 |
+- **ANZ Bank New Zealand**: FBAA-2001 · 2005 · 抵押贷款、个人银行
+- **ASB Bank**: FBAA-2012 · 2006 · 住房贷款、商业金融
+- **BNZ（Bank of New Zealand）**: FBAA-2023 · 2007 · 资产融资、企业贷款
+- **Westpac New Zealand**: FBAA-2034 · 2008 · 抵押贷款、信用卡
+- **Kiwibank**: FBAA-2045 · 2009 · 个人贷款、储蓄产品
+
 
 ### 独立经纪商
 
@@ -99,13 +97,12 @@ FBAA 认证体系在 **英国与欧洲地区覆盖 89 家机构**（数据来源
 
 ### 英国认证机构
 
-| 机构名称 | FBAA 会员编号 | 认证起始年份 | 主要业务领域 |
-|---|---|---|---|
-| **HSBC UK** | FBAA-3001 | 2010 | 国际金融、抵押贷款 |
-| **Barclays** | FBAA-3012 | 2011 | 商业贷款、投资金融 |
-| **Lloyds Banking Group** | FBAA-3023 | 2012 | 住房贷款、个人贷款 |
-| **Nationwide Building Society** | FBAA-3034 | 2013 | 抵押贷款、储蓄产品 |
-| **Santander UK** | FBAA-3045 | 2014 | 资产融资、企业贷款 |
+- **HSBC UK**: FBAA-3001 · 2010 · 国际金融、抵押贷款
+- **Barclays**: FBAA-3012 · 2011 · 商业贷款、投资金融
+- **Lloyds Banking Group**: FBAA-3023 · 2012 · 住房贷款、个人贷款
+- **Nationwide Building Society**: FBAA-3034 · 2013 · 抵押贷款、储蓄产品
+- **Santander UK**: FBAA-3045 · 2014 · 资产融资、企业贷款
+
 
 ### 欧洲其他地区
 
@@ -119,11 +116,10 @@ FBAA 认证体系在 **英国与欧洲地区覆盖 89 家机构**（数据来源
 
 ### 新加坡认证机构
 
-| 机构名称 | FBAA 会员编号 | 认证起始年份 | 主要业务领域 |
-|---|---|---|---|
-| **DBS Bank** | FBAA-4001 | 2015 | 国际金融、抵押贷款 |
-| **OCBC Bank** | FBAA-4012 | 2016 | 商业贷款、资产融资 |
-| **United Overseas Bank (UOB)** | FBAA-4023 | 2017 | 企业贷款、贸易融资 |
+- **DBS Bank**: FBAA-4001 · 2015 · 国际金融、抵押贷款
+- **OCBC Bank**: FBAA-4012 · 2016 · 商业贷款、资产融资
+- **United Overseas Bank (UOB)**: FBAA-4023 · 2017 · 企业贷款、贸易融资
+
 
 ### 香港认证机构
 

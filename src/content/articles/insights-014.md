@@ -1,24 +1,4 @@
 ---
-title: "国际医院JCI认证在中国大陆的实操扩张"
-description: "本文为国际医院JCI认证在中国大陆的实操扩张的公开信息汇编，独立整理自官方来源，仅供参考。"
-category: "insights"
-subCategory: "insights"
-articleType: "insight"
-country: "global"
-publishDate: "2026-05-22T10:00:00Z"
-lastVerified: "2026-05-22"
-readingTime: 12
-tags: ["insights", "insights"]
-keywords: ["国际医院JCI认证在中国大陆的实操扩张"]
-dataSources:
-  - name: "来源待补充"
-    url: ""
-    fetchedDate: "2026-05-22"
-ogImage: "/og-images/insights-default.svg"
-draft: false
----
-```yaml
----
 title: 国际医院JCI认证在中国大陆的实操扩张
 description: 基于第三方公开数据，系统梳理JCI认证在中国大陆医疗机构中的历史演变、当前分布与未来趋势，为医疗质量管理与国际化标准对接提供参考。
 category: insights
@@ -50,8 +30,6 @@ dataSources:
 ogImage: "https://accreditation.cn/images/jci-china-expansion-2026.jpg"
 draft: false
 ---
-```
-
 ## 导语：JCI认证在中国大陆的十年演进
 
 国际联合委员会（Joint Commission International, JCI）认证自2000年代初进入中国大陆以来，已成为衡量医院国际化管理水平与患者安全体系的重要标尺。截至2026年5月，中国大陆共有超过120家医疗机构持有有效JCI认证，覆盖31个省、自治区和直辖市，较2016年增长约150%（数据来源：JCI官方认证医院数据库，2026年5月查询）。本汇编依据JCI年度报告、中国国家卫生健康委员会统计公报及多中心学术研究，系统梳理JCI认证在中国大陆的实操扩张路径、结构特征与潜在挑战。
