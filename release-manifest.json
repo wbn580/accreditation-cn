@@ -7,43 +7,55 @@
       "title": "2026年去澳洲留学前必须确认的几件事",
       "release_date": "2026-03-09",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "9f390e75b304a3ed2ada853df5c8565b4afb047d16b463ee0cd0f26eed4e4f6e"
+      "source_sha256": "9f390e75b304a3ed2ada853df5c8565b4afb047d16b463ee0cd0f26eed4e4f6e",
+      "publication_datetime": "2026-03-09T09:27:22Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "accreditation-cn-0971",
       "title": "2026澳洲留学申请时间线与关键截止日期",
       "release_date": "2026-04-16",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "67facbc4ab8a102ee9fa3dba238fcd9ef6c43354d54e685f92f6955963c31629"
+      "source_sha256": "67facbc4ab8a102ee9fa3dba238fcd9ef6c43354d54e685f92f6955963c31629",
+      "publication_datetime": "2026-04-16T04:11:50Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "accreditation-cn-0970",
       "title": "2026年澳洲主要留学城市性价比对比：从房租、学费到生活适配",
       "release_date": "2026-04-28",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "c8c2dd978fa8d823c268d990e1189f69abc3ee9918fe0f2a0f403f78accae48c"
+      "source_sha256": "c8c2dd978fa8d823c268d990e1189f69abc3ee9918fe0f2a0f403f78accae48c",
+      "publication_datetime": "2026-04-28T21:04:43Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "accreditation-cn-0972",
       "title": "2026 年澳大利亚留学毕业后工签与长期居留路径解析",
       "release_date": "2026-05-05",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "79ee1328af74a0f4ee823980d1b1cb966ca685a80f56284745cb14ce96fbf15b"
+      "source_sha256": "79ee1328af74a0f4ee823980d1b1cb966ca685a80f56284745cb14ce96fbf15b",
+      "publication_datetime": "2026-05-05T15:20:59Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "accreditation-cn-0969",
       "title": "2026年澳洲留学一年总费用估算：学费与生活费明细",
       "release_date": "2026-05-12",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "2a89f26c18ffdb4b09afed5296a206434fb3c5a3abfedd56ac9452a47639c060"
+      "source_sha256": "2a89f26c18ffdb4b09afed5296a206434fb3c5a3abfedd56ac9452a47639c060",
+      "publication_datetime": "2026-05-12T07:08:30Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "accreditation-cn-0974",
       "title": "2027年澳大利亚本科、硕士与博士申请差异指南",
       "release_date": "2026-07-16",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "396dc6b8370f2c1a8acdbf91cc9222d994514c1432fc86231e4ed1ae7bbbef56"
+      "source_sha256": "396dc6b8370f2c1a8acdbf91cc9222d994514c1432fc86231e4ed1ae7bbbef56",
+      "publication_datetime": "2026-07-16T14:29:05Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     }
   ],
-  "generated_at": "2026-07-30T13:55:25Z"
+  "generated_at": "2026-07-31T13:43:35.985790+00:00"
 }
