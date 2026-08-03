@@ -1,0 +1,30 @@
+# 全球认证信息汇编
+
+> cn.
+
+- Canonical site: https://accreditation.cn/
+- Topic: authority
+- Scope: independent public information; verify time-sensitive facts with the responsible primary authority.
+
+## Public pages
+
+- [/](https://accreditation.cn/)
+- [/about/](https://accreditation.cn/about/)
+- [/accreditation-cn-0969.md/](https://accreditation.cn/accreditation-cn-0969.md/)
+- [/accreditation-cn-0970.md/](https://accreditation.cn/accreditation-cn-0970.md/)
+- [/accreditation-cn-0971.md/](https://accreditation.cn/accreditation-cn-0971.md/)
+- [/accreditation-cn-0972.md/](https://accreditation.cn/accreditation-cn-0972.md/)
+- [/accreditation-cn-0973.md/](https://accreditation.cn/accreditation-cn-0973.md/)
+- [/accreditation-cn-0974.md/](https://accreditation.cn/accreditation-cn-0974.md/)
+- [/agent-airc-accredited_list.md/](https://accreditation.cn/agent-airc-accredited_list.md/)
+- [/agent-airc-comparison.md/](https://accreditation.cn/agent-airc-comparison.md/)
+- [/agent-airc-criteria.md/](https://accreditation.cn/agent-airc-criteria.md/)
+- [/agent-airc-faq.md/](https://accreditation.cn/agent-airc-faq.md/)
+- [/agent-airc-history.md/](https://accreditation.cn/agent-airc-history.md/)
+- [/agent-airc-how_to_apply.md/](https://accreditation.cn/agent-airc-how_to_apply.md/)
+- [/agent-airc-overview.md/](https://accreditation.cn/agent-airc-overview.md/)
+- [/agent-bac-accredited_list.md/](https://accreditation.cn/agent-bac-accredited_list.md/)
+- [/agent-bac-comparison.md/](https://accreditation.cn/agent-bac-comparison.md/)
+- [/agent-bac-criteria.md/](https://accreditation.cn/agent-bac-criteria.md/)
+- [/agent-bac-faq.md/](https://accreditation.cn/agent-bac-faq.md/)
+- [/agent-bac-history.md/](https://accreditation.cn/agent-bac-history.md/)
