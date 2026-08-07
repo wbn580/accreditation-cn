@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-07-30-ca835
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-30-ca8356105f-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-30-ca8356105f-image-01-2026-1880x1253.jpg'
 verified: '2026-07-30T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -20,7 +20,7 @@ tags:
 
 所有在TEQSA注册的高等教育院校均列于其全国登记册上。登记册不仅载有院校的注册信息，对于不具备自我认证权的院校，还列出其获得TEQSA认证的课程。
 
-![TEQSA全国登记册查询界面的示意图，显示院校注册信息与课程认证信息](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-30-ca8356105f-image-01-2026-1880x1253.jpg)
+![TEQSA全国登记册查询界面的示意图，显示院校注册信息与课程认证信息](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-30-ca8356105f-image-01-2026-1880x1253.jpg)
 
 
 ## 如何核验院校注册状态

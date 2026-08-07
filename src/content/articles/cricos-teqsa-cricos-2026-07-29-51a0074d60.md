@@ -8,7 +8,7 @@ slug: 'cricos-teqsa-cricos-2026-07-29-51a0074d60'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/cricos-teqsa-cricos-2026-07-29-51a0074d60-image-01-2026-1280x800.jpg'
+ogImage: 'https://img.accreditation.cn/authority/cricos-teqsa-cricos-2026-07-29-51a0074d60-image-01-2026-1280x800.jpg'
 verified: '2026-07-29T00:00:00Z'
 tags:
   - 'CRICOS代码'
@@ -26,7 +26,7 @@ CRICOS（Commonwealth Register of Institutions and Courses for Overseas Students
 
 澳大利亚移民与边境保护局明确规定，国际学生必须入读在CRICOS上注册的课程，否则可能面临签证取消、学业中断甚至被迫离境的风险。通过查询CRICOS代码，你可以验证学校是否具备合法招收国际学生的资质，以及特定课程是否被移民局承认。
 
-![在笔记本电脑上查询CRICOS注册信息](https://img.ulec.com.cn/authority/cricos-teqsa-cricos-2026-07-29-51a0074d60-image-01-2026-1280x800.jpg)
+![在笔记本电脑上查询CRICOS注册信息](https://img.accreditation.cn/authority/cricos-teqsa-cricos-2026-07-29-51a0074d60-image-01-2026-1280x800.jpg)
 
 
 常见的误区包括：以为学校只要有商业注册就是正规院校，或者认为学校自称“政府认证”就无需核实。实际上，没有CRICOS代码的机构无权招收国际学生，其课程也不符合签证要求。部分机构可能使用相似的学校名称或模糊的宣传用语，诱导学生报读未注册的课程，导致签证问题和学费损失。
@@ -35,7 +35,7 @@ CRICOS（Commonwealth Register of Institutions and Courses for Overseas Students
 
 查询CRICOS代码的官方渠道是澳大利亚联邦政府的CRICOS网站（cricos.education.gov.au）。具体步骤如下：
 
-![澳大利亚学生签证文件与护照](https://img.ulec.com.cn/authority/cricos-teqsa-cricos-2026-07-29-51a0074d60-image-02-2026-1679x1300.jpg)
+![澳大利亚学生签证文件与护照](https://img.accreditation.cn/authority/cricos-teqsa-cricos-2026-07-29-51a0074d60-image-02-2026-1679x1300.jpg)
 
 
 1. **访问官方网站**：打开CRICOS注册查询页面。

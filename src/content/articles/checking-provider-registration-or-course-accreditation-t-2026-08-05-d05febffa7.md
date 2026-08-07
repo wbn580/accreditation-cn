@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-08-05-d05fe
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-05-d05febffa7-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-05-d05febffa7-image-01-2026-1880x1253.jpg'
 verified: '2026-08-05T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -24,7 +24,7 @@ tags:
 
 除了提供者的注册信息之外，登记册还会列出那些没有自我认证权限的提供者经TEQSA认证可以开设的课程。
 
-![TEQSA全国登记册查询界面](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-05-d05febffa7-image-01-2026-1880x1253.jpg)
+![TEQSA全国登记册查询界面](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-05-d05febffa7-image-01-2026-1880x1253.jpg)
 
 
 ## 注册类别与查询建议

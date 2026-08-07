@@ -24,7 +24,7 @@ dataSources:
   - "澳大利亚教育部《高等教育标准框架2021》第5章：https://www.education.gov.au/higher-education-standards-panel"
   - "英国高等教育质量保证局（QAA）《学术申诉与投诉指南2025》：https://www.qaa.ac.uk/guidance/student-complaints-and-appeals"
   - "美国高等教育认证委员会（CHEA）《学生学术政策最佳实践2026》：https://www.chea.org/student-academic-policies"
-ogImage: "https://img.ulec.com.cn/authority/glossary-show-cause-2026-1880x1253.jpg"
+ogImage: "https://img.accreditation.cn/authority/glossary-show-cause-2026-1880x1253.jpg"
 draft: false
 ---
 

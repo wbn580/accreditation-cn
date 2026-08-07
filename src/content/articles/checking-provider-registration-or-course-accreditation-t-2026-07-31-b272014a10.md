@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-07-31-b2720
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-31-b272014a10-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-31-b272014a10-image-01-2026-1880x1253.jpg'
 verified: '2026-07-31T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -20,7 +20,7 @@ tags:
 
 所有在澳大利亚合法运营的高等教育院校，都会列在TEQSA的国家登记册上。学生应始终核实一所高等教育院校是否已在TEQSA完成注册，以确保所选院校具备合法资质。
 
-![TEQSA国家登记册页面显示澳大利亚高等教育院校注册信息](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-31-b272014a10-image-01-2026-1880x1253.jpg)
+![TEQSA国家登记册页面显示澳大利亚高等教育院校注册信息](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-31-b272014a10-image-01-2026-1880x1253.jpg)
 
 
 ## 登记册包含哪些信息

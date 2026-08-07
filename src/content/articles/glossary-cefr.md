@@ -23,7 +23,7 @@ keywords:
 dataSources:
   - title: "CEFR 官方页面 – 欧洲理事会"
     url: "https://www.coe.int/en/web/common-european-framework-reference-languages"
-ogImage: "https://img.ulec.com.cn/authority/glossary-cefr-2026-1880x1253.jpg"
+ogImage: "https://img.accreditation.cn/authority/glossary-cefr-2026-1880x1253.jpg"
 draft: false
 ---
 

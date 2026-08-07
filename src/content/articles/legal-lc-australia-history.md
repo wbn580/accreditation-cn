@@ -14,7 +14,7 @@ dataSources:
   - "Law Council of Australia, Annual Report 2025-2026, https://www.lawcouncil.asn.au/resources/annual-reports"
   - "Australian Law Reform Commission, 'The Australian Legal Profession: A Historical Overview', 2024, https://www.alrc.gov.au/publications"
   - "Council of Australian Governments (COAG), 'National Legal Profession Reform: Final Report', 2015, https://www.coag.gov.au/legal-reform"
-ogImage: "https://img.ulec.com.cn/authority/legal-lc-australia-history-2026-1880x1255.jpg"
+ogImage: "https://img.accreditation.cn/authority/legal-lc-australia-history-2026-1880x1255.jpg"
 draft: false
 ---
 

@@ -14,7 +14,7 @@ dataSources:
   - "EFMD官方网站: https://www.efmdglobal.org/accreditations/business-schools/equis"
   - "EQUIS认证标准手册 (2025版): https://www.efmdglobal.org/wp-content/uploads/2025/01/EFMD_2025_EQUIS_Standards_and_Criteria.pdf"
   - "EQUIS认证院校列表 (2026年4月更新): https://www.efmdglobal.org/accreditations/business-schools/equis/accredited-schools/"
-ogImage: "https://img.ulec.com.cn/authority/university-equis-faq-2026-1880x869.jpg"
+ogImage: "https://img.accreditation.cn/authority/university-equis-faq-2026-1880x869.jpg"
 draft: false
 ---
 

@@ -15,7 +15,7 @@ dataSources:
   - "AACSB International. '2026 Accreditation Standards: Business Accreditation.' 2026. https://www.aacsb.edu/accreditation/standards"
   - "ENQA (European Association for Quality Assurance in Higher Education). 'Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG).' 2015. https://www.enqa.eu/esg-standards-and-guidelines/"
   - "INQAAHE (International Network for Quality Assurance Agencies in Higher Education). 'Guidelines of Good Practice.' 2018. https://www.inqaahe.org/guidelines-of-good-practice"
-ogImage: "https://img.ulec.com.cn/authority/glossary-site-visit-2026-1880x1253.jpg"
+ogImage: "https://img.accreditation.cn/authority/glossary-site-visit-2026-1880x1253.jpg"
 draft: false
 ---
 # 现场访问（Site Visit）

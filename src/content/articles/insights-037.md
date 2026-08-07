@@ -15,7 +15,7 @@ dataSources:
   - "Engineering Council UK. 2025. 'The UK Standard for Professional Engineering Competence (UK-SPEC).' https://www.engc.org.uk/"
   - "ABET. 2026. 'Accreditation Policy and Procedure Manual (APPM).' https://www.abet.org/"
   - "中国工程教育专业认证协会 (CEEAA). 2025. '工程教育认证标准（2025版）.' https://www.ceeaa.org.cn/"
-ogImage: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+ogImage: "https://img.accreditation.cn/rehost/2dfb540f06a2.jpg"
 draft: false
 ---
 

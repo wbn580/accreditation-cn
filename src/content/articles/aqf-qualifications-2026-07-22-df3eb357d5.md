@@ -8,7 +8,7 @@ slug: 'aqf-qualifications-2026-07-22-df3eb357d5'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/aqf-qualifications-2026-07-22-df3eb357d5-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/aqf-qualifications-2026-07-22-df3eb357d5-image-01-2026-1880x1253.jpg'
 verified: '2026-07-22T00:00:00Z'
 tags:
   - 'Australian Qualifications Framework'
@@ -36,7 +36,7 @@ AQF为不同学历类型规定了必需的学习成果，这些成果体现在�
 
 - [相关指南甲](/agent-airc-comparison/)
 
-![与本指南主题相关的资料图片甲](https://img.ulec.com.cn/authority/aqf-qualifications-2026-07-22-df3eb357d5-image-01-2026-1880x1253.jpg)
+![与本指南主题相关的资料图片甲](https://img.accreditation.cn/authority/aqf-qualifications-2026-07-22-df3eb357d5-image-01-2026-1880x1253.jpg)
 
 
 - [相关指南乙](/agent-airc-criteria/)

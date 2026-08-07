@@ -14,7 +14,7 @@ dataSources:
   - "European Commission. (2026). The European Qualifications Framework: Supporting learning, work and cross-border mobility. https://ec.europa.eu/ploteus/en/european-qualifications-framework"
   - "European Parliament and Council. (2008). Recommendation of the European Parliament and of the Council on the establishment of the European Qualifications Framework for lifelong learning. Official Journal of the European Union, C 111, 1-7."
   - "Cedefop. (2025). National qualifications framework developments in Europe 2025. Luxembourg: Publications Office of the European Union. https://www.cedefop.europa.eu/en/publications/4205"
-ogImage: "https://img.ulec.com.cn/authority/glossary-eqf-2026-1880x1253.jpg"
+ogImage: "https://img.accreditation.cn/authority/glossary-eqf-2026-1880x1253.jpg"
 draft: false
 ---
 

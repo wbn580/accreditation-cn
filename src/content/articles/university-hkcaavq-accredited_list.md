@@ -26,7 +26,7 @@ dataSources:
   - "HKCAAVQ 官方网站 - 资历名册 (https://www.hkcaavq.edu.hk)"
   - "香港教育局 - 资历架构 (https://www.hkqf.gov.hk)"
   - "香港特别行政区政府宪报 - 第592章《学术及职业资历评审条例》"
-ogImage: "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+ogImage: "https://img.accreditation.cn/rehost/a038501f62ae.jpg"
 draft: false
 ---
 

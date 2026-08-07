@@ -13,7 +13,7 @@ keywords: ["学生参与度", "认证质量保证", "AACSB学生代表", "EQUIS�
 dataSources:
   - title: "AACSB 2026 Accreditation Standards"
     url: "https://www.aacsb.edu/accreditation/standards"
-ogImage: "https://img.ulec.com.cn/authority/insights-049-2026-1880x1253.jpg"
+ogImage: "https://img.accreditation.cn/authority/insights-049-2026-1880x1253.jpg"
 draft: false
 ---
 

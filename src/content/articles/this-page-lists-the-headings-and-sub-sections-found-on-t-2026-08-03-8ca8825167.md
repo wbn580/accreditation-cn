@@ -8,7 +8,7 @@ slug: 'this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-03-8ca88
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: "https://img.ulec.com.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-03-8ca8825167-2026-1880x1111.jpg"
+ogImage: "https://img.accreditation.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-03-8ca8825167-2026-1880x1111.jpg"
 verified: '2026-08-03T00:00:00Z'
 tags:
   - '注册提供者'

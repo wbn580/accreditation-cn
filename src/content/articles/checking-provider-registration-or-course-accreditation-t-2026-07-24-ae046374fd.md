@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-07-24-ae046
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-24-ae046374fd-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-24-ae046374fd-image-01-2026-1880x1253.jpg'
 verified: '2026-07-24T00:00:00Z'
 tags:
   - '院校注册'
@@ -28,7 +28,7 @@ tags:
 
 - [相关指南甲](/agent-airc-comparison/)
 
-![与本指南主题相关的资料图片甲](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-24-ae046374fd-image-01-2026-1880x1253.jpg)
+![与本指南主题相关的资料图片甲](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-24-ae046374fd-image-01-2026-1880x1253.jpg)
 
 
 - [相关指南乙](/agent-airc-criteria/)

@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-07-27-fe6c8
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-27-fe6c882b7f-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-27-fe6c882b7f-image-01-2026-1880x1253.jpg'
 verified: '2026-07-27T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -24,7 +24,7 @@ Tertiary Education Quality and Standards Agency（TEQSA）列出了其国家登�
 
 学生每次选择高等教育机构时，都应核查该机构是否已在TEQSA注册。您可通过查询TEQSA国家登记册，确认院校的注册信息及其认证课程。
 
-![在TEQSA国家登记册页面上查询高等教育机构注册信息的示意场景](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-27-fe6c882b7f-image-01-2026-1880x1253.jpg)
+![在TEQSA国家登记册页面上查询高等教育机构注册信息的示意场景](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-27-fe6c882b7f-image-01-2026-1880x1253.jpg)
 
 
 ### 为何需要定期核验院校注册状态？

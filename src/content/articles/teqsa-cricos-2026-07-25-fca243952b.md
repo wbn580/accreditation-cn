@@ -8,7 +8,7 @@ slug: 'teqsa-cricos-2026-07-25-fca243952b'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-01-2026-1880x1253.jpg'
 verified: '2026-07-25T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -23,7 +23,7 @@ tags:
 
 验证一所澳洲高校是否具备合法办学资格，可以通过以下官方渠道进行。第一，访问TEQSA网站的国家注册页面，输入院校名称，查看其注册状态与注册类型，确认其是否被授权提供高等教育课程。第二，进入CRICOS官方网站，通过院校名称或CRICOS代码进行查询，核对所关注课程的CRICOS登记状态。第三，将两个平台的信息进行比对，确保院校和课程均处于有效注册状态。查询时，务必使用官方gov.au域名的网站，避免通过非官方链接获取不实信息。
 
-![与本指南主题相关的资料图片甲](https://img.ulec.com.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-01-2026-1880x1253.jpg)
+![与本指南主题相关的资料图片甲](https://img.accreditation.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-01-2026-1880x1253.jpg)
 
 
 ## 对比不同院校的注册类型与风险点
@@ -34,7 +34,7 @@ tags:
 
 - [相关指南甲](/agent-airc-comparison/)
 
-![与本指南主题相关的资料图片乙](https://img.ulec.com.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-02-2026-1679x1300.jpg)
+![与本指南主题相关的资料图片乙](https://img.accreditation.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-02-2026-1679x1300.jpg)
 
 
 - [相关指南乙](/agent-airc-criteria/)

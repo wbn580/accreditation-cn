@@ -1,0 +1,80 @@
+---
+title: "数字徽章（Digital Badge）"
+description: "数字徽章（Digital Badge）是一种基于开放标准的数字凭证，用于记录和验证个人在非正式学习、技能认证或专业发展中的成就。本文档系统梳理其官方定义、历史沿革、适用范围及与相关概念的辨析。"
+category: "glossary"
+subCategory: "教育技术"
+articleType: "glossary_term"
+country: "global"
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: "2026-05-22"
+readingTime: "3分钟"
+tags:
+  - 数字徽章
+  - 开放徽章
+  - 微证书
+  - 数字凭证
+  - 技能认证
+keywords:
+  - Digital Badge
+  - 开放徽章标准
+  - 微凭证
+  - 数字证书
+  - 终身学习记录
+dataSources:
+  - "IMS Global Learning Consortium. (2026). Open Badges 3.0 Specification. https://www.imsglobal.org/spec/ob/v3p0"
+  - "Mozilla Foundation. (2011). Open Badges Project: History and Impact. https://wiki.mozilla.org/Badges"
+  - "European Commission. (2025). European Digital Credentials for Learning. https://ec.europa.eu/education/digital-credentials_en"
+  - "OECD. (2024). Digital Badges in Higher Education: A Review of Current Practices. OECD Education Working Papers. https://doi.org/10.1787/5f8c8e7a-en"
+  - "UNESCO. (2023). Guidelines for the Recognition, Validation and Accreditation of Digital Badges. https://unesdoc.unesco.org/ark:/48223/pf0000385647"
+ogImage: "https://img.ulec.com.cn/authority/glossary-digital-badge-2026-1880x1253.jpg"
+draft: false
+---
+
+## 中英对照
+
+**Digital Badge** — 中文标准译名为“数字徽章”。在学术文献与政策文件中，亦常见“开放徽章”（Open Badge）或“微凭证”（Micro-credential）作为近义术语使用。本词条统一使用“数字徽章”。
+
+## 官方定义
+
+依据 **IMS Global Learning Consortium** 于 2026 年发布的《Open Badges 3.0 规范》（来源：IMS Global 2026 规范），数字徽章被定义为：一种基于开放标准的数字凭证，包含元数据（如颁发者、接收者、成就标准、颁发日期、失效日期），并可通过加密签名验证其真实性。
+
+**Mozilla Foundation** 在 2011 年发起开放徽章项目时将其界定为：“一种记录和展示学习成果（包括正式与非正式学习）的可互操作数字表示。”（来源：Mozilla 2011 项目文档）
+
+**European Commission** 在其 2025 年发布的《欧洲学习数字凭证框架》中，将数字徽章归入“数字凭证”类别，强调其需符合欧洲数字凭证基础设施（EDCI）技术标准。（来源：European Commission 2025 框架）
+
+## 历史溯源
+
+数字徽章的概念萌芽于 2000 年代中期的在线游戏与社区奖励系统。**Mozilla Foundation** 于 2011 年正式启动“开放徽章”项目，旨在建立一套去中心化、可验证的成就记录标准。2014 年，IMS Global（现为 1EdTech 联盟）接管开放徽章标准的维护与迭代工作，先后发布 Open Badges 1.0（2014）、2.0（2018）及 3.0（2023，2026 年修订）版本。截至 2026 年，Open Badges 3.0 已成为全球最广泛采用的数字徽章互操作标准，支持嵌入丰富元数据、过期管理及与区块链等分布式账本技术的集成。
+
+## 适用范围
+
+数字徽章的应用覆盖以下主要领域：
+
+- **高等教育**：用于认证微学位、短期课程、研讨会参与及项目成果。据 OECD 2024 年报告，全球约 35% 的高等教育机构已开始或计划实施数字徽章系统（来源：OECD 2024 工作报告）。
+- **职业培训与继续教育**：企业用于记录员工技能认证、内部培训完成及专业发展活动。常见于信息技术、医疗健康、金融等领域。
+- **非正式学习**：在线学习平台（如 Coursera、edX）向完成课程者颁发数字徽章，作为传统学位证书的补充。
+- **政府与公共部门**：欧盟、澳大利亚、加拿大等经济体已将数字徽章纳入国家资格框架或技能护照体系。
+
+## 易混淆辨析
+
+- **微证书（Micro-credential）**: 微证书是数字徽章的一种具体应用形式，通常指对特定技能或能力的认证，而数字徽章是更广义的数字凭证载体。微证书一般包含更完整的评估与质量标准，而数字徽章可仅代表参与或完成。
+- **数字证书（Digital Certificate）**: 数字证书（如公钥基础设施中的 X.509 证书）主要用于身份验证与加密，不涉及学习成就记录。数字徽章则聚焦于学习成果展示与验证。
+- **传统学位证书（纸质/PDF）**: 传统证书缺乏可互操作的元数据与自动化验证机制；数字徽章通过开放标准实现跨平台验证与终身学习记录聚合。
+- **在线课程完成证明**: 许多平台颁发的简单完成证明不具备数字徽章的元数据标准与加密验证能力，属于非标准化数字凭证。
+
+
+## FAQ
+
+### Q1: 数字徽章与传统学历证书相比，在就业市场中的认可度如何？
+
+A: 据 OECD 2024 年报告，数字徽章在技术密集型行业（如信息技术、数据分析、项目管理）中的雇主认可度呈上升趋势，约 60% 的受访雇主表示会考虑数字徽章作为招聘参考。但在传统行业（如法律、医学），数字徽章仍主要作为补充凭证，不能替代法定职业资格认证。具体认可度因国家、行业及颁发机构信誉而异。
+
+## 参考资料
+
+- IMS Global Learning Consortium. (2026). *Open Badges 3.0 Specification*. https://www.imsglobal.org/spec/ob/v3p0
+- Mozilla Foundation. (2011). *Open Badges Project: History and Impact*. https://wiki.mozilla.org/Badges
+- European Commission. (2025). *European Digital Credentials for Learning*. https://ec.europa.eu/education/digital-credentials_en
+- OECD. (2024). *Digital Badges in Higher Education: A Review of Current Practices*. OECD Education Working Papers. https://doi.org/10.1787/5f8c8e7a-en
+- UNESCO. (2023). *Guidelines for the Recognition, Validation and Accreditation of Digital Badges*. https://unesdoc.unesco.org/ark:/48223/pf0000385647
+- 1EdTech Consortium. (2023). *Open Badges 3.0: A Technical Overview*. https://www.1edtech.org/blog/open-badges-3-0-technical-overview
+- Australian Government. (2025). *National Microcredentials Framework*. https://www.education.gov.au/national-microcredentials-framework
