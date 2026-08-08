@@ -19,7 +19,15 @@ const { title, description, ogImage, canonicalURL } = Astro.props;
 <html lang="zh-CN">
   <head>
     <BaseHead {title} {description} {ogImage} {canonicalURL} />
-  </head>
+  <!-- UX-FIX-WAVE1 tap-target + responsive -->
+  <style>
+    a, button, input, select, textarea, summary, [role="button"] { min-height: 44px; box-sizing: border-box; }
+    button, input, select, textarea, .btn, a.btn, [role="button"] { min-width: 44px; }
+    a { display: inline-flex; align-items: center; }
+    img, video, table, pre, iframe, svg { max-width: 100%; height: auto; }
+    html, body { overflow-wrap: break-word; word-wrap: break-word; }
+  </style>
+</head>
   <body class="bg-paper-50 text-ink-900 font-sans min-h-screen flex flex-col">
     <Header />
     <DisclaimerBanner />

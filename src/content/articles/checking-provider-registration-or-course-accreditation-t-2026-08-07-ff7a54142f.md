@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-08-07-ff7a5
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-07-ff7a54142f-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-07-ff7a54142f-image-01-2026-1880x1253.jpg'
 verified: '2026-08-07T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -20,7 +20,7 @@ tags:
 
 澳大利亚高等教育质量与标准署（Tertiary Education Quality and Standards Agency, TEQSA）负责监管高等教育机构。所有注册的高等教育提供者都会列入TEQSA的国家登记册。学生应始终通过该登记册核查某所高等教育机构是否已在TEQSA注册。
 
-![TEQSA国家登记册网站界面，显示高等教育机构列表](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-07-ff7a54142f-image-01-2026-1880x1253.jpg)
+![TEQSA国家登记册网站界面，显示高等教育机构列表](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-07-ff7a54142f-image-01-2026-1880x1253.jpg)
 
 
 ## 登记册包含哪些信息

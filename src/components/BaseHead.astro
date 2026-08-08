@@ -14,10 +14,13 @@ const {
   title,
   description,
   canonicalURL = 'https://accreditation.cn',
-  ogImage = '/og-images/default.png',
+  ogImage = '/og-images/default.jpg',
 } = Astro.props;
 
 const siteOrigin = 'https://accreditation.cn';
+const siteName = '全球认证信息汇编';
+// UX-FIX-WAVE1: avoid duplicating site_name when the page title already is/contains it
+const fullTitle = (title && title !== siteName && !title.includes(siteName)) ? `${title} · ${siteName}` : siteName;
 const requestedOg = new URL(ogImage, siteOrigin);
 let resolvedOg = requestedOg.href;
 
@@ -35,7 +38,7 @@ if (requestedOg.hostname.replace(/^www\./, '') === 'accreditation.cn') {
     || !fs.statSync(localPath).isFile()
     || fs.statSync(localPath).size === 0
   ) {
-    resolvedOg = new URL('/og-images/default.png', siteOrigin).href;
+    resolvedOg = new URL('/og-images/default.jpg', siteOrigin).href;
   }
 }
 ---
@@ -43,7 +46,7 @@ if (requestedOg.hostname.replace(/^www\./, '') === 'accreditation.cn') {
 <!-- Primary Meta -->
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{title} · 全球认证信息汇编</title>
+<title>{fullTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalURL} />
 
