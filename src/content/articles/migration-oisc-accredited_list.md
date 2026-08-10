@@ -103,7 +103,7 @@ OISC 认证等级并非直接等同于服务质量，而是反映机构可处理
 
 ### 如何验证认证状态
 
-用户可通过 OISC 官方注册系统（https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner）输入机构名称或注册号，实时查询认证状态、等级及有效期。OISC 建议在委托服务前至少验证以下三项：认证等级是否覆盖所需服务类型、认证状态是否为“Active”、机构是否持有有效专业赔偿保险（Professional Indemnity Insurance）。
+用户可通过 OISC 官方注册系统（<https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner>）输入机构名称或注册号，实时查询认证状态、等级及有效期。OISC 建议在委托服务前至少验证以下三项：认证等级是否覆盖所需服务类型、认证状态是否为“Active”、机构是否持有有效专业赔偿保险（Professional Indemnity Insurance）。
 
 ### 常见风险提示
 

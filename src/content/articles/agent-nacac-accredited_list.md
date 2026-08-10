@@ -126,10 +126,10 @@ NACAC 的认证体系并非由政府直接管理，而是通过协会内部的 *
 
 公众可通过以下步骤验证机构的 NACAC 认证状态：
 
-1. **访问 NACAC 官方会员目录**：登录 NACAC 官方网站（https://www.nacacnet.org/membership/member-directory），使用 **机构名称** 或 **所在城市** 进行搜索。
+1. **访问 NACAC 官方会员目录**：登录 NACAC 官方网站（<https://www.nacacnet.org/membership/member-directory>），使用 **机构名称** 或 **所在城市** 进行搜索。
 2. **核对认证编号**：每个认证机构在 NACAC 系统中拥有 **唯一的认证编号**（格式为 NACAC-XXXX-XXXX）。机构应在官方网站或宣传材料中 **显著展示** 此编号。
 3. **检查认证有效期**：在搜索结果中查看认证 **起始年份** 与 **最近更新日期**。认证状态若显示为 **"Active"**，表示机构当前有效；若显示为 **"Expired"** 或 **"Suspended"**，则认证已失效。
-4. **交叉验证第三方数据**：参考 **美国教育部认证机构数据库**（https://www2.ed.gov/admins/finaid/accred/index.html）或 **国际招生咨询协会联合会（IACAC）** 的公开记录，确认机构是否同时持有其他权威认证（数据来源：美国教育部（ED）2026 年认证机构数据库）。
+4. **交叉验证第三方数据**：参考 **美国教育部认证机构数据库**（<https://www2.ed.gov/admins/finaid/accred/index.html>）或 **国际招生咨询协会联合会（IACAC）** 的公开记录，确认机构是否同时持有其他权威认证（数据来源：美国教育部（ED）2026 年认证机构数据库）。
 
 ## 解读：NACAC 认证的意义与局限
 

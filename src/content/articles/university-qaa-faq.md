@@ -121,7 +121,7 @@ QAA认证与院校排名没有直接关联。QAA评估的是学术标准与质�
 
 ### Q1: 我如何确认一所英国大学是否持有有效的QAA认证？
 
-A: 您可以通过QAA官网的“院校评审结果”数据库（https://www.qaa.ac.uk/reviewing-higher-education/quality-assurance-reviews/current-reviews）直接查询。输入院校英文全称，即可查看其最新的评审报告状态（如“Passed”“Conditional”或“Failed”）。所有在英国合法注册的大学均需接受QAA评审，但部分私立院校或海外项目可能不在常规名单内，需单独查询“海外项目”目录。截至2026年5月，该数据库收录了约300所院校的最新评审记录。若院校显示“No current review”，可能意味着其评审已过期或尚未启动，建议直接联系院校招生办公室确认。
+A: 您可以通过QAA官网的“院校评审结果”数据库（<https://www.qaa.ac.uk/reviewing-higher-education/quality-assurance-reviews/current-reviews>）直接查询。输入院校英文全称，即可查看其最新的评审报告状态（如“Passed”“Conditional”或“Failed”）。所有在英国合法注册的大学均需接受QAA评审，但部分私立院校或海外项目可能不在常规名单内，需单独查询“海外项目”目录。截至2026年5月，该数据库收录了约300所院校的最新评审记录。若院校显示“No current review”，可能意味着其评审已过期或尚未启动，建议直接联系院校招生办公室确认。
 
 ## 参考资料
 

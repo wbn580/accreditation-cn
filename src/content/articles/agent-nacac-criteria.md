@@ -120,7 +120,7 @@ NACAC 认证标准并非静止不变。2020 年版标准主要聚焦于招生流
 ## 参考资料
 
 1. NACAC. (2026). *NACAC Certification Standards for College Admission Counseling*. https://www.nacacnet.org/about/certification-standards/
-2. NACAC. (2025). *Code of Ethics and Professional Practices*. https://www.nacacnet.org/advocacy–ethics/ethics/
+2. NACAC. (2025). *Code of Ethics and Professional Practices*. <https://www.nacacnet.org/advocacy>–ethics/ethics/
 3. National Association for College Admission Counseling. (2026). *Annual Report 2025–2026*. https://www.nacacnet.org/about/annual-report/
 4. FairTest. (2026). *Test-Optional College Admissions List*. https://www.fairtest.org/test-optional-college-admissions/
 5. U.S. Department of Education. (2026). *College Scorecard Data*. https://collegescorecard.ed.gov/

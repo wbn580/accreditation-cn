@@ -116,7 +116,7 @@ A1: 中国教育部留学服务中心在进行国（境）外学历学位认证�
 - ABET. (2025). *Accreditation Policy and Procedure Manual (APPM) 2025-2026*. Baltimore, MD: ABET. Retrieved from https://www.abet.org/accreditation/accreditation-criteria/policies-and-procedures-manual-2025-2026/
 - EFMD Global. (2026). *EQUIS Standards and Criteria 2026*. Brussels: EFMD Global. Retrieved from https://www.efmdglobal.org/accreditations/equis/equis-standards-and-criteria/
 - Association of MBAs. (2025). *AMBA Accreditation Handbook 2025*. London: Association of MBAs. Retrieved from https://www.associationofmbas.com/accreditation/amba-accreditation-handbook/
-- 教育部学位与研究生教育发展中心. (2025). *2025年度认证报告*. 北京: 教育部学位与研究生教育发展中心. Retrieved from https://www.cdgdc.edu.cn/认证报告2025
+- 教育部学位与研究生教育发展中心. (2025). *2025年度认证报告*. 北京: 教育部学位与研究生教育发展中心. Retrieved from <https://www.cdgdc.edu.cn/>认证报告2025
 - International Network for Quality Assurance Agencies in Higher Education (INQAAHE). (2025). *Guidelines of Good Practice in Quality Assurance 2025*. Dublin: INQAAHE. Retrieved from https://www.inqaahe.org/guidelines-of-good-practice
 - European Association for Quality Assurance in Higher Education (ENQA). (2025). *Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG) 2025*. Brussels: ENQA. Retrieved from https://www.enqa.eu/esg-standards-and-guidelines/
 

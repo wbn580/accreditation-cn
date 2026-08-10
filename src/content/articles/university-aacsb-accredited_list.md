@@ -66,7 +66,7 @@ draft: false
 - **南加州大学马歇尔商学院**（University of Southern California Marshall School of Business）：1949 年获得认证。
 - **华盛顿大学福斯特商学院**（University of Washington Foster School of Business）：1950 年获得认证。
 
-注：以上列表仅展示部分代表性机构，完整美国受认证机构名单包含 **781 所** 院校，覆盖所有 50 个州及哥伦比亚特区。具体名单可通过 AACSB 官方认证数据库查询（网址：https://www.aacsb.edu/accredited）。
+注：以上列表仅展示部分代表性机构，完整美国受认证机构名单包含 **781 所** 院校，覆盖所有 50 个州及哥伦比亚特区。具体名单可通过 AACSB 官方认证数据库查询（网址：<https://www.aacsb.edu/accredited>）。
 
 ## 全球其他地区受认证机构名单
 

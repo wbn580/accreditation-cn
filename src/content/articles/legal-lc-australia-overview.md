@@ -116,7 +116,7 @@ draft: false
 - **年度执业执照续费**: 2,000-3,500 · 因州而异，新南威尔士州为 2,800
 
 
-数据来源：LPAB 2026 年费用表（https://www.lpab.lawlink.nsw.gov.au/fees）；VLAB 2026 年费用表（https://www.vlab.vic.gov.au/fees）。
+数据来源：LPAB 2026 年费用表（<https://www.lpab.lawlink.nsw.gov.au/fees>）；VLAB 2026 年费用表（<https://www.vlab.vic.gov.au/fees>）。
 
 ### 时效要求
 - **资格评估**：OQA 处理时间为 8-12 周（加急服务 4 周，加收 500 澳元）

@@ -103,7 +103,7 @@ draft: false
 
 ### Q1: 如果一所大学在CRICOS注册，是否意味着其所有课程都获得认证？
 
-**答**：不一定。CRICOS注册仅表明该机构具备向国际学生招生的资格，不保证其所有课程已通过TEQSA或ASQA的认证。国际学生在申请前，应通过TEQSA National Register（https://www.teqsa.gov.au/national-register）逐一核实目标课程的认证状态。例如，某私立学院可能在CRICOS注册了10门课程，但其中仅有7门获得TEQSA认证，另外3门可能仍在审核中或已被撤销。
+**答**：不一定。CRICOS注册仅表明该机构具备向国际学生招生的资格，不保证其所有课程已通过TEQSA或ASQA的认证。国际学生在申请前，应通过TEQSA National Register（<https://www.teqsa.gov.au/national-register>）逐一核实目标课程的认证状态。例如，某私立学院可能在CRICOS注册了10门课程，但其中仅有7门获得TEQSA认证，另外3门可能仍在审核中或已被撤销。
 
 ## 参考资料
 

@@ -133,7 +133,7 @@ LinkedIn 2025 年全球人才报告显示，64% 的雇主将认证机构认可�
 
 建议通过以下渠道核查：
 - 认证机构官方网站（如 AACSB 的“认证院校搜索”页面）
-- CHEA 的“认证院校数据库”（https://www.chea.org/directories）
+- CHEA 的“认证院校数据库”（<https://www.chea.org/directories>）
 - 目标国家教育部的官方认可名单（如中国教育部涉外监管信息网）
 
 ## 参考资料

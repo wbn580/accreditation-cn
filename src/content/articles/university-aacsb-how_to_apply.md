@@ -62,7 +62,7 @@ AACSB 从全球认证委员库中指派 **3 至 5 名** 同行评审专家组成
 - 年度维护费：3,000 美元
 - 重新认证费（每 5 年一次）：8,000 美元
 
-数据来源：AACSB 认证申请门户（https://www.aacsb.edu/accreditation/apply）。
+数据来源：AACSB 认证申请门户（<https://www.aacsb.edu/accreditation/apply>）。
 
 ## 常见被拒原因与应对策略
 

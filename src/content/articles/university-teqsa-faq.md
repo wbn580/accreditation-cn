@@ -49,7 +49,7 @@ draft: false
 
 ### Q4: 如何查询一所院校是否获得 TEQSA 认证？
 
-**A:** 查询院校认证状态最权威的途径是访问 TEQSA 官方维护的**国家高等教育提供者注册系统**（National Register of Higher Education Providers）。该系统网址为：https://www.teqsa.gov.au/national-register。输入院校名称或注册编号，即可查看其注册状态、认证范围、有效期限以及任何附加条件。截至2026年5月，该系统收录约170所注册机构（数据来源：TEQSA 2026年年度报告）。此外，TEQSA 官网还发布“已撤销认证”或“暂停注册”的机构名单，供公众查询。
+**A:** 查询院校认证状态最权威的途径是访问 TEQSA 官方维护的**国家高等教育提供者注册系统**（National Register of Higher Education Providers）。该系统网址为：<https://www.teqsa.gov.au/national-register>。输入院校名称或注册编号，即可查看其注册状态、认证范围、有效期限以及任何附加条件。截至2026年5月，该系统收录约170所注册机构（数据来源：TEQSA 2026年年度报告）。此外，TEQSA 官网还发布“已撤销认证”或“暂停注册”的机构名单，供公众查询。
 
 ### Q5: TEQSA 认证的流程是怎样的？
 
@@ -113,7 +113,7 @@ draft: false
 
 ### Q1: 我如何确认一所澳大利亚大学是否被 TEQSA 认证？
 
-**A:** 最直接的方法是访问 TEQSA 官方维护的**国家高等教育提供者注册系统**（https://www.teqsa.gov.au/national-register）。输入院校名称或注册编号，即可查看其注册状态、认证范围及有效期限。此外，所有澳大利亚大学均为TEQSA注册机构。若该机构未出现在注册系统中，则不应视为获得TEQSA认证。建议同时核对CRICOS注册状态，以确保其具备招收国际学生的资格。
+**A:** 最直接的方法是访问 TEQSA 官方维护的**国家高等教育提供者注册系统**（<https://www.teqsa.gov.au/national-register>）。输入院校名称或注册编号，即可查看其注册状态、认证范围及有效期限。此外，所有澳大利亚大学均为TEQSA注册机构。若该机构未出现在注册系统中，则不应视为获得TEQSA认证。建议同时核对CRICOS注册状态，以确保其具备招收国际学生的资格。
 
 ## 参考资料
 

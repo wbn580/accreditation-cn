@@ -90,7 +90,7 @@ USDE维护的“认证院校与项目数据库”（DAPIP）是查询美国院�
 
 ### Q1: 如何快速确认一所海外院校是否具有合法认证？
 
-A1: 第一步，访问USDE的DAPIP数据库（https://ope.ed.gov/dapip）或EQAR注册系统（https://www.eqar.eu），输入院校名称查询。第二步，核实该院校声明持有的认证机构是否被CHEA（https://www.chea.org）或USDE认可。第三步，阅读认证机构的“认证行动报告”，确认院校状态为“认证”而非“缓期”或“撤销”。
+A1: 第一步，访问USDE的DAPIP数据库（<https://ope.ed.gov/dapip>）或EQAR注册系统（<https://www.eqar.eu>），输入院校名称查询。第二步，核实该院校声明持有的认证机构是否被CHEA（<https://www.chea.org>）或USDE认可。第三步，阅读认证机构的“认证行动报告”，确认院校状态为“认证”而非“缓期”或“撤销”。
 
 ## 参考资料
 

@@ -172,7 +172,7 @@ ABET 认证强调成果导向（Outcomes-Based Education），要求机构设立
 
 ### Q1: ABET 认证是否等同于该机构所有工程专业都获得了认证？
 
-**A1:** 不是。ABET 认证是针对**具体专业项目**（program），而非整个机构。同一所大学内，不同工程专业可能分别获得或未获得 ABET 认证。例如，某大学的机械工程专业可能已获认证，但其土木工程专业可能尚未申请或未通过认证。建议查询 ABET 官方数据库（https://www.abet.org/accreditation/find-programs/）以确认具体专业的认证状态。
+**A1:** 不是。ABET 认证是针对**具体专业项目**（program），而非整个机构。同一所大学内，不同工程专业可能分别获得或未获得 ABET 认证。例如，某大学的机械工程专业可能已获认证，但其土木工程专业可能尚未申请或未通过认证。建议查询 ABET 官方数据库（<https://www.abet.org/accreditation/find-programs/>）以确认具体专业的认证状态。
 
 ## 参考资料
 

@@ -77,7 +77,7 @@ USDE认可主要适用于以下场景：
 
 ### Q1: 如何查询一所院校是否持有USDE认可的认证？
 
-A1: 可通过美国教育部官方数据库“Database of Accredited Postsecondary Institutions and Programs”（DAPIP）进行查询。访问 https://ope.ed.gov/dapip/#/home，输入院校名称或所在州，即可查看其认证机构及USDE认可状态。截至2026年4月，该数据库收录超过7,000所院校和11,000个项目（数据来源：U.S. Department of Education, DAPIP, 2026）。
+A1: 可通过美国教育部官方数据库“Database of Accredited Postsecondary Institutions and Programs”（DAPIP）进行查询。访问 <https://ope.ed.gov/dapip/#/home>，输入院校名称或所在州，即可查看其认证机构及USDE认可状态。截至2026年4月，该数据库收录超过7,000所院校和11,000个项目（数据来源：U.S. Department of Education, DAPIP, 2026）。
 
 ## 参考资料
 

@@ -76,7 +76,7 @@ HKIAC认证委员会秘书处进行文件初审，核实材料完整性及合规
 
 ### 最终核准
 
-委员会基于初审及面试结果进行投票，需三分之二以上成员同意方可通过。核准结果通过书面通知申请人，有效期自核准日起一年。认证仲裁员名册每季度更新，发布于HKIAC官网（https://www.hkiac.org/arbitration/arbitrator-accreditation）。
+委员会基于初审及面试结果进行投票，需三分之二以上成员同意方可通过。核准结果通过书面通知申请人，有效期自核准日起一年。认证仲裁员名册每季度更新，发布于HKIAC官网（<https://www.hkiac.org/arbitration/arbitrator-accreditation>）。
 
 ## 持续合规与续期
 

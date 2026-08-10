@@ -87,7 +87,7 @@ NMLS 认证是州级许可的统一平台，而非联邦许可。抵押贷款机
 
 ### Q2: 如何验证某家机构是否持有 NMLS 认证？
 
-可通过 NMLS Consumer Access 官方网站（https://www.nmlsconsumeraccess.org/）查询机构名称或 NMLS ID。该数据库实时更新，截至 2026 年 5 月 22 日，收录超过 48,000 家活跃机构（数据来源：NMLS 官方数据库）。
+可通过 NMLS Consumer Access 官方网站（<https://www.nmlsconsumeraccess.org/>）查询机构名称或 NMLS ID。该数据库实时更新，截至 2026 年 5 月 22 日，收录超过 48,000 家活跃机构（数据来源：NMLS 官方数据库）。
 
 ### Q3: 非美国机构必须获得 NMLS 认证吗？
 

@@ -117,7 +117,7 @@ BAC 认证并非排名，而是对机构整体运营及教育服务的系统性�
 
 ### Q12: 如何查询某机构是否持有 BAC 认证？
 
-**A:** 可通过 BAC 官网的在线查询工具进行验证（来源：BAC 官网，https://www.the-bac.org/accredited-institutions）。查询方法：
+**A:** 可通过 BAC 官网的在线查询工具进行验证（来源：BAC 官网，<https://www.the-bac.org/accredited-institutions>）。查询方法：
 - 访问 BAC 官网，点击“查找认证机构”（Find Accredited Institution）；
 - 输入机构名称或关键词；
 - 系统会显示认证状态、认证日期及有效期。

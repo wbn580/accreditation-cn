@@ -39,23 +39,23 @@ draft: false
 
 ### MARN（澳大利亚）
 
-MARN 是澳大利亚境内从事有偿移民咨询与签证代理服务的法定注册编号。根据《1958 年移民法》（Migration Act 1958）第 280 条及相关条例，任何个人或机构如提供移民援助（immigration assistance）且收取费用，必须持有有效 MARN 或属于豁免类别（如执业律师）。MARA 作为法定监管机构，负责注册、合规审查、纪律处分及消费者赔偿机制。截至 2025 年底，MARA 共注册约 7,200 名活跃代理人（数据来源：MARA 2025–2026 年度报告，https://www.mara.gov.au）。
+MARN 是澳大利亚境内从事有偿移民咨询与签证代理服务的法定注册编号。根据《1958 年移民法》（Migration Act 1958）第 280 条及相关条例，任何个人或机构如提供移民援助（immigration assistance）且收取费用，必须持有有效 MARN 或属于豁免类别（如执业律师）。MARA 作为法定监管机构，负责注册、合规审查、纪律处分及消费者赔偿机制。截至 2025 年底，MARA 共注册约 7,200 名活跃代理人（数据来源：MARA 2025–2026 年度报告，<https://www.mara.gov.au>）。
 
 ### RCIC（加拿大）
 
-加拿大移民顾问监管体系自 2011 年起由 **加拿大移民顾问监管委员会（ICCRC）** 管理，2021 年转为法定机构 **加拿大移民与公民顾问学院（CICC）**。RCIC 是持牌移民顾问的法定身份标识。根据《移民与公民顾问监管法》（Immigration and Citizenship Consultant Regulatory Act），所有有偿提供移民咨询或代理服务者（豁免类别包括执业律师、魁北克公证员等）必须持有 RCIC 牌照。截至 2026 年 3 月，CICC 注册顾问总数约为 9,500 人（数据来源：CICC 2025 年度监管报告，https://college-ic.ca）。
+加拿大移民顾问监管体系自 2011 年起由 **加拿大移民顾问监管委员会（ICCRC）** 管理，2021 年转为法定机构 **加拿大移民与公民顾问学院（CICC）**。RCIC 是持牌移民顾问的法定身份标识。根据《移民与公民顾问监管法》（Immigration and Citizenship Consultant Regulatory Act），所有有偿提供移民咨询或代理服务者（豁免类别包括执业律师、魁北克公证员等）必须持有 RCIC 牌照。截至 2026 年 3 月，CICC 注册顾问总数约为 9,500 人（数据来源：CICC 2025 年度监管报告，<https://college-ic.ca>）。
 
 ### OISC（英国）
 
-英国移民服务监管体系由 **移民服务专员办公室（OISC）** 负责。OISC 并非发放个人牌照，而是对机构（organisation）及在其下工作的个案工作者（caseworker）进行分级授权。OISC 将授权分为三个级别（Level 1–3），分别对应不同复杂程度的移民事务。根据 OISC 2025–2026 年度标准，Level 1 授权仅限于简单申请（如签证续签），Level 3 则允许处理上诉及复杂难民申请。截至 2026 年 4 月，OISC 授权机构约 1,800 家（数据来源：OISC 官方数据，https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner）。
+英国移民服务监管体系由 **移民服务专员办公室（OISC）** 负责。OISC 并非发放个人牌照，而是对机构（organisation）及在其下工作的个案工作者（caseworker）进行分级授权。OISC 将授权分为三个级别（Level 1–3），分别对应不同复杂程度的移民事务。根据 OISC 2025–2026 年度标准，Level 1 授权仅限于简单申请（如签证续签），Level 3 则允许处理上诉及复杂难民申请。截至 2026 年 4 月，OISC 授权机构约 1,800 家（数据来源：OISC 官方数据，<https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner>）。
 
 ### LIA（新西兰）
 
-新西兰移民顾问监管由 **移民顾问执照管理局（IAA）** 执行，持牌顾问须获得 **持牌移民顾问（LIA）** 身份。根据《2007 年移民顾问执照法》（Immigration Advisers Licensing Act 2007），任何提供移民建议并收取费用者（豁免包括执业律师、议员等）必须持有 LIA。IAA 将牌照分为移民顾问、高级移民顾问及移民专家三个等级。截至 2026 年 5 月，IAA 注册持牌顾问约 1,200 人（数据来源：IAA 年度报告，https://www.iaa.govt.nz）。
+新西兰移民顾问监管由 **移民顾问执照管理局（IAA）** 执行，持牌顾问须获得 **持牌移民顾问（LIA）** 身份。根据《2007 年移民顾问执照法》（Immigration Advisers Licensing Act 2007），任何提供移民建议并收取费用者（豁免包括执业律师、议员等）必须持有 LIA。IAA 将牌照分为移民顾问、高级移民顾问及移民专家三个等级。截至 2026 年 5 月，IAA 注册持牌顾问约 1,200 人（数据来源：IAA 年度报告，<https://www.iaa.govt.nz>）。
 
 ### 美国移民律师制度
 
-美国未设立专门的移民顾问牌照体系。移民代理服务主要由 **执业律师（attorney）** 提供，且须通过州律师资格考试并在该州执业。非律师人员（如公证员、移民助理）仅可在律师监督下从事行政性工作。联邦层面，移民上诉委员会（BIA）承认的 **认证代表（accredited representative）** 可在非营利组织内免费提供移民服务。截至 2026 年，全美约 130 万执业律师中，约 1.5 万人专精移民法（数据来源：American Immigration Lawyers Association 2025 年度会员调查，https://www.aila.org）。
+美国未设立专门的移民顾问牌照体系。移民代理服务主要由 **执业律师（attorney）** 提供，且须通过州律师资格考试并在该州执业。非律师人员（如公证员、移民助理）仅可在律师监督下从事行政性工作。联邦层面，移民上诉委员会（BIA）承认的 **认证代表（accredited representative）** 可在非营利组织内免费提供移民服务。截至 2026 年，全美约 130 万执业律师中，约 1.5 万人专精移民法（数据来源：American Immigration Lawyers Association 2025 年度会员调查，<https://www.aila.org>）。
 
 ## 多维度对比
 
@@ -107,7 +107,7 @@ RCIC 体系设有 **客户赔偿基金（Client Compensation Fund）**，由 CIC
 - 新西兰 LIA 制度规模较小，但监管框架与 MARN 类似，适合专注于新西兰市场的顾问。
 - 美国移民律师制度要求最长的学历投入（JD 学位），但无独立牌照体系，适合已具备法律背景并希望专精移民法的人士。
 
-消费者在选择移民代理时，建议首先确认对方是否持有有效注册/牌照，并查阅监管机构公开的纪律处分记录。MARA 官网提供 MARN 查询功能（https://www.mara.gov.au/agent-search），CICC 官网提供 RCIC 查询（https://college-ic.ca/find-a-professional），OISC 官网提供授权机构查询（https://www.gov.uk/check-immigration-advice-service），IAA 官网提供 LIA 查询（https://www.iaa.govt.nz/find-an-adviser）。
+消费者在选择移民代理时，建议首先确认对方是否持有有效注册/牌照，并查阅监管机构公开的纪律处分记录。MARA 官网提供 MARN 查询功能（<https://www.mara.gov.au/agent-search>），CICC 官网提供 RCIC 查询（<https://college-ic.ca/find-a-professional>），OISC 官网提供授权机构查询（<https://www.gov.uk/check-immigration-advice-service>），IAA 官网提供 LIA 查询（<https://www.iaa.govt.nz/find-an-adviser>）。
 
 ## FAQ
 

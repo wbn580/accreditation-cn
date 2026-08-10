@@ -130,7 +130,7 @@ EQUIS（European Quality Improvement System，欧洲质量改进体系）是由�
 
 ### Q1: 如何查询一所商学院是否持有 EQUIS 认证？
 
-**A:** 可通过 EFMD 官方网站的认证院校列表进行查询。截至 2026 年 4 月，该列表收录了全部 210 所认证院校，并可按国家、地区及认证状态（如“首次认证”“再认证”“候补”等）进行筛选。列表每季度更新一次，并提供 PDF 下载版本。查询地址为：https://www.efmdglobal.org/accreditations/business-schools/equis/accredited-schools/。此外，认证院校通常会在其官网首页或“关于我们”页面展示 EQUIS 标识，该标识需经 EFMD 授权方可使用，具有防伪功能。若对某所院校的认证状态存疑，可直接联系 EFMD 官方邮箱（equis@efmd.org）进行核实。
+**A:** 可通过 EFMD 官方网站的认证院校列表进行查询。截至 2026 年 4 月，该列表收录了全部 210 所认证院校，并可按国家、地区及认证状态（如“首次认证”“再认证”“候补”等）进行筛选。列表每季度更新一次，并提供 PDF 下载版本。查询地址为：<https://www.efmdglobal.org/accreditations/business-schools/equis/accredited-schools/>。此外，认证院校通常会在其官网首页或“关于我们”页面展示 EQUIS 标识，该标识需经 EFMD 授权方可使用，具有防伪功能。若对某所院校的认证状态存疑，可直接联系 EFMD 官方邮箱（equis@efmd.org）进行核实。
 
 ## 参考资料
 

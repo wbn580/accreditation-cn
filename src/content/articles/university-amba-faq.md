@@ -82,7 +82,7 @@ AMBA（Association of MBAs，工商管理硕士协会）成立于 1967 年，总
 
 ### Q13: 如何查询 AMBA 认证院校名录？
 
-**A:** 可通过 AMBA 官方网站的“认证院校”页面查询（https://www.associationofmbas.com/accredited-schools/）。该页面支持按国家、地区、院校名称及项目类型（MBA/EMBA/DBA）筛选。截至 2026 年 5 月，该名录共收录 305 所认证商学院。名录每季度更新一次，新增认证院校会在获得认证后 30 个工作日内公布。
+**A:** 可通过 AMBA 官方网站的“认证院校”页面查询（<https://www.associationofmbas.com/accredited-schools/>）。该页面支持按国家、地区、院校名称及项目类型（MBA/EMBA/DBA）筛选。截至 2026 年 5 月，该名录共收录 305 所认证商学院。名录每季度更新一次，新增认证院校会在获得认证后 30 个工作日内公布。
 
 ### Q14: AMBA 认证在中国大陆的认可度如何？
 

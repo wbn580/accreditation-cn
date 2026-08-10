@@ -47,7 +47,7 @@ FCA 将受监管活动分为多个类别。对于经纪业务，通常需要申�
 - **安排交易**（Article 25）：如做市商或经纪中介服务。
 - **提供投资建议**（Article 53）：如提供交易策略建议。
 
-具体权限组合需依据业务模型确定。FCA 提供在线工具“Perimeter Check”（https://www.fca.org.uk/firms/perimeter-check）供申请人初步判断。
+具体权限组合需依据业务模型确定。FCA 提供在线工具“Perimeter Check”（<https://www.fca.org.uk/firms/perimeter-check>）供申请人初步判断。
 
 ### 2. 合规架构与人员配置
 

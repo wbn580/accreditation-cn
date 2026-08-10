@@ -118,7 +118,7 @@ draft: false
 
 ### Q1: 如何验证一个 MARN 编号是否有效？
 
-A: 可通过 OMARA 官方注册系统（https://www.mara.gov.au/）的“查找注册移民代理”功能，输入 MARN 编号或姓名，系统将返回当前状态（Active、Suspended 或 Cancelled）。建议在委托服务前进行验证。
+A: 可通过 OMARA 官方注册系统（<https://www.mara.gov.au/>）的“查找注册移民代理”功能，输入 MARN 编号或姓名，系统将返回当前状态（Active、Suspended 或 Cancelled）。建议在委托服务前进行验证。
 
 ## 参考资料
 

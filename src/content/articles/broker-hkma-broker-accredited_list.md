@@ -187,7 +187,7 @@ HKMA 依据《打击洗钱及恐怖分子资金筹集条例》对持牌机构实
 
 ### Q1: 如何查询某家机构是否持有有效的 HKMA 牌照？
 
-A1: 访问香港金融管理局官方网站的“认可机构名单”页面（https://www.hkma.gov.hk/eng/key-functions/banking-stability/banking-policy-and-supervision/authorized-institutions/），可搜索机构名称或按类别筛选。该名单每日更新，并标注牌照类别及生效日期。建议在交易前核实机构状态，避免与未持牌实体往来。
+A1: 访问香港金融管理局官方网站的“认可机构名单”页面（<https://www.hkma.gov.hk/eng/key-functions/banking-stability/banking-policy-and-supervision/authorized-institutions/>），可搜索机构名称或按类别筛选。该名单每日更新，并标注牌照类别及生效日期。建议在交易前核实机构状态，避免与未持牌实体往来。
 
 ### Q2: HKMA 牌照与证监会（SFC）牌照有何区别？
 

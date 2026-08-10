@@ -25,7 +25,7 @@ draft: false
 
 SRA 对法律教育机构的认证分为三类：**完全认证**（Full Recognition）、**有条件认证**（Conditional Recognition）和**临时认证**（Provisional Recognition）。完全认证机构可提供完整的法律实践课程（LPC）或法律学位课程（如 LLB），毕业生可直接申请 SRA 资格评估。截至 2026 年 5 月，完全认证机构占 82 所，有条件认证 4 所，临时认证 1 所。本清单仅收录**完全认证**及**有条件认证**机构，临时认证机构因有效期限制（通常为 1-2 年）未纳入。
 
-数据来源：SRA 2026 年 5 月 22 日公开的《Recognised Qualifications Providers List》（https://www.sra.org.uk/students/courses/recognised-qualifications/）。所有机构名称以英文官方名称为准，中文译名仅供参考。认证有效期为 2026 年 5 月 22 日至 2027 年 5 月 21 日，除非另有标注。
+数据来源：SRA 2026 年 5 月 22 日公开的《Recognised Qualifications Providers List》（<https://www.sra.org.uk/students/courses/recognised-qualifications/>）。所有机构名称以英文官方名称为准，中文译名仅供参考。认证有效期为 2026 年 5 月 22 日至 2027 年 5 月 21 日，除非另有标注。
 
 ## 英格兰与威尔士地区受认证机构
 
@@ -178,4 +178,4 @@ SRA 认证遵循《Solicitors Regulation Authority Recognition Criteria》（202
 
 ---
 
-*免责声明：本汇编内容仅供信息参考，不构成法律或职业建议。认证状态可能随时变更，建议读者直接访问 SRA 官方网站（https://www.sra.org.uk）获取最新信息。本汇编不涉及任何商业推广，亦不代表 SRA 官方立场。*
+*免责声明：本汇编内容仅供信息参考，不构成法律或职业建议。认证状态可能随时变更，建议读者直接访问 SRA 官方网站（<https://www.sra.org.uk>）获取最新信息。本汇编不涉及任何商业推广，亦不代表 SRA 官方立场。*

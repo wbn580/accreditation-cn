@@ -158,7 +158,7 @@ JCI 认证体系自 1994 年启动以来，已发展为全球最广泛采用的�
 
 ### Q1: JCI 认证的有效期是多久？如何查询认证状态？
 
-JCI 认证有效期为三年。认证机构需在有效期内接受年度中期评审，以维持认证状态。查询认证状态可通过 JCI 官方在线认证机构名录（https://www.jointcommissioninternational.org/accredited-organizations/）进行，该数据库实时更新，可按国家、地区、机构名称或认证类型检索。截至 2026 年 5 月，该数据库共收录 1,234 条记录。
+JCI 认证有效期为三年。认证机构需在有效期内接受年度中期评审，以维持认证状态。查询认证状态可通过 JCI 官方在线认证机构名录（<https://www.jointcommissioninternational.org/accredited-organizations/>）进行，该数据库实时更新，可按国家、地区、机构名称或认证类型检索。截至 2026 年 5 月，该数据库共收录 1,234 条记录。
 
 ### Q2: JCI 认证与 ISO 9001 认证有何区别？
 

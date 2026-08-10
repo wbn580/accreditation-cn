@@ -55,7 +55,7 @@ draft: false
 
 ### Q4: 如何通过 NMLS 系统提交个人许可申请？需要哪些步骤？
 
-**A:** 个人许可申请通过 NMLS 在线门户（https://mortgage.nationwidelicensingsystem.org）完成，主要步骤如下：
+**A:** 个人许可申请通过 NMLS 在线门户（<https://mortgage.nationwidelicensingsystem.org>）完成，主要步骤如下：
 1. **创建账户**：在 NMLS 官网注册个人账户，获取唯一标识符（NMLS ID）。
 2. **填写 MU4 表格**：在线提交 **《统一个人许可申请表》（MU4）**，内容包括个人信息、就业历史、教育背景、犯罪记录声明等。
 3. **上传文件**：上传身份证明（如驾照、护照）、预许可教育证书、考试成绩单等。
@@ -83,7 +83,7 @@ draft: false
 - **考试费**：NMLS 全国考试费用为 92 美元（含州特定内容）。
 - **年度续期费**：每年续期费用在 50-200 美元之间。
 - **企业额外费用**：企业 MU1 申请费通常为 100-500 美元，另需支付保证金及审计费用。
-建议申请人访问 NMLS 州费用页面（https://mortgage.nationwidelicensingsystem.org/statepages/）查询精确金额。
+建议申请人访问 NMLS 州费用页面（<https://mortgage.nationwidelicensingsystem.org/statepages/>）查询精确金额。
 
 ### Q7: 申请 NMLS 许可需要多长时间？如何加快进度？
 
@@ -209,7 +209,7 @@ CE 须在每年 **12 月 31 日** 前完成，未完成者许可自动失效。N
 ### Q19: 遇到 NMLS 系统技术问题如何寻求帮助？
 
 **A:** NMLS 提供多渠道技术支持：
-1. **NMLS 资源中心（Resource Center）**：访问 https://mortgage.nationwidelicensingsystem.org，提供常见问题、视频教程、用户指南。
+1. **NMLS 资源中心（Resource Center）**：访问 <https://mortgage.nationwidelicensingsystem.org>，提供常见问题、视频教程、用户指南。
 2. **电话支持**：NMLS 呼叫中心电话 +1-855-664-6647，工作时间为周一至周五上午 8:00 至下午 6:00（东部时间）。
 3. **邮件支持**：通过 NMLS 账户内的“联系支持”功能提交工单，响应时间通常为 1-3 个工作日。
 4. **实时聊天**：部分页面提供在线聊天功能，处理账户注册、表格填写等基础问题。

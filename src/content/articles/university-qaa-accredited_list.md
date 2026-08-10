@@ -225,7 +225,7 @@ QAA 认证是英国高等教育质量保障体系的一部分，主要评估机�
 
 ### Q2: 如何查询特定机构是否在 QAA 登记册中？
 
-可直接访问 QAA 官方登记册页面（https://www.qaa.ac.uk/reviewing-higher-education/quality-assurance-reviews/the-register），使用名称搜索或筛选条件（如地区、审查类型）。本汇编数据截至 2026 年 5 月 22 日，后续变化以 QAA 官方为准。
+可直接访问 QAA 官方登记册页面（<https://www.qaa.ac.uk/reviewing-higher-education/quality-assurance-reviews/the-register>），使用名称搜索或筛选条件（如地区、审查类型）。本汇编数据截至 2026 年 5 月 22 日，后续变化以 QAA 官方为准。
 
 ### Q3: QAA 认证是否涵盖所有英国大学？
 

@@ -81,7 +81,7 @@ AMBA 认证标准以严谨著称，重点关注课程质量、师资水平、学
 - **华威大学商学院（Warwick Business School）**：认证起始年份 1990 年。
 - **约克大学管理学院（University of York Management School）**：认证起始年份 2010 年。
 
-注：以上清单包含 40 所机构，其余 12 所因数据更新延迟或未列入公开数据库，未予收录。完整清单可查阅 AMBA 官网（https://www.associationofmbas.com/accredited-schools）。
+注：以上清单包含 40 所机构，其余 12 所因数据更新延迟或未列入公开数据库，未予收录。完整清单可查阅 AMBA 官网（<https://www.associationofmbas.com/accredited-schools>）。
 
 ## 解读：AMBA 认证的意义
 

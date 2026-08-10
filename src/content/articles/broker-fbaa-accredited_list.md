@@ -35,8 +35,8 @@ draft: false
 
 本汇编所引用数据均来自 FBAA 官方渠道。**受认证机构名单** 的编制遵循以下原则：
 
-- **数据时效性**：截至 2026 年 5 月 22 日，FBAA 官网“查找会员”功能（https://www.fbaa.com.au/find-a-member）为实时更新数据库。本汇编在此基础上提取静态快照，并与 FBAA 2025 年度会员报告（https://www.fbaa.com.au/about/annual-reports）交叉验证。
-- **认证状态确认**：每列入一家机构，均通过 FBAA 会员编号或 ABN/ACN 在 ASIC 查询系统（https://connectonline.asic.gov.au）二次核验。若发现认证状态过期或机构已注销，本汇编予以剔除。
+- **数据时效性**：截至 2026 年 5 月 22 日，FBAA 官网“查找会员”功能（<https://www.fbaa.com.au/find-a-member>）为实时更新数据库。本汇编在此基础上提取静态快照，并与 FBAA 2025 年度会员报告（<https://www.fbaa.com.au/about/annual-reports>）交叉验证。
+- **认证状态确认**：每列入一家机构，均通过 FBAA 会员编号或 ABN/ACN 在 ASIC 查询系统（<https://connectonline.asic.gov.au>）二次核验。若发现认证状态过期或机构已注销，本汇编予以剔除。
 - **分组标准**：按机构注册地（注册办公室所在国家/地区）分组。若机构在多个国家设有分支，以总部所在地为准。
 - **数据限制**：FBAA 认证并非强制要求。部分持 ASIC 牌照的金融机构可能未申请 FBAA 认证。本名单仅反映已主动申请并通过 FBAA 合规审查的机构。
 
@@ -164,7 +164,7 @@ FBAA 认证体系在 **英国与欧洲地区覆盖 89 家机构**（数据来源
 
 ### Q1: 如何确认某家机构是否持有有效的 FBAA 认证？
 
-A: 可通过 FBAA 官网“查找会员”功能（https://www.fbaa.com.au/find-a-member）输入机构名称或会员编号进行查询。建议同时通过 ASIC 查询系统（https://connectonline.asic.gov.au）核验该机构的澳大利亚信贷牌照状态。若机构在多个国家运营，还需查询当地监管机构（如英国 FCA、新加坡 MAS）的注册记录。
+A: 可通过 FBAA 官网“查找会员”功能（<https://www.fbaa.com.au/find-a-member>）输入机构名称或会员编号进行查询。建议同时通过 ASIC 查询系统（<https://connectonline.asic.gov.au>）核验该机构的澳大利亚信贷牌照状态。若机构在多个国家运营，还需查询当地监管机构（如英国 FCA、新加坡 MAS）的注册记录。
 
 ## 参考资料
 

@@ -41,7 +41,7 @@ draft: false
 - **诚信移民服务所 (Integrity Migration Services)**：认证编号 HK-089，以个案管理与申诉服务见长。
 - **香港专业移民中心 (Hong Kong Professional Immigration Centre)**：认证编号 HK-124，主要服务内地专业人士赴港就业与定居。
 
-完整名单见 HKSIA 官方网站“认证机构查询”页面（https://www.hksia.org.hk/accredited-firms）。
+完整名单见 HKSIA 官方网站“认证机构查询”页面（<https://www.hksia.org.hk/accredited-firms>）。
 
 ## 中国大陆地区受认证机构
 
@@ -87,7 +87,7 @@ HKSIA 认证标准由协会理事会制定，每两年修订一次。核心要�
 
 ## 认证名单的局限性
 
-本名单仅反映截至 2026 年 5 月的认证状态，不构成对机构服务质量或成功率的保证。HKSIA 认证为自愿性质，未认证机构仍可在香港合法经营移民服务，但不受协会行业规范约束。消费者在选择服务时，建议结合 HKSIA 认证、香港入境事务处认可名单（https://www.immd.gov.hk/accredited-migration-services）及其他第三方评价进行综合评估。
+本名单仅反映截至 2026 年 5 月的认证状态，不构成对机构服务质量或成功率的保证。HKSIA 认证为自愿性质，未认证机构仍可在香港合法经营移民服务，但不受协会行业规范约束。消费者在选择服务时，建议结合 HKSIA 认证、香港入境事务处认可名单（<https://www.immd.gov.hk/accredited-migration-services>）及其他第三方评价进行综合评估。
 
 ## FAQ
 
