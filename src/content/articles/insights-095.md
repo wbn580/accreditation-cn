@@ -32,7 +32,6 @@ dataSources:
   - "ABET. (2025). ABET Annual Report 2025. https://www.abet.org/about-abet/annual-reports/"
   - "CHEA. (2026). CHEA Almanac of External Quality Assurance 2026. https://www.chea.org/almanac"
   - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education. https://www.unesco.org/en/education/higher-education/qualifications-recognition"
-ogImage: "https://accreditation.cn/og/insights/global-accreditation-convergence-divergence-2026.png"
 draft: false
 ---
 

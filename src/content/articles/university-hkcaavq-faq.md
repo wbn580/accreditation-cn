@@ -24,7 +24,6 @@ dataSources:
   - "HKCAAVQ 2025-2026 年度年报"
   - "香港资历架构（QF）官方网页：https://www.hkqf.gov.hk"
   - "HKCAAVQ 官方网页：https://www.hkcaavq.edu.hk"
-ogImage: "https://www.hkcaavq.edu.hk/images/og-default.jpg"
 draft: false
 ---
 # HKCAAVQ 香港学术及职业资历评审局：常见问题与解答

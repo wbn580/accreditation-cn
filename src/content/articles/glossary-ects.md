@@ -25,7 +25,6 @@ dataSources:
   - "European Commission. (2026). ECTS Users' Guide 2026. https://ec.europa.eu/education/ects/users-guide_en"
   - "European Higher Education Area. (2025). Bologna Process Implementation Report 2025. https://ehea.info/page-bologna-process-implementation-report"
   - "European Commission. (2025). ECTS Key Features. https://education.ec.europa.eu/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system"
-ogImage: "https://accreditation.cn/og/ects-glossary.png"
 draft: false
 ---
 # 欧洲学分转移与累积系统（ECTS）

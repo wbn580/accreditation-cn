@@ -26,7 +26,6 @@ dataSources:
   - "Higher Education Funding Council for Wales (HEFCW), REF Guidance, https://www.hefcw.ac.uk/"
   - "Scottish Funding Council (SFC), REF Information, https://www.sfc.ac.uk/"
   - "Department for the Economy (Northern Ireland), REF Policy, https://www.economy-ni.gov.uk/"
-ogImage: "https://accreditation.cn/images/og/ref-glossary.jpg"
 draft: false
 ---
 

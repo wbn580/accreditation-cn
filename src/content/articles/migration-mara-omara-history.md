@@ -31,7 +31,6 @@ dataSources:
     url: "https://www.pc.gov.au/inquiries/completed/migration-services"
   - title: "MARA Code of Conduct (2024 Edition)"
     url: "https://www.mara.gov.au/code-of-conduct"
-ogImage: "https://accreditation.cn/images/marn-australia-history-og.png"
 draft: false
 ---
 # MARN 澳洲注册移民代理制度：历史演变与关键里程碑

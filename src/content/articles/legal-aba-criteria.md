@@ -24,7 +24,6 @@ dataSources:
   - "American Bar Association. (2026). ABA Standards and Rules of Procedure for Approval of Law Schools. Chicago: ABA."
   - "American Bar Association. (2025). Annual Report of the Section of Legal Education and Admissions to the Bar. Chicago: ABA."
   - "American Bar Association. (2024). Interpretation of Standards for Approval of Law Schools. Chicago: ABA."
-ogImage: "https://accreditation.cn/images/aba-standards-2026.jpg"
 draft: false
 ---
 

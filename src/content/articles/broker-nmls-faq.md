@@ -24,7 +24,6 @@ dataSources:
   - "NMLS Resource Center: https://mortgage.nationwidelicensingsystem.org"
   - "CSBS - Conference of State Bank Supervisors: https://www.csbs.org"
   - "SAFE Act (S. 2756), 2008: https://www.congress.gov/bill/110th-congress/senate-bill/2756"
-ogImage: "https://accreditation.cn/images/nmls-faq-og.jpg"
 draft: false
 ---
 

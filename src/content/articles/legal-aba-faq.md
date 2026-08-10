@@ -32,7 +32,6 @@ dataSources:
   - "American Bar Association. (2026). ABA Standards and Rules of Procedure for Approval of Law Schools. Chicago, IL: ABA Section of Legal Education and Admissions to the Bar. https://www.americanbar.org/groups/legal_education/resources/standards/"
   - "American Bar Association. (2026). Annual Report on Law School Accreditation. Chicago, IL: ABA Section of Legal Education and Admissions to the Bar. https://www.americanbar.org/groups/legal_education/resources/annual_reports/"
   - "U.S. Department of Education. (2026). Database of Accredited Postsecondary Institutions and Programs. Washington, DC: Office of Postsecondary Education. https://ope.ed.gov/dapip/#/home"
-ogImage: "https://accreditation.cn/images/og-aba-guide-2026.jpg"
 draft: false
 ---
 # ABA 美国律师协会认证：常见问题与解答

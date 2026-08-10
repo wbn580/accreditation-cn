@@ -26,7 +26,6 @@ dataSources:
   - "AACSB International. (2026). 2025-2026 Business School Accreditation Standards. Retrieved from https://www.aacsb.edu"
   - "Times Higher Education. (2026). World University Rankings 2026: Methodology. Retrieved from https://www.timeshighereducation.com"
   - "European Association for Quality Assurance in Higher Education. (2025). Standards and Guidelines for Quality Assurance in the European Higher Education Area. Retrieved from https://www.enqa.eu"
-ogImage: "https://accreditation.cn/og-images/accreditation-vs-ranking-insight.jpg"
 draft: false
 ---
 

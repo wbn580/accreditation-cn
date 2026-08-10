@@ -15,7 +15,6 @@ dataSources:
   - "AMBA 2026 年度认证院校名录 (https://www.associationofmbas.com/accredited-schools/)"
   - "英国高等教育统计局 (HESA) 2024/25 年度 MBA 学生数据报告 (https://www.hesa.ac.uk/data-and-analysis/students)"
   - "QS 2026 全球 MBA 排名方法论 (https://www.topuniversities.com/mba-rankings/methodology)"
-ogImage: "https://accreditation.cn/images/AMBA-faq-og-2026.jpg"
 draft: false
 ---
 

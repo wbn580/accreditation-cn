@@ -25,7 +25,6 @@ dataSources:
   - "QAA. (2026). The UK Quality Code for Higher Education. https://www.qaa.ac.uk/quality-code"
   - "QAA. (2025). QAA Annual Report 2025. https://www.qaa.ac.uk/about-us/annual-reports"
   - "UK Standing Committee for Quality Assessment. (2024). Principles of Quality Assurance. https://www.qaa.ac.uk/quality-assurance/principles"
-ogImage: "https://accreditation.cn/images/qaa-standards-og.png"
 draft: false
 ---
 

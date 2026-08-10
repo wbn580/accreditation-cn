@@ -14,7 +14,6 @@ dataSources:
   - "AACSB 2026年度年报 (https://www.aacsb.edu/about/publications/annual-report)"
   - "ABET Accreditation Policy and Procedure Manual 2025-2026 (https://www.abet.org/accreditation-policies/)"
   - "EQUIS Standards and Criteria 2025 (https://www.efmdglobal.org/accreditations/equis/standards-and-criteria)"
-ogImage: "https://accreditation.cn/images/insights/accreditation-renewal-comparison-og.jpg"
 draft: false
 ---
 

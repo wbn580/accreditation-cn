@@ -25,7 +25,6 @@ dataSources:
   - "QAA 2026年度年报, https://www.qaa.ac.uk/annual-report-2026"
   - "英国高等教育监管框架（OfS 2025）, https://www.officeforstudents.org.uk/regulatory-framework-2025"
   - "QAA认证机构列表（截至2026年4月）, https://www.qaa.ac.uk/accredited-institutions-2026"
-ogImage: "https://www.accreditation.cn/images/qaa-uk-accreditation-overview-2026.jpg"
 draft: false
 ---
 

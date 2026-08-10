@@ -16,7 +16,6 @@ dataSources:
   - "Migration Agents Regulations 1998 (Cth), https://www.legislation.gov.au/F1998B00116/latest/text"
   - "Department of Home Affairs, 'About the Register of Migration Agents', 2026, https://www.homeaffairs.gov.au/about/register-of-migration-agents"
   - "Professional Standards for Registered Migration Agents, 2025 Revision, https://www.mara.gov.au/working-as-an-agent/professional-standards"
-ogImage: "https://accreditation.cn/images/au-marn-standards-2026-og.png"
 draft: false
 ---
 

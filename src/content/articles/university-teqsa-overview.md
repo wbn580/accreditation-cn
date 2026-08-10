@@ -26,7 +26,6 @@ dataSources:
   - "TEQSA 官方网站：https://www.teqsa.gov.au"
   - "澳大利亚政府教育部门：https://www.education.gov.au"
   - "TEQSA 2025-26 年度报告：https://www.teqsa.gov.au/annual-report-2025-26"
-ogImage: "https://accreditation.cn/images/teqsa-overview-2026.jpg"
 draft: false
 ---
 

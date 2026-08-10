@@ -26,7 +26,6 @@ dataSources:
   - "新西兰移民局 (Immigration New Zealand) — 持牌移民顾问信息页面 (https://www.immigration.govt.nz/assist/migrant-settlement/using-a-licensed-immigration-adviser)"
   - "新西兰移民顾问管理局 (IAA) — 持牌顾问注册与纪律记录 (https://www.iaa.govt.nz)"
   - "新西兰移民法 2007 (Immigration Act 2007) — 条款全文 (https://www.legislation.govt.nz/act/public/2007/0047/latest/whole.html)"
-ogImage: "https://accreditation.cn/images/faq-nz-lcm-og.jpg"
 draft: false
 ---
 

@@ -26,7 +26,6 @@ dataSources:
   - "GMC 2026年注册统计报告：https://www.gmc-uk.org/registration-and-licensing/registration-statistics"
   - "GMC 国际医生申请指南：https://www.gmc-uk.org/registration-and-licensing/international-medical-graduates"
   - "GMC 良好医疗执业标准：https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/good-medical-practice"
-ogImage: "https://www.accreditation.cn/og/gmc-guide-2026.jpg"
 draft: false
 ---
 

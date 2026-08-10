@@ -14,7 +14,6 @@ dataSources:
   - "AACSB 2026 年度年报 (https://www.aacsb.edu/about/publications/annual-report)"
   - "AACSB 认证标准与政策手册 (https://www.aacsb.edu/accreditation/standards)"
   - "AACSB 认证申请门户 (https://www.aacsb.edu/accreditation/apply)"
-ogImage: "https://via.placeholder.com/1200x630.png?text=AACSB+认证+申请+指南"
 draft: false
 ---
 

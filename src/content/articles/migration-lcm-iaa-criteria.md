@@ -29,7 +29,6 @@ dataSources:
   - "Immigration Advisers Authority (IAA). 'Licensing Requirements for Immigration Advisers.' 2026. https://www.iaa.govt.nz"
   - "New Zealand Qualifications Authority (NZQA). 'Graduate Diploma in New Zealand Immigration Advice.' 2026. https://www.nzqa.govt.nz"
   - "Licensed Immigration Advisers Complaints and Disciplinary Tribunal (LICDT). 'Decisions and Sanctions.' 2025. https://www.justice.govt.nz/tribunals/licensed-immigration-advisers/"
-ogImage: "https://accreditation.cn/images/nz-lcm-criteria-og.png"
 draft: false
 ---
 

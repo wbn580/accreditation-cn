@@ -29,7 +29,6 @@ dataSources:
   - "British Accreditation Council. (2026). BAC Annual Report 2026. Retrieved from https://www.the-bac.org/"
   - "British Accreditation Council. (2025). Accreditation Handbook (6th ed.). Retrieved from https://www.the-bac.org/accreditation-handbook"
   - "UK Government. (2025). Recognised Accreditation Bodies for Higher and Further Education. Department for Education. Retrieved from https://www.gov.uk/government/publications/recognised-accreditation-bodies"
-ogImage: "https://www.the-bac.org/images/bac-og-2026.jpg"
 draft: false
 ---
 # BAC 英国认证委员会：常见问题与解答

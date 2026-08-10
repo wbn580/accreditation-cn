@@ -26,7 +26,6 @@ dataSources:
   - "CICC Annual Report 2025-2026"
   - "Government of Canada, 'Regulatory Impact Analysis Statement' for CICC Regulations, 2021"
   - "Canadian Bar Association, 'Submission on Bill C-97', 2019"
-ogImage: "https://accreditation.cn/images/cicc-history-og.jpg"
 draft: false
 ---
 # CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑

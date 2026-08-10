@@ -16,7 +16,6 @@ dataSources:
   - "LCIA 2025 年度案件报告: https://www.lcia.org/LCIA/reports.aspx"
   - "HKIAC 2025 年案件统计: https://www.hkiac.org/about-us/statistics"
   - "SCC 2025 年仲裁统计: https://sccinstitute.com/statistics/"
-ogImage: "https://accreditation.cn/images/articles/siac-comparison-og.jpg"
 draft: false
 ---
 

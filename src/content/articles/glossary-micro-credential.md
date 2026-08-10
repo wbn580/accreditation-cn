@@ -15,7 +15,6 @@ dataSources:
   - "European Commission. (2025). European Approach to Micro-credentials. https://education.ec.europa.eu/education-levels/higher-education/micro-credentials"
   - "OECD. (2026). Micro-credentials for Lifelong Learning: Policy Frameworks and Quality Assurance. https://www.oecd.org/en/topics/micro-credentials.html"
   - "AACSB International. (2025). AACSB Guidance on Micro-credentials in Business Education. https://www.aacsb.edu/insights/2025/micro-credentials"
-ogImage: "https://accreditation.cn/og/micro-credential-glossary.png"
 draft: false
 ---
 

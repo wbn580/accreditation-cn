@@ -26,7 +26,6 @@ dataSources:
   - "香港金融管理局，《银行业条例》（第155章），2026年修订版。URL: https://www.hkma.gov.hk/eng/key-functions/banking/banking-regulatory-framework/"
   - "香港金融管理局，《监管政策手册》模块 CA-G-1：资本充足率，2025年12月更新。URL: https://www.hkma.gov.hk/eng/regulatory-resources/regulatory-policy-manual/"
   - "香港金融管理局，《2025年年报》，2026年4月发布。URL: https://www.hkma.gov.hk/eng/about-the-hkma/hkma/publications/annual-report/"
-ogImage: "https://accreditation.cn/images/hkma-authorized-institution-criteria-2026.jpg"
 draft: false
 ---
 

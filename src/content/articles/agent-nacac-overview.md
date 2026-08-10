@@ -28,7 +28,6 @@ dataSources:
   - "NACAC 2026年认证机构名录：https://www.nacacnet.org/membership/accredited-members/"
   - "美国教育部高等教育认证数据库（2025）：https://ope.ed.gov/accreditation/"
   - "国际招生咨询协会联盟（IAACA）2025年公报：https://www.iaaca.org/"
-ogImage: "https://accreditation.cn/images/nacac-overview-2026.jpg"
 draft: false
 ---
 

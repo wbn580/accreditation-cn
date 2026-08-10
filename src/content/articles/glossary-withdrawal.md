@@ -14,7 +14,6 @@ dataSources:
   - "CHEA: Recognition of Accrediting Organizations - Policy and Procedures (2025)"
   - "AACSB: Accreditation Standards and Policies - Withdrawal and Revocation (2026)"
   - "ABET: Accreditation Policy and Procedure Manual - Section 9: Termination (2025)"
-ogImage: "https://accreditation.cn/images/og/withdrawal-glossary.png"
 draft: false
 ---
 

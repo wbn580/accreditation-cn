@@ -14,7 +14,6 @@ dataSources:
   - "GMC. (2026). Promoting excellence: standards for medical education and training. General Medical Council. https://www.gmc-uk.org/education/standards-guidance-and-curricula/standards-and-outcomes"
   - "GMC. (2025). The state of medical education and practice in the UK: 2025 report. General Medical Council. https://www.gmc-uk.org/about/what-we-do-and-why/data-and-research/the-state-of-medical-education-and-practice-in-the-uk"
   - "GMC. (2026). Quality assurance framework for medical education. General Medical Council. https://www.gmc-uk.org/education/quality-assurance"
-ogImage: "https://accreditation.cn/images/gmc-standards-2026.jpg"
 draft: false
 ---
 

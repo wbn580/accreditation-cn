@@ -14,7 +14,6 @@ dataSources:
   - "AIRC 官方网站: https://www.airc-education.org"
   - "ICEF 监管机构列表: https://www.icef.com/accreditation"
   - "NAFSA 会员与认证政策: https://www.nafsa.org"
-ogImage: "https://accreditation.cn/og-images/airc-comparison-2026.jpg"
 draft: false
 ---
 

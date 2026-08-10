@@ -28,7 +28,6 @@ dataSources:
   - "Immigration Advisers Authority (IAA) - Licensed Immigration Advisers Statistics"
   - "Immigration New Zealand (INZ) - Immigration Adviser Licensing"
   - "New Zealand Qualifications Authority (NZQA) - Qualification Recognition"
-ogImage: "https://accreditation.cn/images/nz-licenced-immigration-adviser-guide-2026.png"
 draft: false
 ---
 

@@ -26,7 +26,6 @@ keywords:
 dataSources:
   - title: ABA 法律教育与律师资格准入部门官方认证列表
     url: https://www.americanbar.org/groups/legal_education/resources/aba_approved_law_schools/
-ogImage: https://accreditation.cn/og/aba-comparison-2026.jpg
 draft: false
 ---
 

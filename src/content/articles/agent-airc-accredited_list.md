@@ -25,7 +25,6 @@ dataSources:
   - "AIRC 官方网站：https://www.airc-education.org/"
   - "美国教育部认证数据库（2025 年更新）"
   - "国际教育协会（IIE）2025 年开放门户报告"
-ogImage: "https://accreditation.cn/images/airc-accredited-list-2026.jpg"
 draft: false
 ---
   

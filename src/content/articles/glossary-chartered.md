@@ -16,7 +16,6 @@ dataSources:
   - "英国特许管理会计师公会（CIMA）关于特许管理会计师（ACMA/CGMA）的认证要求：https://www.cimaglobal.com/Professional-qualifications/"
   - "英国皇家特许测量师学会（RICS）关于特许测量师（MRICS）的资格框架：https://www.rics.org/join/"
   - "国际会计师联合会（IFAC）2025年度全球专业会计师资格调查报告：https://www.ifac.org/knowledge-gateway/contributing-global-economy/publications/global-professional-accountancy-qualifications-2025"
-ogImage: "https://accreditation.cn/og-images/chartered-glossary.png"
 draft: false
 ---
 

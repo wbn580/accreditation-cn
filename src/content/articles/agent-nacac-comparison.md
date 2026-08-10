@@ -25,7 +25,6 @@ dataSources:
   - "IACAC 2026 会员手册: https://www.iacac.org/membership"
   - "ICEF 2025 行业趋势报告: https://www.icef.com/reports"
   - "AIRC 2026 认证标准: https://www.airc-education.org/standards"
-ogImage: "https://accreditation.cn/images/nacac-comparison-og.jpg"
 draft: false
 ---
 

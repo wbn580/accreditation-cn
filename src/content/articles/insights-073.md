@@ -14,7 +14,6 @@ dataSources:
   - "AACSB. (2026). 2026 Annual Report. https://www.aacsb.edu/annual-report"
   - "EQUIS. (2025). EQUIS Standards & Criteria. https://www.efmdglobal.org/accreditations/equis"
   - "ABET. (2025). ABET Accreditation Yearbook. https://www.abet.org/accreditation-yearbook"
-ogImage: "https://accreditation.cn/images/insights/transnational-honors-conversion.jpg"
 draft: false
 ---
 

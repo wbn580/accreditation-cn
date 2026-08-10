@@ -25,7 +25,6 @@ dataSources:
   - "HKCAAVQ. (2026). Accreditation Standards for Programmes and Institutions. Hong Kong: HKCAAVQ. https://www.hkcaavq.edu.hk/en/services/accreditation/standards"
   - "HKCAAVQ. (2025). Annual Report 2024-2025. Hong Kong: HKCAAVQ. https://www.hkcaavq.edu.hk/en/about-us/publications/annual-reports"
   - "Hong Kong Council for Accreditation of Academic and Vocational Qualifications. (2026). Guidelines on the Four-stage Quality Assurance Process. https://www.hkcaavq.edu.hk/en/services/accreditation/quality-assurance"
-ogImage: "https://www.hkcaavq.edu.hk/themes/hkcaavq/images/og-image.jpg"
 draft: false
 ---
 

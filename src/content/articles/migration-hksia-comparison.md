@@ -28,7 +28,6 @@ dataSources:
   - "加拿大移民顾问监管委员会（ICCRC）官网：https://iccrc-crcic.ca"
   - "澳大利亚移民代理注册管理局（MARA）官网：https://www.mara.gov.au"
   - "英国移民服务专员办公室（OISC）官网：https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
-ogImage: "https://accreditation.cn/images/comparison-hksia-2026.jpg"
 draft: false
 ---
 

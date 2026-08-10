@@ -26,7 +26,6 @@ dataSources:
   - "CHEA 2026年度认可机构名录: https://www.chea.org/directories"
   - "USDE 2026年度认证机构列表: https://www2.ed.gov/admins/finaid/accred/index.html"
   - "Council for Higher Education Accreditation (CHEA) 2025年报: https://www.chea.org/sites/default/files/2025-annual-report.pdf"
-ogImage: "https://accreditation.cn/images/us-chea-usde-dual-accreditation.jpg"
 draft: false
 ---
 

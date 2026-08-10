@@ -29,7 +29,6 @@ dataSources:
   - "澳大利亚证券投资委员会（ASIC）监管文件：https://asic.gov.au/"
   - "皇家委员会对银行业、退休金及金融服务业不当行为的最终报告（2019）：https://www.royalcommission.gov.au/banking"
   - "澳大利亚议会图书馆：抵押贷款经纪行业历史研究：https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library"
-ogImage: "https://accreditation.cn/images/mfaa-history-og.png"
 draft: false
 ---
 

@@ -28,7 +28,6 @@ dataSources:
   - "FCA 手册（FCA Handbook）：https://www.handbook.fca.org.uk/"
   - "英国财政部（HM Treasury）金融监管框架文件：https://www.gov.uk/government/collections/financial-services-regulation"
   - "FCA 消费者投资战略（Consumer Investments Strategy）2025：https://www.fca.org.uk/publication/corporate/consumer-investments-strategy.pdf"
-ogImage: "https://accreditation.cn/images/fca-uk-broker-overview-2026.jpg"
 draft: false
 ---
 

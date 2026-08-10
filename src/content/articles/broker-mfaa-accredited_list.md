@@ -25,7 +25,6 @@ dataSources:
   - "MFAA 受认证机构名录（在线数据库），https://www.mfaa.com.au/find-a-broker"
   - "ASIC 2025 年金融顾问注册统计数据，https://asic.gov.au/regulatory-resources/financial-services/financial-adviser-register"
   - "澳洲金融咨询协会（FAAA）2025 年行业概况，https://www.faaa.com.au/about/industry-reports"
-ogImage: "https://accreditation.cn/images/mfaa-accredited-list-2026.jpg"
 draft: false
 ---
 

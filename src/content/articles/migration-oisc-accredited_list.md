@@ -24,7 +24,6 @@ dataSources:
   - "OISC 官方注册系统 (OISC Register of Regulated Immigration Advisers) – https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
   - "英国政府移民规则指南 (Immigration Rules Appendix) – https://www.gov.uk/guidance/immigration-rules"
   - "OISC 2025-2026 年度报告 (OISC Annual Report 2025-2026) – https://www.gov.uk/government/publications/oisc-annual-report-2025-2026"
-ogImage: "https://accreditation.cn/images/oisc-accredited-list-2026.jpg"
 draft: false
 ---
 

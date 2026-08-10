@@ -16,7 +16,6 @@ dataSources:
   - "AACSB 2026年度年报: https://www.aacsb.edu/about-us/advocacy/membership"
   - "ABET 2025年度报告: https://www.abet.org/about-abet/annual-reports/"
   - "美国国家教育统计中心（NCES）2025年数据: https://nces.ed.gov/programs/digest/"
-ogImage: "https://accreditation.cn/images/insights/specialized-vs-regional-accreditation-usa.jpg"
 draft: false
 ---
 

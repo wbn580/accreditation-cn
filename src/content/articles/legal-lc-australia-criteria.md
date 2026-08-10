@@ -24,7 +24,6 @@ dataSources:
   - "Legal Profession Uniform Law (NSW) 2014 (NSW)"
   - "Law Admissions Consultative Committee (LACC) 2025 Annual Report"
   - "Australian Bar Association (ABA) 2026 Standards for Barristers"
-ogImage: "https://accreditation.cn/images/au-legal-commission-og.png"
 draft: false
 ---
 

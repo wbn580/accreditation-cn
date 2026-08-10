@@ -16,7 +16,6 @@ dataSources:
   - "SRA 准入与培训规定：https://www.sra.org.uk/solicitors/standards-regulations/training-regulations"
   - "SRA 持续职业发展政策：https://www.sra.org.uk/solicitors/standards-regulations/continuing-competence"
   - "SRA 合规与执法数据：https://www.sra.org.uk/sra/research-publications/compliance-data-2026"
-ogImage: "https://accreditation.cn/og/sra-uk.png"
 draft: false
 ---
 

@@ -27,7 +27,6 @@ dataSources:
   - "EQUIS（EFMD）认证标准与流程：https://www.efmd.org/equis"
   - "ABET 2025年认证数据统计：https://www.abet.org"
 draft: false
-ogImage: "https://accreditation.cn/images/hkcaavq-comparison-og.png"
 ---
 # HKCAAVQ 香港学术及职业资历评审局：与其他同类认证的横向对比
 

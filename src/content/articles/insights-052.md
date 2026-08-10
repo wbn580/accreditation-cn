@@ -25,7 +25,6 @@ dataSources:
   - "U.S. Department of Education, 'Database of Accredited Postsecondary Institutions and Programs', updated May 2026, https://ope.ed.gov/dapip"
   - "European Quality Assurance Register for Higher Education (EQAR), 'Register of QA Agencies', 2026, https://www.eqar.eu"
   - "UNESCO, 'Global Convention on the Recognition of Qualifications concerning Higher Education', 2025 status report, https://www.unesco.org"
-ogImage: "https://accreditation.cn/og/insight-2026-05-22.jpg"
 draft: false
 ---
 

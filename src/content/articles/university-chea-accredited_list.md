@@ -25,7 +25,6 @@ dataSources:
   - "CHEA 认证机构数据库：https://www.chea.org/directories"
   - "美国教育部认证数据库：https://ope.ed.gov/accreditation/"
   - "Council for Higher Education Accreditation (CHEA) 2026 年度报告"
-ogImage: "https://accreditation.cn/og/chea-accredited-agencies-list-2026.jpg"
 draft: false
 ---
 

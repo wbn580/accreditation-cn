@@ -24,7 +24,6 @@ dataSources:
   - "Office for Students. (2026). Teaching Excellence and Student Outcomes Framework (TEF) 2026: Outcomes and Methodology. https://www.officeforstudents.org.uk/advice-and-guidance/teaching/tef/"
   - "UK Government. (2025). Teaching Excellence and Student Outcomes Framework: Information for students. https://www.gov.uk/government/publications/teaching-excellence-and-student-outcomes-framework"
   - "Quality Assurance Agency for Higher Education. (2025). The UK Quality Code for Higher Education. https://www.qaa.ac.uk/quality-code"
-ogImage: "https://accreditation.cn/images/og/tef-glossary-2026.png"
 draft: false
 ---
 # 英国教学卓越框架（TEF）

@@ -16,7 +16,6 @@ dataSources:
   - "ABET 技术认证委员会 (CAC) 标准 2026-2027 (https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-technology-programs-2026-2027/)"
   - "ABET 认证数据概览 (https://www.abet.org/accreditation/accreditation-data/)"
   - "ABET 2025 年度报告 (https://www.abet.org/about-abet/annual-reports/)"
-ogImage: "https://accreditation.cn/images/abet-standards-2026.png"
 draft: false
 ---
 

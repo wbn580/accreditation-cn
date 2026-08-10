@@ -29,7 +29,6 @@ dataSources:
   - "ASIC Regulatory Guide 255: 贷款经纪行为准则：https://asic.gov.au/regulatory-resources/financial-services/credit-licensing"
   - "澳大利亚金融投诉管理局（AFCA）2025年年度数据：https://www.afca.org.au/news/annual-reports"
   - "澳大利亚证券与投资委员会（ASIC）2025年执法报告：https://asic.gov.au/about-asic/annual-reports"
-ogImage: "https://accreditation.cn/images/insights/au-mfaa-fbaa-compliance-2026.jpg"
 draft: false
 ---
 

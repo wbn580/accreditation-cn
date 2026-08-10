@@ -16,7 +16,6 @@ dataSources:
   - "CHEA 2025 年度报告：https://www.chea.org/sites/default/files/2025-annual-report.pdf"
   - "高等教育认证委员会（CHEA）历史档案：https://www.chea.org/about/history"
   - "《高等教育法案》1965 年修订版文本：https://www.congress.gov/89/statute/STATUTE-79-Pg1219.pdf"
-ogImage: "https://www.chea.org/sites/default/files/chea-logo.png"
 draft: false
 ---
 

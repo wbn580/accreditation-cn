@@ -28,7 +28,6 @@ dataSources:
   - "澳大利亚教育部 (Department of Education, Australian Government) - Education Services for Overseas Students Act 2000 (ESOS Act): https://www.education.gov.au/esos"
   - "澳大利亚贸易投资委员会 (Austrade) - 国际教育代理网络: https://www.austrade.gov.au"
   - "澳大利亚技能质量管理局 (ASQA) - 注册培训机构标准: https://www.asqa.gov.au"
-ogImage: "https://example.com/images/qeac-australia-accreditation.jpg"
 draft: false
 ---
 

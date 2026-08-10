@@ -31,7 +31,6 @@ dataSources:
   - "Immigration Advisers Authority, 'Annual Report 2025/2026', https://www.iaa.govt.nz/about/publications/"
   - "New Zealand Legislation, 'Immigration Advisers Licensing Act 2007', https://www.legislation.govt.nz/act/public/2007/0069/latest/DLM1151201.html"
   - "Ministry of Business, Innovation and Employment (MBIE), 'Review of the Immigration Advisers Licensing Act 2007', 2022, https://www.mbie.govt.nz/immigration-and-tourism/immigration/immigration-advisers/"
-ogImage: "https://accreditation.cn/images/nz-lcm-history-og.jpg"
 draft: false
 ---
 

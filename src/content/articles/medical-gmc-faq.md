@@ -26,7 +26,6 @@ dataSources:
   - "GMC 官方网站：https://www.gmc-uk.org"
   - "GMC 2025年度报告：https://www.gmc-uk.org/about/how-we-work/corporate-governance-and-reports/annual-reports"
   - "GMC 海外医师注册指南：https://www.gmc-uk.org/registration-and-licensing/join-the-register"
-ogImage: "https://www.gmc-uk.org/-/media/images/gmc-social-share-logo.png"
 draft: false
 ---
 

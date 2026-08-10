@@ -27,7 +27,6 @@ dataSources:
   - "《移民与庇护法 2002》 (legislation.gov.uk)"
   - "《法律服务法 2007》 (legislation.gov.uk)"
   - "OISC 官方网站历史页面 (gov.uk/government/organisations/office-of-the-immigration-services-commissioner)"
-ogImage: "https://accreditation.cn/images/og/oisc-history-uk-2026.jpg"
 draft: false
 ---
 

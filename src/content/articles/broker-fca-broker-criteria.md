@@ -26,7 +26,6 @@ dataSources:
   - "FCA Handbook (2026 Edition) - https://www.handbook.fca.org.uk/"
   - "FCA Authorisation Manual (APER) - https://www.fca.org.uk/firms/authorisation"
   - "FCA Perimeter Guidance Manual (PERG) - https://www.fca.org.uk/firms/perimeter-guidance"
-ogImage: "https://accreditation.cn/assets/fca-certification-criteria-2026.png"
 draft: false
 ---
 

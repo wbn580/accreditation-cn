@@ -24,7 +24,6 @@ dataSources:
   - "ABA 2025 年度法律职业报告：https://www.americanbar.org/groups/professional_responsibility/publications/model_code_of_professional_conduct/"
   - "新加坡法律职业准入委员会 2026 年手册：https://www.mlaw.gov.sg/content/legal-profession/en.html"
   - "欧盟律师指令 98/5/EC 执行情况报告（2025 版）：https://ec.europa.eu/info/law/law-topic/lawyers_en"
-ogImage: "https://accreditation.cn/images/insights/lawyer-reciprocity-2026.jpg"
 draft: false
 ---
 

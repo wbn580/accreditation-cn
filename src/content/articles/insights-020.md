@@ -26,7 +26,6 @@ dataSources:
   - "AACSB 2026年度年报：https://www.aacsb.edu/annual-report"
   - "AACSB认证标准（2020版）及撤销政策：https://www.aacsb.edu/accreditation/standards"
   - "CHEA认证撤销数据库：https://www.chea.org/accreditation-database"
-ogImage: "https://accreditation.cn/images/insights/aacsb-revocation-analysis-2026.jpg"
 draft: false
 ---
 

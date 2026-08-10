@@ -24,7 +24,6 @@ dataSources:
   - "澳大利亚教育部 (Department of Education, Australian Government). CRICOS Register. https://www.education.gov.au/cricos"
   - "澳大利亚技能与质量管理局 (ASQA). Registered Training Organisations. https://www.asqa.gov.au"
   - "澳大利亚教育部. Education Services for Overseas Students Act 2000 (ESOS Act). https://www.legislation.gov.au/Series/C2004A00782"
-ogImage: "https://accreditation.cn/og/cricos-glossary.png"
 draft: false
 ---
 

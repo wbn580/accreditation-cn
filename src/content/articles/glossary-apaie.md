@@ -24,7 +24,6 @@ dataSources:
   - "APAIE官方网站: https://www.apaie.org"
   - "APAIE 2026年度会议报告: https://www.apaie.org/2026-conference"
   - "OECD Education at a Glance 2025: https://www.oecd.org/education/education-at-a-glance/"
-ogImage: "https://accreditation.cn/images/glossary/apaie-og.jpg"
 draft: false
 ---
 

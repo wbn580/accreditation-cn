@@ -24,7 +24,6 @@ dataSources:
   - "澳大利亚移民代理注册管理局（MARA）官方《注册移民代理指南》（2026年版）"
   - "澳大利亚移民代理注册管理局（MARA）2025-2026年度报告"
   - "澳大利亚法律职业准入委员会（LPAB）移民代理课程认证清单（2026年3月更新）"
-ogImage: "https://accreditation.cn/images/marn-application-guide-og.jpg"
 draft: false
 ---
 

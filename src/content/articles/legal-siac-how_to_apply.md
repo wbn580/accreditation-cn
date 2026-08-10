@@ -30,7 +30,6 @@ dataSources:
   - "SIAC 仲裁规则（2023年第六版）：https://siac.org.sg/siac-rules-2023"
   - "新加坡法律学会（Singapore Academy of Law）仲裁实务指南：https://www.sal.org.sg/Resources-Tools/Legal-Research/Arbitration-Guide"
   - "新加坡国际仲裁中心官网：https://siac.org.sg"
-ogImage: "https://via.placeholder.com/1200x630.png?text=SIAC+Arbitration+Guide"
 draft: false
 ---
 # SIAC 新加坡国际仲裁中心：申请流程完整指南

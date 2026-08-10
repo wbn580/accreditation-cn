@@ -26,7 +26,6 @@ dataSources:
   - "HKIAC 2025年度报告 (https://www.hkiac.org)"
   - "Queen Mary University of London & White & Case 2025 International Arbitration Survey (https://www.arbitration.qmul.ac.uk)"
   - "联合国国际贸易法委员会（UNCITRAL）官方网站 (https://uncitral.un.org)"
-ogImage: "https://www.hkiac.org/sites/default/files/2026-05/hkiac-history-og.jpg"
 draft: false
 ---
 

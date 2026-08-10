@@ -14,7 +14,6 @@ dataSources:
   - "CHEA International Quality Group (CIQG) 2025 Annual Report"
   - "ENQA 2025 Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)"
   - "AACSB 2026 Accreditation Standards: Guiding Principles and Standards for Business Accreditation"
-ogImage: "https://accreditation.cn/og/insight-transparency-accountability-2026.jpg"
 draft: false
 ---
 

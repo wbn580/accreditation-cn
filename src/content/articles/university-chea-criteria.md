@@ -24,7 +24,6 @@ dataSources:
   - "CHEA. (2026). Recognition Standards and Procedures. Council for Higher Education Accreditation. https://www.chea.org/recognition-standards"
   - "CHEA. (2025). Annual Report on Accreditation. Washington, DC: CHEA. https://www.chea.org/annual-report"
   - "U.S. Department of Education. (2026). Database of Accredited Postsecondary Institutions and Programs. https://ope.ed.gov/dapip/"
-ogImage: "https://via.placeholder.com/1200x630.png?text=CHEA+Recognition+Standards+2026"
 draft: false
 ---
 

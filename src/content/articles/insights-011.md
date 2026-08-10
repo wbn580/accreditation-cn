@@ -24,7 +24,6 @@ dataSources:
   - "OISC 2025-2026年度报告：https://www.gov.uk/government/publications/oisc-annual-report-2025-2026"
   - "OISC Register of Regulated Advisers（截至2026年4月）：https://www.gov.uk/government/publications/oisc-register-of-regulated-advisers"
   - "Home Office Immigration Statistics 2025 Q4：https://www.gov.uk/government/statistics/immigration-statistics-year-ending-december-2025"
-ogImage: "https://accreditation.cn/images/insights/oisc-three-tier-impact-2026.jpg"
 draft: false
 ---
 

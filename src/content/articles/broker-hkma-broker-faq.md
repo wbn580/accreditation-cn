@@ -27,7 +27,6 @@ dataSources:
   - "香港金融管理局持牌机构名单（截至2026年5月）"
   - "香港金融管理局《监管政策手册》"
   - "金融纠纷调解中心（FDRC）年度报告2025"
-ogImage: "https://accreditation.cn/images/hkma-licensed-institutions-faq-2026.jpg"
 draft: false
 ---
 

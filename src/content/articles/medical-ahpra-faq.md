@@ -29,7 +29,6 @@ dataSources:
   - "National Boards. Code of Conduct. 2026. https://www.ahpra.gov.au/Code-of-Conduct.aspx"
   - "Australian Health Practitioner Regulation Agency. International Qualifications. 2026. https://www.ahpra.gov.au/Registration/International-Qualifications.aspx"
   - "Department of Health and Aged Care. National Registration and Accreditation Scheme. 2026. https://www.health.gov.au/topics/national-registration-and-accreditation-scheme"
-ogImage: "https://example.com/images/ahpra-overview-2026.jpg"
 draft: false
 ---
 

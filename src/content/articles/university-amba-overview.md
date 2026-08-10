@@ -25,7 +25,6 @@ dataSources:
   - "AMBA官方数据库：https://www.associationofmbas.com/business-schools/accreditation/"
   - "BGA（商学院毕业生协会）年度报告：https://www.businessgraduatesassociation.com/"
   - "QS世界大学排名-商学院认证数据：https://www.topuniversities.com/university-rankings/mba-rankings"
-ogImage: "https://accreditation.cn/images/amba-overview-2026.jpg"
 draft: false
 ---
 

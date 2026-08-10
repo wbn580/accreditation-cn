@@ -30,7 +30,6 @@ dataSources:
   - "AMBA 2025 年度认证标准手册 (https://www.associationofmbas.com)"
   - "EQUIS 2026 年度认证机构列表 (https://www.efmdglobal.org)"
   - "英国高等教育质量保证署 (QAA) 2025 年质量准则 (https://www.qaa.ac.uk)"
-ogImage: "https://accreditation.cn/images/bac-comparison-og-2026.jpg"
 draft: false
 ---
 

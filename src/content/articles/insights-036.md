@@ -14,7 +14,6 @@ dataSources:
   - "International Engineering Alliance (IEA) - Washington Accord: https://www.ieagreements.org/accords/washington/"
   - "中国工程教育专业认证协会 (CEEAA) - 华盛顿协议：https://www.ceeaa.org.cn/"
   - "ABET - Washington Accord History: https://www.abet.org/about-abet/history/"
-ogImage: "https://accreditation.cn/images/insights/washington-accord-og.jpg"
 draft: false
 ---
 

@@ -14,7 +14,6 @@ dataSources:
   - "AIRC 官方认证标准文档 (2026 年版): https://www.airc-education.org/accreditation-standards"
   - "AIRC 2025 年度报告: https://www.airc-education.org/annual-report-2025"
   - "CHEA 认证机构名录: https://www.chea.org/directories"
-ogImage: "https://accreditation.cn/images/airc-standards-2026.jpg"
 draft: false
 ---
 

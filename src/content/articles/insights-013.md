@@ -24,7 +24,6 @@ dataSources:
   - "NMLS官方数据门户: https://www.nmlsconsumeraccess.org/"
   - "美国州银行监管者会议(CSBS) 2025年度报告: https://www.csbs.org/"
   - "美国消费者金融保护局(CFPB) 2026年监管指南: https://www.consumerfinance.gov/"
-ogImage: "https://accreditation.cn/images/insights/nmls-cross-state-broker-2026.jpg"
 draft: false
 ---
 

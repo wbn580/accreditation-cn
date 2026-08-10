@@ -23,7 +23,6 @@ keywords:
 dataSources:
   - title: FCA 金融行为监管局官方网站
     url: https://www.fca.org.uk/
-ogImage: "https://www.fca.org.uk/static/images/og-default.png"
 draft: false
 ---
 

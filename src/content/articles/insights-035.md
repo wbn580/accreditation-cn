@@ -16,7 +16,6 @@ dataSources:
   - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education. https://unesdoc.unesco.org/ark:/48223/pf0000389748"
   - "CEDEFOP. (2026). European Inventory on NQFs 2025. https://www.cedefop.europa.eu/en/tools/nqfs"
   - "ENIC-NARIC Network. (2026). Recognition of Qualifications: Annual Report. https://www.enic-naric.net/reports"
-ogImage: "https://accreditation.cn/images/europass-global-standards-2026.jpg"
 draft: false
 ---
 

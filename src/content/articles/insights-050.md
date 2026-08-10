@@ -29,7 +29,6 @@ dataSources:
   - "AACSB International (2026). *2026 Annual Report: Data and Transparency in Business Accreditation*. https://www.aacsb.edu/annual-reports/2026"
   - "ABET (2025). *Accreditation Data and Public Disclosure Policy*. Accreditation Board for Engineering and Technology. https://www.abet.org/accreditation-data/"
   - "UNESCO (2025). *Global Convention on the Recognition of Qualifications: Data Transparency Requirements*. https://www.unesco.org/en/education/global-convention"
-ogImage: "https://accreditation.cn/images/insights/transparency-comparison-2026.png"
 draft: false
 ---
 

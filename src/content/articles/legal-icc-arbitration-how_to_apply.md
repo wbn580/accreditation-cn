@@ -14,7 +14,6 @@ dataSources:
   - "ICC 2025 年仲裁规则 (https://iccwbo.org/dispute-resolution-services/arbitration/rules-of-arbitration/)"
   - "ICC 2026 年年度报告 (https://iccwbo.org/news-publications/arbitration-reports/)"
   - "ICC 仲裁费用与收费表 (https://iccwbo.org/dispute-resolution-services/arbitration/costs-and-payment/)"
-ogImage: "https://accreditation.cn/images/icc-arbitration-guide-2026.jpg"
 draft: false
 ---
 

@@ -26,7 +26,6 @@ dataSources:
   - "AIRC 官方网站：https://www.airc-education.org"
   - "AIRC 2026 年度年报（公开摘要）"
   - "美国教育部（US Department of Education）认可机构列表：https://www2.ed.gov/admins/finaid/accred/index.html"
-ogImage: "https://accreditation.cn/images/airc-overview-2026.jpg"
 draft: false
 ---
 

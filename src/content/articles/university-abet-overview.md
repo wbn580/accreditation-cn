@@ -24,7 +24,6 @@ dataSources:
   - "ABET 2026 Annual Report: https://www.abet.org/about-abet/annual-reports/"
   - "ABET Accreditation Statistics 2025: https://www.abet.org/accreditation/accreditation-statistics/"
   - "ABET Criteria for Accrediting Engineering Programs, 2026-2027: https://www.abet.org/accreditation/accreditation-criteria/"
-ogImage: "https://accreditation.cn/images/abet-overview-2026.jpg"
 draft: false
 ---
 

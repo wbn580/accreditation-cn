@@ -29,7 +29,6 @@ dataSources:
   - "EFMD. (2025). EFMD Global Accreditation Report 2025. https://www.efmd.org/accreditation/reports"
   - "ABET. (2026). ABET Accreditation Statistics 2026. https://www.abet.org/accreditation-statistics"
   - "UNESCO International Institute for Educational Planning. (2025). Accreditation and Quality Assurance in Developing Countries. https://www.iiep.unesco.org"
-ogImage: "https://accreditation.cn/images/insights/accreditation-fees-barrier-og.jpg"
 draft: false
 ---
 

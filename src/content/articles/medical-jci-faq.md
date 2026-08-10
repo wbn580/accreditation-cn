@@ -25,7 +25,6 @@ dataSources:
   - "Joint Commission International. (2026). JCI Accreditation Standards for Hospitals, 8th Edition. https://www.jointcommissioninternational.org/standards/hospital-standards/"
   - "Joint Commission International. (2025). JCI Accredited Organizations Directory. https://www.jointcommissioninternational.org/accredited-organizations/"
   - "World Health Organization. (2024). Patient Safety and Quality of Care: The Role of Accreditation. https://www.who.int/publications/i/item/patient-safety-accreditation"
-ogImage: "https://accreditation.cn/images/jci-faq-og.jpg"
 draft: false
 ---
 

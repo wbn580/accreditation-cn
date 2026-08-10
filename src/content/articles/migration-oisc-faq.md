@@ -29,7 +29,6 @@ dataSources:
   - "OISC 官方网站：https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
   - "UK Government Immigration Rules: https://www.gov.uk/guidance/immigration-rules"
   - "OISC Code of Standards: https://www.gov.uk/government/publications/oisc-code-of-standards"
-ogImage: "https://accreditation.cn/images/oisc-faq-og.jpg"
 draft: false
 ---
 

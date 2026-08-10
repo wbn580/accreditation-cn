@@ -21,7 +21,6 @@ keywords:
   - "移民顾问资格"
 dataSources:
   - "https://www.college-ic.ca/public-register"
-ogImage: "https://accreditation.cn/images/cicc-accredited-list-2026.jpg"
 draft: false
 ---
 

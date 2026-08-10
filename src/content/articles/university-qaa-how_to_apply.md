@@ -29,7 +29,6 @@ dataSources:
   - "QAA 认证流程指南（2026 版）：https://www.qaa.ac.uk/membership/membership-application-process"
   - "英国高等教育统计署（HESA）2024/25 年度报告：https://www.hesa.ac.uk/data-and-analysis/publications/he-student-data-2024-25"
   - "英国政府教育部门（Department for Education）高等教育监管框架：https://www.gov.uk/government/publications/higher-education-regulation-framework"
-ogImage: "https://accreditation.cn/images/qaa-application-guide-2026.jpg"
 draft: false
 ---
 # QAA 英国质量保证局：申请流程完整指南

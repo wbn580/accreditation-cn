@@ -27,7 +27,6 @@ dataSources:
   - "Joint Commission International. (2026). Accreditation Process Guide for Hospitals. Retrieved from https://www.jointcommissioninternational.org/accreditation-process-guide/"
   - "Joint Commission International. (2025). JCI Accreditation Statistics 2025 Annual Report. Retrieved from https://www.jointcommissioninternational.org/annual-report/"
   - "World Health Organization. (2024). Patient Safety Incident Reporting and Learning Systems. Geneva: WHO."
-ogImage: "https://accreditation.cn/images/jci-hospital-accreditation-guide-og.jpg"
 draft: false
 ---
 

@@ -29,7 +29,6 @@ dataSources:
   - "HKIAC 2025年度案件统计报告，https://www.hkiac.org/zh-hans/about-us/annual-reports"
   - "SIAC 2025年度年报，https://www.siac.org.sg/2014-11-03-13-33-43/annual-reports"
   - "ICC国际仲裁院2025年统计数据，https://iccwbo.org/dispute-resolution-services/icc-international-court-of-arbitration/"
-ogImage: "https://accreditation.cn/images/legal/hkiac-comparison-og.png"
 draft: false
 ---
 

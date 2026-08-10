@@ -26,7 +26,6 @@ dataSources:
   - "FCA Handbook. (2026). FCA Handbook. https://www.handbook.fca.org.uk/"
   - "FCA. (2025). Perimeter Guidance Manual (PERG). https://www.fca.org.uk/publication/perg/perg.pdf"
   - "FCA. (2026). Annual Report and Accounts 2025/26. https://www.fca.org.uk/publication/corporate/annual-report-2025-26.pdf"
-ogImage: "https://accreditation.cn/og/fca-uk-broker-license-guide.jpg"
 draft: false
 ---
 # FCA 英国金融行为监管局持牌经纪：申请流程完整指南

@@ -27,7 +27,6 @@ dataSources:
   - "EFMD. (2026). EQUIS Standards and Criteria. https://www.efmdglobal.org/accreditations/business-schools/equis/equis-standards/"
   - "EFMD. (2025). EQUIS Peer Review Manual. https://www.efmdglobal.org/accreditations/business-schools/equis/equis-peer-review/"
   - "EFMD. (2026). EQUIS Accredited Schools List. https://www.efmdglobal.org/accreditations/business-schools/equis/equis-accredited-schools/"
-ogImage: "https://accreditation.cn/images/equis-standards-overview-2026.jpg"
 draft: false
 ---
 

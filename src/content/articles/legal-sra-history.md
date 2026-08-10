@@ -26,7 +26,6 @@ dataSources:
   - "SRA 官方网站：https://www.sra.org.uk"
   - "Legal Services Act 2007：https://www.legislation.gov.uk/ukpga/2007/29"
   - "SRA 2025 年度报告：https://www.sra.org.uk/sra/how-we-work/reports/"
-ogImage: "https://accreditation.cn/images/sra-history-og.jpg"
 draft: false
 ---
 

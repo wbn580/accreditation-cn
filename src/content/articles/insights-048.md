@@ -14,7 +14,6 @@ dataSources:
   - "AACSB. (2025). 2025 Eligibility Procedures and Accreditation Standards for Business Accreditation. https://www.aacsb.edu/accreditation/standards/business"
   - "EFMD. (2025). EQUIS Standards & Criteria 2025. https://www.efmd.org/accreditation/equis/standards"
   - "ABET. (2025). ABET Accreditation Policy and Procedure Manual 2025-2026. https://www.abet.org/accreditation-policies/"
-ogImage: "https://accreditation.cn/assets/og-accreditation-process.jpg"
 draft: false
 ---
 

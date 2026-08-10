@@ -22,7 +22,6 @@ keywords:
   - "新西兰移民服务"
 dataSources:
   - "https://www.iaa.govt.nz"
-ogImage: "https://accreditation.cn/images/nz-lcm-overview-2026.jpg"
 draft: false
 ---
 

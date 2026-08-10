@@ -14,7 +14,6 @@ dataSources:
   - "TEQSA 2025-2026年度报告：https://www.teqsa.gov.au/annual-report-2025-26"
   - "ESOS Act 2000 文本：https://www.legislation.gov.au/Series/C2004A00781"
   - "澳大利亚教育部国际学生数据：https://www.education.gov.au/international-education-data"
-ogImage: "https://accreditation.cn/og-images/teqsa-private-provider-regulation.jpg"
 draft: false
 ---
 

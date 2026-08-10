@@ -16,7 +16,6 @@ dataSources:
   - "CHEA 2025-2026 Annual Report: https://www.chea.org/annual-reports"
   - "Council for Higher Education Accreditation (CHEA) Recognition Policy: https://www.chea.org/recognition-policy"
   - "International Network for Quality Assurance Agencies in Higher Education (INQAAHE): https://www.inqaahe.org"
-ogImage: "https://accreditation.cn/images/chea-overview-2026.jpg"
 draft: false
 ---
 

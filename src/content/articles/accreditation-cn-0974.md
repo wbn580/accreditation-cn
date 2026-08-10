@@ -9,14 +9,12 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://accreditation.cn/images/gmc-standards-2026.jpg
 tags:
 - 澳洲不同学历阶段（本科/硕士/博士）申请差异
 ---
 
 在决定赴澳留学之前，理解不同学历层次的申请逻辑、学制结构与核心要求，比直接比较大学排名更有价值。本科、硕士和博士在录取侧重点、材料准备和签证路径上存在本质差异，本文从学制、入学要求、文书类型和职业衔接四个维度展开。
 
-![2027年澳大利亚本科、硕士与博士申请差异指南](https://accreditation.cn/images/gmc-standards-2026.jpg)
 
 ## 学制长度与学位结构
 

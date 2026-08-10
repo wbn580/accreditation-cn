@@ -29,7 +29,6 @@ dataSources:
   - "National Association for the Education of Young Children. (2026). NAEYC Accreditation of Early Learning Programs: 2026 Data Summary. https://www.naeyc.org/accreditation"
   - "Montessori Accreditation Council for Teacher Education. (2026). MACTE Accreditation Standards and Annual Report 2026. https://www.macte.org/"
   - "OECD. (2025). Starting Strong VI: Supporting Meaningful Interactions in Early Childhood Education and Care. https://www.oecd.org/education/starting-strong-vi-9789264301531-en.htm"
-ogImage: "https://accreditation.cn/images/insights/international-early-childhood-accreditation-2026.jpg"
 draft: false
 ---
 

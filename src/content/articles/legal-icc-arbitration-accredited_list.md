@@ -25,7 +25,6 @@ dataSources:
   - "ICC 2025 Annual Report on Dispute Resolution Statistics. https://iccwbo.org/news-publications/arbitration-reports/2025-annual-report/"
   - "United Nations Commission on International Trade Law (UNCITRAL) - Notes on Organizing Arbitral Proceedings (2025 Update). https://uncitral.un.org/en/texts/arbitration"
   - "World Trade Organization (WTO) - Dispute Settlement: The Dispute Settlement Understanding (DSU) - Annex 2 (2024). https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm"
-ogImage: "https://accreditation.cn/images/icc-accredited-institutions-global-2026.jpg"
 draft: false
 ---
 

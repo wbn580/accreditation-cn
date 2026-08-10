@@ -27,7 +27,6 @@ dataSources:
   - "ABET 2025-2026 认证政策与程序手册 (https://www.abet.org/accreditation/accreditation-criteria)"
   - "CHEA 2025 年度认证机构名录 (https://www.chea.org/directories)"
   - "教育部学位与研究生教育发展中心 2025 境外认证机构清单 (http://www.cdgdc.edu.cn)"
-ogImage: "https://accreditation.cn/images/insights/soft-hard-indicators-2026.jpg"
 draft: false
 ---
 # 认证标准软指标与硬指标博弈

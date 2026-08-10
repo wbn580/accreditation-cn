@@ -23,7 +23,6 @@ dataSources:
   - "ICEF Agent Certification - Certification Standards (2026 Edition). ICEF GmbH, 2026."
   - "ICEF Agent Training Program - Code of Ethics & Professional Conduct. ICEF GmbH, 2025."
   - "ICEF Monitoring Report 2025: Compliance and Quality Assurance in International Education Agency Networks. ICEF GmbH, 2025."
-ogImage: "https://accreditation.cn/images/articles/icef-certification-standards-2026.jpg"
 draft: false
 ---
 # ICEF 国际教育中介认证：认证标准逐条详解

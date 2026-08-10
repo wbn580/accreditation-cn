@@ -25,7 +25,6 @@ dataSources:
   - "MFAA 2026年度年报：https://www.mfaa.com.au/annual-reports"
   - "ASIC Regulatory Guide 175: Licencing: Financial product advice and dealing：https://asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-175/"
   - "National Consumer Credit Protection Act 2009 (Cth)：https://www.legislation.gov.au/C2009A00056"
-ogImage: "https://accreditation.cn/images/mfaa-faq-og.png"
 draft: false
 ---
 

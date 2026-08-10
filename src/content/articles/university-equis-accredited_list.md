@@ -26,7 +26,6 @@ dataSources:
   - "EFMD. (2026). EQUIS Accredited Schools. Retrieved May 22, 2026, from https://www.efmd.org/accreditation/equis/accredited-schools"
   - "EFMD. (2025). EQUIS Annual Report 2025. Brussels: EFMD."
   - "EQUIS. (2024). Standards and Criteria for Accreditation. Brussels: EFMD."
-ogImage: "https://accreditation.cn/og/equis-accredited-institutions-2026.jpg"
 draft: false
 ---
 

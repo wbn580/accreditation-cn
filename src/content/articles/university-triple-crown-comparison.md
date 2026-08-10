@@ -34,7 +34,6 @@ dataSources:
   - "EQUIS 2026 认证标准与流程：https://www.efmdglobal.org/accreditations/equis/equis-standards-and-criteria-2026.pdf"
   - "ACBSP 2025 认证标准：https://www.acbsp.org/page/accreditation-standards-2025"
   - "IACBE 2026 成员资格要求：https://www.iacbe.org/membership-requirements-2026.pdf"
-ogImage: "https://accreditation.cn/images/comparison-triple-crown-2026.jpg"
 draft: false
 ---
 # 三皇冠认证（Triple Crown）：与其他同类认证的横向对比

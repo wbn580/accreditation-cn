@@ -29,7 +29,6 @@ dataSources:
   - "AACSB International 2026年度年报: https://www.aacsb.edu"
   - "EFMD Global 2025年度EQUIS认证报告: https://www.efmdglobal.org"
   - "ABET 2026年度认证数据: https://www.abet.org"
-ogImage: "https://accreditation.cn/images/insights/JSJ-overseas-accreditation-2026.jpg"
 draft: false
 ---
 # 中国教育部涉外监管信息网与海外认证体系的衔接

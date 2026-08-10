@@ -31,7 +31,6 @@ dataSources:
   - "EQUIS 2025 标准与流程. 欧洲管理发展基金会. https://www.efmd.org/"
   - "AMBA 2026 认证手册. 工商管理硕士协会. https://www.amba-bga.com/"
   - "TEQSA 2025 年度注册与认证数据. 澳大利亚高等教育质量与标准署. https://www.teqsa.gov.au/"
-ogImage: "https://accreditation.cn/og-images/qaa-comparison-2026.jpg"
 draft: false
 ---
 

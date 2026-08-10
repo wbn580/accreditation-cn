@@ -27,7 +27,6 @@ dataSources:
   - 世界医学教育联合会 (WFME) 认可机构列表: https://wfme.org/accreditation/accrediting-agencies/
   - 英国医学总会 2025 年度工作报告: https://www.gmc-uk.org/about/how-we-work/corporate-strategy-and-plans/annual-report
   - 英国政府教育与技能资助局 (ESFA) 高等教育注册数据: https://www.gov.uk/government/collections/register-of-licensed-sponsors-students
-ogImage: https://www.gmc-uk.org/-/media/images/gmc-logo.png
 draft: false
 ---
 

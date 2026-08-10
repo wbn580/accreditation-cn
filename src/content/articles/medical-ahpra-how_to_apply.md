@@ -24,7 +24,6 @@ dataSources:
   - "AHPRA 官方网站 – 注册申请指南 (https://www.ahpra.gov.au/Registration.aspx)"
   - "AHPRA 2025-2026 年度报告 (https://www.ahpra.gov.au/Publications/Annual-reports.aspx)"
   - "澳大利亚移民局 – 职业清单与技能评估 (https://immi.homeaffairs.gov.au/visas/working-in-australia/skills-assessment)"
-ogImage: "https://accreditation.cn/images/ahpra-guide-2026-og.png"
 draft: false
 ---
 

@@ -24,7 +24,6 @@ dataSources:
   - "FBAA 官方认证查询页面：https://www.fbaa.com.au/find-a-member"
   - "FBAA 2025 年度会员报告：https://www.fbaa.com.au/about/annual-reports"
   - "ASIC 金融牌照查询系统：https://connectonline.asic.gov.au"
-ogImage: "https://accreditation.cn/images/fbaa-accredited-list-og.jpg"
 draft: false
 ---
 

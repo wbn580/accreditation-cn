@@ -25,7 +25,6 @@ dataSources:
   - "澳大利亚教育部 (Department of Education, Australian Government): https://www.education.gov.au/"
   - "澳大利亚贸易投资委员会 (Austrade): https://www.austrade.gov.au/"
   - "澳大利亚教育与培训监管机构 (ASQA): https://www.asqa.gov.au/"
-ogImage: "https://accreditation.cn/images/og-qeac-australia-faq.jpg"
 draft: false
 ---
 

@@ -25,7 +25,6 @@ dataSources:
   - "香港政府律政司仲裁相关页面：https://www.doj.gov.hk"
   - "联合国国际贸易法委员会（UNCITRAL）仲裁规则：https://uncitral.un.org"
   - "香港法例第609章《仲裁条例》：https://www.elegislation.gov.hk"
-ogImage: "https://accreditation.cn/og/hkiac-overview-2026.jpg"
 draft: false
 ---
 

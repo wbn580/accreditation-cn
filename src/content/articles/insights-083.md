@@ -25,7 +25,6 @@ dataSources:
   - "美国教育部（U.S. Department of Education）关于认证与州许可的说明：https://www.ed.gov/accreditation"
   - "欧洲高等教育质量保证协会（ENQA）《欧洲高等教育区质量保证标准与准则》（ESG 2015）：https://www.enqa.eu/esg-standards-and-guidelines/"
   - "中国教育部《中华人民共和国高等教育法》及《中外合作办学条例》：http://www.moe.gov.cn/"
-ogImage: "https://accreditation.cn/images/insights/accreditation-vs-registration-legal.jpg"
 draft: false
 ---
 

@@ -30,7 +30,6 @@ dataSources:
   - "Legal Profession Admission Board (LPAB) - Official Website: https://www.lpab.lawlink.nsw.gov.au"
   - "Council of Australian Law Deans (CALD) - Accreditation Standards: https://www.cald.asn.au"
   - "State of Victoria - Victorian Legal Admissions Board: https://www.vlab.vic.gov.au"
-ogImage: "https://accreditation.cn/images/au-legal-og.jpg"
 draft: false
 ---
 

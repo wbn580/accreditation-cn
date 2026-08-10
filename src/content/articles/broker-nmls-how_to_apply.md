@@ -26,7 +26,6 @@ dataSources:
   - "NMLS Resource Center, Uniform State Test Content Outline, 2026"
   - "NMLS, 2025 Annual Report: Licensing and Renewal Statistics"
   - "Conference of State Bank Supervisors (CSBS), SAFE Act MLO Licensing Model, 2026"
-ogImage: "https://accreditation.cn/images/nmls-guide-og-2026.png"
 draft: false
 ---
 

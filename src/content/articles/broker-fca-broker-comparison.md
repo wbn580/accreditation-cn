@@ -25,7 +25,6 @@ dataSources:
   - "FCA 2026年度监管报告：https://www.fca.org.uk/publication/annual-report/annual-report-2025-26.pdf"
   - "CySEC 2025年度统计公报：https://www.cysec.gov.cy/en/statistics/"
   - "ASIC 2026年市场更新：https://asic.gov.au/regulatory-resources/markets/"
-ogImage: "https://accreditation.cn/images/fca-cysec-asic-comparison-2026.jpg"
 draft: false
 ---
 

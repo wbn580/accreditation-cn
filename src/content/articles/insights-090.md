@@ -27,7 +27,6 @@ dataSources:
   - "中国教育部教育涉外监管信息网：http://jsj.moe.gov.cn/"
   - "CHEA国际认证名录：https://www.chea.org/"
   - "ENQA欧洲高等教育质量保证标准：https://www.enqa.eu/"
-ogImage: "https://accreditation.cn/images/insights/2026-05-22-credential-use.jpg"
 draft: false
 ---
 

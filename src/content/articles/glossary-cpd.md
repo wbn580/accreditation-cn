@@ -14,7 +14,6 @@ dataSources:
   - "International Association for Continuing Education and Training (IACET). (2025). ANSI/IACET Standard for Continuing Education and Training. https://www.iacet.org/standards/"
   - "Chartered Institute of Personnel and Development (CIPD). (2026). What is CPD? https://www.cipd.org/en/knowledge/factsheets/cpd-factsheet/"
   - "European Parliament & Council. (2005). Directive 2005/36/EC on the recognition of professional qualifications. Official Journal of the European Union. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32005L0036"
-ogImage: "https://accreditation.cn/images/glossary/cpd-og.jpg"
 draft: false
 ---
 

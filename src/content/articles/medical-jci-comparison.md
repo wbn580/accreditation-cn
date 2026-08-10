@@ -28,7 +28,6 @@ dataSources:
   - "JCI 2025年度认证标准与统计报告 (https://www.jointcommissioninternational.org)"
   - "ISO 9001:2015 医疗领域应用指南 (https://www.iso.org)"
   - "DNV GL Healthcare 2025年度认证数据 (https://www.dnv.com/healthcare)"
-ogImage: "https://accreditation.cn/og-images/jci-comparison-2026.jpg"
 draft: false
 ---
 

@@ -27,7 +27,6 @@ dataSources:
   - "SRA 官方年报 2025/26：https://www.sra.org.uk/sra/how-we-work/reports/annual-report-2025-26/"
   - "SRA 注册律师统计数据（截至2026年4月）：https://www.sra.org.uk/sra/how-we-work/reports/statistics/"
   - "Solicitors Qualifying Examination (SQE) 官方指南：https://www.sra.org.uk/solicitors/qualifying-examination-sqe/"
-ogImage: "https://www.accreditation.cn/images/sra-overview-2026.png"
 draft: false
 ---
 

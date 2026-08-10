@@ -25,7 +25,6 @@ dataSources:
   - "EAIE官方网站 - 关于我们: https://www.eaie.org/about.html"
   - "EAIE 2025年度报告: https://www.eaie.org/our-resources/annual-report.html"
   - "EAIE 2026年会议议程: https://www.eaie.org/conference.html"
-ogImage: "https://www.eaie.org/static/og-image.png"
 draft: false
 ---
 # EAIE欧洲国际教育协会

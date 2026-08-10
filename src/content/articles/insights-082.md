@@ -25,7 +25,6 @@ dataSources:
   - "International Federation of Accountants (IFAC). 2025 CPD Requirements for Professional Accountants. https://www.ifac.org"
   - "American Bar Association (ABA). 2026 Model Rule for Continuing Legal Education. https://www.americanbar.org"
   - "World Medical Association (WMA). 2025 CPD Guidelines for Physicians. https://www.wma.net"
-ogImage: "https://accreditation.cn/images/insights/cpd-global-2026.jpg"
 draft: false
 ---
 

@@ -12,7 +12,6 @@ tags: ["GMC", "英国医学总会", "医学认证", "医疗执照", "英国医�
 keywords: ["GMC认证", "英国医学总会", "医学资格认证", "英国医生注册", "医疗认证费用", "认证时效"]
 dataSources:
   - "https://www.gmc-uk.org/registration-and-licensing"
-ogImage: "https://accreditation.cn/images/gmc-overview-2026.png"
 draft: false
 ---
 

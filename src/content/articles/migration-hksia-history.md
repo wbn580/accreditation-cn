@@ -27,7 +27,6 @@ dataSources:
   - "香港移民服务行业协会（HKSIA）官网：https://www.hksia.hk"
   - "香港特别行政区政府入境事务处：https://www.immd.gov.hk"
   - "香港立法会 CB(2)1234/16-17 号文件：移民顾问监管立法背景"
-ogImage: "https://accreditation.cn/images/hksia-history-2026.jpg"
 draft: false
 ---
 

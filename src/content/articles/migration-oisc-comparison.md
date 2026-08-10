@@ -27,7 +27,6 @@ dataSources:
   - "OISC 官方网站：https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
   - "Solicitors Regulation Authority (SRA) 官方网站：https://www.sra.org.uk"
   - "Immigration Law Practitioners' Association (ILPA) 官方网站：https://www.ilpa.org.uk"
-ogImage: "https://accreditation.cn/images/og/oisc-comparison-2026.jpg"
 draft: false
 ---
 

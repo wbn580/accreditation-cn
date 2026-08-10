@@ -16,7 +16,6 @@ dataSources:
   - "World Economic Forum. (2025). The Future of Digital Credentials: A Blockchain-Based Approach. https://www.weforum.org/reports/"
   - "IEEE. (2024). IEEE Standard for Blockchain-Based Digital Credentials (IEEE 2711-2024). https://standards.ieee.org/"
   - "AACSB International. (2026). AACSB Accreditation and Digital Credentials: A Policy Review. https://www.aacsb.edu/"
-ogImage: "https://accreditation.cn/images/blockchain-credential-og.jpg"
 draft: false
 ---
 

@@ -15,7 +15,6 @@ dataSources:
   - "Office of the Migration Agents Registration Authority (OMARA) Code of Conduct: https://www.omara.gov.au"
   - "Australian Department of Home Affairs, Migration Regulations 1994: https://www.homeaffairs.gov.au"
   - "Migration Institute of Australia (MIA) Industry Standards: https://www.mia.org.au"
-ogImage: "https://accreditation.cn/og/marn-faq-au.jpg"
 draft: false
 ---
 

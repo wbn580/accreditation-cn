@@ -34,7 +34,6 @@ dataSources:
   - "美国国家工程院(NAE)工程教育报告"
   - "美国教育部(USDE)认证机构列表"
   - "中国教育部留学服务中心认证院校名单"
-ogImage: "https://accreditation.cn/images/faq-abet-engineering-technology-2026.png"
 draft: false
 ---
 

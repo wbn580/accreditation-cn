@@ -14,7 +14,6 @@ dataSources:
   - "HKIAC 官方网站: https://www.hkiac.org"
   - "香港法律改革委员会报告: https://www.hkreform.gov.hk"
   - "联合国国际贸易法委员会（UNCITRAL）仲裁规则: https://uncitral.un.org"
-ogImage: "https://accreditation.cn/images/hkiac-faq-og.png"
 draft: false
 ---
 

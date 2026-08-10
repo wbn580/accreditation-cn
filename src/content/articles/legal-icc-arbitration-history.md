@@ -31,7 +31,6 @@ dataSources:
   - "Berger, K. P. (2025). *Private Dispute Resolution in International Business: Handbook of ICC Arbitration* (4th ed.). The Hague: Kluwer Law International."
   - "United Nations Commission on International Trade Law (UNCITRAL). (2024). *Status: Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York, 1958)*. https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status"
   - "ICC International Court of Arbitration®. (2021). *ICC Arbitration Rules 2021*. Paris: ICC Services. https://iccwbo.org/dispute-resolution-services/arbitration/rules-of-arbitration/"
-ogImage: "https://accreditation.cn/og/icc-arbitration-history.jpg"
 draft: false
 ---
 

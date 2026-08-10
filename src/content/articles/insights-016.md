@@ -16,7 +16,6 @@ dataSources:
   - "World Health Organization. (2025). International migration of health workers: trends and policy responses. WHO. https://www.who.int/publications/i/item/9789240096385"
   - "OECD. (2026). Health at a Glance 2026: OECD indicators. OECD Publishing. https://doi.org/10.1787/health_glance-2026-en"
   - "NHS Digital. (2026). NHS workforce statistics: March 2026. https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics"
-ogImage: "https://accreditation.cn/og-images/gmc-doctor-mobility-2026.jpg"
 draft: false
 ---
 

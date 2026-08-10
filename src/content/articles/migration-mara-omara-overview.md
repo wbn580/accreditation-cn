@@ -29,7 +29,6 @@ dataSources:
   - "Australian Government - Department of Home Affairs - Migration Agent Information: https://www.homeaffairs.gov.au"
   - "Migration Institute of Australia (MIA) - Professional Standards: https://www.mia.org.au"
   - "Australian Skills Quality Authority (ASQA) - Migration Agent Training: https://www.asqa.gov.au"
-ogImage: "https://www.accreditation.cn/og/marn-australia-2026.jpg"
 draft: false
 ---
 

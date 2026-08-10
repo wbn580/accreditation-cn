@@ -27,7 +27,6 @@ dataSources:
     url: "http://www.nhc.gov.cn"
   - source: "世界卫生组织（WHO）医疗质量报告"
     url: "https://www.who.int"
-ogImage: "https://accreditation.cn/images/jci-china-expansion-2026.jpg"
 draft: false
 ---
 ## 导语：JCI认证在中国大陆的十年演进

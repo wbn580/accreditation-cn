@@ -26,7 +26,6 @@ dataSources:
   - "NIAD-QE 官方历史沿革 (https://www.niad.ac.jp/about/history/)"
   - "日本文部科学省《大学设置基准》修订记录 (https://www.mext.go.jp/a_menu/koutou/daigaku/1246652.htm)"
   - "NIAD-QE 2025 年度年报 (https://www.niad.ac.jp/publications/report/)"
-ogImage: "https://www.niad.ac.jp/ogimage.jpg"
 draft: false
 ---
 # NIAD-QE 日本大学评价与学位授予：历史演变与关键里程碑

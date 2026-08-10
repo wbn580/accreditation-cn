@@ -25,7 +25,6 @@ dataSources:
   - "AMBA 官方网站：https://www.associationofmbas.com/"
   - "AMBA 2026 年度认证报告：https://www.associationofmbas.com/accreditation"
   - "英国高等教育统计局（HESA）2024-2025 年度数据：https://www.hesa.ac.uk/"
-ogImage: "https://accreditation.cn/og-images/amba-uk-list-2026.png"
 draft: false
 ---
 

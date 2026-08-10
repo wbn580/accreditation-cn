@@ -27,7 +27,6 @@ dataSources:
   - "香港金融管理局官网：https://www.hkma.gov.hk"
   - "香港银行公会年报：https://www.hkab.org.hk"
   - "Basel Committee on Banking Supervision 报告：https://www.bis.org/bcbs"
-ogImage: "https://accreditation.cn/images/hkma-history-og.jpg"
 draft: false
 ---
 

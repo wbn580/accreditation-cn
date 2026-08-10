@@ -26,7 +26,6 @@ dataSources:
   - "CHEA 2025年度报告 (https://www.chea.org/sites/default/files/2025-annual-report.pdf)"
   - "欧洲高等教育区（EHEA）2025年布加勒斯特公报 (https://ehea.info/Upload/Bucharest_Communique_2025.pdf)"
   - "美国高等教育认证委员会（CHEA）学生评价最佳实践指南 (https://www.chea.org/student-evaluation-best-practices)"
-ogImage: "https://via.placeholder.com/1200x630.png?text=Student+Evaluation+Driving+Accreditation+Standards"
 draft: false
 ---
 

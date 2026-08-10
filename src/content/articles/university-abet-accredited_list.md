@@ -24,7 +24,6 @@ dataSources:
   - "ABET 官方认证数据库 (https://www.abet.org/accreditation/find-programs/)"
   - "ABET 2025 年度报告 (https://www.abet.org/about-abet/annual-reports/)"
   - "美国教育部高等教育认证数据库 (https://ope.ed.gov/dapip/#/home)"
-ogImage: "https://accreditation.cn/images/abet-accreditation-list-2026.jpg"
 draft: false
 ---
 

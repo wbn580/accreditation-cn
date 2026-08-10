@@ -24,7 +24,6 @@ dataSources:
   - "ICEF 官方网站：https://www.icef.com/accreditation/"
   - "ICEF 2025 年度认证报告：https://www.icef.com/accreditation/annual-report-2025/"
   - "ICEF 认证标准手册（2026 版）：https://www.icef.com/accreditation/standards-2026/"
-ogImage: "https://www.accreditation.cn/images/icef-faq-og.png"
 draft: false
 ---
 

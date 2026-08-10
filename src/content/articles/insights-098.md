@@ -28,7 +28,6 @@ dataSources:
   - "INQAAHE 2025良好实践指南: https://www.inqaahe.org/good-practice-guidelines-2025"
   - "AACSB 2026年度认证标准: https://www.aacsb.edu/accreditation/standards"
   - "UNESCO 2025全球高等教育质量保障趋势报告: https://unesdoc.unesco.org/2025-quality-assurance-trends"
-ogImage: "https://accreditation.cn/images/og/framework-construction-2026.jpg"
 draft: false
 ---
 

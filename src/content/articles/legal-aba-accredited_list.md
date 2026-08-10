@@ -14,7 +14,6 @@ dataSources:
   - "American Bar Association, Section of Legal Education and Admissions to the Bar, 'ABA-Approved Law Schools', 2026. https://www.americanbar.org/groups/legal_education/resources/aba_approved_law_schools/"
   - "American Bar Association, 'Standards and Rules of Procedure for Approval of Law Schools', 2025-2026 Edition. https://www.americanbar.org/groups/legal_education/resources/standards/"
   - "National Conference of Bar Examiners, 'Comprehensive Guide to Bar Admission Requirements', 2026. https://www.ncbex.org/publications/bar-admission-guide/"
-ogImage: "https://accreditation.cn/og/aba-accreditation-list-2026.png"
 draft: false
 ---
 

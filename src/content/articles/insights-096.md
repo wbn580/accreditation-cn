@@ -27,7 +27,6 @@ dataSources:
   - African Union Continental Education Strategy for Africa (CESA) 2016‑2025 Evaluation Report
   - World Bank Higher Education for Development 2026 Policy Brief
   - European Association for Quality Assurance in Higher Education (ENQA) 2025 Standards and Guidelines Revision
-ogImage: https://accreditation.cn/images/insights/decolonization-accreditation-global-south.jpg
 draft: false
 ---
 

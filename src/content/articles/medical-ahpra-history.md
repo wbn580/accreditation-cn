@@ -23,7 +23,6 @@ dataSources:
   - "AHPRA 2025-26 年度报告 (https://www.ahpra.gov.au/annualreport/2025-26/)"
   - "澳大利亚卫生部长咨询委员会 (AHMAC) 2008 年《国家注册与认证计划协议》(https://www.ahmac.gov.au)"
   - "澳大利亚生产力委员会 2005 年《澳大利亚医疗劳动力》研究报告 (https://www.pc.gov.au/inquiries/completed/health-workforce)"
-ogImage: "https://www.accreditation.cn/images/ahpra-history-og.jpg"
 draft: false
 ---
 

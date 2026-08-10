@@ -14,7 +14,6 @@ dataSources:
   - "CHEA International Quality Group (CIQG) 2026 Annual Report: https://www.chea.org/ciqg"
   - "UNESCO Global Convention on the Recognition of Qualifications concerning Higher Education 2025 Implementation Report: https://unesdoc.unesco.org/ark:/48223/pf0000392345"
   - "INQAAHE Guidelines for Cross-Border Quality Assurance (2025 Revision): https://www.inqaahe.org/guidelines"
-ogImage: "https://accreditation.cn/assets/og-insight-2026-05-22.jpg"
 draft: false
 ---
 

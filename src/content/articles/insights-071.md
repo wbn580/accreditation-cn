@@ -26,7 +26,6 @@ dataSources:
   - "ESOS Act 2000 官方文本 (https://www.legislation.gov.au/C2004A00932)"
   - "澳大利亚技能质量管理局 (ASQA) 2025年度报告 (https://www.asqa.gov.au/annual-report-2025)"
   - "Australian Qualifications Framework (AQF) 2025年修订版 (https://www.aqf.edu.au)"
-ogImage: "https://accreditation.cn/images/insights/cricos-teqsa-relationship.jpg"
 draft: false
 ---
 

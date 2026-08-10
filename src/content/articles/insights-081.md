@@ -26,7 +26,6 @@ dataSources:
   - "AACSB. (2026). Complaint Policy and Procedures. https://www.aacsb.edu/accreditation/complaints"
   - "EFMD. (2026). EQUIS Complaints Procedure. https://www.efmd.org/accreditations/equis/complaints"
   - "ABET. (2026). Accreditation Complaint Process. https://www.abet.org/accreditation/complaints/"
-ogImage: "https://accreditation.cn/images/complaint-process-og.jpg"
 draft: false
 ---
 

@@ -14,7 +14,6 @@ dataSources:
   - "HKIAC 2025 年度案件统计报告 (https://www.hkiac.org/statistics)"
   - "HKIAC 机构仲裁规则 2024 版 (https://www.hkiac.org/arbitration/rules)"
   - "香港仲裁条例（第 609 章） (https://www.elegislation.gov.hk/hk/cap609)"
-ogImage: "https://accreditation.cn/images/hkiac-guide-og.jpg"
 draft: false
 ---
 

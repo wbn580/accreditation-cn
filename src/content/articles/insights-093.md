@@ -25,7 +25,6 @@ dataSources:
   - "OECD. (2026). Education at a Glance 2026: OECD Indicators. https://www.oecd.org/education/education-at-a-glance/"
   - "UNESCO. (2025). Global Education Monitoring Report 2025: Technology in Education. https://unesdoc.unesco.org/ark:/48223/pf0000398045"
   - "AACSB International. (2026). 2026 Business School Data Guide. https://www.aacsb.edu/data/research-intelligence/data-guide"
-ogImage: "https://accreditation.cn/images/insights/student-mobility-accreditation-convergence-2026.jpg"
 draft: false
 ---
 

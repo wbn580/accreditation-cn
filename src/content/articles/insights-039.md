@@ -26,7 +26,6 @@ dataSources:
   - "CHEA (Council for Higher Education Accreditation): https://www.chea.org"
   - "U.S. Department of Education Database of Accredited Postsecondary Institutions and Programs: https://ope.ed.gov/dapip"
   - "AACSB International (Association to Advance Collegiate Schools of Business): https://www.aacsb.edu"
-ogImage: "https://accreditation.cn/images/us-accreditation-debate-og.jpg"
 draft: false
 ---
 

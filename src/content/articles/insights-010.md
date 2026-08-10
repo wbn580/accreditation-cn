@@ -24,7 +24,6 @@ dataSources:
   - "CICC 2025年度报告（https://college-ic.ca/about-cicc/reports）"
   - "加拿大移民、难民和公民部（IRCC）2026年第一季度政策更新（https://www.canada.ca/en/immigration-refugees-citizenship.html）"
   - "加拿大统计局职业准入数据（https://www.statcan.gc.ca）"
-ogImage: "https://accreditation.cn/images/insights/canada-cicc-pass-rate-2026.jpg"
 draft: false
 ---
 ## 导语

@@ -26,7 +26,6 @@ dataSources:
   - "EFMD. (2026). EQUIS Standards & Criteria 2026. https://www.efmd.org/accreditation/equis"
   - "AACSB International. (2026). 2026 Business Accreditation Standards. https://www.aacsb.edu/accreditation/standards"
   - "AMBA. (2026). Accreditation Criteria for MBA Programmes. https://www.associationofmbas.com/accreditation"
-ogImage: "https://accreditation.cn/images/equis-comparison-og.jpg"
 draft: false
 ---
 

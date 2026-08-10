@@ -15,7 +15,6 @@ dataSources:
   - "SRA SQE 2026年度规范：https://www.sra.org.uk/sqe"
   - "英国政府法律职业认证页面：https://www.gov.uk/become-solicitor"
   - "Qualification Regulations 2011-2025（SRA）"
-ogImage: "https://accreditation.cn/images/articles/sra-guide-og.jpg"
 draft: false
 ---
 

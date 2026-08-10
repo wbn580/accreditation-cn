@@ -25,7 +25,6 @@ dataSources:
   - "CHEA 2025 年度报告: https://www.chea.org/2025-annual-report"
   - "ENQA 2026 在线教育立场文件: https://www.enqa.eu/online-education-position-paper-2026"
   - "AACSB 2026 年度认证标准更新: https://www.aacsb.edu/accreditation/standards/2026"
-ogImage: "https://accreditation.cn/images/insights/online-micro-credential-2026.png"
 draft: false
 ---
 

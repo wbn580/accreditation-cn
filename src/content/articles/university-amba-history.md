@@ -26,7 +26,6 @@ dataSources:
   - "AMBA官网：https://www.ambaguide.com/"
   - "AACSB 2026年度年报：https://www.aacsb.edu/"
   - "EQUIS官方历史页面：https://www.efmdglobal.org/equis/"
-ogImage: "https://accreditation.cn/images/amba-history-evolution.jpg"
 draft: false
 ---
 

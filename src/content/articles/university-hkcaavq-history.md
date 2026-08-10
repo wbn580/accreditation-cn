@@ -14,7 +14,6 @@ dataSources:
   - "HKCAAVQ 官方网站: https://www.hkcaavq.edu.hk"
   - "香港教育局资历架构网站: https://www.hkqf.gov.hk"
   - "HKCAAVQ 2025/26 年度报告 (公开摘要)"
-ogImage: "https://accreditation.cn/images/hkcaavq-history-og.jpg"
 draft: false
 ---
 

@@ -27,7 +27,6 @@ dataSources:
   - "法国高等教育与研究部 (MESR) 2025年高等教育质量评估报告"
   - "欧洲高等教育区 (EHEA) 博洛尼亚进程实施情况报告 (2024)"
   - "法国国家职业认证委员会 (CNCP) 2026年目录更新"
-ogImage: "https://accreditation.cn/images/cge-france-overview.png"
 draft: false
 ---
 

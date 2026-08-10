@@ -25,7 +25,6 @@ dataSources:
   - "CICC 官方政策手册：https://college-ic.ca/professional-standards"
   - "CICC 2025-2026 年度报告：https://college-ic.ca/about-us/annual-reports"
   - "加拿大移民和难民保护条例 (IRPR)：https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/"
-ogImage: "https://accreditation.cn/images/cicc-standards-2026.jpg"
 draft: false
 ---
 

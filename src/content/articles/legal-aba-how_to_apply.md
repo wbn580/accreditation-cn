@@ -24,7 +24,6 @@ dataSources:
   - "ABA Section of Legal Education and Admissions to the Bar: Standards and Rules of Procedure for Approval of Law Schools (2025-2026)"
   - "ABA Council of the Section of Legal Education: Annual Report on Law School Accreditation (2026)"
   - "U.S. Department of Education: Database of Accredited Postsecondary Institutions and Programs (2026)"
-ogImage: "https://accreditation.cn/images/aba-accreditation-guide.jpg"
 draft: false
 ---
 

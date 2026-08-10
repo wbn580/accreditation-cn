@@ -25,7 +25,6 @@ dataSources:
   - "ABET. (2026). Accreditation Policy and Procedure Manual (APPM). Retrieved from https://www.abet.org/accreditation/policies-procedures/appm/"
   - "ABET. (2026). Criteria for Accrediting Engineering Programs. Retrieved from https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs/"
   - "ABET. (2026). Fee Schedule. Retrieved from https://www.abet.org/accreditation/fees/"
-ogImage: "https://accreditation.cn/images/og-abet-guide.jpg"
 draft: false
 ---
 

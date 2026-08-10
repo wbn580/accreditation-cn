@@ -24,7 +24,6 @@ dataSources:
   - "CHEA 2025 年度报告：https://www.chea.org/2025-annual-report"
   - "ENQA 2026 远程评审指南：https://www.enqa.eu/remote-review-guidelines-2026"
   - "AACSB 2025 认证标准更新说明：https://www.aacsb.edu/accreditation/standards-2025"
-ogImage: "https://accreditation.cn/og/remote-review-sustainability-2026.jpg"
 draft: false
 ---
 

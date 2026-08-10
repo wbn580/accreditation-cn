@@ -37,7 +37,6 @@ dataSources:
     url: "https://www.mext.go.jp/a_menu/koutou/ninchi/index.htm"
   - name: "NIAD-QE 2025年度年报（第24号）"
     url: "https://www.niadqe.ac.jp/archive/report/annual_report_2025.pdf"
-ogImage: "https://accreditation.cn/images/og-niadqe-2026.jpg"
 draft: false
 ---
 ## 数据说明

@@ -14,7 +14,6 @@ dataSources:
   - "ABA Section of Legal Education and Admissions to the Bar, 'ABA Standards and Rules of Procedure for Approval of Law Schools', 2025-2026 Edition. URL: https://www.americanbar.org/groups/legal_education/resources/standards/"
   - "American Bar Association, 'A History of the ABA Section of Legal Education and Admissions to the Bar', 2022. URL: https://www.americanbar.org/groups/legal_education/about/history/"
   - "U.S. Department of Education, 'Database of Accredited Postsecondary Institutions and Programs', 2026. URL: https://ope.ed.gov/dapip/#/home"
-ogImage: "https://accreditation.cn/og-images/aba-history-2026.png"
 draft: false
 ---
 

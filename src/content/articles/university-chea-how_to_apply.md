@@ -25,7 +25,6 @@ dataSources:
   - "CHEA 官方网站: https://www.chea.org"
   - "CHEA 2025 年度报告: https://www.chea.org/2025-annual-report"
   - "美国教育部认证数据库: https://ope.ed.gov/accreditation"
-ogImage: "https://accreditation.cn/images/chea-guide-og.png"
 draft: false
 ---
 

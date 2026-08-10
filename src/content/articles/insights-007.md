@@ -26,7 +26,6 @@ dataSources:
   - "European Commission. (2026). Bologna Process Implementation Report 2026. https://education.ec.europa.eu"
   - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education. https://unesdoc.unesco.org"
   - "东盟秘书处. (2025). ASEAN Qualifications Reference Framework (AQRF) Progress Report 2025. https://asean.org"
-ogImage: "https://accreditation.cn/og/insight-bologna-east-asia.jpg"
 draft: false
 ---
 

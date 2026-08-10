@@ -26,7 +26,6 @@ dataSources:
   - "QEAC 考试与认证官网: https://www.education.gov.au/qeac"
   - "澳大利亚竞争与消费者委员会 (ACCC): https://www.accc.gov.au/"
   - "澳大利亚证券与投资委员会 (ASIC): https://asic.gov.au/"
-ogImage: "https://accreditation.cn/images/qeac-guide-og.jpg"
 draft: false
 ---
 

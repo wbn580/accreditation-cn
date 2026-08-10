@@ -27,7 +27,6 @@ keywords:
 dataSources:
   - title: "SIAC 2025 年度年报"
     url: "https://www.siac.org.sg/annual-reports"
-ogImage: "https://www.siac.org.sg/themes/custom/siac/images/og-image.jpg"
 draft: false
 ---
 

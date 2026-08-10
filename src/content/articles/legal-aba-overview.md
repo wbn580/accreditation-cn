@@ -14,7 +14,6 @@ dataSources:
   - "美国律师协会法律教育与律师资格招生部：https://www.americanbar.org/groups/legal_education/"
   - "ABA 2025-2026 认证标准手册：https://www.americanbar.org/groups/legal_education/resources/standards/"
   - "ABA 认证法学院名单（截至2026年4月）：https://www.americanbar.org/groups/legal_education/resources/aba_approved_law_schools/"
-ogImage: "https://accreditation.cn/images/aba-overview-2026.png"
 draft: false
 ---
 

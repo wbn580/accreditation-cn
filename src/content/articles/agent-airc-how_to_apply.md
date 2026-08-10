@@ -26,7 +26,6 @@ dataSources:
   - "AIRC 年度报告（2025）：https://www.airc-education.org/annual-report"
   - "美国联邦贸易委员会（FTC）关于教育服务认证的指南：https://www.ftc.gov"
   - "美国教育部（USDE）认证机构名录：https://www2.ed.gov/admins/finaid/accred/index.html"
-ogImage: "https://accreditation.cn/images/airc-guide-og.jpg"
 draft: false
 ---
 

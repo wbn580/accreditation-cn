@@ -16,7 +16,6 @@ dataSources:
   - "AACSB 认证标准 2020 版 (https://www.aacsb.edu/accreditation/standards/2020)"
   - "AACSB 认证院校名录 (https://www.aacsb.edu/accredited)"
   - "AACSB 国际认证年度报告 2025 (https://www.aacsb.edu/insights/reports/2025)"
-ogImage: "https://www.accreditation.cn/images/aacsb-history-og.jpg"
 draft: false
 ---
 

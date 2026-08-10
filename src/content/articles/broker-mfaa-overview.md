@@ -24,7 +24,6 @@ dataSources:
   - "MFAA 官方年度报告 2026: https://www.mfaa.com.au/annual-report"
   - "ASIC 2025 年度监管报告: https://asic.gov.au/regulatory-resources/financial-services"
   - "澳洲金融行业统计公报 2025: https://www.abs.gov.au/statistics/industry/finance"
-ogImage: "https://accreditation.cn/images/mfaa-overview-2026.jpg"
 draft: false
 ---
 

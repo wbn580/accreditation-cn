@@ -14,7 +14,6 @@ dataSources:
   - "AACSB 2026年度年报（AACSB International, 2026）"
   - "EQUIS 2025年度统计（EFMD, 2025）"
   - "AMBA 2025-2026年度报告（AMBA, 2026）"
-ogImage: "https://accreditation.cn/images/aacsb-comparison-og.jpg"
 draft: false
 ---
 

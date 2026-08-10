@@ -27,7 +27,6 @@ dataSources:
   - "NACAC 会员资格申请指南 (2026 年 1 月更新)"
   - "美国联邦贸易委员会 (FTC) 关于教育咨询服务的指导意见 (2024)"
   - "《高等教育纪事报》2025 年 NACAC 政策解读"
-ogImage: "https://accreditation.cn/images/nacac-faq-og.png"
 draft: false
 ---
 

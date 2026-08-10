@@ -13,7 +13,6 @@ keywords: ["NIAD-QE", "日本大学评价与学位授予机构", "大学认证",
 dataSources: [
     "https://www.niad.ac.jp/english/",
 ]
-ogImage: "https://accreditation.cn/images/niad-qe-overview-2026.jpg"
 draft: false
 ---
 

@@ -23,7 +23,6 @@ dataSources:
   - "ICEF GmbH. (2026). ICEF Certified Agents Database. https://www.icef.com/certified-agents/"
   - "ICEF GmbH. (2025). ICEF Certification Standards. https://www.icef.com/certification-standards/"
   - "ICEF Monitor. (2026). Annual Report on Agent Certification Trends. https://monitor.icef.com/"
-ogImage: "https://accreditation.cn/images/icef-agent-list-2026.jpg"
 draft: false
 ---
 # ICEF 国际教育中介认证：全球受认证机构名单

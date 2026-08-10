@@ -26,7 +26,6 @@ dataSources:
   - "AACSB 2026 Accreditation Standards (https://www.aacsb.edu/accreditation/standards)"
   - "EQUIS 2025-2026 Procedures & Criteria (https://www.efmdglobal.org/accreditations/equis)"
   - "AMBA 2026 Accreditation Handbook (https://www.associationofmbas.com/business-schools/accreditation)"
-ogImage: "https://accreditation.cn/assets/og/triple-crown-guide-2026.jpg"
 draft: false
 ---
 

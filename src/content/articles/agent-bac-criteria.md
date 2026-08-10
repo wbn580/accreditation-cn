@@ -24,7 +24,6 @@ dataSources:
   - "BAC 官方认证标准手册（2025 版）：https://www.the-bac.org/accreditation-standards/"
   - "BAC 年度报告 2025：https://www.the-bac.org/annual-report-2025/"
   - "英国高等教育质量保障署（QAA）《英国高等教育质量准则》：https://www.qaa.ac.uk/quality-code"
-ogImage: "https://www.the-bac.org/images/bac-standards-og.jpg"
 draft: false
 ---
 

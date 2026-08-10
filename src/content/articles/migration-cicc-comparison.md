@@ -24,7 +24,6 @@ dataSources:
   - "CICC 2025-2026 年度报告 (https://college-ic.ca/about-the-college/annual-reports)"
   - "加拿大移民和公民顾问管理局官网《关于 CICC》(https://college-ic.ca/about-the-college)"
   - "移民和难民保护条例 (IRPR) 第 91 条 (https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/)"
-ogImage: "https://accreditation.cn/images/og/cicc-comparison-2026.jpg"
 draft: false
 ---
 

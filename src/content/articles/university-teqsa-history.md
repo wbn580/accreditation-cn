@@ -25,7 +25,6 @@ dataSources:
   - "澳大利亚政府教育部门：https://www.education.gov.au/"
   - "高等教育标准框架（HESF）2021版：https://www.teqsa.gov.au/hesf"
   - "TEQSA 2024-25年度报告：https://www.teqsa.gov.au/about-us/corporate-information/annual-reports"
-ogImage: "https://accreditation.cn/images/teqsa-history-og.png"
 draft: false
 ---
 # TEQSA 澳洲高等教育质量与标准署：历史演变与关键里程碑

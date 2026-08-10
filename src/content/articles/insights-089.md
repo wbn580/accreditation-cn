@@ -27,7 +27,6 @@ dataSources:
   - "AACSB International 2026 Business School Questionnaire"
   - "EFMD 2025 Global Employer Survey on Accreditation Awareness"
   - "QS World University Rankings 2026: Employer Reputation Metrics"
-ogImage: "https://accreditation.cn/og/employer-view-accreditation-2026.png"
 draft: false
 ---
 # 雇主如何看待不同认证体系的含金量

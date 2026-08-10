@@ -26,7 +26,6 @@ dataSources:
   - "CHEA International Quality Group. (2025). *Directory of Recognized Accreditation Organizations*. Washington, DC: Council for Higher Education Accreditation."
   - "UNESCO. (2026). *Global Convention on the Recognition of Qualifications concerning Higher Education: Status Report*. Paris: UNESCO."
   - "European Association for Quality Assurance in Higher Education (ENQA). (2025). *Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)*, 2025 Edition."
-ogImage: "https://accreditation.cn/images/og-insight-three-layer-structure-2026.jpg"
 draft: false
 ---
 

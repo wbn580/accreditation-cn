@@ -24,7 +24,6 @@ dataSources:
   - "AACSB 2026年度年报：https://www.aacsb.edu/annual-report-2026"
   - "AACSB 2020标准官方文档：https://www.aacsb.edu/accreditation/standards/2020"
   - "AACSB 2025年认证机构列表：https://www.aacsb.edu/accredited-institutions-2025"
-ogImage: "https://accreditation.cn/images/aacsb-2020-reform-impact.jpg"
 draft: false
 ---
 

@@ -16,7 +16,6 @@ dataSources:
   - "AACSB International. 'AACSB Accreditation Standards.' 2026. https://www.aacsb.edu/accreditation/standards"
   - "Liaison Committee on Medical Education (LCME). 'Functions and Structure of a Medical School.' 2025–2026. https://lcme.org/publications/"
   - "U.S. Department of Education. 'Database of Accredited Postsecondary Institutions and Programs.' 2026. https://ope.ed.gov/dapip/"
-ogImage: "https://accreditation.cn/images/glossary/programmatic-accreditation-og.png"
 draft: false
 ---
 

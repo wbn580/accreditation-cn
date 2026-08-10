@@ -24,7 +24,6 @@ dataSources:
   - "FBAA 2026 年度认证手册"
   - "ASIC 监管指南 RG 204"
   - "澳洲金融服务法律框架（Corporations Act 2001）"
-ogImage: "https://accreditation.cn/og-image/fbaa-standards-2026.jpg"
 draft: false
 ---
 

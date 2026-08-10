@@ -14,7 +14,6 @@ dataSources:
   - "CHEA International Quality Group. (2025). *Glossary of Accreditation Terms*. Council for Higher Education Accreditation."
   - "AACSB International. (2026). *2026 Accreditation Standards*. AACSB."
   - "ENQA. (2025). *European Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)*. European Association for Quality Assurance in Higher Education."
-ogImage: "https://accreditation.cn/og/glossary-accreditation.png"
 draft: false
 ---
 

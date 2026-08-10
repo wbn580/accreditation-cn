@@ -28,7 +28,6 @@ dataSources:
   - "MFAA Membership Criteria Policy (2025 Edition)"
   - "ASIC Regulatory Guide 175: Licensing: Financial product advisers"
   - "ASQA Registered Training Organisations (RTO) Database"
-ogImage: "https://accreditation.cn/images/mfaa-certification-standards-og.jpg"
 draft: false
 ---
 

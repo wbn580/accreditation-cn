@@ -29,7 +29,6 @@ dataSources:
   - "CHEA (Council for Higher Education Accreditation). (2024). The Condition of Accreditation: A Review of U.S. Quality Assurance. https://www.chea.org/"
   - "UNESCO. (2023). Global Convention on the Recognition of Qualifications concerning Higher Education. https://www.unesco.org/en/education/higher-education/recognition"
   - "ISO. (2015). ISO 9001:2015 Quality management systems — Requirements. https://www.iso.org/standard/62085.html"
-ogImage: "https://accreditation.cn/images/glossary/quality-assurance-og.png"
 draft: false
 ---
 

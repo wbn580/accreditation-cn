@@ -25,7 +25,6 @@ dataSources:
   - "HKIAC. (2026). 《仲裁员认证与续期指引》. https://www.hkiac.org/arbitration/arbitrator-accreditation"
   - "HKIAC. (2025). 《机构仲裁规则》. https://www.hkiac.org/arbitration/rules"
   - "香港国际仲裁中心. (2026). 年度报告. https://www.hkiac.org/about-us/annual-reports"
-ogImage: "https://accreditation.cn/images/hkiac-arbitrator-accreditation-2026.jpg"
 draft: false
 ---
 

@@ -26,7 +26,6 @@ dataSources:
   - "美国州银行监管者协会 (CSBS) 年度报告 2025: https://www.csbs.org/"
   - "FINRA 认证信息: https://www.finra.org/registration-accreditation"
   - "SAFE Act 官方文本: https://www.congress.gov/bill/110th-congress/house-bill/3221"
-ogImage: "https://accreditation.cn/images/nmls-comparison-og.jpg"
 draft: false
 ---
 

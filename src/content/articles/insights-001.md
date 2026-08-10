@@ -25,7 +25,6 @@ dataSources:
   - "AACSB International. (2026). 2026 Annual Report: Accreditation Data. https://www.aacsb.edu/accreditation/data"
   - "EFMD. (2026). EQUIS Accredited Schools List. https://www.efmd.org/accreditation/equis"
   - "AMBA. (2026). Accredited Programmes Worldwide. https://www.associationofmbas.com/accreditation"
-ogImage: "https://accreditation.cn/images/global-three-accreditations-comparison-2026.jpg"
 draft: false
 ---
 

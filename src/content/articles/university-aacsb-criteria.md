@@ -15,7 +15,6 @@ dataSources:
   - "AACSB. (2026). 2026 AACSB Business Accreditation Standards (Revision 2026). https://www.aacsb.edu/standards"
   - "AACSB. (2025). 2025 Data and Trends Report. https://www.aacsb.edu/data-reports"
   - "AACSB. (2024). Interpretive Guidance for the 2020 Standards. https://www.aacsb.edu/interpretive-guidance"
-ogImage: "https://accreditation.cn/images/aacsb-standards-2026.png"
 draft: false
 ---
 

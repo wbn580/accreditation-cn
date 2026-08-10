@@ -14,7 +14,6 @@ dataSources:
   - "TEQSA 官方网站：https://www.teqsa.gov.au"
   - "TEQSA 2025-26 年度报告：https://www.teqsa.gov.au/about-us/annual-reports"
   - "澳大利亚教育部 2025 年高等教育统计：https://www.education.gov.au/higher-education-statistics"
-ogImage: "https://accreditation.cn/images/teqsa-australia-accredited-institutions-2026.jpg"
 draft: false
 ---
 

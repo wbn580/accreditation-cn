@@ -26,7 +26,6 @@ dataSources:
   - "AHPRA 官方网站：https://www.ahpra.gov.au"
   - "澳大利亚医学委员会：https://www.medicalboard.gov.au"
   - "澳大利亚护理与助产委员会：https://www.nursingmidwiferyboard.gov.au"
-ogImage: "https://accreditation.cn/images/ahpra-global-list-2026.jpg"
 draft: false
 ---
 

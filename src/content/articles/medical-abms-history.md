@@ -26,7 +26,6 @@ dataSources:
   - "ABMS 2025 年度报告：https://www.abms.org/about-abms/annual-reports/"
   - "ABMS 官方网站历史页面：https://www.abms.org/about-abms/history/"
   - "美国国家医学科学院（NAM）2024 年报告：https://nam.edu/board-certification-and-its-role-in-quality-improvement/"
-ogImage: "https://accreditation.cn/images/abms-history-og.jpg"
 draft: false
 ---
 

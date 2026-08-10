@@ -26,7 +26,6 @@ dataSources:
   - "CHEA. (2026). 2026 CHEA Almanac of External Quality Assurance. https://www.chea.org/almanac-2026"
   - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education: Implementation Report. https://unesdoc.unesco.org/ark:/48223/pf0000389876"
   - "INQAAHE. (2025). INQAAHE Guidelines of Good Practice in Quality Assurance (2025 Edition). https://www.inqaahe.org/guidelines-2025"
-ogImage: "https://accreditation.cn/og-image-insights-certification-standards-international-dimension-critique.jpg"
 draft: false
 ---
 

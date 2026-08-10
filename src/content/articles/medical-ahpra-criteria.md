@@ -15,7 +15,6 @@ dataSources:
   - "Australian Health Practitioner Regulation Agency (AHPRA). 2026. Accreditation Standards and Guidelines. https://www.ahpra.gov.au/Accreditation/Standards.aspx"
   - "Australian Health Practitioner Regulation Agency (AHPRA). 2025. National Registration and Accreditation Scheme Overview. https://www.ahpra.gov.au/About-AHPRA/What-We-Do.aspx"
   - "Australian Health Practitioner Regulation Agency (AHPRA). 2025. Code of Conduct for Registered Health Practitioners. https://www.ahpra.gov.au/Code-of-Conduct.aspx"
-ogImage: "https://accreditation.cn/images/ahpra-standards-2026.jpg"
 draft: false
 ---
 

@@ -9,14 +9,12 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://accreditation.cn/images/teqsa-comparison-og.png
 tags:
 - 澳洲留学后工签与长期居留路径
 ---
 
 从学生签证过渡到毕业生工签，再规划技术移民或雇主担保，是许多留学生在澳大利亚发展的核心路径。这条路径由明确的签证框架支撑，但每一步的资格条件、时间节点和文书要求都直接影响后续结果。理解全貌，能帮助你在留学阶段就做出更主动的选择。
 
-![2026 年澳大利亚留学毕业后工签与长期居留路径解析](https://accreditation.cn/images/teqsa-comparison-og.png)
 
 ## 学生签证阶段：打好基础
 

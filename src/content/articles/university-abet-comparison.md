@@ -14,7 +14,6 @@ dataSources:
   - "ABET. (2026). ABET 2025-2026 Annual Report. https://www.abet.org/annual-reports/"
   - "European Network for Accreditation of Engineering Education (ENAEE). (2025). EUR-ACE Framework Standards and Guidelines (5th ed.). https://www.enaee.eu/eur-ace-system/"
   - "International Engineering Alliance (IEA). (2026). Washington Accord 2025 Review Report. https://www.ieagreements.org/accords/washington/"
-ogImage: "https://via.placeholder.com/1200x630.png?text=ABET+Engineering+Accreditation+Comparison"
 draft: false
 ---
 

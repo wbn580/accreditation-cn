@@ -27,7 +27,6 @@ dataSources:
   - "AACSB 2026年度认证列表: https://www.aacsb.edu/accredited"
   - "ENQA 2025年欧洲高等教育质量保障标准: https://www.enqa.eu/"
   - "中国教育部学位与研究生教育发展中心 2025年认证工作概况: https://www.cdgdc.edu.cn/"
-ogImage: "https://accreditation.cn/images/og-niad-qe-comparison.jpg"
 draft: false
 ---
 

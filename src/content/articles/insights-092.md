@@ -24,7 +24,6 @@ dataSources:
   - "UNESCO Institute for Statistics. (2025). Global Education Monitoring Report 2025. https://unesdoc.unesco.org/ark:/48223/pf0000394658"
   - "International Network for Quality Assurance Agencies in Higher Education (INQAAHE). (2026). Quality Assurance in a Massified System: A Global Survey. https://www.inqaahe.org/sites/default/files/2026-05/INQAAHE_Global_Survey_2026.pdf"
   - "World Bank. (2025). Tertiary Education and the Future of Work. https://www.worldbank.org/en/topic/tertiaryeducation/publication/tertiary-education-and-the-future-of-work"
-ogImage: "https://accreditation.cn/images/insights/massification-accreditation-2026.jpg"
 draft: false
 ---
 

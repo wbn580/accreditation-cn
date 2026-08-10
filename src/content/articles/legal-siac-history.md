@@ -28,7 +28,6 @@ dataSources:
   - "联合国国际贸易法委员会 (UNCITRAL) 仲裁规则对比研究 2023 (https://uncitral.un.org)"
   - "新加坡最高法院 (Supreme Court of Singapore) 仲裁案件统计 2025 (https://www.supremecourt.gov.sg)"
   - "国际仲裁研究院 (ICCA) 2025 年全球仲裁机构排名与趋势 (https://www.icca.org)"
-ogImage: "https://accreditation.cn/images/siac-history-og.jpg"
 draft: false
 ---
 

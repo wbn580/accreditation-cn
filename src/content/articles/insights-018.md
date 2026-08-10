@@ -29,7 +29,6 @@ dataSources:
   - "SIAC 2026年仲裁规则 (https://www.siac.org.sg/our-rules/siac-rules-2026)"
   - "HKIAC 2025年案件统计报告 (https://www.hkiac.org/about-us/statistics)"
   - "CIETAC 2026年仲裁规则 (https://www.cietac.org/index.php?m=Page&a=index&id=2)"
-ogImage: "https://accreditation.cn/og-images/icc-siac-hkiac-cietac-comparison-2026.jpg"
 draft: false
 ---
 

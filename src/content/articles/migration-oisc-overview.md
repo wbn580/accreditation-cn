@@ -26,7 +26,6 @@ dataSources:
   - "OISC 官方网站：https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
   - "OISC 2025-2026 年度报告：https://www.gov.uk/government/publications/oisc-annual-report-2025-2026"
   - "英国政府移民服务监管框架：https://www.gov.uk/government/publications/immigration-services-commissioner-regulatory-framework"
-ogImage: "https://accreditation.cn/images/oisc-uk-overview-2026.jpg"
 draft: false
 ---
 

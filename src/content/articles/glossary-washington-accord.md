@@ -25,7 +25,6 @@ dataSources:
   - "International Engineering Alliance. (2026). Washington Accord Rules & Procedures. Retrieved from https://www.ieagreements.org/"
   - "International Engineering Alliance. (2025). Signatories & Full Members. Retrieved from https://www.ieagreements.org/accords/washington/signatories/"
   - "中国工程教育专业认证协会. (2025). 华盛顿协议与中国工程教育认证. Retrieved from https://www.ceeaa.org.cn/"
-ogImage: "https://accreditation.cn/images/og-washington-accord.png"
 draft: false
 ---
 

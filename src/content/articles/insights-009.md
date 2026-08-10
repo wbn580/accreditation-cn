@@ -14,7 +14,6 @@ dataSources:
   - "Migration Agents Registration Authority (MARA) Official Register: https://www.mara.gov.au/"
   - "Australian Skills Quality Authority (ASQA) 2025 Annual Report: https://www.asqa.gov.au/"
   - "中国教育部涉外监管信息网留学服务机构名单: http://jsj.moe.gov.cn/"
-ogImage: "https://accreditation.cn/og-images/aus-mara-vs-advisor.jpg"
 draft: false
 ---
 

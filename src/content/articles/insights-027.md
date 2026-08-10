@@ -14,7 +14,6 @@ dataSources:
   - "AACSB 2026年度年报: https://www.aacsb.edu"
   - "EQUIS 2025标准修订文件: https://www.efmdglobal.org"
   - "AMBA 2026认证手册: https://www.associationofmbas.com"
-ogImage: "https://accreditation.cn/og/esg-trends-2026.jpg"
 draft: false
 ---
 

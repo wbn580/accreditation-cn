@@ -26,7 +26,6 @@ dataSources:
   - "European Higher Education Area. (2025). Bologna Process Implementation Report 2025. https://ehea.info/page-implementation-reports"
   - "ENQA. (2026). ENQA Annual Report 2025–2026. https://www.enqa.eu/reports"
   - "European Commission/EACEA/Eurydice. (2024). The European Higher Education Area in 2024: Bologna Process Implementation Report. Luxembourg: Publications Office of the European Union."
-ogImage: "https://accreditation.cn/images/insights/bologna-process-impact-og.png"
 draft: false
 ---
 # 博洛尼亚进程对欧洲高等教育认证的深层影响

@@ -36,7 +36,6 @@ dataSources:
     url: "https://www.chea.org/bylaws"
   - source: "美国联邦法规（CFR）第 34 编第 602 部分：认证机构认可标准"
     url: "https://www.ecfr.gov/current/title-34/subtitle-B/chapter-VI/part-602"
-ogImage: "https://www.chea.org/sites/default/files/2025-08/CHEA_logo_0.png"
 draft: false
 ---
 # CHEA 美国高等教育认证委员会：常见问题与解答

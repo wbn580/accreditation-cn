@@ -14,7 +14,6 @@ dataSources:
   - "U.S. Department of Education. (2026). Database of Accredited Postsecondary Institutions and Programs. https://ope.ed.gov/dapip/"
   - "Council for Higher Education Accreditation (CHEA). (2025). The Condition of Accreditation: U.S. Accreditation and the Federal Government. https://www.chea.org/"
   - "European Commission. (2025). European Higher Education Area (EHEA) – Quality Assurance and Recognition. https://education.ec.europa.eu/levels/higher-education/quality-assurance"
-ogImage: "https://accreditation.cn/images/glossary/licensing-og.png"
 draft: false
 ---
 

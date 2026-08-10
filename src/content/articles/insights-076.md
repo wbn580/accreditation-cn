@@ -25,7 +25,6 @@ dataSources:
   - "CHEA 2025 Annual Report. Council for Higher Education Accreditation. https://www.chea.org/"
   - "INQAAHE 2026 Global Survey on Quality Assurance and Equity. International Network for Quality Assurance Agencies in Higher Education. https://www.inqaahe.org/"
   - "UNESCO 2025 Global Education Monitoring Report: Equity in Higher Education. https://unesdoc.unesco.org/"
-ogImage: "https://accreditation.cn/images/insights/equity-accreditation-og.png"
 draft: false
 ---
 

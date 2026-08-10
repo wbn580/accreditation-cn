@@ -24,7 +24,6 @@ dataSources:
   - "HKIAC 2025 年度案件统计报告"
   - "联合国国际贸易法委员会（UNCITRAL）仲裁规则"
   - "香港仲裁条例（第609章）"
-ogImage: "https://accreditation.cn/og/hkiac-accredited-list-2026.jpg"
 draft: false
 ---
 

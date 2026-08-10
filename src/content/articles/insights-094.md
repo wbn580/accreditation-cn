@@ -23,7 +23,6 @@ keywords:
 dataSources:
   - title: "INQAAHE Guidelines for Cross-Border Higher Education"
     url: "https://www.inqaahe.org/guidelines-cross-border-higher-education"
-ogImage: "https://accreditation.cn/images/insights-cross-border-accreditation-2026.jpg"
 draft: false
 ---
 

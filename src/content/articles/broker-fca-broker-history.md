@@ -26,7 +26,6 @@ dataSources:
   - "FCA 官网：关于我们 https://www.fca.org.uk/about"
   - "英国国家档案馆：金融服务与市场法案 2000 https://www.legislation.gov.uk/ukpga/2000/8/contents"
   - "FCA 2025/26 年度报告 https://www.fca.org.uk/publication/annual-report/annual-report-2025-26.pdf"
-ogImage: "https://accreditation.cn/images/fca-history-og.jpg"
 draft: false
 ---
 

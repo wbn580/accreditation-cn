@@ -25,7 +25,6 @@ dataSources:
   - "ABMS 2025 年度年报（https://www.abms.org/）"
   - "美国医学专科委员会官网认证指南（https://www.abms.org/board-certification/）"
   - "美国医学协会（AMA）医师统计报告（https://www.ama-assn.org/）"
-ogImage: "https://via.placeholder.com/1200x630?text=ABMS+美国医学专科委员会"
 draft: false
 ---
 

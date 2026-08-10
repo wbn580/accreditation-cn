@@ -23,7 +23,6 @@ keywords:
 dataSources:
   - title: "马来西亚资格认证局（MQA）官方网站"
     url: "https://www.mqa.gov.my"
-ogImage: "https://accreditation.cn/images/insights/malaysia-mqa-chinese-students-2026.jpg"
 draft: false
 ---
 

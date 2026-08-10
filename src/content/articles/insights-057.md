@@ -16,7 +16,6 @@ dataSources:
   - "EQUIS标准与流程2026：https://www.efmdglobal.org/accreditations/equis"
   - "Financial Times Global MBA Ranking 2026：https://www.ft.com/mba-rankings"
   - "QS World University Rankings: Business & Management 2026：https://www.topuniversities.com/university-rankings/business-management-rankings"
-ogImage: "https://accreditation.cn/images/insights/business-school-ranking-vs-accreditation-2026.jpg"
 draft: false
 ---
 

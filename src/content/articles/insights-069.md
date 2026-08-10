@@ -27,7 +27,6 @@ dataSources:
   - "AACSB. (2026). 2026 Business Accreditation Standards. https://www.aacsb.edu/accreditation/standards"
   - "ABET. (2025). Criteria for Accrediting Engineering Programs, 2025-2026. https://www.abet.org/accreditation/accreditation-criteria/"
   - "CHEA. (2025). CHEA Almanac of External Quality Review 2025. https://www.chea.org/almanac"
-ogImage: "https://accreditation.cn/og/insight-alumni-tracking-2026.jpg"
 draft: false
 ---
 

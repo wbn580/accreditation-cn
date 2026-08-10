@@ -28,7 +28,6 @@ dataSources:
   - "MARA (Migration Agents Registration Authority). 2025–2026 Annual Report. https://www.mara.gov.au"
   - "College of Immigration and Citizenship Consultants (CICC). 2025 Annual Regulatory Report. https://college-ic.ca"
   - "Office of the Immigration Services Commissioner (OISC). 2025–2026 Code of Standards. https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
-ogImage: "https://accreditation.cn/images/marn-comparison-og-2026.jpg"
 draft: false
 ---
 

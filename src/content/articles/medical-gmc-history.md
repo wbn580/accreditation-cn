@@ -24,7 +24,6 @@ dataSources:
   - "GMC 官方历史档案：https://www.gmc-uk.org/about/who-we-are/our-history"
   - "《医疗法 1858》原文：https://www.legislation.gov.uk/ukpga/Vict/21-22/90"
   - "GMC 2025 年度报告：https://www.gmc-uk.org/about/reports-and-publications/annual-reports"
-ogImage: "https://accreditation.cn/images/gmc-history-og.jpg"
 draft: false
 ---
 # GMC 英国医学总会：历史演变与关键里程碑

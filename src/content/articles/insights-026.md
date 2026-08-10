@@ -14,7 +14,6 @@ dataSources:
   - "AACSB International. (2026). 2026 Annual Report: Accreditation Data & Trends."
   - "EFMD. (2025). EQUIS Standards & Criteria 2025: Cost Implications for Institutions."
   - "AMBA. (2025). The Business School Accreditation Report 2025: Financial and Operational Benchmarks."
-ogImage: "https://accreditation.cn/og/multi-accreditation-compliance-costs-2026.jpg"
 draft: false
 ---
 

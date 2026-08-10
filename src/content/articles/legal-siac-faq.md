@@ -26,7 +26,6 @@ dataSources:
   - "纽约公约（1958年）"
   - "SIAC 年度报告 2025"
   - "SIAC 费用表（2025年7月修订）"
-ogImage: "https://accreditation.cn/images/siac-faq-og.jpg"
 draft: false
 ---
 

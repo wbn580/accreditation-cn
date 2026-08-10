@@ -26,7 +26,6 @@ dataSources:
   - "Nationwide Multistate Licensing System (NMLS) 官方数据库: https://www.nmlsconsumeraccess.org/"
   - "美国联邦金融监管机构 (CSBS) 2026 年度报告: https://www.csbs.org/"
   - "美国消费者金融保护局 (CFPB) 抵押贷款市场监测报告 2026: https://www.consumerfinance.gov/"
-ogImage: "https://accreditation.cn/images/nmls-accredited-list-2026.jpg"
 draft: false
 ---
 # NMLS 美国全国多州许可系统：全球受认证机构名单

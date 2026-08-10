@@ -26,7 +26,6 @@ dataSources:
   - "英国教育部官方认证机构注册列表，https://www.gov.uk/government/collections/accreditation-bodies"
   - "UK ENIC 认证机构名录，https://www.enic.org.uk/accreditation-bodies"
   - "BAC 官方认证院校查询系统，https://www.the-bac.org/accredited-institutions"
-ogImage: "https://www.accreditation.cn/images/bac-uk-2026.jpg"
 draft: false
 ---
 

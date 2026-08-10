@@ -26,7 +26,6 @@ keywords:
 dataSources:
   - source: "Law Council of Australia — Overseas Practitioner Registration"
     url: "https://www.lawcouncil.asn.au/policy-agenda/admission-to-the-legal-profession/overseas-practitioners"
-ogImage: "https://accreditation.cn/images/au-legal-accreditation-guide-2026.jpg"
 draft: false
 ---
 

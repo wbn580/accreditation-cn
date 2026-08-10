@@ -21,7 +21,6 @@ dataSources:
   - "香港移民服务行业协会 2025 年度年报（HKSIA 年度报告，https://www.hksia.org.hk/annual-report-2025）"
   - "香港特别行政区政府入境事务处：认可移民服务提供者名单（政府公报，https://www.immd.gov.hk/accredited-migration-services）"
   - "国际移民服务认证联盟（ICSAA）2025 年全球认证报告（ICSAA 报告，https://www.icsaa.org/report-2025）"
-ogImage: "https://www.accreditation.cn/images/hksia-2026-list-og.png"
 draft: false
 ---
 ## 引言

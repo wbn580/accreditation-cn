@@ -24,7 +24,6 @@ dataSources:
   - "ABMS 2026 年度董事会报告 (https://www.abms.org/board-certification/annual-report/)"
   - "ACGME 2025-2026 住院医师培训要求 (https://www.acgme.org/specialties/)"
   - "美国医学会 (AMA) 医师认证统计 2025 (https://www.ama-assn.org/practice-management/board-certification)"
-ogImage: "https://accreditation.cn/images/abms-guide-og-2026.jpg"
 draft: false
 ---
 

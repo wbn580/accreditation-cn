@@ -24,7 +24,6 @@ dataSources:
   - "AHPRA 2025-2026 年度报告 (https://www.ahpra.gov.au/Publications/Annual-report.aspx)"
   - "澳大利亚政府卫生部：国家注册与认证计划 (https://www.health.gov.au/topics/health-workforce/ahpra)"
   - "AHPRA 官方注册数据统计 (https://www.ahpra.gov.au/About-AHPRA/What-We-Do/Data/Data-statistics.aspx)"
-ogImage: "https://accreditation.cn/images/og/ahpra-overview-2026.jpg"
 draft: false
 ---
 

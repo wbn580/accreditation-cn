@@ -26,7 +26,6 @@ dataSources:
   - "香港移民服务行业协会官方网站：https://www.hksia.org.hk"
   - "香港特别行政区政府公司注册处：https://www.cr.gov.hk"
   - "香港个人资料私隐专员公署：https://www.pcpd.org.hk"
-ogImage: "https://accreditation.cn/og/hksia-standards-2026.jpg"
 draft: false
 ---
 

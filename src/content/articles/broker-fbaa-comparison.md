@@ -30,7 +30,6 @@ dataSources:
   - "ASIC 信贷牌照与合规指引（RG 204）：https://asic.gov.au/regulatory-resources/financial-services/credit-licensing"
   - "Australian Financial Complaints Authority (AFCA) 2025 年年度报告：https://www.afca.org.au/publications/annual-reports"
   - "Accreditation.cn 澳洲信贷行业认证专题：https://accreditation.cn/au/credit"
-ogImage: "https://accreditation.cn/images/fbaa-comparison-og.png"
 draft: false
 ---
 

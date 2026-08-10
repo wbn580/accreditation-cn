@@ -15,7 +15,6 @@ dataSources:
   - "QAA 2025-26年度报告（https://www.qaa.ac.uk/about-us/annual-reports）"
   - "澳大利亚政府教育部《高等教育标准框架2021》（https://www.legislation.gov.au/F2021L01618）"
   - "英国高等教育质量准则（UK Quality Code for Higher Education 2024版）"
-ogImage: "https://accreditation.cn/images/insights/teqsa-qaa-comparison-2026.png"
 draft: false
 ---
 

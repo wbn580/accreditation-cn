@@ -25,7 +25,6 @@ dataSources:
     title: "AMA Board Certification Data"
   - url: "https://accreditation.org/medical"
     title: "Accreditation.cn Medical Directory"
-ogImage: "https://accreditation.cn/images/abms-certified-boards-2026.jpg"
 draft: false
 ---
 # ABMS 美国医学专科委员会：全球受认证机构名单

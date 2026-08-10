@@ -30,7 +30,6 @@ dataSources:
   - "ABET. (2025). Accreditation Policy and Procedure Manual (APPM) 2025-2026. https://www.abet.org/accreditation/accreditation-criteria/"
   - "UNESCO. (2023). Global Convention on the Recognition of Qualifications concerning Higher Education. https://unesdoc.unesco.org/ark:/48223/pf0000385694"
   - "European Commission. (2024). European Approach for Quality Assurance of Joint Programmes. https://education.ec.europa.eu/education-levels/higher-education/quality-assurance"
-ogImage: "https://accreditation.cn/og-images/dual-joint-degree-accreditation-2026.jpg"
 draft: false
 ---
 

@@ -16,7 +16,6 @@ dataSources:
   - "ABET 2025-2026认证政策与程序手册: https://www.abet.org/accreditation/accreditation-criteria-2025-2026/"
   - "国际高等教育质量保障机构网络（INQAAHE）2025年DEI最佳实践指南: https://www.inqaahe.org/sites/default/files/2025-dei-guidelines.pdf"
   - "联合国教科文组织2024年全球教育监测报告: https://unesdoc.unesco.org/ark:/48223/pf0000389923"
-ogImage: "https://accreditation.cn/images/insights/dei-standards-og.jpg"
 draft: false
 ---
 

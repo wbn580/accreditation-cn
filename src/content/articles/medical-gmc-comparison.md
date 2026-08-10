@@ -31,7 +31,6 @@ dataSources:
   - "Australian Medical Council (AMC). (2026). Annual Report 2025. https://www.amc.org.au/about/publications/annual-reports/"
   - "Medical Council of Canada (MCC). (2026). 2025 Annual Report. https://mcc.ca/about/publications/annual-reports/"
   - "World Federation for Medical Education (WFME). (2025). Recognition Programme. https://wfme.org/accreditation/recognition-programme/"
-ogImage: "https://accreditation.cn/images/comparison-gmc-ecfmg-amc-mcc-2026.jpg"
 draft: false
 ---
 

@@ -14,7 +14,6 @@ dataSources:
   - "AIRC 官方历史页面 (https://www.airc-education.org/about/history)"
   - "美国教育部认证数据库 (https://www2.ed.gov/admins/finaid/accred/index.html)"
   - "CHEA 认可机构列表 (https://www.chea.org/directories)"
-ogImage: "https://accreditation.cn/images/airc-history-og.jpg"
 draft: false
 ---
 

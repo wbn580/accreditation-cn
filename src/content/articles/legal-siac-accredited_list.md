@@ -25,7 +25,6 @@ dataSources:
   - "SIAC 2025 年度报告 (https://www.siac.org.sg/images/stories/articles/annual_report/SIAC_Annual_Report_2025.pdf)"
   - "SIAC 受认证机构名单 (https://www.siac.org.sg/accredited-institutions)"
   - "新加坡法律部仲裁信息 (https://www.mlaw.gov.sg/our-work/international-arbitration/)"
-ogImage: "https://accreditation.cn/images/siac-accredited-list-og.jpg"
 draft: false
 ---
 

@@ -14,7 +14,6 @@ dataSources:
   - "TEQSA 2025–26 年度报告: https://www.teqsa.gov.au/annual-report-2025-26"
   - "AACSB 2026 年度认证名单与标准: https://www.aacsb.edu/accredited"
   - "UK QAA 质量准则 (Quality Code) 2025 版: https://www.qaa.ac.uk/quality-code"
-ogImage: "https://accreditation.cn/images/teqsa-comparison-og.png"
 draft: false
 ---
 # TEQSA 澳洲高等教育质量与标准署：与其他同类认证的横向对比

@@ -24,7 +24,6 @@ dataSources:
   - "AIRC 2026 年度报告：https://www.airc-education.org/annual-report"
   - "AIRC 认证标准文档（2025 修订版）：https://www.airc-education.org/accreditation-standards"
   - "美国国务院教育文化事务局（ECA）官方说明：https://eca.state.gov/airc"
-ogImage: "https://accreditation.cn/og/airc-faq-2026.jpg"
 draft: false
 ---
 

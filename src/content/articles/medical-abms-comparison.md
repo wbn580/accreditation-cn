@@ -16,7 +16,6 @@ dataSources:
   - "RCPSC 2025 年度认证统计 (https://www.royalcollege.ca/en/about/annual-report.html)"
   - "GMC 2025 医师注册统计 (https://www.gmc-uk.org/registration-and-licensing)"
   - "UEMS 2025 欧洲专科医师认证指南 (https://www.uems.eu/areas-of-expertise/european-training-requirements)"
-ogImage: "https://accreditation.cn/images/og/abms-comparison-2026.jpg"
 draft: false
 ---
 

@@ -26,7 +26,6 @@ dataSources:
   - "CSBS. (2026). NMLS Annual Report 2025-2026. Conference of State Bank Supervisors."
   - "U.S. Congress. (2008). Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act). Public Law 110-289."
   - "NMLS Resource Center. (2026). NMLS User Guide & Fact Sheets. Nationwide Multistate Licensing System."
-ogImage: "https://accreditation.cn/assets/images/nmls-history-og.png"
 draft: false
 ---
 # NMLS 美国全国多州许可系统：历史演变与关键里程碑

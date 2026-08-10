@@ -24,7 +24,6 @@ dataSources:
   - "澳洲法律委员会 (Law Admissions Consultative Committee, LACC): https://www.lawcouncil.asn.au/policy-agenda/admissions-and-standards"
   - "维多利亚州法律执业委员会 (Victorian Legal Admissions Board): https://www.ladb.vic.gov.au"
   - "新南威尔士州法律职业准入委员会 (Legal Profession Admission Board, LPAB): https://www.lpab.justice.nsw.gov.au"
-ogImage: "https://accreditation.cn/og/au-lawyer-faq-2026.jpg"
 draft: false
 ---
 

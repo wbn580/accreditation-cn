@@ -29,7 +29,6 @@ dataSources:
   - "ABET. (2025). ABET Accreditation Policy and Procedure Manual. https://www.abet.org/accreditation/accreditation-policy-and-procedure-manual/"
   - "CHEA. (2025). Recognition of Accrediting Organizations: Policy and Procedures. https://www.chea.org/recognition-policies"
   - "INQAAHE. (2024). Guidelines of Good Practice for Quality Assurance. https://www.inqaahe.org/guidelines"
-ogImage: "https://accreditation.cn/images/og-accreditation-reapply.jpg"
 draft: false
 ---
 

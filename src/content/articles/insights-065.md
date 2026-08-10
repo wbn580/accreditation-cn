@@ -28,7 +28,6 @@ dataSources:
   - "欧洲高等教育区（EHEA）公报 2026: https://www.ehea.info"
   - "英国政府教育统计公报 2025: https://www.gov.uk/government/statistics"
   - "里斯本承认公约 2025 修订版: https://www.coe.int/en/web/conventions"
-ogImage: "https://accreditation.cn/og/uk-brexit-qaa-esg.png"
 draft: false
 ---
 

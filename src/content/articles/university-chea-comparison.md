@@ -13,7 +13,6 @@ keywords: ["CHEA对比", "美国高等教育认证委员会", "AACSB", "ABET", "
 dataSources: [
   "https://www.chea.org/",
 ]
-ogImage: "https://accreditation.cn/images/chea-comparison-og.png"
 draft: false
 ---
 

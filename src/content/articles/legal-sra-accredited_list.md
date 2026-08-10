@@ -14,7 +14,6 @@ dataSources:
   - "SRA 2026年度认证机构名单：https://www.sra.org.uk/students/courses/recognised-qualifications/"
   - "SRA 关于认证标准的官方指引（2025年修订版）：https://www.sra.org.uk/solicitors/guidance/recognised-qualifications/"
   - "英国法律教育委员会（BARBRI）2026年合作院校报告：https://www.barbri.com/uk/institutions/"
-ogImage: "https://www.sra.org.uk/static/images/og-sra-logo.png"
 draft: false
 ---
 

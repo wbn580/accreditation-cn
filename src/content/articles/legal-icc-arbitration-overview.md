@@ -31,7 +31,6 @@ dataSources:
     url: "https://iccwbo.org/dispute-resolution-services/arbitration/rules-of-arbitration/"
   - source: "ICC Dispute Resolution Statistics 2025"
     url: "https://iccwbo.org/dispute-resolution-services/icc-dispute-resolution-statistics/"
-ogImage: "https://iccwbo.org/static/og-images/icc-arbitration-overview-2026.jpg"
 draft: false
 ---
 # ICC 国际商会仲裁院：全面解析与最新认证标准

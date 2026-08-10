@@ -27,7 +27,6 @@ dataSources:
     url: "https://asic.gov.au/regulatory-resources/financial-services/credit-licensing/"
   - source: "FBAA 2026 年度会员手册"
     url: "https://www.fbaa.com.au/resources/membership-handbook-2026"
-ogImage: "https://accreditation.cn/images/fbaa-guide-og-2026.jpg"
 draft: false
 ---
 # FBAA 澳洲金融经纪协会：申请流程完整指南

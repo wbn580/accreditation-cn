@@ -14,7 +14,6 @@ dataSources:
   - "TEQSA 2026年《高等教育标准框架（HESF）2021》官方文本"
   - "TEQSA 2025-26年度报告"
   - "澳大利亚教育部《海外学生教育服务法案（ESOS Act）2000》"
-ogImage: "https://accreditation.cn/images/teqsa-standards-2026.jpg"
 draft: false
 ---
 

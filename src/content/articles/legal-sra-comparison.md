@@ -15,7 +15,6 @@ dataSources:
   - "American Bar Association (ABA) – Section of Legal Education and Admissions to the Bar, 2025 Annual Report | https://www.americanbar.org/groups/legal_education/resources/statistics/"
   - "Law Society of Singapore – Admissions & Examinations Statistics, 2025 | https://www.lawsociety.org.sg/admissions/"
   - "The Law Society of Hong Kong – Annual Report 2025 | https://www.hklawsoc.org.hk/pub_e/about/annualreport/"
-ogImage: "https://accreditation.cn/og/sra-comparison-2026.jpg"
 draft: false
 ---
 

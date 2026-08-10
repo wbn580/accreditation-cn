@@ -24,7 +24,6 @@ dataSources:
   - "Solicitors Regulation Authority. (2026). Annual Report 2025-2026. https://www.sra.org.uk/sra/how-we-work/reports/annual-report-2025-2026/"
   - "Solicitors Regulation Authority. (2026). SRA Standards and Regulations. https://www.sra.org.uk/solicitors/standards-regulations/"
   - "Solicitors Regulation Authority. (2025). SRA Handbook (Archived). https://www.sra.org.uk/solicitors/handbook/"
-ogImage: "https://accreditation.cn/images/sra-uk-og.jpg"
 draft: false
 ---
 # SRA 英国律师监管局：常见问题与解答

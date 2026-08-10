@@ -24,7 +24,6 @@ dataSources:
   - "TEQSA. (2025). Application for Registration as a Higher Education Provider. https://www.teqsa.gov.au/registration"
   - "TEQSA. (2026). Fees and Charges Schedule 2026. https://www.teqsa.gov.au/fees"
   - "Australian Government. (2024). Education Services for Overseas Students Act 2000 (ESOS Act). https://www.legislation.gov.au"
-ogImage: "https://accreditation.cn/og/teqsa-guide-2026.jpg"
 draft: false
 ---
 

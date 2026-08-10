@@ -32,7 +32,6 @@ dataSources:
     url: "https://asic.gov.au/about-asic/asic-investment-report"
   - source: "澳大利亚金融投诉管理局2025-26年度报告"
     url: "https://www.afca.org.au/publications/annual-report"
-ogImage: "https://accreditation.cn/images/og/mfaa-comparison-2026.jpg"
 draft: false
 ---
 # MFAA 澳洲贷款与金融协会：与其他同类认证的横向对比

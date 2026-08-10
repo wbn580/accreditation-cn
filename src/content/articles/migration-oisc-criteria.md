@@ -23,7 +23,6 @@ keywords:
 dataSources:
   - title: "OISC 官方手册（2026 版）"
     url: "https://www.gov.uk/government/publications/oisc-code-of-standards"
-ogImage: "https://accreditation.cn/images/og-oisc-standards-2026.jpg"
 draft: false
 ---
 

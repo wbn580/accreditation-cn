@@ -14,7 +14,6 @@ dataSources:
   - "MFAA 官方网站：https://www.mfaa.com.au/"
   - "ASIC 信贷注册指南：https://asic.gov.au/for-finance-professionals/credit-licensing/"
   - "MFAA 2025–26 年度会员手册：https://www.mfaa.com.au/membership/membership-handbook"
-ogImage: "https://www.accreditation.cn/images/mfaa-guide-og.jpg"
 draft: false
 ---
 

@@ -28,7 +28,6 @@ dataSources:
   - International Network for Quality Assurance Agencies in Higher Education (INQAAHE), "Guidelines of Good Practice," 2025 edition. https://www.inqaahe.org/guidelines-good-practice
   - Washington Accord, "Rules & Procedures," 2026 revision. https://www.ieagreements.org/accords/washington/
   - European Association for Quality Assurance in Higher Education (ENQA), "Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)," 2015. https://www.enqa.eu/esg-standards-and-guidelines/
-ogImage: https://accreditation.cn/images/glossary/mra-overview.png
 draft: false
 ---
 

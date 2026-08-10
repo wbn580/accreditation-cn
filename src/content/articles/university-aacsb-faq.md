@@ -23,7 +23,6 @@ dataSources:
   - "AACSB International. 2026. 'AACSB 2026 Business Accreditation Standards.' https://www.aacsb.edu/accreditation/standards"
   - "AACSB International. 2025. '2025 AACSB Annual Report.' https://www.aacsb.edu/annual-report"
   - "AACSB International. 2026. 'Accredited Schools Search.' https://www.aacsb.edu/accredited-schools"
-ogImage: "https://accreditation.cn/images/aacsb-faq-og.jpg"
 draft: false
 ---
 

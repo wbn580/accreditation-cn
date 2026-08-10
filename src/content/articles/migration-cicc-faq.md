@@ -26,7 +26,6 @@ dataSources:
   - "加拿大移民、难民和公民部 (IRCC) 官网：https://www.canada.ca/en/immigration-refugees-citizenship.html"
   - "CICC 2025-2026 年度报告：https://college-ic.ca/about-us/annual-reports"
   - "加拿大《移民和公民顾问管理局法》(S.C. 2019, c. 29, s. 292)"
-ogImage: "https://college-ic.ca/themes/custom/college-ic/logo.png"
 draft: false
 ---
 

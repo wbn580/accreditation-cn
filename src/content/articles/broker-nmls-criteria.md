@@ -24,7 +24,6 @@ dataSources:
   - "NMLS Resource Center: https://www.nmlsresourcecenter.org/"
   - "Conference of State Bank Supervisors (CSBS): https://www.csbs.org/"
   - "SAFE Act (Secure and Fair Enforcement for Mortgage Licensing Act of 2008): https://www.congress.gov/110/plaws/publ289/PLAW-110publ289.pdf"
-ogImage: "https://accreditation.cn/images/nmls-standards-2026.jpg"
 draft: false
 ---
 

@@ -25,7 +25,6 @@ dataSources:
   - "NACAC 2026年年度报告 (https://www.nacacnet.org/about/annual-reports/)"
   - "美国教育部高等教育认证数据库 (https://ope.ed.gov/accreditation/)"
   - "NACAC 官方历史档案 (https://www.nacacnet.org/about/history/)"
-ogImage: "https://accreditation.cn/images/nacac-history-2026.jpg"
 draft: false
 ---
 

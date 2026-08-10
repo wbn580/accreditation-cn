@@ -27,7 +27,6 @@ dataSources:
   - "European Commission. (2026). The European Qualifications Framework (EQF) 2026 Update. Brussels: Directorate-General for Employment, Social Affairs and Inclusion."
   - "Australian Government Department of Employment and Workplace Relations. (2026). Australian Qualifications Framework (AQF) Second Edition Review: Final Report. Canberra."
   - "UNESCO. (2025). Global Inventory of Regional and National Qualifications Frameworks 2025, Volume I: Thematic Chapters. Hamburg: UNESCO Institute for Lifelong Learning."
-ogImage: "https://accreditation.cn/assets/og-insight-nqf-2026.png"
 draft: false
 ---
 

@@ -24,7 +24,6 @@ dataSources:
   - "CICC 官方门户: https://college-ic.ca"
   - "加拿大移民、难民和公民部（IRCC）: https://www.canada.ca/en/immigration-refugees-citizenship.html"
   - "加拿大法律信息研究所（CanLII）: https://www.canlii.org"
-ogImage: "https://accreditation.cn/images/cicc-canada-overview-2026.jpg"
 draft: false
 ---
 

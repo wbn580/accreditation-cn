@@ -24,7 +24,6 @@ dataSources:
   - "AACSB 2026 Accreditation Standards: DEI Requirement"
   - "EQUIS 2025 Standards & Criteria: Diversity & Inclusion"
   - "UNESCO 2025 Global Education Monitoring Report: Equity in Education"
-ogImage: "https://accreditation.cn/og/dei-glossary-2026.png"
 draft: false
 ---
 ## 中英对照

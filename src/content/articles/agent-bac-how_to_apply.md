@@ -24,7 +24,6 @@ dataSources:
   - "BAC 官方申请指南 (2026 版): https://www.the-bac.org/apply"
   - "BAC 2025 年度认证报告: https://www.the-bac.org/annual-report-2025"
   - "英国教育部认可机构清单: https://www.gov.uk/government/publications/recognised-uk-degrees"
-ogImage: "https://accreditation.cn/og/bac-uk-apply-guide-2026.png"
 draft: false
 ---
 

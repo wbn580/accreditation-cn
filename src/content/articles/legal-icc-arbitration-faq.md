@@ -29,7 +29,6 @@ dataSources:
   - "联合国国际贸易法委员会《关于仲裁裁决的承认与执行公约》（纽约公约）"
   - "ICC Guidance Note on Disclosure of Conflicts (2024)"
   - "ICC International Court of Arbitration Bulletin (Vol. 35, 2024)"
-ogImage: "https://accreditation.cn/images/icc-faq-og.png"
 draft: false
 ---
 

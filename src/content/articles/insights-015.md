@@ -31,7 +31,6 @@ dataSources:
   - "世界医学教育联合会（WFME）2025年全球医学教育认证状况报告：https://wfme.org/publications/"
   - "中国医师协会境外医师资格认定指南（2025年版）：https://www.cmda.org.cn/"
   - "澳大利亚医学委员会（Medical Board of Australia）执业标准与跨境实践政策：https://www.medicalboard.gov.au/"
-ogImage: "https://accreditation.cn/images/insights/ahpra-china-recognition-2026.jpg"
 draft: false
 ---
 # 澳洲AHPRA注册医生身份在中国大陆就医承认度

@@ -24,7 +24,6 @@ dataSources:
   - "OISC 官方指南（2026 年版）：https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
   - "OISC 认证标准手册（2025 年修订版）：https://www.gov.uk/government/publications/oisc-regulatory-standards"
   - "UKVI 移民规则更新（2026 年 4 月）：https://www.gov.uk/government/collections/immigration-rules"
-ogImage: "https://accreditation.cn/images/oisc-guide-2026-og.jpg"
 draft: false
 ---
 

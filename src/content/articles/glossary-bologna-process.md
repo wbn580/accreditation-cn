@@ -28,7 +28,6 @@ dataSources:
   - "European Higher Education Area (EHEA) Official Website: https://www.ehea.info/"
   - "European Commission, The Bologna Process and the European Higher Education Area: https://education.ec.europa.eu/education-levels/higher-education/inclusive-and-connected-higher-education/bologna-process"
   - "Council of Europe, Lisbon Recognition Convention: https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=165"
-ogImage: "https://accreditation.cn/images/glossary/bologna-process-og.jpg"
 draft: false
 ---
 ## 中英对照

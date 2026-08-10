@@ -28,7 +28,6 @@ dataSources:
   - "UNESCO Global Convention on the Recognition of Qualifications concerning Higher Education (2019, effective 2023): https://www.unesco.org/en/education/higher-education/global-convention"
   - "AACSB International Accreditation Standards 2026: https://www.aacsb.edu/accreditation"
   - "ISO/IEC 17000:2020 Conformity assessment — Vocabulary and general principles: https://www.iso.org/standard/73029.html"
-ogImage: "https://accreditation.cn/images/insights/terminology-accreditation-validation-og.jpg"
 draft: false
 ---
 
