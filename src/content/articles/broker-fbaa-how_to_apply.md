@@ -62,7 +62,7 @@ FBAA 会员申请完全通过在线系统进行，无需邮寄纸质材料。以
 
 ### 第一步：在线注册账号
 
-访问 FBAA 官网（www.fbaa.com.au），点击“Membership”下的“Apply Now”。需使用个人邮箱注册，并设置密码。系统会发送验证邮件，需在 24 小时内完成邮箱验证。
+访问 FBAA 官网（[www.fbaa.com.au](https://www.fbaa.com.au)），点击“Membership”下的“Apply Now”。需使用个人邮箱注册，并设置密码。系统会发送验证邮件，需在 24 小时内完成邮箱验证。
 
 ### 第二步：填写申请表
 

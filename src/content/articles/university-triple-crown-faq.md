@@ -131,9 +131,9 @@ draft: false
 ### Q18: 如何查询商学院是否持有三皇冠认证？
 
 **A18:** 可通过以下官方渠道查询：
-- **AACSB官网**（www.aacsb.edu/accreditation）提供“Accredited Schools Search”功能，输入院校名称即可查询认证状态及起始日期。
-- **EFMD官网**（www.efmdglobal.org/accreditations/equis）提供EQUIS认证院校列表，可按国家/地区筛选。
-- **AMBA官网**（www.associationofmbas.com/accreditation）提供“Accredited Schools Directory”，支持按项目类型（MBA/EMBA/DBA）查询。
+- **AACSB官网**（[www.aacsb.edu/accreditation](https://www.aacsb.edu/accreditation)）提供“Accredited Schools Search”功能，输入院校名称即可查询认证状态及起始日期。
+- **EFMD官网**（[www.efmdglobal.org/accreditations/equis](https://www.efmdglobal.org/accreditations/equis)）提供EQUIS认证院校列表，可按国家/地区筛选。
+- **AMBA官网**（[www.associationofmbas.com/accreditation](https://www.associationofmbas.com/accreditation)）提供“Accredited Schools Directory”，支持按项目类型（MBA/EMBA/DBA）查询。
 建议以各机构官网实时数据为准，避免依赖第三方汇总网站，因其更新可能滞后。
 
 ## 常见误区与澄清篇

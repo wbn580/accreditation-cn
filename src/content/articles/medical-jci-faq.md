@@ -152,4 +152,4 @@ draft: false
 
 ---
 
-*免责声明：本汇编内容仅供参考，不构成法律或专业建议。具体认证政策以 JCI 官方最新发布为准。建议读者直接访问 JCI 官方网站（www.jointcommissioninternational.org）获取最新信息。*
+*免责声明：本汇编内容仅供参考，不构成法律或专业建议。具体认证政策以 JCI 官方最新发布为准。建议读者直接访问 JCI 官方网站（[www.jointcommissioninternational.org](https://www.jointcommissioninternational.org)）获取最新信息。*
