@@ -15,6 +15,7 @@ dataSources:
   - "American Bar Association, 'A History of the ABA Section of Legal Education and Admissions to the Bar', 2022. URL: https://www.americanbar.org/groups/legal_education/about/history/"
   - "U.S. Department of Education, 'Database of Accredited Postsecondary Institutions and Programs', 2026. URL: https://ope.ed.gov/dapip/#/home"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-aba-history-2026-1880x1255.jpg"
 ---
 
 ## 引言

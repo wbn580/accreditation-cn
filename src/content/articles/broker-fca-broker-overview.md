@@ -29,6 +29,7 @@ dataSources:
   - "英国财政部（HM Treasury）金融监管框架文件：https://www.gov.uk/government/collections/financial-services-regulation"
   - "FCA 消费者投资战略（Consumer Investments Strategy）2025：https://www.fca.org.uk/publication/corporate/consumer-investments-strategy.pdf"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fca-broker-overview-2026-1880x1253.jpg"
 ---
 
 # FCA 英国金融行为监管局持牌经纪：全面解析与最新认证标准

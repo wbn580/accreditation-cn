@@ -30,6 +30,7 @@ dataSources:
   - "EFMD Global 2025年度EQUIS认证报告: https://www.efmdglobal.org"
   - "ABET 2026年度认证数据: https://www.abet.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-070-2026-1880x1253.jpg"
 ---
 # 中国教育部涉外监管信息网与海外认证体系的衔接
 

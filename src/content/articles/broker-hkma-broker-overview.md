@@ -15,6 +15,7 @@ dataSources:
   - "香港金融管理局 2025 年年报 (https://www.hkma.gov.hk/chi/data-publications-and-research/publications/annual-report/)"
   - "证券及期货事务监察委员会（SFC）持牌人及注册机构的公众记录册 (https://www.sfc.hk/TC/Public-and-market-intermediaries/Individual-and-licence-search/)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-hkma-broker-overview-2026-1880x1253.jpg"
 ---
 
 # HKMA 香港金融管理局持牌机构：全面解析与最新认证标准

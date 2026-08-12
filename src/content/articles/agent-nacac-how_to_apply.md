@@ -26,6 +26,7 @@ dataSources:
   - "Common Application 2025-2026申请周期统计数据 (https://www.commonapp.org/2026-data)"
   - "College Board 2026年SAT/AP费用及日程表 (https://www.collegeboard.org/2026-fees)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-nacac-how_to_apply-2026-1880x1111.jpg"
 ---
 # NACAC 美国大学招生咨询协会：申请流程完整指南
 

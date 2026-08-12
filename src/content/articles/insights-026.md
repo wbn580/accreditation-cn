@@ -15,6 +15,7 @@ dataSources:
   - "EFMD. (2025). EQUIS Standards & Criteria 2025: Cost Implications for Institutions."
   - "AMBA. (2025). The Business School Accreditation Report 2025: Financial and Operational Benchmarks."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-026-2026-1880x1253.jpg"
 ---
 
 # 跨国教育集团应对多重认证的合规成本

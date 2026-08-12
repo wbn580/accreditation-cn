@@ -25,6 +25,7 @@ dataSources:
   - "FBAA 2025 年度会员报告：https://www.fbaa.com.au/about/annual-reports"
   - "ASIC 金融牌照查询系统：https://connectonline.asic.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fbaa-accredited_list-2026-1880x1253.jpg"
 ---
 
 # FBAA 澳洲金融经纪协会：全球受认证机构名单

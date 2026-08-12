@@ -16,6 +16,7 @@ dataSources:
   - "英国高等教育统计局 (HESA) 2024/25 年度 MBA 学生数据报告 (https://www.hesa.ac.uk/data-and-analysis/students)"
   - "QS 2026 全球 MBA 排名方法论 (https://www.topuniversities.com/mba-rankings/methodology)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-amba-faq-2026-1880x1111.jpg"
 ---
 
 # AMBA 工商管理硕士协会：常见问题与解答

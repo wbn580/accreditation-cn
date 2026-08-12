@@ -28,6 +28,7 @@ dataSources:
   - "Australian Government Department of Employment and Workplace Relations. (2026). Australian Qualifications Framework (AQF) Second Edition Review: Final Report. Canberra."
   - "UNESCO. (2025). Global Inventory of Regional and National Qualifications Frameworks 2025, Volume I: Thematic Chapters. Hamburg: UNESCO Institute for Lifelong Learning."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-099-2026-1880x1253.jpg"
 ---
 
 ## 导语

@@ -27,6 +27,7 @@ dataSources:
   - "Scottish Funding Council (SFC), REF Information, https://www.sfc.ac.uk/"
   - "Department for the Economy (Northern Ireland), REF Policy, https://www.economy-ni.gov.uk/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-the-ref-2026-1880x1253.jpg"
 ---
 
 ## 中英对照

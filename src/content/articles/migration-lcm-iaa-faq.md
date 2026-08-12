@@ -27,6 +27,7 @@ dataSources:
   - "新西兰移民顾问管理局 (IAA) — 持牌顾问注册与纪律记录 (https://www.iaa.govt.nz)"
   - "新西兰移民法 2007 (Immigration Act 2007) — 条款全文 (https://www.legislation.govt.nz/act/public/2007/0047/latest/whole.html)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-lcm-iaa-faq-2026-1880x869.jpg"
 ---
 
 ## 引言

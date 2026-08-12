@@ -29,6 +29,7 @@ dataSources:
   - "AACSB 2026年度认证标准: https://www.aacsb.edu/accreditation/standards"
   - "UNESCO 2025全球高等教育质量保障趋势报告: https://unesdoc.unesco.org/2025-quality-assurance-trends"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-098-2026-1880x1253.jpg"
 ---
 
 # 如何构建一个理想的认证体系框架

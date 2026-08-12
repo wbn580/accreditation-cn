@@ -25,6 +25,7 @@ dataSources:
   - "新加坡法律职业准入委员会 2026 年手册：https://www.mlaw.gov.sg/content/legal-profession/en.html"
   - "欧盟律师指令 98/5/EC 执行情况报告（2025 版）：https://ec.europa.eu/info/law/law-topic/lawyers_en"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-017-2026-1880x1253.jpg"
 ---
 
 ## 导语：跨国律师执业互惠机制的核心逻辑

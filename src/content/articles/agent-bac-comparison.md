@@ -31,6 +31,7 @@ dataSources:
   - "EQUIS 2026 年度认证机构列表 (https://www.efmdglobal.org)"
   - "英国高等教育质量保证署 (QAA) 2025 年质量准则 (https://www.qaa.ac.uk)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-bac-comparison-2026-1880x1111.jpg"
 ---
 
 ## 跨体系对比：参与对比的体系简介

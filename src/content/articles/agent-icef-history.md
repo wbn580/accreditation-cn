@@ -25,6 +25,7 @@ dataSources:
   - "The PIE News. (2023). ICEF launches new accreditation standards for agents. Retrieved from https://thepienews.com/news/icef-accreditation-standards/"
   - "ICEF Monitor. (2024). Annual Report on International Education Agent Regulation. Retrieved from https://monitor.icef.com/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-icef-history-2026-1880x1111.jpg"
 ---
 
 ## 引言

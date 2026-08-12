@@ -27,6 +27,7 @@ dataSources:
   - "香港金融管理局，《监管政策手册》模块 CA-G-1：资本充足率，2025年12月更新。URL: https://www.hkma.gov.hk/eng/regulatory-resources/regulatory-policy-manual/"
   - "香港金融管理局，《2025年年报》，2026年4月发布。URL: https://www.hkma.gov.hk/eng/about-the-hkma/hkma/publications/annual-report/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-hkma-broker-criteria-2026-1880x1253.jpg"
 ---
 
 # HKMA 香港金融管理局持牌机构：认证标准逐条详解

@@ -17,6 +17,7 @@ dataSources:
   - "GMC 2025 医师注册统计 (https://www.gmc-uk.org/registration-and-licensing)"
   - "UEMS 2025 欧洲专科医师认证指南 (https://www.uems.eu/areas-of-expertise/european-training-requirements)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-abms-comparison-2026-1880x1253.jpg"
 ---
 
 ## 一、引言：医学专科认证体系的全球格局

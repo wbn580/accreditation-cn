@@ -32,6 +32,7 @@ dataSources:
   - "New Zealand Legislation, 'Immigration Advisers Licensing Act 2007', https://www.legislation.govt.nz/act/public/2007/0069/latest/DLM1151201.html"
   - "Ministry of Business, Innovation and Employment (MBIE), 'Review of the Immigration Advisers Licensing Act 2007', 2022, https://www.mbie.govt.nz/immigration-and-tourism/immigration/immigration-advisers/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-lcm-iaa-history-2026-1880x869.jpg"
 ---
 
 ## 引言

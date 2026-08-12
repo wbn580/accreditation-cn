@@ -27,6 +27,7 @@ dataSources:
   - "英国国家档案馆：金融服务与市场法案 2000 https://www.legislation.gov.uk/ukpga/2000/8/contents"
   - "FCA 2025/26 年度报告 https://www.fca.org.uk/publication/annual-report/annual-report-2025-26.pdf"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fca-broker-history-2026-1880x1253.jpg"
 ---
 
 # FCA 英国金融行为监管局持牌经纪：历史演变与关键里程碑

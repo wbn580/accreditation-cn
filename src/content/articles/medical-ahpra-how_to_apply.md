@@ -25,6 +25,7 @@ dataSources:
   - "AHPRA 2025-2026 年度报告 (https://www.ahpra.gov.au/Publications/Annual-reports.aspx)"
   - "澳大利亚移民局 – 职业清单与技能评估 (https://immi.homeaffairs.gov.au/visas/working-in-australia/skills-assessment)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-ahpra-how_to_apply-2026-1880x1253.jpg"
 ---
 
 # AHPRA 澳洲卫生执业者管理局：申请流程完整指南

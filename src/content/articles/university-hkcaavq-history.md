@@ -15,6 +15,7 @@ dataSources:
   - "香港教育局资历架构网站: https://www.hkqf.gov.hk"
   - "HKCAAVQ 2025/26 年度报告 (公开摘要)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-hkcaavq-history-2026-1869x1300.jpg"
 ---
 
 # HKCAAVQ 香港学术及职业资历评审局：历史演变与关键里程碑

@@ -29,6 +29,7 @@ dataSources:
   - "ISO 9001:2015 医疗领域应用指南 (https://www.iso.org)"
   - "DNV GL Healthcare 2025年度认证数据 (https://www.dnv.com/healthcare)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-jci-comparison-2026-1880x1253.jpg"
 ---
 
 # JCI 国际联合委员会医院认证：与其他同类认证的横向对比

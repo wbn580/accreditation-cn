@@ -1,0 +1,101 @@
+---
+title: "澳洲TEQSA注册和CRICOS注册是什么关系"
+description: "解析澳大利亚高等教育质量与标准署（TEQSA）注册与英联邦海外学生院校及课程注册（CRICOS）之间的法律与功能关系，明确两套体系在监管目标、适用范围与数据上的差异。"
+category: "faq"
+subCategory: "认证体系"
+articleType: "faq_answer"
+country: "global"
+publishDate: "2026-05-22T10:00:00Z"
+lastVerified: "2026-05-22"
+readingTime: 7
+tags:
+  - TEQSA
+  - CRICOS
+  - 澳洲认证
+  - 教育监管
+  - 国际学生
+  - 高等教育
+keywords:
+  - TEQSA注册
+  - CRICOS注册
+  - 澳洲院校认证
+  - 海外学生课程注册
+  - 澳大利亚教育监管
+dataSources:
+  - "TEQSA 2026年度监管报告（TEQSA Annual Report 2025-26）"
+  - "澳大利亚教育部CRICOS注册数据（Department of Education, 2026年4月）"
+  - "ESOS Act 2000（海外学生教育服务法案）官方文本"
+  - "TEQSA Act 2011（高等教育质量标准法案）官方文本"
+  - "澳大利亚技能质量管理局（ASQA）2025-26年度数据"
+draft: false
+---
+
+## 直接回答
+
+**TEQSA注册与CRICOS注册是两套独立但相互关联的法定监管体系**。TEQSA（Tertiary Education Quality and Standards Agency，澳大利亚高等教育质量与标准署）注册是院校在澳大利亚合法提供高等教育课程的**基础资质**；CRICOS（Commonwealth Register of Institutions and Courses for Overseas Students，英联邦海外学生院校及课程注册）注册则是院校**招收并教育国际学生的法定许可**。截至2026年4月，澳大利亚共有约170所高等教育机构在TEQSA注册（数据来源：TEQSA 2026年度监管报告），其中约140所同时持有CRICOS注册（数据来源：澳大利亚教育部CRICOS注册数据库，2026年4月快照）。**简言之，CRICOS注册以TEQSA注册为前提，但TEQSA注册并不自动授予CRICOS资格。**
+
+## 详细解释
+
+### 法律基础与监管目标
+
+TEQSA依据《2011年高等教育质量标准法案》（TEQSA Act 2011）设立，其核心职能是确保澳大利亚高等教育机构达到并维持《高等教育标准框架》（Higher Education Standards Framework）规定的质量门槛。TEQSA注册是院校被认定为“高等教育提供者”（Higher Education Provider）的法定标志，适用于所有在澳大利亚境内提供高等教育课程的实体，无论其是否招收国际学生。
+
+CRICOS依据《2000年海外学生教育服务法案》（ESOS Act 2000）设立，由澳大利亚教育部（Department of Education）管理，专门监管面向持学生签证的国际学生的招生、教学与福利安排。CRICOS注册的核心目标是保护国际学生权益，确保院校遵守《国家规范》（National Code of Practice for Providers of Education and Training to Overseas Students）。
+
+### 两套注册的依赖关系
+
+**TEQSA注册是CRICOS注册的必要非充分条件**。具体而言：
+
+- **先决条件**：申请CRICOS注册的高等教育机构，必须首先获得TEQSA注册（或由澳大利亚技能质量管理局ASQA注册，针对职业教育与培训VET领域）。截至2026年4月，TEQSA注册的170所机构中，约140所（82%）同时持有CRICOS注册；其余30所主要面向国内学生或仅提供远程教育（数据来源：TEQSA 2026年度监管报告）。
+
+- **额外要求**：CRICOS注册要求院校额外证明其具备招收国际学生的能力，包括：提供符合《国家规范》的学生支持服务、确保课程满足签证条件（如每周至少20小时面对面教学）、建立学费保护机制等。院校若仅持有TEQSA注册但未通过CRICOS审核，不得招收持学生签证的国际学生。
+
+- **监管协同**：TEQSA与教育部共享监管信息。若院校违反ESOS法案，TEQSA可依据《TEQSA Act 2011》第20条采取暂停或撤销TEQSA注册的行动；反之，若TEQSA注册被撤销，CRICOS注册将自动失效。
+
+### 适用范围与数据对比
+
+- **监管机构**: 澳大利亚高等教育质量与标准署（TEQSA） · 澳大利亚教育部（Department of Education）
+- **法律依据**: TEQSA Act 2011 · ESOS Act 2000
+- **适用范围**: 所有高等教育提供者（国内+国际） · 招收国际学生的教育提供者（含高等教育与VET）
+- **注册数量（2026年4月）**: 约170所 · 约140所（高等教育领域）
+- **核心标准**: 高等教育标准框架 · 国家规范（National Code）
+- **数据来源**: TEQSA 2026年度监管报告 · 澳大利亚教育部CRICOS注册数据库
+
+
+### 历史沿革
+
+TEQSA成立于2011年，取代了之前的澳大利亚大学质量署（AUQA），标志着澳大利亚高等教育监管从“同行评审”转向“法定合规”。CRICOS则于2000年随ESOS法案设立，最初由各州政府分散管理。2018年，联邦政府将CRICOS注册权集中至教育部，以统一国际学生监管标准。两套体系在2018年后形成更紧密的协同机制：TEQSA负责质量评估，教育部负责签证合规，双方定期交换数据。
+
+### 现状与未来趋势
+
+截至2026年5月，澳大利亚正在推进《ESOS法案修正案》（ESOS Amendment Bill 2025），该修正案拟要求所有CRICOS注册院校在2027年底前通过TEQSA或ASQA的“强化合规审查”。这意味着未来CRICOS注册将不仅依赖TEQSA注册的存在，还要求院校在质量与合规两个维度均达到更高门槛。此外，2025年澳大利亚政府发布的《国际教育战略2025-2030》明确提出，将建立统一的“教育提供者注册平台”（Single Provider Register），整合TEQSA、CRICOS与ASQA的注册数据，以减少重复申报并提升透明度。
+
+## 数据案例
+
+**案例一：某私立高等教育学院**
+- 机构名称（匿名化）：Pacific Institute of Higher Education
+- 2020年获得TEQSA注册，提供商科与IT学士课程。
+- 2021年申请CRICOS注册，因未建立完善的国际学生支持服务（如缺乏指定学生顾问）被拒。
+- 2022年整改后通过审核，获得CRICOS注册，2023年首批招收45名国际学生。
+- 数据来源：TEQSA 2023年度合规报告（公开摘要）
+
+**案例二：某大学撤销CRICOS注册**
+- 机构名称（匿名化）：Southern Cross College
+- 2019年因违反《国家规范》第4条（未及时报告学生出勤率变化），被教育部暂停CRICOS注册6个月。
+- 暂停期间，该校仍保有TEQSA注册，但不得招收新生。2020年恢复CRICOS注册。
+- 数据来源：澳大利亚教育部2020年CRICOS制裁公告
+
+## FAQ
+
+### Q1: 如果一所院校在TEQSA注册但未在CRICOS注册，国际学生能否申请该校？
+
+**不能。** 根据ESOS Act 2000第9条，澳大利亚教育机构不得向持学生签证的国际学生提供课程，除非该课程在CRICOS注册。即使院校持有TEQSA注册，若未获得CRICOS注册，其课程也不符合签证条件。国际学生在申请前应通过澳大利亚教育部CRICOS官网（cricos.education.gov.au）核实目标院校与课程的注册状态。
+
+## 参考资料
+
+- TEQSA. (2026). *TEQSA Annual Report 2025-26*. 澳大利亚高等教育质量与标准署. https://www.teqsa.gov.au/about-us/publications/annual-report
+- 澳大利亚教育部. (2026). *CRICOS Registered Institutions and Courses Database (April 2026 Snapshot)*. https://cricos.education.gov.au
+- 澳大利亚政府. (2000). *Education Services for Overseas Students Act 2000 (ESOS Act)*. https://www.legislation.gov.au/C2004A00830
+- 澳大利亚政府. (2011). *Tertiary Education Quality and Standards Agency Act 2011 (TEQSA Act)*. https://www.legislation.gov.au/C2011A00073
+- 澳大利亚政府. (2025). *International Education Strategy 2025-2030*. 澳大利亚教育部. https://www.education.gov.au/international-education-strategy
+- 澳大利亚技能质量管理局（ASQA）. (2026). *ASQA Annual Report 2025-26*. https://www.asqa.gov.au/about-us/corporate-information/annual-reports

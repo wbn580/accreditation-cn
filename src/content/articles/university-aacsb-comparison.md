@@ -15,6 +15,7 @@ dataSources:
   - "EQUIS 2025年度统计（EFMD, 2025）"
   - "AMBA 2025-2026年度报告（AMBA, 2026）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-aacsb-comparison-2026-1880x1111.jpg"
 ---
 
 截至2026年4月，全球共有989所商学院持有AACSB认证（数据来源：AACSB 2026年度年报），同期EQUIS认证机构总数为218所（数据来源：EFMD 2025年度统计），AMBA认证机构总数为305所（数据来源：AMBA 2025-2026年度报告）。本文依据上述三家机构的公开发布数据，对AACSB、EQUIS、AMBA三大主流商科认证体系进行横向对比，旨在为院校决策者及潜在申请者提供中立的参考框架。

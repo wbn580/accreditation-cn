@@ -26,6 +26,7 @@ dataSources:
   - "CICC 2025-2026 年度报告：https://college-ic.ca/about-us/annual-reports"
   - "加拿大移民和难民保护条例 (IRPR)：https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-cicc-criteria-2026-1880x869.jpg"
 ---
 
 # CICC 加拿大移民和公民顾问管理局：认证标准逐条详解

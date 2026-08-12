@@ -27,6 +27,7 @@ dataSources:
   - "AACSB 2026年度年报：https://www.aacsb.edu/"
   - "EQUIS官方历史页面：https://www.efmdglobal.org/equis/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-amba-history-2026-1880x1111.jpg"
 ---
 
 # AMBA 工商管理硕士协会：历史演变与关键里程碑

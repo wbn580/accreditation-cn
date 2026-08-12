@@ -25,6 +25,7 @@ dataSources:
   - "新西兰移民局（INZ）持牌顾问名录：https://www.immigration.govt.nz/assist/find-a-licensed-adviser"
   - "全球移民顾问认证数据库：https://www.globalmigrationadvisor.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-lcm-iaa-accredited_list-2026-1880x869.jpg"
 ---
 
 # LCM 新西兰持牌移民顾问：全球受认证机构名单

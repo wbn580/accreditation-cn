@@ -15,6 +15,7 @@ dataSources:
   - "AIRC 2025 年度报告: https://www.airc-education.org/annual-report-2025"
   - "CHEA 认证机构名录: https://www.chea.org/directories"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-airc-criteria-2026-1880x1111.jpg"
 ---
 
 # AIRC 美国国际招生委员会：认证标准逐条详解

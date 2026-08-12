@@ -29,6 +29,7 @@ dataSources:
   - "European Commission, The Bologna Process and the European Higher Education Area: https://education.ec.europa.eu/education-levels/higher-education/inclusive-and-connected-higher-education/bologna-process"
   - "Council of Europe, Lisbon Recognition Convention: https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=165"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-bologna-process-2026-1880x1253.jpg"
 ---
 ## 中英对照
 

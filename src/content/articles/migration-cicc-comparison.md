@@ -25,6 +25,7 @@ dataSources:
   - "加拿大移民和公民顾问管理局官网《关于 CICC》(https://college-ic.ca/about-the-college)"
   - "移民和难民保护条例 (IRPR) 第 91 条 (https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-cicc-comparison-2026-1880x869.jpg"
 ---
 
 ## 引言

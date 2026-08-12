@@ -17,6 +17,7 @@ dataSources:
   - "ABET 2025年度报告: https://www.abet.org/about-abet/annual-reports/"
   - "美国国家教育统计中心（NCES）2025年数据: https://nces.ed.gov/programs/digest/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-031-2026-1880x1253.jpg"
 ---
 
 ## 导语：两种认证体系的并行架构

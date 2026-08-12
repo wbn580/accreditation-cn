@@ -17,6 +17,7 @@ dataSources:
   - "IEEE. (2024). IEEE Standard for Blockchain-Based Digital Credentials (IEEE 2711-2024). https://standards.ieee.org/"
   - "AACSB International. (2026). AACSB Accreditation and Digital Credentials: A Policy Review. https://www.aacsb.edu/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-blockchain-credential-2026-1880x1253.jpg"
 ---
 
 # 区块链证书（Blockchain Credential）

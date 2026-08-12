@@ -11,6 +11,7 @@ lang: zh
 language: zh
 tags:
 - 澳洲留学申请时间线与关键截止
+ogImage: "https://img.accreditation.cn/authority/accreditation-cn-0971-2026-1880x1253.jpg"
 ---
 
 澳大利亚大学的学年通常分为两个主要入学季：第一学期（Semester 1，简称 S1）在 2 月或 3 月开学，第二学期（Semester 2，简称 S2）在 7 月或 8 月开学。无论你瞄准哪个入学季，提前规划是拿到录取并顺利入学的基础。下面以 2026 年入学为目标，梳理从选校到签证的完整时间线和关键截止日期。

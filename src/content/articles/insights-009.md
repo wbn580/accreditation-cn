@@ -15,6 +15,7 @@ dataSources:
   - "Australian Skills Quality Authority (ASQA) 2025 Annual Report: https://www.asqa.gov.au/"
   - "中国教育部涉外监管信息网留学服务机构名单: http://jsj.moe.gov.cn/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-009-2026-1880x1253.jpg"
 ---
 
 ## 导语

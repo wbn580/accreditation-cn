@@ -29,6 +29,7 @@ dataSources:
   - "FCA 2026 Annual Report: https://www.fca.org.uk/publication/annual-report/annual-report-2025-26.pdf"
   - "FCA Handbook: https://www.handbook.fca.org.uk/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fca-broker-accredited_list-2026-1880x1253.jpg"
 ---
 ## 数据说明
 

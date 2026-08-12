@@ -24,6 +24,7 @@ dataSources:
   - title: FCA 金融行为监管局官方网站
     url: https://www.fca.org.uk/
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fca-broker-faq-2026-1880x1253.jpg"
 ---
 
 ## 引言

@@ -25,6 +25,7 @@ dataSources:
   - "日本文部科学省『大学设置基准』（2025年修订版）：https://www.mext.go.jp/a_menu/koutou/ninka/"
   - "NIAD-QE 2025年度业务实绩报告：https://www.niad.ac.jp/n_hyoka/gyomu/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-niad-qe-faq-2026-1880x869.jpg"
 ---
 
 # NIAD-QE 日本大学评价与学位授予：常见问题与解答

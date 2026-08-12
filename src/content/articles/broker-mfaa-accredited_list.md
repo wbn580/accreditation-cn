@@ -26,6 +26,7 @@ dataSources:
   - "ASIC 2025 年金融顾问注册统计数据，https://asic.gov.au/regulatory-resources/financial-services/financial-adviser-register"
   - "澳洲金融咨询协会（FAAA）2025 年行业概况，https://www.faaa.com.au/about/industry-reports"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-mfaa-accredited_list-2026-1880x1253.jpg"
 ---
 
 ## 数据说明

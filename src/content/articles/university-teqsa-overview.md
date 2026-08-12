@@ -27,6 +27,7 @@ dataSources:
   - "澳大利亚政府教育部门：https://www.education.gov.au"
   - "TEQSA 2025-26 年度报告：https://www.teqsa.gov.au/annual-report-2025-26"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-teqsa-overview-2026-1880x869.jpg"
 ---
 
 # TEQSA 澳洲高等教育质量与标准署：全面解析与最新认证标准

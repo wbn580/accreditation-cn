@@ -26,6 +26,7 @@ dataSources:
   - "欧洲高等教育质量保证协会（ENQA）《欧洲高等教育区质量保证标准与准则》（ESG 2015）：https://www.enqa.eu/esg-standards-and-guidelines/"
   - "中国教育部《中华人民共和国高等教育法》及《中外合作办学条例》：http://www.moe.gov.cn/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-083-2026-1880x1253.jpg"
 ---
 
 # 认证与注册在法律意义上的区别

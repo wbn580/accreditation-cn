@@ -26,6 +26,7 @@ dataSources:
   - "EAIE 2025年度报告: https://www.eaie.org/our-resources/annual-report.html"
   - "EAIE 2026年会议议程: https://www.eaie.org/conference.html"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-eaie-2026-1880x1253.jpg"
 ---
 # EAIE欧洲国际教育协会
 

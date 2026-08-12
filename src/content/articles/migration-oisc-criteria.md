@@ -24,6 +24,7 @@ dataSources:
   - title: "OISC 官方手册（2026 版）"
     url: "https://www.gov.uk/government/publications/oisc-code-of-standards"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-oisc-criteria-2026-1880x869.jpg"
 ---
 
 ## 标准总览

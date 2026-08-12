@@ -26,6 +26,7 @@ dataSources:
   - "ASIC 监管指南: https://asic.gov.au/regulatory-resources/financial-services"
   - "澳大利亚证券与投资委员会 (ASIC) 2025-26 年度报告: https://asic.gov.au/about-asic/corporate-reports/annual-reports"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fbaa-faq-2026-1880x1253.jpg"
 ---
 
 ## 引言

@@ -14,6 +14,7 @@ dataSources: [
     "https://www.niad.ac.jp/english/",
 ]
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-niad-qe-overview-2026-1880x869.jpg"
 ---
 
 ## 引言：NIAD-QE 的定位与核心职能

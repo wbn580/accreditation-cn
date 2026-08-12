@@ -27,6 +27,7 @@ dataSources:
   - "AACSB International. (2026). 2026 Business Accreditation Standards. https://www.aacsb.edu/accreditation/standards"
   - "AMBA. (2026). Accreditation Criteria for MBA Programmes. https://www.associationofmbas.com/accreditation"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-equis-comparison-2026-1880x869.jpg"
 ---
 
 # EQUIS 欧洲质量改进体系：与其他同类认证的横向对比

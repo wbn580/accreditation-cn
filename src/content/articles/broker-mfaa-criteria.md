@@ -29,6 +29,7 @@ dataSources:
   - "ASIC Regulatory Guide 175: Licensing: Financial product advisers"
   - "ASQA Registered Training Organisations (RTO) Database"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-mfaa-criteria-2026-1880x1253.jpg"
 ---
 
 ## 引言

@@ -28,6 +28,7 @@ dataSources:
   - source: "FBAA 2026 年度会员手册"
     url: "https://www.fbaa.com.au/resources/membership-handbook-2026"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fbaa-how_to_apply-2026-1880x1253.jpg"
 ---
 # FBAA 澳洲金融经纪协会：申请流程完整指南
 

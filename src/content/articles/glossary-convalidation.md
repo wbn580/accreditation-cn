@@ -25,6 +25,7 @@ dataSources:
   - "中国教育部留学服务中心《国（境）外学历学位认证办法》（2025 年修订版）"
   - "欧洲高等教育区《里斯本认证公约》（Lisbon Recognition Convention, 1997）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-convalidation-2026-1880x1253.jpg"
 ---
 
 # 学历认证（Convalidation）

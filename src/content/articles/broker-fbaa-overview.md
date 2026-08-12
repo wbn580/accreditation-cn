@@ -25,6 +25,7 @@ dataSources:
   - "ASIC 澳大利亚证券投资委员会官方公报：https://asic.gov.au"
   - "澳大利亚金融监管机构年度报告（2025-2026）：https://www.apra.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fbaa-overview-2026-1880x1253.jpg"
 ---
 
 ## 起源与历史沿革

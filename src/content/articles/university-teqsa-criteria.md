@@ -15,6 +15,7 @@ dataSources:
   - "TEQSA 2025-26年度报告"
   - "澳大利亚教育部《海外学生教育服务法案（ESOS Act）2000》"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-teqsa-criteria-2026-1880x869.jpg"
 ---
 
 ## 引言

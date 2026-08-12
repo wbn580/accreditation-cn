@@ -30,6 +30,7 @@ dataSources:
   - "英国高等教育统计署（HESA）2024/25 年度报告：https://www.hesa.ac.uk/data-and-analysis/publications/he-student-data-2024-25"
   - "英国政府教育部门（Department for Education）高等教育监管框架：https://www.gov.uk/government/publications/higher-education-regulation-framework"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-qaa-how_to_apply-2026-1880x1111.jpg"
 ---
 # QAA 英国质量保证局：申请流程完整指南
 

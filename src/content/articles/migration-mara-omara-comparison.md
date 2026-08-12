@@ -29,6 +29,7 @@ dataSources:
   - "College of Immigration and Citizenship Consultants (CICC). 2025 Annual Regulatory Report. https://college-ic.ca"
   - "Office of the Immigration Services Commissioner (OISC). 2025–2026 Code of Standards. https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-mara-omara-comparison-2026-1880x869.jpg"
 ---
 
 ## 引言

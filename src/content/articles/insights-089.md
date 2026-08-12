@@ -28,6 +28,7 @@ dataSources:
   - "EFMD 2025 Global Employer Survey on Accreditation Awareness"
   - "QS World University Rankings 2026: Employer Reputation Metrics"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-089-2026-1880x1253.jpg"
 ---
 # 雇主如何看待不同认证体系的含金量
 

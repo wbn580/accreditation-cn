@@ -17,6 +17,7 @@ dataSources:
   - "ABET 认证数据概览 (https://www.abet.org/accreditation/accreditation-data/)"
   - "ABET 2025 年度报告 (https://www.abet.org/about-abet/annual-reports/)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-abet-criteria-2026-1880x1253.jpg"
 ---
 
 截至 2026 年 5 月，ABET（Accreditation Board for Engineering and Technology）在全球 41 个国家认证了超过 4,500 个工程、技术、计算与应用科学项目（数据来源：ABET 2025 年度报告）。**ABET 工程与技术认证标准** 是评估这些项目质量的核心框架，由工程认证委员会（EAC）与技术认证委员会（CAC）分别发布。本汇编基于 ABET 2026-2027 认证周期的官方文件，逐条解析认证标准的构成、核心要求与演进逻辑。

@@ -15,6 +15,7 @@ dataSources:
   - "UNESCO Global Convention on the Recognition of Qualifications concerning Higher Education 2025 Implementation Report: https://unesdoc.unesco.org/ark:/48223/pf0000392345"
   - "INQAAHE Guidelines for Cross-Border Quality Assurance (2025 Revision): https://www.inqaahe.org/guidelines"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-091-2026-1880x1253.jpg"
 ---
 
 ## 导语

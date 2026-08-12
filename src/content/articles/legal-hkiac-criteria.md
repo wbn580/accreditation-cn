@@ -26,6 +26,7 @@ dataSources:
   - "HKIAC. (2025). 《机构仲裁规则》. https://www.hkiac.org/arbitration/rules"
   - "香港国际仲裁中心. (2026). 年度报告. https://www.hkiac.org/about-us/annual-reports"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-hkiac-criteria-2026-1880x1255.jpg"
 ---
 
 截至2026年5月，香港国际仲裁中心（HKIAC）依据其2026年发布的《仲裁员认证与续期指引》，共认证仲裁员超过400名（数据来源：HKIAC 2026年度报告）。该认证体系旨在确保仲裁员具备处理国际及本地仲裁案件所需的专业能力与道德水准。本文逐条详解HKIAC仲裁员认证标准的各项要求，涵盖资格条件、评估流程及持续合规机制。

@@ -26,6 +26,7 @@ dataSources:
   - "CHEA 2025 年度报告: https://www.chea.org/2025-annual-report"
   - "美国教育部认证数据库: https://ope.ed.gov/accreditation"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-chea-how_to_apply-2026-1880x869.jpg"
 ---
 
 ## 引言：CHEA 在美国高等教育认证体系中的角色

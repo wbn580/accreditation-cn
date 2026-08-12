@@ -35,6 +35,7 @@ dataSources:
   - "ACBSP 2025 认证标准：https://www.acbsp.org/page/accreditation-standards-2025"
   - "IACBE 2026 成员资格要求：https://www.iacbe.org/membership-requirements-2026.pdf"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-triple-crown-comparison-2026-1880x1253.jpg"
 ---
 # 三皇冠认证（Triple Crown）：与其他同类认证的横向对比
 

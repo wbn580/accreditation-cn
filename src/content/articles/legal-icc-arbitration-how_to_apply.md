@@ -15,6 +15,7 @@ dataSources:
   - "ICC 2026 年年度报告 (https://iccwbo.org/news-publications/arbitration-reports/)"
   - "ICC 仲裁费用与收费表 (https://iccwbo.org/dispute-resolution-services/arbitration/costs-and-payment/)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-icc-arbitration-how_to_apply-2026-1880x1255.jpg"
 ---
 
 # ICC 国际商会仲裁院：申请流程完整指南

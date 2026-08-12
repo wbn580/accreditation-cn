@@ -27,6 +27,7 @@ dataSources:
   - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education: Implementation Report. https://unesdoc.unesco.org/ark:/48223/pf0000389876"
   - "INQAAHE. (2025). INQAAHE Guidelines of Good Practice in Quality Assurance (2025 Edition). https://www.inqaahe.org/guidelines-2025"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-079-2026-1880x1253.jpg"
 ---
 
 # 认证标准中的国际化维度缺少了什么的批评

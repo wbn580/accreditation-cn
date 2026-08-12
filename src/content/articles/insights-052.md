@@ -26,6 +26,7 @@ dataSources:
   - "European Quality Assurance Register for Higher Education (EQAR), 'Register of QA Agencies', 2026, https://www.eqar.eu"
   - "UNESCO, 'Global Convention on the Recognition of Qualifications concerning Higher Education', 2025 status report, https://www.unesco.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-052-2026-1880x1253.jpg"
 ---
 
 ## 导语：认证信息作为院校质量判断的基线工具

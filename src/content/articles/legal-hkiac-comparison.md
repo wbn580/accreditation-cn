@@ -30,6 +30,7 @@ dataSources:
   - "SIAC 2025年度年报，https://www.siac.org.sg/2014-11-03-13-33-43/annual-reports"
   - "ICC国际仲裁院2025年统计数据，https://iccwbo.org/dispute-resolution-services/icc-international-court-of-arbitration/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-hkiac-comparison-2026-1880x1255.jpg"
 ---
 
 ## 引言

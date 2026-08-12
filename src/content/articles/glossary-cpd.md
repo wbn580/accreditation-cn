@@ -15,6 +15,7 @@ dataSources:
   - "Chartered Institute of Personnel and Development (CIPD). (2026). What is CPD? https://www.cipd.org/en/knowledge/factsheets/cpd-factsheet/"
   - "European Parliament & Council. (2005). Directive 2005/36/EC on the recognition of professional qualifications. Official Journal of the European Union. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32005L0036"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-cpd-2026-1880x1253.jpg"
 ---
 
 ## 中英对照

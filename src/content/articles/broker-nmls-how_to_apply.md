@@ -27,6 +27,7 @@ dataSources:
   - "NMLS, 2025 Annual Report: Licensing and Renewal Statistics"
   - "Conference of State Bank Supervisors (CSBS), SAFE Act MLO Licensing Model, 2026"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-nmls-how_to_apply-2026-1880x1253.jpg"
 ---
 
 ## 概述：NMLS 与 MLO 许可制度

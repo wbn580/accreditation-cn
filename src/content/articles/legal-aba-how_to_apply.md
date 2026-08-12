@@ -25,6 +25,7 @@ dataSources:
   - "ABA Council of the Section of Legal Education: Annual Report on Law School Accreditation (2026)"
   - "U.S. Department of Education: Database of Accredited Postsecondary Institutions and Programs (2026)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-aba-how_to_apply-2026-1880x1255.jpg"
 ---
 
 # ABA 美国律师协会认证：申请流程完整指南

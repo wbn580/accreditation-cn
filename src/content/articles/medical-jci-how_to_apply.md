@@ -28,6 +28,7 @@ dataSources:
   - "Joint Commission International. (2025). JCI Accreditation Statistics 2025 Annual Report. Retrieved from https://www.jointcommissioninternational.org/annual-report/"
   - "World Health Organization. (2024). Patient Safety Incident Reporting and Learning Systems. Geneva: WHO."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-jci-how_to_apply-2026-1880x1253.jpg"
 ---
 
 # JCI 国际联合委员会医院认证：申请流程完整指南

@@ -27,6 +27,7 @@ dataSources:
   - "Legal Services Act 2007：https://www.legislation.gov.uk/ukpga/2007/29"
   - "SRA 2025 年度报告：https://www.sra.org.uk/sra/how-we-work/reports/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-sra-history-2026-1880x1255.jpg"
 ---
 
 英国律师监管局（Solicitors Regulation Authority，简称 SRA）是英格兰与威尔士律师行业的独立监管机构，其历史演变反映了法律职业从自我管理向独立公共监管的转型。截至 2026 年 5 月，SRA 监管超过 20 万名律师及约 1 万家律师事务所（数据来源：SRA 2026 年度监管报告）。本汇编依据 SRA 官方公开文件、英国法律委员会报告及《法律服务法 2007》等原始资料，系统梳理 SRA 的创立背景、关键里程碑、重大改革与近年演变。

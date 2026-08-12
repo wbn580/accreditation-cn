@@ -17,6 +17,7 @@ dataSources:
   - "AACSB 认证院校名录 (https://www.aacsb.edu/accredited)"
   - "AACSB 国际认证年度报告 2025 (https://www.aacsb.edu/insights/reports/2025)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-aacsb-history-2026-1880x1111.jpg"
 ---
 
 ## 引言

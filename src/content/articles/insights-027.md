@@ -15,6 +15,7 @@ dataSources:
   - "EQUIS 2025标准修订文件: https://www.efmdglobal.org"
   - "AMBA 2026认证手册: https://www.associationofmbas.com"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-027-2026-1880x1253.jpg"
 ---
 
 ## 导语

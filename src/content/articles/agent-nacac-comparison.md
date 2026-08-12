@@ -26,6 +26,7 @@ dataSources:
   - "ICEF 2025 行业趋势报告: https://www.icef.com/reports"
   - "AIRC 2026 认证标准: https://www.airc-education.org/standards"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-nacac-comparison-2026-1880x1111.jpg"
 ---
 
 # NACAC 美国大学招生咨询协会：与其他同类认证的横向对比

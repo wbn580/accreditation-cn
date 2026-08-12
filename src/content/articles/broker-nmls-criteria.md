@@ -25,6 +25,7 @@ dataSources:
   - "Conference of State Bank Supervisors (CSBS): https://www.csbs.org/"
   - "SAFE Act (Secure and Fair Enforcement for Mortgage Licensing Act of 2008): https://www.congress.gov/110/plaws/publ289/PLAW-110publ289.pdf"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-nmls-criteria-2026-1880x1253.jpg"
 ---
 
 ## 引言

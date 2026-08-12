@@ -26,6 +26,7 @@ dataSources:
   - "GMC 2025 年注册数据公报 (https://www.gmc-uk.org/about/reports-and-publications/registration-data-bulletin-2025)"
   - "FSMB 2026 年医师执照年度报告 (https://www.fsmb.org/siteassets/advocacy/publications/2026-physician-licensure-annual-report.pdf)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-ahpra-comparison-2026-1880x1253.jpg"
 ---
 
 # AHPRA 澳洲卫生执业者管理局：与其他同类认证的横向对比

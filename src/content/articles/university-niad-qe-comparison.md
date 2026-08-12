@@ -28,6 +28,7 @@ dataSources:
   - "ENQA 2025年欧洲高等教育质量保障标准: https://www.enqa.eu/"
   - "中国教育部学位与研究生教育发展中心 2025年认证工作概况: https://www.cdgdc.edu.cn/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-niad-qe-comparison-2026-1880x869.jpg"
 ---
 
 # NIAD-QE 日本大学评价与学位授予：与其他同类认证的横向对比

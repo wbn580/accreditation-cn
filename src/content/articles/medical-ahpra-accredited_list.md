@@ -27,6 +27,7 @@ dataSources:
   - "澳大利亚医学委员会：https://www.medicalboard.gov.au"
   - "澳大利亚护理与助产委员会：https://www.nursingmidwiferyboard.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-ahpra-accredited_list-2026-1880x1253.jpg"
 ---
 
 # AHPRA 澳洲卫生执业者管理局：全球受认证机构名单

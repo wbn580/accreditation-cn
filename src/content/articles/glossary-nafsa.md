@@ -15,6 +15,7 @@ dataSources:
   - "NAFSA 2025年度报告：https://www.nafsa.org/about/annual-report"
   - "美国教育部认可机构列表：https://www2.ed.gov/admins/finaid/accred/index.html"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-nafsa-2026-1880x1253.jpg"
 ---
 
 # NAFSA国际教育协会

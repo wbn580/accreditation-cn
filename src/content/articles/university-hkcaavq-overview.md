@@ -25,6 +25,7 @@ dataSources:
   - "香港特别行政区政府教育局：https://www.edb.gov.hk"
   - "资历架构网站：https://www.hkqf.gov.hk"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-hkcaavq-overview-2026-1869x1300.jpg"
 ---
 
 ## 引言

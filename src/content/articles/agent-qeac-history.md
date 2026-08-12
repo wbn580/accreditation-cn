@@ -26,6 +26,7 @@ dataSources:
   - "澳大利亚技能质量管理局（ASQA）《教育代理监管年度报告》（2025年版）"
   - "澳大利亚国际教育协会（IEAA）《QEAC项目发展白皮书》（2024年出版）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-qeac-history-2026-1880x1111.jpg"
 ---
 # QEAC 澳洲留学中介持牌资格：历史演变与关键里程碑
 

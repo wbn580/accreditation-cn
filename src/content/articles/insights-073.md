@@ -15,6 +15,7 @@ dataSources:
   - "EQUIS. (2025). EQUIS Standards & Criteria. https://www.efmdglobal.org/accreditations/equis"
   - "ABET. (2025). ABET Accreditation Yearbook. https://www.abet.org/accreditation-yearbook"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-073-2026-1880x1253.jpg"
 ---
 
 # 跨国学位荣誉认证与本土认证的换算逻辑

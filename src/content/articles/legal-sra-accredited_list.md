@@ -15,6 +15,7 @@ dataSources:
   - "SRA 关于认证标准的官方指引（2025年修订版）：https://www.sra.org.uk/solicitors/guidance/recognised-qualifications/"
   - "英国法律教育委员会（BARBRI）2026年合作院校报告：https://www.barbri.com/uk/institutions/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-sra-accredited_list-2026-1880x1255.jpg"
 ---
 
 # SRA 英国律师监管局：全球受认证机构名单

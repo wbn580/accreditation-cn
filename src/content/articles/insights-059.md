@@ -25,6 +25,7 @@ dataSources:
   - "ENQA 2026 远程评审指南：https://www.enqa.eu/remote-review-guidelines-2026"
   - "AACSB 2025 认证标准更新说明：https://www.aacsb.edu/accreditation/standards-2025"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-059-2026-1880x1253.jpg"
 ---
 
 ## 导语

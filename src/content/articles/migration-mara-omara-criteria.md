@@ -17,6 +17,7 @@ dataSources:
   - "Department of Home Affairs, 'About the Register of Migration Agents', 2026, https://www.homeaffairs.gov.au/about/register-of-migration-agents"
   - "Professional Standards for Registered Migration Agents, 2025 Revision, https://www.mara.gov.au/working-as-an-agent/professional-standards"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-mara-omara-criteria-2026-1880x869.jpg"
 ---
 
 # MARN 澳洲注册移民代理制度：认证标准逐条详解

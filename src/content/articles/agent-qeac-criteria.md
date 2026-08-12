@@ -26,6 +26,7 @@ dataSources:
   - "澳大利亚留学中介监管机构（OMARA）: https://www.mara.gov.au"
   - "澳大利亚留学中介行为准则（Code of Conduct for Registered Migration Agents）: https://www.mara.gov.au/code-of-conduct"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-qeac-criteria-2026-1880x1111.jpg"
 ---
 # QEAC 澳洲留学中介持牌资格：认证标准逐条详解
 

@@ -13,6 +13,7 @@ keywords: ["GMC认证", "英国医学总会", "医学资格认证", "英国医�
 dataSources:
   - "https://www.gmc-uk.org/registration-and-licensing"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-gmc-overview-2026-1880x1253.jpg"
 ---
 
 ## 一、GMC 英国医学总会：历史沿革与法定职能

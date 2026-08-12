@@ -14,6 +14,7 @@ dataSources:
   - name: ICEF 官方认证页面
     url: https://www.icef.com/accreditation
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-icef-overview-2026-1880x1111.jpg"
 ---
 
 ## 一、ICEF 认证的起源与发展

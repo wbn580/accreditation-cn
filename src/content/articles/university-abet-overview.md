@@ -25,6 +25,7 @@ dataSources:
   - "ABET Accreditation Statistics 2025: https://www.abet.org/accreditation/accreditation-statistics/"
   - "ABET Criteria for Accrediting Engineering Programs, 2026-2027: https://www.abet.org/accreditation/accreditation-criteria/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-abet-overview-2026-1880x1253.jpg"
 ---
 
 # ABET 工程与技术认证：全面解析与最新认证标准

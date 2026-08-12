@@ -15,6 +15,7 @@ dataSources:
   - "ENQA 2025 Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)"
   - "AACSB 2026 Accreditation Standards: Guiding Principles and Standards for Business Accreditation"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-062-2026-1880x1253.jpg"
 ---
 
 认证机构的公信力根植于其自身的透明度和问责制。截至2026年5月，全球主要认证机构正面临前所未有的外部审视压力，要求其公开治理结构、决策过程与绩效数据。本汇编依据ENQA 2025年发布的《欧洲高等教育区质量保证标准与指南》（ESG）、CHEA国际质量集团（CIQG）2025年度报告及AACSB 2026年认证标准等权威来源，梳理认证机构在自我监督、利益冲突管理及公众信息披露方面的现行实践与演进方向。

@@ -15,6 +15,7 @@ dataSources:
   - "ABET Accreditation Policy and Procedure Manual 2025-2026 (https://www.abet.org/accreditation-policies/)"
   - "EQUIS Standards and Criteria 2025 (https://www.efmdglobal.org/accreditations/equis/standards-and-criteria)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-023-2026-1880x1253.jpg"
 ---
 
 # 认证有效期与续展机制对比

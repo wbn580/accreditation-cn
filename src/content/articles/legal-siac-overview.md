@@ -28,6 +28,7 @@ dataSources:
   - title: "SIAC 2025 年度年报"
     url: "https://www.siac.org.sg/annual-reports"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-siac-overview-2026-1880x1255.jpg"
 ---
 
 # SIAC 新加坡国际仲裁中心：全面解析与最新认证标准

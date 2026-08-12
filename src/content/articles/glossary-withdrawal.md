@@ -15,6 +15,7 @@ dataSources:
   - "AACSB: Accreditation Standards and Policies - Withdrawal and Revocation (2026)"
   - "ABET: Accreditation Policy and Procedure Manual - Section 9: Termination (2025)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-withdrawal-2026-1880x1253.jpg"
 ---
 
 ## 中英对照

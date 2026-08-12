@@ -23,6 +23,7 @@ keywords:
 dataSources:
   - "https://www.iaa.govt.nz"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-lcm-iaa-overview-2026-1880x869.jpg"
 ---
 
 ## 概述

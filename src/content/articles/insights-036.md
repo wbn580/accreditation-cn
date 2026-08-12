@@ -15,6 +15,7 @@ dataSources:
   - "中国工程教育专业认证协会 (CEEAA) - 华盛顿协议：https://www.ceeaa.org.cn/"
   - "ABET - Washington Accord History: https://www.abet.org/about-abet/history/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-036-2026-1880x1253.jpg"
 ---
 
 # 华盛顿协议与工程教育国际互认

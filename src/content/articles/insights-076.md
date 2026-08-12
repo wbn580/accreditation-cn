@@ -26,6 +26,7 @@ dataSources:
   - "INQAAHE 2026 Global Survey on Quality Assurance and Equity. International Network for Quality Assurance Agencies in Higher Education. https://www.inqaahe.org/"
   - "UNESCO 2025 Global Education Monitoring Report: Equity in Higher Education. https://unesdoc.unesco.org/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-076-2026-1880x1253.jpg"
 ---
 
 ## 导语

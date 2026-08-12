@@ -27,6 +27,7 @@ dataSources:
   - "香港特别行政区政府公司注册处：https://www.cr.gov.hk"
   - "香港个人资料私隐专员公署：https://www.pcpd.org.hk"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-hksia-criteria-2026-1880x869.jpg"
 ---
 
 ## 引言

@@ -15,6 +15,7 @@ dataSources:
   - "World Health Organization. (2025). Patient Safety and Quality of Care: International Perspectives. https://www.who.int"
   - "International Society for Quality in Health Care. (2025). ISQua Accreditation Report. https://www.isqua.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-jci-history-2026-1880x1253.jpg"
 ---
 
 # JCI 国际联合委员会医院认证：历史演变与关键里程碑

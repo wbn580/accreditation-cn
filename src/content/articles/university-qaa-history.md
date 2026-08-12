@@ -15,6 +15,7 @@ dataSources:
   - "QAA 2025年度报告: https://www.qaa.ac.uk/docs/qaa/annual-reports"
   - "英国教育部《高等教育质量保障体系评估》2024: https://www.gov.uk/government/publications/higher-education-quality-assurance-review"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-qaa-history-2026-1880x1253.jpg"
 ---
 
 # QAA 英国质量保证局：历史演变与关键里程碑

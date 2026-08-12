@@ -25,6 +25,7 @@ dataSources:
   - "CSBS 2025 年度报告 (https://www.csbs.org/annual-report)"
   - "美国联邦金融监管局 (FINRA) 数据公报 (https://www.finra.org/rules-guidance)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-nmls-overview-2026-1880x1253.jpg"
 ---
 
 ## 起源与发展：NMLS 的设立背景与演变

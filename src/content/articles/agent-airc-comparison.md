@@ -15,6 +15,7 @@ dataSources:
   - "ICEF 监管机构列表: https://www.icef.com/accreditation"
   - "NAFSA 会员与认证政策: https://www.nafsa.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-airc-comparison-2026-1880x1111.jpg"
 ---
 
 ## 引言：AIRC 在认证体系中的定位

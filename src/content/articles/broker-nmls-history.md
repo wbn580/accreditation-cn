@@ -27,6 +27,7 @@ dataSources:
   - "U.S. Congress. (2008). Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act). Public Law 110-289."
   - "NMLS Resource Center. (2026). NMLS User Guide & Fact Sheets. Nationwide Multistate Licensing System."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-nmls-history-2026-1880x1253.jpg"
 ---
 # NMLS 美国全国多州许可系统：历史演变与关键里程碑
 

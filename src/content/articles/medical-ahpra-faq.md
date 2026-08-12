@@ -30,6 +30,7 @@ dataSources:
   - "Australian Health Practitioner Regulation Agency. International Qualifications. 2026. https://www.ahpra.gov.au/Registration/International-Qualifications.aspx"
   - "Department of Health and Aged Care. National Registration and Accreditation Scheme. 2026. https://www.health.gov.au/topics/national-registration-and-accreditation-scheme"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-ahpra-faq-2026-1880x1253.jpg"
 ---
 
 # AHPRA 澳洲卫生执业者管理局：常见问题与解答

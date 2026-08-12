@@ -17,6 +17,7 @@ dataSources:
   - "CEDEFOP. (2026). European Inventory on NQFs 2025. https://www.cedefop.europa.eu/en/tools/nqfs"
   - "ENIC-NARIC Network. (2026). Recognition of Qualifications: Annual Report. https://www.enic-naric.net/reports"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-035-2026-1880x1253.jpg"
 ---
 
 # 欧盟Europass与全球认证标准对接

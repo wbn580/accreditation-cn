@@ -15,6 +15,7 @@ dataSources:
   - "ASIC 信贷注册指南：https://asic.gov.au/for-finance-professionals/credit-licensing/"
   - "MFAA 2025–26 年度会员手册：https://www.mfaa.com.au/membership/membership-handbook"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-mfaa-how_to_apply-2026-1880x1253.jpg"
 ---
 
 # MFAA 澳洲贷款与金融协会：申请流程完整指南

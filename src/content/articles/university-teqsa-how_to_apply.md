@@ -25,6 +25,7 @@ dataSources:
   - "TEQSA. (2026). Fees and Charges Schedule 2026. https://www.teqsa.gov.au/fees"
   - "Australian Government. (2024). Education Services for Overseas Students Act 2000 (ESOS Act). https://www.legislation.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-teqsa-how_to_apply-2026-1880x869.jpg"
 ---
 
 ## TEQSA 澳洲高等教育质量与标准署：申请流程完整指南

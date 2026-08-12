@@ -26,6 +26,7 @@ dataSources:
   - "ABET. (2026). Criteria for Accrediting Engineering Programs. Retrieved from https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs/"
   - "ABET. (2026). Fee Schedule. Retrieved from https://www.abet.org/accreditation/fees/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-abet-how_to_apply-2026-1880x1253.jpg"
 ---
 
 ## 引言

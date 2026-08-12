@@ -27,6 +27,7 @@ dataSources:
   - title: ABA 法律教育与律师资格准入部门官方认证列表
     url: https://www.americanbar.org/groups/legal_education/resources/aba_approved_law_schools/
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-aba-comparison-2026-1880x1255.jpg"
 ---
 
 ## 引言：ABA 认证在法学教育认证体系中的定位

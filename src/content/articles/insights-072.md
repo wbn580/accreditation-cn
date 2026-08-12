@@ -27,6 +27,7 @@ dataSources:
   - "香港教育局 2025 年度《非本地课程注册统计年报》 (https://www.edb.gov.hk/tc/about-edb/publications-stat/statistics/index.html)"
   - "香港学术及职业资历评审局 (HKCAAVQ) 2026 年度报告 (https://www.hkcaavq.edu.hk)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-072-2026-1880x1253.jpg"
 ---
 
 ## 导语

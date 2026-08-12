@@ -28,6 +28,7 @@ dataSources:
   - 英国医学总会 2025 年度工作报告: https://www.gmc-uk.org/about/how-we-work/corporate-strategy-and-plans/annual-report
   - 英国政府教育与技能资助局 (ESFA) 高等教育注册数据: https://www.gov.uk/government/collections/register-of-licensed-sponsors-students
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-gmc-accredited_list-2026-1880x1253.jpg"
 ---
 
 ## 数据说明

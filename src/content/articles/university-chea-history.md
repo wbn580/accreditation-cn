@@ -17,6 +17,7 @@ dataSources:
   - "高等教育认证委员会（CHEA）历史档案：https://www.chea.org/about/history"
   - "《高等教育法案》1965 年修订版文本：https://www.congress.gov/89/statute/STATUTE-79-Pg1219.pdf"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-chea-history-2026-1880x869.jpg"
 ---
 
 # CHEA 美国高等教育认证委员会：历史演变与关键里程碑

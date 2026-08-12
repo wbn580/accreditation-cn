@@ -25,6 +25,7 @@ dataSources:
   - "美国州银行监管者会议(CSBS) 2025年度报告: https://www.csbs.org/"
   - "美国消费者金融保护局(CFPB) 2026年监管指南: https://www.consumerfinance.gov/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-013-2026-1880x1253.jpg"
 ---
 
 ## 导语

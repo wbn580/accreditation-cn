@@ -25,6 +25,7 @@ dataSources:
   - "香港资历架构（QF）官方网页：https://www.hkqf.gov.hk"
   - "HKCAAVQ 官方网页：https://www.hkcaavq.edu.hk"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-hkcaavq-faq-2026-1869x1300.jpg"
 ---
 # HKCAAVQ 香港学术及职业资历评审局：常见问题与解答
 

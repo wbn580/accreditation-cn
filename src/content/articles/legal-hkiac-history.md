@@ -27,6 +27,7 @@ dataSources:
   - "Queen Mary University of London & White & Case 2025 International Arbitration Survey (https://www.arbitration.qmul.ac.uk)"
   - "联合国国际贸易法委员会（UNCITRAL）官方网站 (https://uncitral.un.org)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-hkiac-history-2026-1880x1255.jpg"
 ---
 
 ## 引言

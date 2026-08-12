@@ -25,6 +25,7 @@ dataSources:
   - "CSBS - Conference of State Bank Supervisors: https://www.csbs.org"
   - "SAFE Act (S. 2756), 2008: https://www.congress.gov/bill/110th-congress/senate-bill/2756"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-nmls-faq-2026-1880x1253.jpg"
 ---
 
 ## 引言

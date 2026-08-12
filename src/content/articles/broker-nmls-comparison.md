@@ -27,6 +27,7 @@ dataSources:
   - "FINRA 认证信息: https://www.finra.org/registration-accreditation"
   - "SAFE Act 官方文本: https://www.congress.gov/bill/110th-congress/house-bill/3221"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-nmls-comparison-2026-1880x1253.jpg"
 ---
 
 ## 跨体系对比：参与对比的体系简介

@@ -15,6 +15,7 @@ dataSources:
   - "GMC. (2025). The state of medical education and practice in the UK: 2025 report. General Medical Council. https://www.gmc-uk.org/about/what-we-do-and-why/data-and-research/the-state-of-medical-education-and-practice-in-the-uk"
   - "GMC. (2026). Quality assurance framework for medical education. General Medical Council. https://www.gmc-uk.org/education/quality-assurance"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-gmc-criteria-2026-1880x1253.jpg"
 ---
 
 # GMC 英国医学总会：认证标准逐条详解

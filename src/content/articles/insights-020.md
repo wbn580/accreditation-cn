@@ -27,6 +27,7 @@ dataSources:
   - "AACSB认证标准（2020版）及撤销政策：https://www.aacsb.edu/accreditation/standards"
   - "CHEA认证撤销数据库：https://www.chea.org/accreditation-database"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-020-2026-1880x1253.jpg"
 ---
 
 ## 导语

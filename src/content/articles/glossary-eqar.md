@@ -15,6 +15,7 @@ dataSources:
   - "欧洲高等教育区（EHEA）官网: https://www.ehea.info/"
   - "欧洲高等教育质量保障协会（ENQA）官网: https://www.enqa.eu/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-eqar-2026-1880x1253.jpg"
 ---
 
 # EQAR欧洲质量保障注册局

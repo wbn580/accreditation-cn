@@ -26,6 +26,7 @@ dataSources:
   - "BGA（商学院毕业生协会）年度报告：https://www.businessgraduatesassociation.com/"
   - "QS世界大学排名-商学院认证数据：https://www.topuniversities.com/university-rankings/mba-rankings"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-amba-overview-2026-1880x1111.jpg"
 ---
 
 ## 引言：AMBA 认证的全球定位与权威性

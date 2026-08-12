@@ -17,6 +17,7 @@ dataSources:
   - "HKIAC 2025 年案件统计: https://www.hkiac.org/about-us/statistics"
   - "SCC 2025 年仲裁统计: https://sccinstitute.com/statistics/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-siac-comparison-2026-1880x1255.jpg"
 ---
 
 ## 跨体系对比：参与对比的体系简介

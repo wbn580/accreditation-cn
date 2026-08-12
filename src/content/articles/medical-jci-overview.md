@@ -31,6 +31,7 @@ dataSources:
   - "Joint Commission International. (2026). JCI-Accredited Organizations Directory. https://www.jointcommissioninternational.org/accredited-organizations/"
   - "Joint Commission International. (2025). 2025 Annual Report: Advancing Quality and Patient Safety Worldwide. https://www.jointcommissioninternational.org/about-jci/annual-report/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-jci-overview-2026-1880x1253.jpg"
 ---
 # JCI 国际联合委员会医院认证：全面解析与最新认证标准
 

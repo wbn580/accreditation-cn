@@ -27,6 +27,7 @@ dataSources:
   - source: "Law Council of Australia — Overseas Practitioner Registration"
     url: "https://www.lawcouncil.asn.au/policy-agenda/admission-to-the-legal-profession/overseas-practitioners"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-lc-australia-how_to_apply-2026-1880x1255.jpg"
 ---
 
 ## 概述

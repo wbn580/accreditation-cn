@@ -15,6 +15,7 @@ dataSources:
   - "ESOS Act 2000 文本：https://www.legislation.gov.au/Series/C2004A00781"
   - "澳大利亚教育部国际学生数据：https://www.education.gov.au/international-education-data"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-042-2026-1880x1253.jpg"
 ---
 
 ## 导语

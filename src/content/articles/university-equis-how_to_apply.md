@@ -15,6 +15,7 @@ dataSources:
   - "EFMD. (2025). EQUIS Annual Report 2025. https://www.efmd.org/accreditation/equis/annual-reports"
   - "EFMD. (2026). EQUIS Application Guide. https://www.efmd.org/accreditation/equis/apply"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-equis-how_to_apply-2026-1880x869.jpg"
 ---
 # EQUIS 欧洲质量改进体系：申请流程完整指南
 

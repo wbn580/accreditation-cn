@@ -28,6 +28,7 @@ dataSources:
   - "EFMD. (2025). EQUIS Peer Review Manual. https://www.efmdglobal.org/accreditations/business-schools/equis/equis-peer-review/"
   - "EFMD. (2026). EQUIS Accredited Schools List. https://www.efmdglobal.org/accreditations/business-schools/equis/equis-accredited-schools/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-equis-criteria-2026-1880x869.jpg"
 ---
 
 ## 引言

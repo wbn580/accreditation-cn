@@ -22,6 +22,7 @@ dataSources:
   - "香港特别行政区政府入境事务处：认可移民服务提供者名单（政府公报，https://www.immd.gov.hk/accredited-migration-services）"
   - "国际移民服务认证联盟（ICSAA）2025 年全球认证报告（ICSAA 报告，https://www.icsaa.org/report-2025）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-hksia-accredited_list-2026-1880x869.jpg"
 ---
 ## 引言
 

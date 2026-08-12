@@ -26,6 +26,7 @@ dataSources:
   - "SIAC 受认证机构名单 (https://www.siac.org.sg/accredited-institutions)"
   - "新加坡法律部仲裁信息 (https://www.mlaw.gov.sg/our-work/international-arbitration/)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-siac-accredited_list-2026-1880x1255.jpg"
 ---
 
 # SIAC 新加坡国际仲裁中心：全球受认证机构名单

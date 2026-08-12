@@ -16,6 +16,7 @@ dataSources:
   - "Law Society of Singapore – Admissions & Examinations Statistics, 2025 | https://www.lawsociety.org.sg/admissions/"
   - "The Law Society of Hong Kong – Annual Report 2025 | https://www.hklawsoc.org.hk/pub_e/about/annualreport/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-sra-comparison-2026-1880x1255.jpg"
 ---
 
 ## 引言：跨体系认证对比的必要性

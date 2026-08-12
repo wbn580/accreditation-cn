@@ -16,6 +16,7 @@ dataSources:
   - "QAA 2025-2026年度报告（https://www.qaa.ac.uk/reports）"
   - "英国认证委员会2026年年度报告（https://www.the-bac.org/annual-report-2026）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-bac-history-2026-1880x1111.jpg"
 ---
 
 # BAC 英国认证委员会：历史演变与关键里程碑

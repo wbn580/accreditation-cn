@@ -29,6 +29,7 @@ dataSources:
   - "JCI 2025 年度报告（https://www.jointcommissioninternational.org/annual-report/）"
   - "世界卫生组织（WHO）全球医疗质量数据库，2026 年更新"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-jci-accredited_list-2026-1880x1253.jpg"
 ---
 ## 数据说明
 

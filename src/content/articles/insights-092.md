@@ -25,6 +25,7 @@ dataSources:
   - "International Network for Quality Assurance Agencies in Higher Education (INQAAHE). (2026). Quality Assurance in a Massified System: A Global Survey. https://www.inqaahe.org/sites/default/files/2026-05/INQAAHE_Global_Survey_2026.pdf"
   - "World Bank. (2025). Tertiary Education and the Future of Work. https://www.worldbank.org/en/topic/tertiaryeducation/publication/tertiary-education-and-the-future-of-work"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-092-2026-1880x1253.jpg"
 ---
 
 # 高等教育大众化对认证体系提出的新要求

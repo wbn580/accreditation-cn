@@ -26,6 +26,7 @@ dataSources:
   - "EQUIS Standards & Criteria 2026: https://www.efmdglobal.org/wp-content/uploads/2026/01/EQUIS-Standards-and-Criteria-2026.pdf"
   - "AACSB 2026 Business School Data Guide: https://www.aacsb.edu/data-reports/data-guide"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-equis-overview-2026-1880x869.jpg"
 ---
 
 # EQUIS 欧洲质量改进体系：全面解析与最新认证标准

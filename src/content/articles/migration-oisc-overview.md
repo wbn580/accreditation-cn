@@ -27,6 +27,7 @@ dataSources:
   - "OISC 2025-2026 年度报告：https://www.gov.uk/government/publications/oisc-annual-report-2025-2026"
   - "英国政府移民服务监管框架：https://www.gov.uk/government/publications/immigration-services-commissioner-regulatory-framework"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-oisc-overview-2026-1880x869.jpg"
 ---
 
 # OISC 英国移民服务专员办公室：全面解析与最新认证标准

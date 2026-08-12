@@ -29,6 +29,7 @@ dataSources:
   - "美国教育部高等教育认证数据库（2025）：https://ope.ed.gov/accreditation/"
   - "国际招生咨询协会联盟（IAACA）2025年公报：https://www.iaaca.org/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-nacac-overview-2026-1880x1111.jpg"
 ---
 
 # NACAC 美国大学招生咨询协会：全面解析与最新认证标准

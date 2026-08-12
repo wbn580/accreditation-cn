@@ -26,6 +26,7 @@ dataSources:
   - "CySEC 2025年度统计公报：https://www.cysec.gov.cy/en/statistics/"
   - "ASIC 2026年市场更新：https://asic.gov.au/regulatory-resources/markets/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fca-broker-comparison-2026-1880x1253.jpg"
 ---
 
 # FCA 英国金融行为监管局持牌经纪：与其他同类认证的横向对比

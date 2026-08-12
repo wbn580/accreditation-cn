@@ -26,6 +26,7 @@ dataSources:
   - "AMBA 2025年度报告: https://www.amba-bga.com/annual-report-2025"
   - "英国高等教育质量保证局（QAA）商学院认证指引: https://www.qaa.ac.uk/reviewing-and-improving-higher-education/quality-code"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-amba-how_to_apply-2026-1880x1111.jpg"
 ---
 
 ## 引言

@@ -27,6 +27,7 @@ dataSources:
   - "GMC 国际医生申请指南：https://www.gmc-uk.org/registration-and-licensing/international-medical-graduates"
   - "GMC 良好医疗执业标准：https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/good-medical-practice"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-gmc-how_to_apply-2026-1880x1253.jpg"
 ---
 
 # GMC 英国医学总会：申请流程完整指南

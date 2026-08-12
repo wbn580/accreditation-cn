@@ -26,6 +26,7 @@ dataSources:
   - "European Higher Education Area. (2025). Bologna Process Implementation Report 2025. https://ehea.info/page-bologna-process-implementation-report"
   - "European Commission. (2025). ECTS Key Features. https://education.ec.europa.eu/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-ects-2026-1880x1253.jpg"
 ---
 # 欧洲学分转移与累积系统（ECTS）
 

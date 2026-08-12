@@ -25,6 +25,7 @@ dataSources:
   - "OISC Register of Regulated Advisers（截至2026年4月）：https://www.gov.uk/government/publications/oisc-register-of-regulated-advisers"
   - "Home Office Immigration Statistics 2025 Q4：https://www.gov.uk/government/statistics/immigration-statistics-year-ending-december-2025"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-011-2026-1880x1253.jpg"
 ---
 
 ## 导语

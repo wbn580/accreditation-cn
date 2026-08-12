@@ -16,6 +16,7 @@ dataSources:
   - "Australian Department of Home Affairs, Migration Regulations 1994: https://www.homeaffairs.gov.au"
   - "Migration Institute of Australia (MIA) Industry Standards: https://www.mia.org.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-mara-omara-faq-2026-1880x869.jpg"
 ---
 
 ## 引言

@@ -25,6 +25,7 @@ dataSources:
   - "ABET 2025 年度报告 (https://www.abet.org/about-abet/annual-reports/)"
   - "美国教育部高等教育认证数据库 (https://ope.ed.gov/dapip/#/home)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-abet-accredited_list-2026-1880x1253.jpg"
 ---
 
 ## 数据说明

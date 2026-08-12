@@ -27,6 +27,7 @@ dataSources:
   - "EFMD. (2026). EQUIS Complaints Procedure. https://www.efmd.org/accreditations/equis/complaints"
   - "ABET. (2026). Accreditation Complaint Process. https://www.abet.org/accreditation/complaints/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-081-2026-1880x1253.jpg"
 ---
 
 # 如何向认证机构提交正式投诉

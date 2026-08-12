@@ -24,6 +24,7 @@ dataSources:
   - "ICEF Agent Training Program - Code of Ethics & Professional Conduct. ICEF GmbH, 2025."
   - "ICEF Monitoring Report 2025: Compliance and Quality Assurance in International Education Agency Networks. ICEF GmbH, 2025."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-icef-criteria-2026-1880x1111.jpg"
 ---
 # ICEF 国际教育中介认证：认证标准逐条详解
 

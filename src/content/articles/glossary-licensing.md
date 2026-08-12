@@ -15,6 +15,7 @@ dataSources:
   - "Council for Higher Education Accreditation (CHEA). (2025). The Condition of Accreditation: U.S. Accreditation and the Federal Government. https://www.chea.org/"
   - "European Commission. (2025). European Higher Education Area (EHEA) – Quality Assurance and Recognition. https://education.ec.europa.eu/levels/higher-education/quality-assurance"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-licensing-2026-1880x1253.jpg"
 ---
 
 ## 中英对照

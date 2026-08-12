@@ -35,6 +35,7 @@ dataSources:
   - "美国教育部(USDE)认证机构列表"
   - "中国教育部留学服务中心认证院校名单"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-abet-faq-2026-1880x1253.jpg"
 ---
 
 # ABET 工程与技术认证：常见问题与解答

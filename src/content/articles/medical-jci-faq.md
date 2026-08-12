@@ -26,6 +26,7 @@ dataSources:
   - "Joint Commission International. (2025). JCI Accredited Organizations Directory. https://www.jointcommissioninternational.org/accredited-organizations/"
   - "World Health Organization. (2024). Patient Safety and Quality of Care: The Role of Accreditation. https://www.who.int/publications/i/item/patient-safety-accreditation"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-jci-faq-2026-1880x1253.jpg"
 ---
 
 # JCI 国际联合委员会医院认证：常见问题与解答

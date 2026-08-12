@@ -27,6 +27,7 @@ dataSources:
   - "CICC 2025-2026 年度报告：https://college-ic.ca/about-us/annual-reports"
   - "加拿大《移民和公民顾问管理局法》(S.C. 2019, c. 29, s. 292)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-cicc-faq-2026-1880x869.jpg"
 ---
 
 ## 引言

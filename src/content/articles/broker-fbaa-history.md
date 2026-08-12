@@ -15,6 +15,7 @@ dataSources:
   - "澳大利亚证券投资委员会 (ASIC) 年度报告 2024-2025 (https://asic.gov.au/about-asic/corporate-publications/annual-reports/)"
   - "澳大利亚金融业协会 (AFIA) 行业白皮书 2025 (https://www.afia.com.au/publications)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fbaa-history-2026-1880x1253.jpg"
 ---
 
 ## 引言

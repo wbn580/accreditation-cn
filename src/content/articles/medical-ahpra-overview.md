@@ -25,6 +25,7 @@ dataSources:
   - "澳大利亚政府卫生部：国家注册与认证计划 (https://www.health.gov.au/topics/health-workforce/ahpra)"
   - "AHPRA 官方注册数据统计 (https://www.ahpra.gov.au/About-AHPRA/What-We-Do/Data/Data-statistics.aspx)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-ahpra-overview-2026-1880x1253.jpg"
 ---
 
 ## AHPRA 的起源与法定地位

@@ -26,6 +26,7 @@ dataSources:
   - url: "https://accreditation.org/medical"
     title: "Accreditation.cn Medical Directory"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-abms-accredited_list-2026-1880x1253.jpg"
 ---
 # ABMS 美国医学专科委员会：全球受认证机构名单
 

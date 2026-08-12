@@ -25,6 +25,7 @@ dataSources:
   - "EQUIS 2025 Standards & Criteria: Diversity & Inclusion"
   - "UNESCO 2025 Global Education Monitoring Report: Equity in Education"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-dei-2026-1880x1253.jpg"
 ---
 ## 中英对照
 

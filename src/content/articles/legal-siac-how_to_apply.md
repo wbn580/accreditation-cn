@@ -31,6 +31,7 @@ dataSources:
   - "新加坡法律学会（Singapore Academy of Law）仲裁实务指南：https://www.sal.org.sg/Resources-Tools/Legal-Research/Arbitration-Guide"
   - "新加坡国际仲裁中心官网：https://siac.org.sg"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-siac-how_to_apply-2026-1880x1255.jpg"
 ---
 # SIAC 新加坡国际仲裁中心：申请流程完整指南
 

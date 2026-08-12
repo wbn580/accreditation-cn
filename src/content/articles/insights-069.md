@@ -28,6 +28,7 @@ dataSources:
   - "ABET. (2025). Criteria for Accrediting Engineering Programs, 2025-2026. https://www.abet.org/accreditation/accreditation-criteria/"
   - "CHEA. (2025). CHEA Almanac of External Quality Review 2025. https://www.chea.org/almanac"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-069-2026-1880x1253.jpg"
 ---
 
 ## 导语

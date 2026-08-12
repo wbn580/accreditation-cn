@@ -27,6 +27,7 @@ dataSources:
   - "CICC 2025-2026 年度报告：https://www.college-ic.ca/about-the-college/publications-and-reports"
   - "加拿大政府移民顾问监管公告：https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners/service-providers/immigration-consultants.html"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-cicc-how_to_apply-2026-1880x869.jpg"
 ---
 
 ## 引言

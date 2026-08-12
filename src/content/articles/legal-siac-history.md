@@ -29,6 +29,7 @@ dataSources:
   - "新加坡最高法院 (Supreme Court of Singapore) 仲裁案件统计 2025 (https://www.supremecourt.gov.sg)"
   - "国际仲裁研究院 (ICCA) 2025 年全球仲裁机构排名与趋势 (https://www.icca.org)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-siac-history-2026-1880x1255.jpg"
 ---
 
 ## 引言

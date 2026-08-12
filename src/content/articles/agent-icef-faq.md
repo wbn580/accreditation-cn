@@ -25,6 +25,7 @@ dataSources:
   - "ICEF 2025 年度认证报告：https://www.icef.com/accreditation/annual-report-2025/"
   - "ICEF 认证标准手册（2026 版）：https://www.icef.com/accreditation/standards-2026/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-icef-faq-2026-1880x1111.jpg"
 ---
 
 # ICEF 国际教育中介认证：常见问题与解答

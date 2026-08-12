@@ -25,6 +25,7 @@ dataSources:
   - "维多利亚州法律执业委员会 (Victorian Legal Admissions Board): https://www.ladb.vic.gov.au"
   - "新南威尔士州法律职业准入委员会 (Legal Profession Admission Board, LPAB): https://www.lpab.justice.nsw.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-lc-australia-faq-2026-1880x1255.jpg"
 ---
 
 ## 概述

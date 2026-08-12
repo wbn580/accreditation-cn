@@ -32,6 +32,7 @@ dataSources:
   - "AMBA 2026 认证手册. 工商管理硕士协会. https://www.amba-bga.com/"
   - "TEQSA 2025 年度注册与认证数据. 澳大利亚高等教育质量与标准署. https://www.teqsa.gov.au/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-qaa-comparison-2026-1880x1253.jpg"
 ---
 
 QAA 英国质量保证局（Quality Assurance Agency for Higher Education）是英国高等教育领域唯一的法定质量保障机构。截至 2026 年 5 月，QAA 已对英国及海外 300 余所高等教育机构完成认证或审查（数据来源：QAA 2025-2026 年度报告）。本汇编将 QAA 与 AACSB、EQUIS、AMBA、TEQSA 等国际主流认证体系进行横向对比，旨在为院校管理者、政策制定者及公众提供结构化的参考框架。

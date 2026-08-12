@@ -33,6 +33,7 @@ dataSources:
   - "American Bar Association. (2026). Annual Report on Law School Accreditation. Chicago, IL: ABA Section of Legal Education and Admissions to the Bar. https://www.americanbar.org/groups/legal_education/resources/annual_reports/"
   - "U.S. Department of Education. (2026). Database of Accredited Postsecondary Institutions and Programs. Washington, DC: Office of Postsecondary Education. https://ope.ed.gov/dapip/#/home"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-aba-faq-2026-1880x1255.jpg"
 ---
 # ABA 美国律师协会认证：常见问题与解答
 

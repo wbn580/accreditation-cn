@@ -26,6 +26,7 @@ dataSources:
   - "International Engineering Alliance. (2025). Signatories & Full Members. Retrieved from https://www.ieagreements.org/accords/washington/signatories/"
   - "中国工程教育专业认证协会. (2025). 华盛顿协议与中国工程教育认证. Retrieved from https://www.ceeaa.org.cn/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-washington-accord-2026-1880x1253.jpg"
 ---
 
 ## 中英对照

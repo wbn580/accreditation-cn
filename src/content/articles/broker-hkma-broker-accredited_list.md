@@ -27,6 +27,7 @@ dataSources:
   - "香港金融管理局《2025 年年报》- https://www.hkma.gov.hk/eng/about-the-hkma/hkma-publications/annual-report/"
   - "香港金融管理局《监管政策手册》- https://www.hkma.gov.hk/eng/key-functions/banking-stability/banking-policy-and-supervision/supervisory-policy-manual/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-hkma-broker-accredited_list-2026-1880x1253.jpg"
 ---
 # HKMA 香港金融管理局持牌机构：全球受认证机构名单
 

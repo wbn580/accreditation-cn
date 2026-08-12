@@ -27,6 +27,7 @@ dataSources:
   - "Government of Canada, 'Regulatory Impact Analysis Statement' for CICC Regulations, 2021"
   - "Canadian Bar Association, 'Submission on Bill C-97', 2019"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-cicc-history-2026-1880x869.jpg"
 ---
 # CICC 加拿大移民和公民顾问管理局：历史演变与关键里程碑
 

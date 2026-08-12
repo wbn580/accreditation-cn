@@ -25,6 +25,7 @@ dataSources:
   - "UK Government. (2025). Teaching Excellence and Student Outcomes Framework: Information for students. https://www.gov.uk/government/publications/teaching-excellence-and-student-outcomes-framework"
   - "Quality Assurance Agency for Higher Education. (2025). The UK Quality Code for Higher Education. https://www.qaa.ac.uk/quality-code"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-tef-2026-1880x1253.jpg"
 ---
 # 英国教学卓越框架（TEF）
 

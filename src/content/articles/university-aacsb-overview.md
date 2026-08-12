@@ -27,6 +27,7 @@ dataSources:
   - "AACSB 官方认证标准手册 (https://www.aacsb.edu/accreditation/standards)"
   - "AACSB 认证机构名录 (https://www.aacsb.edu/accreditation/accredited-institutions)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-aacsb-overview-2026-1880x1111.jpg"
 ---
 # AACSB 国际商管学院促进协会：全面解析与最新认证标准
 

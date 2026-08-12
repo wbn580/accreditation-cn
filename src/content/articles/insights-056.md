@@ -30,6 +30,7 @@ dataSources:
   - "Montessori Accreditation Council for Teacher Education. (2026). MACTE Accreditation Standards and Annual Report 2026. https://www.macte.org/"
   - "OECD. (2025). Starting Strong VI: Supporting Meaningful Interactions in Early Childhood Education and Care. https://www.oecd.org/education/starting-strong-vi-9789264301531-en.htm"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-056-2026-1880x1253.jpg"
 ---
 
 # 国际幼教认证如何影响择校决策

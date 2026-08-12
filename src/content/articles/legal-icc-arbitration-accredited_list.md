@@ -26,6 +26,7 @@ dataSources:
   - "United Nations Commission on International Trade Law (UNCITRAL) - Notes on Organizing Arbitral Proceedings (2025 Update). https://uncitral.un.org/en/texts/arbitration"
   - "World Trade Organization (WTO) - Dispute Settlement: The Dispute Settlement Understanding (DSU) - Annex 2 (2024). https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-icc-arbitration-accredited_list-2026-1880x1255.jpg"
 ---
 
 ## 引言

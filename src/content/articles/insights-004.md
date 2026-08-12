@@ -16,6 +16,7 @@ dataSources:
   - "澳大利亚政府教育部《高等教育标准框架2021》（https://www.legislation.gov.au/F2021L01618）"
   - "英国高等教育质量准则（UK Quality Code for Higher Education 2024版）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-004-2026-1880x1253.jpg"
 ---
 
 ## 导语

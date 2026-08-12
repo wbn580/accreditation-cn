@@ -29,6 +29,7 @@ dataSources:
   - "AACSB International Accreditation Standards 2026: https://www.aacsb.edu/accreditation"
   - "ISO/IEC 17000:2020 Conformity assessment — Vocabulary and general principles: https://www.iso.org/standard/73029.html"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-074-2026-1880x1253.jpg"
 ---
 
 ## 导语

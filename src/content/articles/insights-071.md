@@ -27,6 +27,7 @@ dataSources:
   - "澳大利亚技能质量管理局 (ASQA) 2025年度报告 (https://www.asqa.gov.au/annual-report-2025)"
   - "Australian Qualifications Framework (AQF) 2025年修订版 (https://www.aqf.edu.au)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-071-2026-1880x1253.jpg"
 ---
 
 # 澳洲CRICOS注册与TEQSA认证之间的关系

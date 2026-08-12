@@ -29,6 +29,7 @@ dataSources:
   - "英国政府教育统计公报 2025: https://www.gov.uk/government/statistics"
   - "里斯本承认公约 2025 修订版: https://www.coe.int/en/web/conventions"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-065-2026-1880x1253.jpg"
 ---
 
 ## 导语

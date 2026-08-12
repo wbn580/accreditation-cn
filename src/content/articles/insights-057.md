@@ -17,6 +17,7 @@ dataSources:
   - "Financial Times Global MBA Ranking 2026：https://www.ft.com/mba-rankings"
   - "QS World University Rankings: Business & Management 2026：https://www.topuniversities.com/university-rankings/business-management-rankings"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-057-2026-1880x1253.jpg"
 ---
 
 # 商学院排名与认证是两个维度不要混淆

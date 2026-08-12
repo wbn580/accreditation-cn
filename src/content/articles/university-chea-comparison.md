@@ -14,6 +14,7 @@ dataSources: [
   "https://www.chea.org/",
 ]
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-chea-comparison-2026-1880x869.jpg"
 ---
 
 截至 2026 年 5 月，美国高等教育认证委员会（Council for Higher Education Accreditation，CHEA）共认可 60 个认证机构，覆盖超过 8,200 所院校及项目（数据来源：CHEA 2026 年度认证机构名录）。CHEA 是美国唯一的国家级非政府质量保障组织，其认可体系与全球其他主要认证体系——如 AACSB（商学院认证）、ABET（工程与技术认证）、以及区域性政府主导的认证体系（如中国教育部学位与研究生教育发展中心认证）——在目标、范围、方法论及国际互认程度上存在显著差异。本汇编基于公开数据与官方文件，对上述体系进行多维度横向对比，以提供中立、可验证的参考信息。

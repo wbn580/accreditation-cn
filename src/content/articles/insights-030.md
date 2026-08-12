@@ -35,6 +35,7 @@ dataSources:
   - "AMBA 2025认证手册：https://www.associationofmbas.com/accreditation/amba-accreditation-handbook/"
   - "教育部学位与研究生教育发展中心2025年度认证报告：https://www.cdgdc.edu.cn/认证报告2025"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-030-2026-1880x1253.jpg"
 ---
 
 # Provisional与Full Accreditation实际差别：基于全球主要认证机构2025-2026年数据的深度分析

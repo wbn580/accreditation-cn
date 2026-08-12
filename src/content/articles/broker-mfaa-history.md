@@ -30,6 +30,7 @@ dataSources:
   - "皇家委员会对银行业、退休金及金融服务业不当行为的最终报告（2019）：https://www.royalcommission.gov.au/banking"
   - "澳大利亚议会图书馆：抵押贷款经纪行业历史研究：https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-mfaa-history-2026-1880x1253.jpg"
 ---
 
 # MFAA 澳洲贷款与金融协会：历史演变与关键里程碑

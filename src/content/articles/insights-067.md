@@ -27,6 +27,7 @@ dataSources:
   - "Times Higher Education. (2026). World University Rankings 2026: Methodology. Retrieved from https://www.timeshighereducation.com"
   - "European Association for Quality Assurance in Higher Education. (2025). Standards and Guidelines for Quality Assurance in the European Higher Education Area. Retrieved from https://www.enqa.eu"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-067-2026-1880x1253.jpg"
 ---
 
 ## 导语

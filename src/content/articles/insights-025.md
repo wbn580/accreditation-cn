@@ -28,6 +28,7 @@ dataSources:
   - "CHEA 2025 年度认证机构名录 (https://www.chea.org/directories)"
   - "教育部学位与研究生教育发展中心 2025 境外认证机构清单 (http://www.cdgdc.edu.cn)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-025-2026-1880x1253.jpg"
 ---
 # 认证标准软指标与硬指标博弈
 

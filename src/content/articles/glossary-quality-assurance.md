@@ -30,6 +30,7 @@ dataSources:
   - "UNESCO. (2023). Global Convention on the Recognition of Qualifications concerning Higher Education. https://www.unesco.org/en/education/higher-education/recognition"
   - "ISO. (2015). ISO 9001:2015 Quality management systems — Requirements. https://www.iso.org/standard/62085.html"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-quality-assurance-2026-1880x1253.jpg"
 ---
 
 ## 中英对照

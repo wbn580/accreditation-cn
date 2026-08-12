@@ -17,6 +17,7 @@ dataSources:
   - "OECD. (2026). Health at a Glance 2026: OECD indicators. OECD Publishing. https://doi.org/10.1787/health_glance-2026-en"
   - "NHS Digital. (2026). NHS workforce statistics: March 2026. https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-016-2026-1880x1253.jpg"
 ---
 
 # 英国GMC注册医生跨国流动监管路径

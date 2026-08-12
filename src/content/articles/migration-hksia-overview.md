@@ -27,6 +27,7 @@ dataSources:
   - "https://www.immd.gov.hk"
   - "https://www.gov.hk"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-hksia-overview-2026-1880x869.jpg"
 ---
 # HKSIA 香港移民服务行业协会：全面解析与最新认证标准
 

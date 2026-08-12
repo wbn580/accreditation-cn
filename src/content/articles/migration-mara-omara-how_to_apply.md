@@ -25,6 +25,7 @@ dataSources:
   - "澳大利亚移民代理注册管理局（MARA）2025-2026年度报告"
   - "澳大利亚法律职业准入委员会（LPAB）移民代理课程认证清单（2026年3月更新）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-mara-omara-how_to_apply-2026-1880x869.jpg"
 ---
 
 # MARN 澳洲注册移民代理制度：申请流程完整指南

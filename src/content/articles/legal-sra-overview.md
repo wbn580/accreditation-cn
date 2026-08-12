@@ -28,6 +28,7 @@ dataSources:
   - "SRA 注册律师统计数据（截至2026年4月）：https://www.sra.org.uk/sra/how-we-work/reports/statistics/"
   - "Solicitors Qualifying Examination (SQE) 官方指南：https://www.sra.org.uk/solicitors/qualifying-examination-sqe/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-sra-overview-2026-1880x1255.jpg"
 ---
 
 ## SRA 英国律师监管局：起源与法律框架

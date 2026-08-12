@@ -28,6 +28,7 @@ dataSources:
   - source: "世界卫生组织（WHO）医疗质量报告"
     url: "https://www.who.int"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-014-2026-1880x1253.jpg"
 ---
 ## 导语：JCI认证在中国大陆的十年演进
 

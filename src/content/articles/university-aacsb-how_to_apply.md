@@ -15,6 +15,7 @@ dataSources:
   - "AACSB 认证标准与政策手册 (https://www.aacsb.edu/accreditation/standards)"
   - "AACSB 认证申请门户 (https://www.aacsb.edu/accreditation/apply)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-aacsb-how_to_apply-2026-1880x1111.jpg"
 ---
 
 # AACSB 国际商管学院促进协会：申请流程完整指南

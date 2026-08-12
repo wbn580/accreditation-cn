@@ -26,6 +26,7 @@ dataSources:
   - "美国教育部高等教育认证数据库 (https://ope.ed.gov/accreditation/)"
   - "NACAC 官方历史档案 (https://www.nacacnet.org/about/history/)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-nacac-history-2026-1880x1111.jpg"
 ---
 
 # NACAC 美国大学招生咨询协会：历史演变与关键里程碑

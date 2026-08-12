@@ -15,6 +15,7 @@ dataSources:
   - "欧洲高等教育区（EHEA）2025 年《欧洲高等教育区实施报告》（https://ehea.info/page-ehea-implementation-report-2025）"
   - "美国教育部（USDE）2025 年《认证与学术自由：政策回顾》（https://www2.ed.gov/admins/finaid/accred/accreditation-paper-2025.pdf）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-087-2026-1880x1253.jpg"
 ---
 
 ## 导语

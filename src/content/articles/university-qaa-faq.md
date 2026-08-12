@@ -17,6 +17,7 @@ dataSources:
   - "英国高等教育质量准则 (UK Quality Code for Higher Education) 2025版: https://www.qaa.ac.uk/quality-code"
   - "QAA 关于学历认证与学位标准指南 (2026): https://www.qaa.ac.uk/guidance/qualifications-and-credits"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-qaa-faq-2026-1880x1253.jpg"
 ---
 
 ## 引言

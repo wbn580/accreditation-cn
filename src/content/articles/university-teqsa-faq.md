@@ -25,6 +25,7 @@ dataSources:
   - "澳大利亚《高等教育质量标准署法案 2011》（TEQSA Act 2011）"
   - "TEQSA 官方注册院校查询系统（National Register of Higher Education Providers）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-teqsa-faq-2026-1880x869.jpg"
 ---
 
 # TEQSA 澳洲高等教育质量与标准署：常见问题与解答

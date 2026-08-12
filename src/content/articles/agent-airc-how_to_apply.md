@@ -27,6 +27,7 @@ dataSources:
   - "美国联邦贸易委员会（FTC）关于教育服务认证的指南：https://www.ftc.gov"
   - "美国教育部（USDE）认证机构名录：https://www2.ed.gov/admins/finaid/accred/index.html"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-airc-how_to_apply-2026-1880x1111.jpg"
 ---
 
 # AIRC 美国国际招生委员会：申请流程完整指南

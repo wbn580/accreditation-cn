@@ -25,6 +25,7 @@ dataSources:
   - "加拿大移民、难民和公民部（IRCC）2026年第一季度政策更新（https://www.canada.ca/en/immigration-refugees-citizenship.html）"
   - "加拿大统计局职业准入数据（https://www.statcan.gc.ca）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-010-2026-1880x1253.jpg"
 ---
 ## 导语
 

@@ -16,6 +16,7 @@ dataSources:
   - "OECD. (2026). Micro-credentials for Lifelong Learning: Policy Frameworks and Quality Assurance. https://www.oecd.org/en/topics/micro-credentials.html"
   - "AACSB International. (2025). AACSB Guidance on Micro-credentials in Business Education. https://www.aacsb.edu/insights/2025/micro-credentials"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-micro-credential-2026-1880x1253.jpg"
 ---
 
 # 微证书（Micro-credential）

@@ -30,6 +30,7 @@ dataSources:
   - "澳大利亚金融投诉管理局（AFCA）2025年年度数据：https://www.afca.org.au/news/annual-reports"
   - "澳大利亚证券与投资委员会（ASIC）2025年执法报告：https://asic.gov.au/about-asic/annual-reports"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-012-2026-1880x1253.jpg"
 ---
 
 # 澳洲MFAA与FBAA贷款broker协会合规差异

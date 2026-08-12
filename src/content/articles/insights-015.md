@@ -32,6 +32,7 @@ dataSources:
   - "中国医师协会境外医师资格认定指南（2025年版）：https://www.cmda.org.cn/"
   - "澳大利亚医学委员会（Medical Board of Australia）执业标准与跨境实践政策：https://www.medicalboard.gov.au/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-015-2026-1880x1253.jpg"
 ---
 # 澳洲AHPRA注册医生身份在中国大陆就医承认度
 

@@ -25,6 +25,7 @@ dataSources:
   - "BAC 年度报告 2025：https://www.the-bac.org/annual-report-2025/"
   - "英国高等教育质量保障署（QAA）《英国高等教育质量准则》：https://www.qaa.ac.uk/quality-code"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-bac-criteria-2026-1880x1111.jpg"
 ---
 
 # BAC 英国认证委员会：认证标准逐条详解

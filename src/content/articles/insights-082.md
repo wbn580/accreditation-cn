@@ -26,6 +26,7 @@ dataSources:
   - "American Bar Association (ABA). 2026 Model Rule for Continuing Legal Education. https://www.americanbar.org"
   - "World Medical Association (WMA). 2025 CPD Guidelines for Physicians. https://www.wma.net"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-082-2026-1880x1253.jpg"
 ---
 
 # 持牌专业人士的持续专业发展CPD要求

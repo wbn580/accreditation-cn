@@ -16,6 +16,7 @@ dataSources:
   - "英国政府法律职业认证页面：https://www.gov.uk/become-solicitor"
   - "Qualification Regulations 2011-2025（SRA）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-sra-how_to_apply-2026-1880x1255.jpg"
 ---
 
 # SRA 英国律师监管局：申请流程完整指南

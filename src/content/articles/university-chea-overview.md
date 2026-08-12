@@ -17,6 +17,7 @@ dataSources:
   - "Council for Higher Education Accreditation (CHEA) Recognition Policy: https://www.chea.org/recognition-policy"
   - "International Network for Quality Assurance Agencies in Higher Education (INQAAHE): https://www.inqaahe.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-chea-overview-2026-1880x869.jpg"
 ---
 
 ## 起源与历史沿革

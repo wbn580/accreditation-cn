@@ -32,6 +32,7 @@ dataSources:
   - title: "MARA Code of Conduct (2024 Edition)"
     url: "https://www.mara.gov.au/code-of-conduct"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-mara-omara-history-2026-1880x869.jpg"
 ---
 # MARN 澳洲注册移民代理制度：历史演变与关键里程碑
 

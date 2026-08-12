@@ -24,6 +24,7 @@ dataSources:
   - title: "马来西亚资格认证局（MQA）官方网站"
     url: "https://www.mqa.gov.my"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-046-2026-1880x1253.jpg"
 ---
 
 马来西亚资格认证局（Malaysian Qualifications Agency，简称MQA）是马来西亚高等教育质量保障的核心机构，其认证体系直接决定了中国留学生在马所获学历能否获得中国教育部留学服务中心的认可。截至2026年4月，MQA已认证马来西亚境内超过1,200个课程项目，涵盖公立与私立高等院校，其中约65%的认证课程面向国际学生开放（数据来源：MQA 2026年度认证报告）。本汇编基于MQA官方数据、中国教育部留学服务中心公开政策及联合国教科文组织全球认证数据库，系统梳理MQA认证体系的结构、运作机制及其对中国留学生的实际影响。

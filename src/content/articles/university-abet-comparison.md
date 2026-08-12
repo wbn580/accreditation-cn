@@ -15,6 +15,7 @@ dataSources:
   - "European Network for Accreditation of Engineering Education (ENAEE). (2025). EUR-ACE Framework Standards and Guidelines (5th ed.). https://www.enaee.eu/eur-ace-system/"
   - "International Engineering Alliance (IEA). (2026). Washington Accord 2025 Review Report. https://www.ieagreements.org/accords/washington/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-abet-comparison-2026-1880x1253.jpg"
 ---
 
 ## 引言

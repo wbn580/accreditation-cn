@@ -26,6 +26,7 @@ dataSources:
   - "ENQA 2026 在线教育立场文件: https://www.enqa.eu/online-education-position-paper-2026"
   - "AACSB 2026 年度认证标准更新: https://www.aacsb.edu/accreditation/standards/2026"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-040-2026-1880x1253.jpg"
 ---
 
 ## 导语

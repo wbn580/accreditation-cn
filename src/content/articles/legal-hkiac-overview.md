@@ -26,6 +26,7 @@ dataSources:
   - "联合国国际贸易法委员会（UNCITRAL）仲裁规则：https://uncitral.un.org"
   - "香港法例第609章《仲裁条例》：https://www.elegislation.gov.hk"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-hkiac-overview-2026-1880x1255.jpg"
 ---
 
 ## 引言：HKIAC 的全球地位与认证意义

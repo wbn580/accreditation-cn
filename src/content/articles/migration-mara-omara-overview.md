@@ -30,6 +30,7 @@ dataSources:
   - "Migration Institute of Australia (MIA) - Professional Standards: https://www.mia.org.au"
   - "Australian Skills Quality Authority (ASQA) - Migration Agent Training: https://www.asqa.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-mara-omara-overview-2026-1880x869.jpg"
 ---
 
 # MARN 澳洲注册移民代理制度：全面解析与最新认证标准

@@ -31,6 +31,7 @@ dataSources:
   - "Australian Financial Complaints Authority (AFCA) 2025 年年度报告：https://www.afca.org.au/publications/annual-reports"
   - "Accreditation.cn 澳洲信贷行业认证专题：https://accreditation.cn/au/credit"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fbaa-comparison-2026-1880x1253.jpg"
 ---
 
 ## 引言

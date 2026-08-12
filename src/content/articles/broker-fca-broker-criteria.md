@@ -27,6 +27,7 @@ dataSources:
   - "FCA Authorisation Manual (APER) - https://www.fca.org.uk/firms/authorisation"
   - "FCA Perimeter Guidance Manual (PERG) - https://www.fca.org.uk/firms/perimeter-guidance"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fca-broker-criteria-2026-1880x1253.jpg"
 ---
 
 ## 标准总览

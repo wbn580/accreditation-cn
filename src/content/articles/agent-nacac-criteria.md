@@ -15,6 +15,7 @@ dataSources:
   - "NACAC. (2025). NACAC Code of Ethics and Professional Practices. https://www.nacacnet.org/advocacy–ethics/ethics/"
   - "National Association for College Admission Counseling. (2026). Annual Report 2025–2026. https://www.nacacnet.org/about/annual-report/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-nacac-criteria-2026-1880x1111.jpg"
 ---
 
 ## NACAC 认证标准总览

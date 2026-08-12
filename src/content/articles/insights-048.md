@@ -15,6 +15,7 @@ dataSources:
   - "EFMD. (2025). EQUIS Standards & Criteria 2025. https://www.efmd.org/accreditation/equis/standards"
   - "ABET. (2025). ABET Accreditation Policy and Procedure Manual 2025-2026. https://www.abet.org/accreditation-policies/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-048-2026-1880x1253.jpg"
 ---
 
 ## 导语

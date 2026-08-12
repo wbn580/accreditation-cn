@@ -30,6 +30,7 @@ dataSources:
   - "British Accreditation Council. (2025). Accreditation Handbook (6th ed.). Retrieved from https://www.the-bac.org/accreditation-handbook"
   - "UK Government. (2025). Recognised Accreditation Bodies for Higher and Further Education. Department for Education. Retrieved from https://www.gov.uk/government/publications/recognised-accreditation-bodies"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-bac-faq-2026-1880x1111.jpg"
 ---
 # BAC 英国认证委员会：常见问题与解答
 

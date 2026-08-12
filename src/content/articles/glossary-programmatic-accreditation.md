@@ -17,6 +17,7 @@ dataSources:
   - "Liaison Committee on Medical Education (LCME). 'Functions and Structure of a Medical School.' 2025–2026. https://lcme.org/publications/"
   - "U.S. Department of Education. 'Database of Accredited Postsecondary Institutions and Programs.' 2026. https://ope.ed.gov/dapip/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-programmatic-accreditation-2026-1880x1253.jpg"
 ---
 
 # 专业认证（Programmatic Accreditation）

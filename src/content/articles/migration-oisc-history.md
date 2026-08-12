@@ -28,6 +28,7 @@ dataSources:
   - "《法律服务法 2007》 (legislation.gov.uk)"
   - "OISC 官方网站历史页面 (gov.uk/government/organisations/office-of-the-immigration-services-commissioner)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-oisc-history-2026-1880x869.jpg"
 ---
 
 # OISC 英国移民服务专员办公室：历史演变与关键里程碑

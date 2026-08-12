@@ -15,6 +15,7 @@ dataSources:
   - "美国教育部认证数据库 (https://www2.ed.gov/admins/finaid/accred/index.html)"
   - "CHEA 认可机构列表 (https://www.chea.org/directories)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-airc-history-2026-1880x1111.jpg"
 ---
 
 # AIRC 美国国际招生委员会：历史演变与关键里程碑

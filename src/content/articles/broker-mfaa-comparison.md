@@ -33,6 +33,7 @@ dataSources:
   - source: "澳大利亚金融投诉管理局2025-26年度报告"
     url: "https://www.afca.org.au/publications/annual-report"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-mfaa-comparison-2026-1880x1253.jpg"
 ---
 # MFAA 澳洲贷款与金融协会：与其他同类认证的横向对比
 

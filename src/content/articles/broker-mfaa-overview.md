@@ -25,6 +25,7 @@ dataSources:
   - "ASIC 2025 年度监管报告: https://asic.gov.au/regulatory-resources/financial-services"
   - "澳洲金融行业统计公报 2025: https://www.abs.gov.au/statistics/industry/finance"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-mfaa-overview-2026-1880x1253.jpg"
 ---
 
 # MFAA 澳洲贷款与金融协会：全面解析与最新认证标准

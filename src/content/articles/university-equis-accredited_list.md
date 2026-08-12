@@ -27,6 +27,7 @@ dataSources:
   - "EFMD. (2025). EQUIS Annual Report 2025. Brussels: EFMD."
   - "EQUIS. (2024). Standards and Criteria for Accreditation. Brussels: EFMD."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-equis-accredited_list-2026-1880x869.jpg"
 ---
 
 # EQUIS 欧洲质量改进体系：全球受认证机构名单

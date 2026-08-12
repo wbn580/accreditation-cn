@@ -27,6 +27,7 @@ dataSources:
   - "欧洲高等教育区（EHEA）2025年布加勒斯特公报 (https://ehea.info/Upload/Bucharest_Communique_2025.pdf)"
   - "美国高等教育认证委员会（CHEA）学生评价最佳实践指南 (https://www.chea.org/student-evaluation-best-practices)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-075-2026-1880x1253.jpg"
 ---
 
 ## 导语：从反馈工具到标准制定者

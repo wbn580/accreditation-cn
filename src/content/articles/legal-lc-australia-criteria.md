@@ -25,6 +25,7 @@ dataSources:
   - "Law Admissions Consultative Committee (LACC) 2025 Annual Report"
   - "Australian Bar Association (ABA) 2026 Standards for Barristers"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-lc-australia-criteria-2026-1880x1255.jpg"
 ---
 
 # 澳洲法律委员会与律师认证：认证标准逐条详解

@@ -27,6 +27,7 @@ dataSources:
   - "澳大利亚竞争与消费者委员会 (ACCC): https://www.accc.gov.au/"
   - "澳大利亚证券与投资委员会 (ASIC): https://asic.gov.au/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-qeac-how_to_apply-2026-1880x1111.jpg"
 ---
 
 # QEAC 澳洲留学中介持牌资格：申请流程完整指南

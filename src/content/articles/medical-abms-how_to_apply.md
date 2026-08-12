@@ -25,6 +25,7 @@ dataSources:
   - "ACGME 2025-2026 住院医师培训要求 (https://www.acgme.org/specialties/)"
   - "美国医学会 (AMA) 医师认证统计 2025 (https://www.ama-assn.org/practice-management/board-certification)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-abms-how_to_apply-2026-1880x1253.jpg"
 ---
 
 ## 概述

@@ -30,6 +30,7 @@ dataSources:
   - "HKIAC 2025年案件统计报告 (https://www.hkiac.org/about-us/statistics)"
   - "CIETAC 2026年仲裁规则 (https://www.cietac.org/index.php?m=Page&a=index&id=2)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-018-2026-1880x1253.jpg"
 ---
 
 # 国际仲裁机构ICC-SIAC-HKIAC-CIETAC认证标准对比

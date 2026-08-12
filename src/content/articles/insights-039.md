@@ -27,6 +27,7 @@ dataSources:
   - "U.S. Department of Education Database of Accredited Postsecondary Institutions and Programs: https://ope.ed.gov/dapip"
   - "AACSB International (Association to Advance Collegiate Schools of Business): https://www.aacsb.edu"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-039-2026-1880x1253.jpg"
 ---
 
 ## 导语：两种认证体系的制度起源与核心分歧

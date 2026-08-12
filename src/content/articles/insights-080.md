@@ -31,6 +31,7 @@ dataSources:
   - "UNESCO. (2023). Global Convention on the Recognition of Qualifications concerning Higher Education. https://unesdoc.unesco.org/ark:/48223/pf0000385694"
   - "European Commission. (2024). European Approach for Quality Assurance of Joint Programmes. https://education.ec.europa.eu/education-levels/higher-education/quality-assurance"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-080-2026-1880x1253.jpg"
 ---
 
 ## 导语

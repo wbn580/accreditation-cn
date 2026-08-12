@@ -25,6 +25,7 @@ dataSources:
   - "OISC 认证标准手册（2025 年修订版）：https://www.gov.uk/government/publications/oisc-regulatory-standards"
   - "UKVI 移民规则更新（2026 年 4 月）：https://www.gov.uk/government/collections/immigration-rules"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-oisc-how_to_apply-2026-1880x869.jpg"
 ---
 
 # OISC 英国移民服务专员办公室：申请流程完整指南

@@ -16,6 +16,7 @@ dataSources:
   - "AACSB. (2025). 2025 Data and Trends Report. https://www.aacsb.edu/data-reports"
   - "AACSB. (2024). Interpretive Guidance for the 2020 Standards. https://www.aacsb.edu/interpretive-guidance"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-aacsb-criteria-2026-1880x1111.jpg"
 ---
 
 # AACSB 国际商管学院促进协会：认证标准逐条详解

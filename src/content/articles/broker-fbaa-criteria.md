@@ -25,6 +25,7 @@ dataSources:
   - "ASIC 监管指南 RG 204"
   - "澳洲金融服务法律框架（Corporations Act 2001）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-fbaa-criteria-2026-1880x1253.jpg"
 ---
 
 ## 认证标准详解：标准总览

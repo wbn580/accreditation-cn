@@ -29,6 +29,7 @@ dataSources:
   - Washington Accord, "Rules & Procedures," 2026 revision. https://www.ieagreements.org/accords/washington/
   - European Association for Quality Assurance in Higher Education (ENQA), "Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)," 2015. https://www.enqa.eu/esg-standards-and-guidelines/
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-mutual-recognition-2026-1880x1253.jpg"
 ---
 
 ## 中英对照

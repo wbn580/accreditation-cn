@@ -28,6 +28,7 @@ dataSources:
   - "美国联邦贸易委员会 (FTC) 关于教育咨询服务的指导意见 (2024)"
   - "《高等教育纪事报》2025 年 NACAC 政策解读"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-nacac-faq-2026-1880x1111.jpg"
 ---
 
 # NACAC 美国大学招生咨询协会：常见问题与解答

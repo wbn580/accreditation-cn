@@ -25,6 +25,7 @@ dataSources:
   - "英国政府移民规则指南 (Immigration Rules Appendix) – https://www.gov.uk/guidance/immigration-rules"
   - "OISC 2025-2026 年度报告 (OISC Annual Report 2025-2026) – https://www.gov.uk/government/publications/oisc-annual-report-2025-2026"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-oisc-accredited_list-2026-1880x869.jpg"
 ---
 
 ## 数据说明

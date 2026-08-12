@@ -27,6 +27,7 @@ dataSources:
   - "EQUIS 2025-2026 Procedures & Criteria (https://www.efmdglobal.org/accreditations/equis)"
   - "AMBA 2026 Accreditation Handbook (https://www.associationofmbas.com/business-schools/accreditation)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-triple-crown-how_to_apply-2026-1880x1253.jpg"
 ---
 
 # 三皇冠认证（Triple Crown）：申请流程完整指南

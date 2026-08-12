@@ -27,6 +27,7 @@ dataSources:
   - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education. https://unesdoc.unesco.org"
   - "东盟秘书处. (2025). ASEAN Qualifications Reference Framework (AQRF) Progress Report 2025. https://asean.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-007-2026-1880x1253.jpg"
 ---
 
 ## 导语

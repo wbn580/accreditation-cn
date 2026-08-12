@@ -33,6 +33,7 @@ dataSources:
   - "CHEA. (2026). CHEA Almanac of External Quality Assurance 2026. https://www.chea.org/almanac"
   - "UNESCO. (2025). Global Convention on the Recognition of Qualifications concerning Higher Education. https://www.unesco.org/en/education/higher-education/qualifications-recognition"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-095-2026-1880x1253.jpg"
 ---
 
 ## 导语

@@ -25,6 +25,7 @@ dataSources:
   - "CHEA. (2025). Annual Report on Accreditation. Washington, DC: CHEA. https://www.chea.org/annual-report"
   - "U.S. Department of Education. (2026). Database of Accredited Postsecondary Institutions and Programs. https://ope.ed.gov/dapip/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-chea-criteria-2026-1880x869.jpg"
 ---
 
 ## 标准总览

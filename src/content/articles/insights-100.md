@@ -26,6 +26,7 @@ dataSources:
   - "Council for Higher Education Accreditation (CHEA). (2025). 2025 CHEA Almanac of External Quality Review. Washington, DC: CHEA."
   - "International Network for Quality Assurance Agencies in Higher Education (INQAAHE). (2026). INQAAHE Global Survey on Quality Assurance 2025-2026. Dublin: INQAAHE."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-100-2026-1880x1253.jpg"
 ---
 
 ## 导语

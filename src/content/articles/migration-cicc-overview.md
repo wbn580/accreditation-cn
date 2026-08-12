@@ -25,6 +25,7 @@ dataSources:
   - "加拿大移民、难民和公民部（IRCC）: https://www.canada.ca/en/immigration-refugees-citizenship.html"
   - "加拿大法律信息研究所（CanLII）: https://www.canlii.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-cicc-overview-2026-1880x869.jpg"
 ---
 
 ## 引言

@@ -27,6 +27,7 @@ dataSources:
   - "UNESCO. (2026). *Global Convention on the Recognition of Qualifications concerning Higher Education: Status Report*. Paris: UNESCO."
   - "European Association for Quality Assurance in Higher Education (ENQA). (2025). *Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)*, 2025 Edition."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-029-2026-1880x1253.jpg"
 ---
 
 # 学位认证课程认证机构认证三层结构

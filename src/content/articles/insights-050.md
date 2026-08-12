@@ -30,6 +30,7 @@ dataSources:
   - "ABET (2025). *Accreditation Data and Public Disclosure Policy*. Accreditation Board for Engineering and Technology. https://www.abet.org/accreditation-data/"
   - "UNESCO (2025). *Global Convention on the Recognition of Qualifications: Data Transparency Requirements*. https://www.unesco.org/en/education/global-convention"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-050-2026-1880x1253.jpg"
 ---
 
 ## 导语

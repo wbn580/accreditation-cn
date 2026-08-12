@@ -25,6 +25,7 @@ dataSources:
   - "联合国国际贸易法委员会（UNCITRAL）仲裁规则"
   - "香港仲裁条例（第609章）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-hkiac-accredited_list-2026-1880x1255.jpg"
 ---
 
 ## 数据说明

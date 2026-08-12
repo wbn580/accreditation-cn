@@ -25,6 +25,7 @@ dataSources:
   - "AACSB 2020标准官方文档：https://www.aacsb.edu/accreditation/standards/2020"
   - "AACSB 2025年认证机构列表：https://www.aacsb.edu/accredited-institutions-2025"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-005-2026-1880x1253.jpg"
 ---
 
 ## 导语

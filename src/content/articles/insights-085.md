@@ -30,6 +30,7 @@ dataSources:
   - "CHEA. (2025). Recognition of Accrediting Organizations: Policy and Procedures. https://www.chea.org/recognition-policies"
   - "INQAAHE. (2024). Guidelines of Good Practice for Quality Assurance. https://www.inqaahe.org/guidelines"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-085-2026-1880x1253.jpg"
 ---
 
 ## 导语

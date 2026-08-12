@@ -15,6 +15,7 @@ dataSources:
   - "HKIAC 机构仲裁规则 2024 版 (https://www.hkiac.org/arbitration/rules)"
   - "香港仲裁条例（第 609 章） (https://www.elegislation.gov.hk/hk/cap609)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-hkiac-how_to_apply-2026-1880x1255.jpg"
 ---
 
 # HKIAC 香港国际仲裁中心：申请流程完整指南

@@ -38,6 +38,7 @@ dataSources:
   - name: "NIAD-QE 2025年度年报（第24号）"
     url: "https://www.niadqe.ac.jp/archive/report/annual_report_2025.pdf"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-niad-qe-accredited_list-2026-1880x869.jpg"
 ---
 ## 数据说明
 

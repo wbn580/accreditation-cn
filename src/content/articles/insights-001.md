@@ -26,6 +26,7 @@ dataSources:
   - "EFMD. (2026). EQUIS Accredited Schools List. https://www.efmd.org/accreditation/equis"
   - "AMBA. (2026). Accredited Programmes Worldwide. https://www.associationofmbas.com/accreditation"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-001-2026-1880x1253.jpg"
 ---
 
 全球商学院认证体系中，AACSB、EQUIS、AMBA 被公认为最具权威性的三大认证。截至 2026 年 4 月，全球共有 989 所商学院获得 AACSB 认证（数据来源：AACSB 2026 年度年报），EQUIS 认证院校为 216 所（数据来源：EFMD 2026 年 3 月官方列表），AMBA 认证项目覆盖 310 所院校（数据来源：AMBA 2026 年 4 月更新）。三者虽同属国际认证范畴，但在认证对象、评估维度、地域覆盖和含金量上存在显著差异。本文基于 2025—2026 年公开数据，从历史沿革、认证标准、院校覆盖、全球认可度及对职业发展的影响等维度进行系统对比。

@@ -26,6 +26,7 @@ dataSources:
   - "美国教育部认证数据库（2025 年更新）"
   - "国际教育协会（IIE）2025 年开放门户报告"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-airc-accredited_list-2026-1880x1111.jpg"
 ---
   
 # AIRC 美国国际招生委员会：全球受认证机构名单

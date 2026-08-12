@@ -15,6 +15,7 @@ dataSources:
   - "AACSB International. (2026). *2026 Accreditation Standards*. AACSB."
   - "ENQA. (2025). *European Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)*. European Association for Quality Assurance in Higher Education."
 draft: false
+ogImage: "https://img.accreditation.cn/authority/glossary-accreditation-2026-1880x1253.jpg"
 ---
 
 # 认证（Accreditation）

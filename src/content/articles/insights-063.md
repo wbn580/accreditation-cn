@@ -30,6 +30,7 @@ dataSources:
   - "ABET. (2026). ABET Accreditation Statistics 2026. https://www.abet.org/accreditation-statistics"
   - "UNESCO International Institute for Educational Planning. (2025). Accreditation and Quality Assurance in Developing Countries. https://www.iiep.unesco.org"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-063-2026-1880x1253.jpg"
 ---
 
 ## 导语：认证收费作为准入门槛的现实维度

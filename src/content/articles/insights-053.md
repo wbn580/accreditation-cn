@@ -14,6 +14,7 @@ dataSources:
   - title: AACSB Accreditation Standards (2026)
     url: https://www.aacsb.edu/accreditation/standards
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-053-2026-1880x1253.jpg"
 ---
 
 # 认证标识商业化院校在宣传材料中的认证标志使用规范

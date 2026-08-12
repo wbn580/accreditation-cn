@@ -17,6 +17,7 @@ dataSources:
   - "中国教育部学位与研究生教育发展中心 2025年工程教育认证报告: https://www.cdgdc.edu.cn"
   - "QS World University Rankings 2026 Methodology: https://www.topuniversities.com/qs-world-university-rankings/methodology"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-033-2026-1880x1253.jpg"
 ---
 # 985-211在国际认证视野下的地位
 

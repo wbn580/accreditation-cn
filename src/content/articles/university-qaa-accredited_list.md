@@ -30,6 +30,7 @@ dataSources:
   - "英国高等教育统计署 (HESA) 2024-2025 年度数据 (https://www.hesa.ac.uk/data-and-analysis)"
   - "英国大学联盟 (Universities UK) 2025 年成员列表 (https://www.universitiesuk.ac.uk/about-us/members)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-qaa-accredited_list-2026-1880x1253.jpg"
 ---
 # QAA 英国质量保证局：全球受认证机构名单
 

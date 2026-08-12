@@ -28,6 +28,7 @@ dataSources:
   - World Bank Higher Education for Development 2026 Policy Brief
   - European Association for Quality Assurance in Higher Education (ENQA) 2025 Standards and Guidelines Revision
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-096-2026-1880x1253.jpg"
 ---
 
 # 认证体系的去殖民化议题对全球南方国家的影响

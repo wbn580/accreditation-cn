@@ -28,6 +28,7 @@ dataSources:
   - "Solicitors Regulation Authority (SRA) 官方网站：https://www.sra.org.uk"
   - "Immigration Law Practitioners' Association (ILPA) 官方网站：https://www.ilpa.org.uk"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-oisc-comparison-2026-1880x869.jpg"
 ---
 
 # OISC 英国移民服务专员办公室：与其他同类认证的横向对比

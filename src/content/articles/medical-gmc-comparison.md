@@ -32,6 +32,7 @@ dataSources:
   - "Medical Council of Canada (MCC). (2026). 2025 Annual Report. https://mcc.ca/about/publications/annual-reports/"
   - "World Federation for Medical Education (WFME). (2025). Recognition Programme. https://wfme.org/accreditation/recognition-programme/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-gmc-comparison-2026-1880x1253.jpg"
 ---
 
 ## 引言：全球医学认证体系的背景与必要性

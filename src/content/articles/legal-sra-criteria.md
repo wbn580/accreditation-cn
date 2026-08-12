@@ -17,6 +17,7 @@ dataSources:
   - "SRA 持续职业发展政策：https://www.sra.org.uk/solicitors/standards-regulations/continuing-competence"
   - "SRA 合规与执法数据：https://www.sra.org.uk/sra/research-publications/compliance-data-2026"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-sra-criteria-2026-1880x1255.jpg"
 ---
 
 # SRA 英国律师监管局：认证标准逐条详解

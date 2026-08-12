@@ -28,6 +28,7 @@ dataSources:
   - "CHEA国际认证名录：https://www.chea.org/"
   - "ENQA欧洲高等教育质量保证标准：https://www.enqa.eu/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-090-2026-1880x1253.jpg"
 ---
 
 # 留学申请中认证信息该如何正确使用

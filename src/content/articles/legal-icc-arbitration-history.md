@@ -32,6 +32,7 @@ dataSources:
   - "United Nations Commission on International Trade Law (UNCITRAL). (2024). *Status: Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York, 1958)*. https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status"
   - "ICC International Court of Arbitration®. (2021). *ICC Arbitration Rules 2021*. Paris: ICC Services. https://iccwbo.org/dispute-resolution-services/arbitration/rules-of-arbitration/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-icc-arbitration-history-2026-1880x1255.jpg"
 ---
 
 ## 概述：百年仲裁机构的制度演进

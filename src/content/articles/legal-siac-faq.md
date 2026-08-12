@@ -27,6 +27,7 @@ dataSources:
   - "SIAC 年度报告 2025"
   - "SIAC 费用表（2025年7月修订）"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-siac-faq-2026-1880x1255.jpg"
 ---
 
 # SIAC 新加坡国际仲裁中心：常见问题与解答

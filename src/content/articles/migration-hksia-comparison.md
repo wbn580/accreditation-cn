@@ -29,6 +29,7 @@ dataSources:
   - "澳大利亚移民代理注册管理局（MARA）官网：https://www.mara.gov.au"
   - "英国移民服务专员办公室（OISC）官网：https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-hksia-comparison-2026-1880x869.jpg"
 ---
 
 ## 引言：跨体系对比的必要性

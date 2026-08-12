@@ -22,6 +22,7 @@ keywords:
 dataSources:
   - "https://www.college-ic.ca/public-register"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-cicc-accredited_list-2026-1880x869.jpg"
 ---
 
 ## 数据说明

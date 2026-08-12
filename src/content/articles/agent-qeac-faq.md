@@ -26,6 +26,7 @@ dataSources:
   - "澳大利亚贸易投资委员会 (Austrade): https://www.austrade.gov.au/"
   - "澳大利亚教育与培训监管机构 (ASQA): https://www.asqa.gov.au/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-qeac-faq-2026-1880x1111.jpg"
 ---
 
 # QEAC 澳洲留学中介持牌资格：常见问题与解答

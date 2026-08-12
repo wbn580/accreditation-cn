@@ -28,6 +28,7 @@ dataSources:
   - "欧洲高等教育区 (EHEA) 博洛尼亚进程实施情况报告 (2024)"
   - "法国国家职业认证委员会 (CNCP) 2026年目录更新"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-055-2026-1880x1253.jpg"
 ---
 
 ## 导语：法国精英教育体系的核心认证枢纽

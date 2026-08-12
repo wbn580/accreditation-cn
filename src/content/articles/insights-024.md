@@ -26,6 +26,7 @@ dataSources:
   - "EFMD 2025年度认证费用指引: https://www.efmd.org/accreditation/equis/fees"
   - "AMBA 2026年认证费用标准: https://www.associationofmbas.com/accreditation/fees"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-024-2026-1880x1253.jpg"
 ---
 # 不同认证体系费用结构对比
 

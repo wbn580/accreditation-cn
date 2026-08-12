@@ -29,6 +29,7 @@ dataSources:
   - "Immigration New Zealand (INZ) - Immigration Adviser Licensing"
   - "New Zealand Qualifications Authority (NZQA) - Qualification Recognition"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-lcm-iaa-how_to_apply-2026-1880x869.jpg"
 ---
 
 ## 概述

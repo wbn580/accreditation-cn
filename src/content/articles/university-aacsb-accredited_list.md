@@ -25,6 +25,7 @@ dataSources:
   - "AACSB International. (2025). 2025 Annual Report. https://www.aacsb.edu/annual-report"
   - "AACSB International. (2026). Accreditation Standards. https://www.aacsb.edu/accreditation/standards"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-aacsb-accredited_list-2026-1880x1111.jpg"
 ---
 
 ## 数据说明

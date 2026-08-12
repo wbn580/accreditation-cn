@@ -30,6 +30,7 @@ dataSources:
   - "ICC Guidance Note on Disclosure of Conflicts (2024)"
   - "ICC International Court of Arbitration Bulletin (Vol. 35, 2024)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-icc-arbitration-faq-2026-1880x1255.jpg"
 ---
 
 ## 引言

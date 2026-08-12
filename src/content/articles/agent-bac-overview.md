@@ -27,6 +27,7 @@ dataSources:
   - "UK ENIC 认证机构名录，https://www.enic.org.uk/accreditation-bodies"
   - "BAC 官方认证院校查询系统，https://www.the-bac.org/accredited-institutions"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-bac-overview-2026-1880x1111.jpg"
 ---
 
 # BAC 英国认证委员会：全面解析与最新认证标准

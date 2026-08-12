@@ -31,6 +31,7 @@ dataSources:
   - "Council of Australian Law Deans (CALD) - Accreditation Standards: https://www.cald.asn.au"
   - "State of Victoria - Victorian Legal Admissions Board: https://www.vlab.vic.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/legal-lc-australia-overview-2026-1880x1255.jpg"
 ---
 
 ## 引言

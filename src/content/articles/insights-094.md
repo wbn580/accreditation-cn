@@ -24,6 +24,7 @@ dataSources:
   - title: "INQAAHE Guidelines for Cross-Border Higher Education"
     url: "https://www.inqaahe.org/guidelines-cross-border-higher-education"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/insights-094-2026-1880x1253.jpg"
 ---
 
 ## 导语：跨境教育认证的全球框架与核心挑战

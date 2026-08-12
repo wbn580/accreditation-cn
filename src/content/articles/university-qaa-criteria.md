@@ -26,6 +26,7 @@ dataSources:
   - "QAA. (2025). QAA Annual Report 2025. https://www.qaa.ac.uk/about-us/annual-reports"
   - "UK Standing Committee for Quality Assessment. (2024). Principles of Quality Assurance. https://www.qaa.ac.uk/quality-assurance/principles"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/university-qaa-criteria-2026-1880x869.jpg"
 ---
 
 # QAA 英国质量保证局：认证标准逐条详解

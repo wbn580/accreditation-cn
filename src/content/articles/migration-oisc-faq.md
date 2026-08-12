@@ -30,6 +30,7 @@ dataSources:
   - "UK Government Immigration Rules: https://www.gov.uk/guidance/immigration-rules"
   - "OISC Code of Standards: https://www.gov.uk/government/publications/oisc-code-of-standards"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-oisc-faq-2026-1880x869.jpg"
 ---
 
 # OISC 英国移民服务专员办公室：常见问题与解答

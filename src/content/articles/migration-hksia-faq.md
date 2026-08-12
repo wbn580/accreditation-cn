@@ -25,6 +25,7 @@ dataSources:
   - "香港入境事务处《签证政策与程序手册》（2025年修订版）：https://www.immd.gov.hk"
   - "香港消费者委员会《移民服务投诉年报》（2025年）：https://www.consumer.org.hk"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/migration-hksia-faq-2026-1880x869.jpg"
 ---
 # HKSIA 香港移民服务行业协会：常见问题与解答
 

@@ -28,6 +28,7 @@ dataSources:
   - "香港金融管理局《监管政策手册》"
   - "金融纠纷调解中心（FDRC）年度报告2025"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/broker-hkma-broker-faq-2026-1880x1253.jpg"
 ---
 
 ## 引言

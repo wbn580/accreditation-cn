@@ -27,6 +27,7 @@ dataSources:
   - "AIRC 2026 年度年报（公开摘要）"
   - "美国教育部（US Department of Education）认可机构列表：https://www2.ed.gov/admins/finaid/accred/index.html"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-airc-overview-2026-1880x1111.jpg"
 ---
 
 AIRC（American International Recruitment Council，美国国际招生委员会）成立于 2008 年，总部位于美国马里兰州贝塞斯达，是一个非营利性会员制组织。据 AIRC 2026 年度年报数据，截至 2026 年 4 月，全球共有 178 家教育机构与 42 家招生代理机构获得 AIRC 认证，覆盖超过 30 个国家与地区。其认证标准侧重于国际招生过程中的透明度、道德规范与学生服务保障，是美国教育部（US Department of Education）认可的第三方认证机构之一。

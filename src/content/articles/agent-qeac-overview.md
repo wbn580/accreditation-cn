@@ -29,6 +29,7 @@ dataSources:
   - "澳大利亚贸易投资委员会 (Austrade) - 国际教育代理网络: https://www.austrade.gov.au"
   - "澳大利亚技能质量管理局 (ASQA) - 注册培训机构标准: https://www.asqa.gov.au"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/agent-qeac-overview-2026-1880x1111.jpg"
 ---
 
 # QEAC 澳洲留学中介持牌资格：全面解析与最新认证标准

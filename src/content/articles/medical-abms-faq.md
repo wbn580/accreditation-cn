@@ -29,6 +29,7 @@ dataSources:
   - "ABMS 官网：认证流程与要求 (https://www.abms.org/board-certification/)"
   - "美国国家医学考试委员会 (NBME) 2025 年度统计报告 (https://www.nbme.org/research/publications)"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-abms-faq-2026-1880x1253.jpg"
 ---
 # ABMS 美国医学专科委员会：常见问题与解答
 

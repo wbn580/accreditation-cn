@@ -27,6 +27,7 @@ dataSources:
   - "ABMS 官方网站历史页面：https://www.abms.org/about-abms/history/"
   - "美国国家医学科学院（NAM）2024 年报告：https://nam.edu/board-certification-and-its-role-in-quality-improvement/"
 draft: false
+ogImage: "https://img.accreditation.cn/authority/medical-abms-history-2026-1880x1253.jpg"
 ---
 
 # ABMS 美国医学专科委员会：历史演变与关键里程碑
