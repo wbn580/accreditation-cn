@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-08-14-3ac2f
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-14-3ac2ffa151-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-14-3ac2ffa151-image-01-2026-1880x1253.jpg'
 verified: '2026-08-14T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -26,14 +26,14 @@ tags:
 
 除了院校注册信息，登记册还会列出那些没有自我认证权限的机构经TEQSA批准可以开设的课程。
 
-![TEQSA标志与澳大利亚大学校园](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-14-3ac2ffa151-image-01-2026-1880x1253.jpg)
+![TEQSA标志与澳大利亚大学校园](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-14-3ac2ffa151-image-01-2026-1880x1253.jpg)
 
 
 ## 注册类别与标准
 
 登记册中会显示机构的注册类别，包括澳大利亚大学（Australian University）、大学学院（University College）、高等教育学院（Institute of Higher Education）以及海外大学（Overseas University）。这些类别反映了机构在澳大利亚高等教育体系中的定位。
 
-![学生查看电脑上的登记册信息](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-14-3ac2ffa151-image-02-2026-1679x1300.jpg)
+![学生查看电脑上的登记册信息](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-14-3ac2ffa151-image-02-2026-1679x1300.jpg)
 
 
 TEQSA的监管依据是《高等教育标准框架（阈值标准）2021》以及《TEQSA法案》。

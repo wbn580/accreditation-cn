@@ -35,5 +35,14 @@ const { title, description, ogImage, canonicalURL } = Astro.props;
       <slot />
     </main>
     <Footer />
+      <!-- R195：简中页咨询入口只走本站企业微信客服；lead.js 简中分支渲染「微信咨询」按钮。
+         data-color / data-accent 必须带 —— lead.js 要把它们转发给运行时面板，缺了会静默丢主题。 -->
+    <script
+      src="https://chat.accreditation.cn/lead.js"
+      data-site="accreditation-cn"
+      data-lang="zh-CN"
+      data-color="#1a365d"
+      data-accent="#991b1b"
+      async></script>
   </body>
 </html>

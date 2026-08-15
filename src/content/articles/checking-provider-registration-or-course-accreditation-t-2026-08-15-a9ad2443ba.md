@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-08-15-a9ad2
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-15-a9ad2443ba-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-15-a9ad2443ba-image-01-2026-1880x1253.jpg'
 verified: '2026-08-15T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -28,7 +28,7 @@ TEQSA（Tertiary Education Quality and Standards Agency，澳大利亚高等教�
 
 未注册的机构会损害澳大利亚的高等教育体系，因为其质量未经TEQSA保证。学生应始终通过登记册确认高等教育提供者是否在TEQSA注册。
 
-![TEQSA登记册网站界面截图](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-15-a9ad2443ba-image-01-2026-1880x1253.jpg)
+![TEQSA登记册网站界面截图](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-15-a9ad2443ba-image-01-2026-1880x1253.jpg)
 
 
 ## TEQSA对国际学生的保障
