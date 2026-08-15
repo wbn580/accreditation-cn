@@ -11,9 +11,9 @@ readingTime: "12 分钟"
 tags: ["TEQSA", "QAA", "高等教育认证", "质量保证", "政策严格度", "澳洲教育监管", "英国教育监管"]
 keywords: ["TEQSA vs QAA", "高等教育质量保障体系", "认证标准严格度", "监管政策对比", "澳洲QAA", "英国TEQSA"]
 dataSources:
-  - "TEQSA 2025-26年度报告（https://www.teqsa.gov.au/latest-news/publications/annual-report-2025-26）"
-  - "QAA 2025-26年度报告（https://www.qaa.ac.uk/about-us/annual-reports）"
-  - "澳大利亚政府教育部《高等教育标准框架2021》（https://www.legislation.gov.au/F2021L01618）"
+  - "TEQSA 2025-26[年度报告](https://www.teqsa.gov.au/latest-news/publications/annual-report-2025-26)"
+  - "QAA 2025-26[年度报告](https://www.qaa.ac.uk/about-us/annual-reports)"
+  - "澳大利亚政府教育部[《高等教育标准框架2021》](https://www.legislation.gov.au/F2021L01618)"
   - "英国高等教育质量准则（UK Quality Code for Higher Education 2024版）"
 draft: false
 ogImage: "https://img.accreditation.cn/authority/insights-004-2026-1880x1253.jpg"

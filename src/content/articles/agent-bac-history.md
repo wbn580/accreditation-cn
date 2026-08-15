@@ -11,10 +11,10 @@ readingTime: 10
 tags: ["BAC", "英国认证委员会", "认证机构", "英国教育认证", "历史演变", "质量保障"]
 keywords: ["BAC认证", "英国认证委员会历史", "认证里程碑", "英国教育质量保障", "BAC改革"]
 dataSources:
-  - "BAC 官方历史档案（https://www.the-bac.org/history）"
+  - "[BAC 官方历史档案](https://www.the-bac.org/history)"
   - "英国教育部《2025年高等教育质量保障体系报告》"
-  - "QAA 2025-2026年度报告（https://www.qaa.ac.uk/reports）"
-  - "英国认证委员会2026年年度报告（https://www.the-bac.org/annual-report-2026）"
+  - "QAA 2025-2026[年度报告](https://www.qaa.ac.uk/reports)"
+  - "[英国认证委员会2026年年度报告](https://www.the-bac.org/annual-report-2026)"
 draft: false
 ogImage: "https://img.accreditation.cn/authority/agent-bac-history-2026-1880x1111.jpg"
 ---

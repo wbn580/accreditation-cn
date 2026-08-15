@@ -11,9 +11,9 @@ readingTime: 15
 tags: ["学术认证", "学术自由", "认证机构", "高等教育治理", "AACSB", "EQUIS", "ABET"]
 keywords: ["认证体系", "学术自由", "质量保障", "认证标准", "高等教育"]
 dataSources:
-  - "AACSB 2026 年度年报（https://www.aacsb.edu/~/media/aacsb/publications/annual-report/2026-annual-report.ashx）"
-  - "欧洲高等教育区（EHEA）2025 年《欧洲高等教育区实施报告》（https://ehea.info/page-ehea-implementation-report-2025）"
-  - "美国教育部（USDE）2025 年《认证与学术自由：政策回顾》（https://www2.ed.gov/admins/finaid/accred/accreditation-paper-2025.pdf）"
+  - "[AACSB 2026 年度年报](https://www.aacsb.edu/~/media/aacsb/publications/annual-report/2026-annual-report.ashx)"
+  - "欧洲高等教育区（EHEA）2025 年[《欧洲高等教育区实施报告》](https://ehea.info/page-ehea-implementation-report-2025)"
+  - "美国教育部（USDE）2025 年[《认证与学术自由：政策回顾》](https://www2.ed.gov/admins/finaid/accred/accreditation-paper-2025.pdf)"
 draft: false
 ogImage: "https://img.accreditation.cn/authority/insights-087-2026-1880x1253.jpg"
 ---

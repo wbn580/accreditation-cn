@@ -22,9 +22,9 @@ keywords:
   - "ABMS 认证时效"
   - "ABMS 统计"
 dataSources:
-  - "ABMS 2025 年度年报（https://www.abms.org/）"
-  - "美国医学专科委员会官网认证指南（https://www.abms.org/board-certification/）"
-  - "美国医学协会（AMA）医师统计报告（https://www.ama-assn.org/）"
+  - "[ABMS 2025 年度年报](https://www.abms.org/)"
+  - "[美国医学专科委员会官网认证指南](https://www.abms.org/board-certification/)"
+  - "美国医学协会（AMA）[医师统计报告](https://www.ama-assn.org/)"
 draft: false
 ogImage: "https://img.accreditation.cn/authority/medical-abms-overview-2026-1880x1253.jpg"
 ---
