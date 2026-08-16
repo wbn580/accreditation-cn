@@ -30,11 +30,9 @@ TEQSA（Tertiary Education Quality and Standards Agency，澳大利亚高等教�
 
 ![TEQSA登记册网站界面截图](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-15-a9ad2443ba-image-01-2026-1880x1253.jpg)
 
-
 ## TEQSA对国际学生的保障
 
 TEQSA负责评估院校加入CRICOS（澳大利亚联邦政府招收海外学生院校及课程注册登记）的申请，并确保向国际学生提供的高等教育课程具有高质量。
 
 ## 相关阅读
 
-- [2026年去澳洲留学前必须确认的几件事](/accreditation-cn-0973/)

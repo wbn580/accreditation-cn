@@ -26,16 +26,7 @@ tags:
 
 ## 延伸阅读
 
-- [相关指南甲](/agent-airc-comparison/)
-
 ![与本指南主题相关的资料图片甲](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-24-ae046374fd-image-01-2026-1880x1253.jpg)
-
-
-- [相关指南乙](/agent-airc-criteria/)
-
-- [相关指南丙](/agent-airc-faq/)
-
-- [相关指南丁](/agent-airc-history/)
 
 ## FAQ
 

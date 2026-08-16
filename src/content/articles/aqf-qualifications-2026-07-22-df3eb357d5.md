@@ -34,16 +34,7 @@ AQF为不同学历类型规定了必需的学习成果，这些成果体现在�
 
 ## 延伸阅读
 
-- [相关指南甲](/agent-airc-comparison/)
-
 ![与本指南主题相关的资料图片甲](https://img.accreditation.cn/authority/aqf-qualifications-2026-07-22-df3eb357d5-image-01-2026-1880x1253.jpg)
-
-
-- [相关指南乙](/agent-airc-criteria/)
-
-- [相关指南丙](/agent-airc-faq/)
-
-- [相关指南丁](/agent-airc-history/)
 
 ## FAQ
 

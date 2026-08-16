@@ -26,7 +26,6 @@ Tertiary Education Quality and Standards Agency（TEQSA）列出了其国家登�
 
 ![在TEQSA国家登记册页面上查询高等教育机构注册信息的示意场景](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-07-27-fe6c882b7f-image-01-2026-1880x1253.jpg)
 
-
 ### 为何需要定期核验院校注册状态？
 
 所有注册高等教育机构均列于TEQSA国家登记册，因此定期核验可确保您选择的院校是合法注册的机构。
@@ -38,7 +37,4 @@ Tertiary Education Quality and Standards Agency（TEQSA）列出了其国家登�
 ## 延伸了解其他教育认证
 
 了解更多国际教育认证标准，可参考以下资源：
-- [AIRC 美国国际招生委员会：与其他同类认证的横向对比](/agent-airc-comparison/)
-- [AIRC 美国国际招生委员会：认证标准逐条详解](/agent-airc-criteria/)
-- [BAC 英国认证委员会：认证标准逐条详解](/agent-bac-criteria/)
-- [ICEF 国际教育中介认证：与其他同类认证的横向对比](/agent-icef-comparison/)
+

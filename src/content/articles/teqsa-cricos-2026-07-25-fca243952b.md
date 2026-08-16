@@ -25,23 +25,13 @@ tags:
 
 ![与本指南主题相关的资料图片甲](https://img.accreditation.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-01-2026-1880x1253.jpg)
 
-
 ## 对比不同院校的注册类型与风险点
 
 在TEQSA的国家注册中，院校的注册类型可能存在差异。部分院校拥有“自我认证授权”，可以在一定范围内自主设置和认证课程；而多数院校则没有此项授权，其课程需经过TEQSA或相关机构的审批。对于国际学生而言，选择无自我认证授权的院校，需要更加留意其课程是否取得了CRICOS登记，因为未经登记的课程将无法招收国际学生。风险点在于，一些非正规机构可能仅拥有某个州的营业执照，却未通过TEQSA注册，或者课程未在CRICOS登记，却仍然对外宣传接收留学生。这类机构颁发的学历可能无法获得中国教育部留学服务中心的认可。
 
 ## 延伸阅读
 
-- [相关指南甲](/agent-airc-comparison/)
-
 ![与本指南主题相关的资料图片乙](https://img.accreditation.cn/authority/teqsa-cricos-2026-07-25-fca243952b-image-02-2026-1679x1300.jpg)
-
-
-- [相关指南乙](/agent-airc-criteria/)
-
-- [相关指南丙](/agent-airc-faq/)
-
-- [相关指南丁](/agent-airc-history/)
 
 ## FAQ
 
