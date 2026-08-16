@@ -3,3 +3,7 @@ dist/
 .sst/
 .DS_Store
 *.log
+.wrangler-deploy.lock
+public/pagefind/
+.astro/
+.wrangler/
