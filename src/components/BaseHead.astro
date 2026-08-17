@@ -13,9 +13,14 @@ export interface Props {
 const {
   title,
   description,
-  canonicalURL = 'https://accreditation.cn',
+  canonicalURL,
   ogImage = '/og-images/default.jpg',
 } = Astro.props;
+
+// 默认值必须是当前页 URL，不能是站点首页：写死首页会让每个子页都自称首页的
+// 副本，GSC 报「重复，Google 选择的规范网址与用户指定的不同」并不收录
+// （2026-08-17 实测 about / agent / broker 等 8 页 canonical 全指首页）。
+const canonicalResolved = canonicalURL || new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
 
 const siteOrigin = 'https://accreditation.cn';
 const siteName = '全球认证信息汇编';
@@ -48,13 +53,13 @@ if (requestedOg.hostname.replace(/^www\./, '') === 'accreditation.cn') {
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>{fullTitle}</title>
 <meta name="description" content={description} />
-<link rel="canonical" href={canonicalURL} />
+<link rel="canonical" href={canonicalResolved} />
 
 <!-- Open Graph -->
 <meta property="og:type" content="article" />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:url" content={canonicalURL} />
+<meta property="og:url" content={canonicalResolved} />
 <meta property="og:image" content={resolvedOg} />
 <meta property="og:site_name" content="全球认证信息汇编" />
 <meta property="og:locale" content="zh_CN" />
@@ -68,8 +73,8 @@ if (requestedOg.hostname.replace(/^www\./, '') === 'accreditation.cn') {
 <!-- GEO / AI -->
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
 <meta name="googlebot" content="index, follow" />
-<link rel="alternate" hreflang="zh-CN" href={canonicalURL} />
-<link rel="alternate" hreflang="x-default" href={canonicalURL} />
+<link rel="alternate" hreflang="zh-CN" href={canonicalResolved} />
+<link rel="alternate" hreflang="x-default" href={canonicalResolved} />
 
 <!-- Structured Data -->
 <script type="application/ld+json" set:html={`
