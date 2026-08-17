@@ -20,7 +20,10 @@ const {
 // 默认值必须是当前页 URL，不能是站点首页：写死首页会让每个子页都自称首页的
 // 副本，GSC 报「重复，Google 选择的规范网址与用户指定的不同」并不收录
 // （2026-08-17 实测 about / agent / broker 等 8 页 canonical 全指首页）。
-const canonicalResolved = canonicalURL || new URL(Astro.url.pathname, Astro.site ?? Astro.url).href;
+// 本站 astro.config.mjs 没有配 `site`，所以 Astro.site 是 undefined，不能拿
+// Astro.url 兜底——构建期它是 localhost，会把 canonical 写成本机地址，
+// rendered_site_identity_gate 直接判串站（2026-08-17 云构建实测拦下）。
+const canonicalResolved = canonicalURL || new URL(Astro.url.pathname, 'https://accreditation.cn').href;
 
 const siteOrigin = 'https://accreditation.cn';
 const siteName = '全球认证信息汇编';
