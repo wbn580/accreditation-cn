@@ -37,9 +37,11 @@ const { title, description, ogImage, canonicalURL } = Astro.props;
     <Footer />
       <!-- R195：简中页咨询入口只走本站企业微信客服；lead.js 简中分支渲染「微信咨询」按钮。
          data-color / data-accent 必须带 —— lead.js 要把它们转发给运行时面板，缺了会静默丢主题。 -->
+    <!-- R105：本站是内容型非业务站（没有报价/比价/计算器页，也没在 ai-widget site-bots 登记 per-site bot），主按钮显式取消，只留企业微信咨询按钮（R103）。不写 = 吃 ai-widget 默认的留学申请评估表单。 -->
     <script
       src="https://chat.accreditation.cn/lead.js"
       data-site="accreditation-cn"
+      data-main-action="none"
       data-lang="zh-CN"
       data-color="#1a365d"
       data-accent="#991b1b"
