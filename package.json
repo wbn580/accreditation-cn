@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "prebuild": "node scripts/gen-sitemap.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
