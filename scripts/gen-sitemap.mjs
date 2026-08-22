@@ -1,4 +1,4 @@
-// Regenerate public/sitemap.xml before every build.
+// Regenerate the sitemap static base before every build.
 //
 // Why: this site has no sitemap integration — public/sitemap.xml was a hand-made
 // static file, last touched 2026-08-02, and every article published after that
@@ -12,7 +12,16 @@
 //
 // Existing <loc> entries are always kept: this only ever adds, so a sitemap
 // regeneration can never shrink the published URL set (R116).
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
+//
+// 2026-08-22 R254 remediation: once d1_runtime_scaffold converts this site,
+// public/sitemap.xml is renamed to public/sitemap-base.xml and MUST stay gone —
+// the Worker composes the live /sitemap.xml at request time from that static
+// base + D1. Regenerating public/sitemap.xml here would resurrect the exact
+// file postbuild-d1-runtime.mjs's revival gate rejects (real incident: cloud
+// build 20260822-153938, "public/sitemap.xml 不应存在"). Prefer
+// sitemap-base.xml when it exists (post-conversion); fall back to the legacy
+// sitemap.xml name so this script is a no-op change before conversion lands.
+import { existsSync, readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
 import { join, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -20,7 +29,9 @@ const SITE = 'https://accreditation.cn';
 // fileURLToPath, not .pathname: the workspace path contains a space and
 // .pathname hands back the percent-encoded form, which fs cannot open.
 const ARTICLES = fileURLToPath(new URL('../src/content/articles/', import.meta.url));
-const SITEMAP = fileURLToPath(new URL('../public/sitemap.xml', import.meta.url));
+const SITEMAP_BASE = fileURLToPath(new URL('../public/sitemap-base.xml', import.meta.url));
+const SITEMAP_LEGACY = fileURLToPath(new URL('../public/sitemap.xml', import.meta.url));
+const SITEMAP = existsSync(SITEMAP_BASE) ? SITEMAP_BASE : SITEMAP_LEGACY;
 
 const existing = (() => {
   try {
