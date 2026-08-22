@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/postbuild-d1-runtime.mjs",
     "preview": "astro preview",
     "deploy": "wrangler deploy",
     "prebuild": "node scripts/gen-sitemap.mjs"
