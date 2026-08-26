@@ -6,7 +6,6 @@ publishDate: '2026-03-09T09:27:22Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: accreditation-cn-0973
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /images/faq_accreditation_differences_2026.png

@@ -6,7 +6,6 @@ publishDate: '2026-04-16T04:11:50Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: accreditation-cn-0971
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 tags:
