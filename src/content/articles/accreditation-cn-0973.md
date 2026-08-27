@@ -1,4 +1,5 @@
 ---
+
 title: 2026年去澳洲留学前必须确认的几件事
 description: 在拿到录取通知书之前，先把几件影响签证、费用和长期规划的事情理清，能让你少走很多弯路。下面从签证合规、健康保险、财务安排、住宿衔接和中介选择五个方面，逐一说明出发前需要确认的核心事项。
 pubDatetime: '2026-03-09T09:27:22Z'
@@ -8,9 +9,10 @@ slug: accreditation-cn-0973
 draft: false
 lang: zh
 language: zh
-ogImage: /images/faq_accreditation_differences_2026.png
+ogImage: "https://img.ulec.com.cn/authority/2026年去澳洲留学前必须确认的几件事-2026-1280x853.jpg"
 tags:
 - 去澳洲留学前必须确认的几件事
+
 ---
 
 在拿到录取通知书之前，先把几件影响签证、费用和长期规划的事情理清，能让你少走很多弯路。下面从签证合规、健康保险、财务安排、住宿衔接和中介选择五个方面，逐一说明出发前需要确认的核心事项。
