@@ -225,6 +225,16 @@ export default {
     // 静态资产命中就直接返回；只有 404 才回落 D1
     if (assetRes.status !== 404) return assetRes;
 
+    // 2026-08-31 根因A修复（本站特有，不在 d1-runtime 模板里）：历史上
+    // [...slug].astro 用 entry.id（带 .md 扩展名）作路由，500+ 篇文章曾以
+    // /xxx.md/ 的形态上线并被收录。路由改为干净 slug 后，旧地址在静态资产
+    // 层必然 404 落到这里——301 到同一篇的干净地址，不丢已有收录（R116）。
+    // 只在资产 404 后执行，永远不会遮蔽任何真实存在的构建产物。
+    const legacyMd = /^\/(.+)\.mdx?\/?$/.exec(url.pathname);
+    if (legacyMd) {
+      return Response.redirect(`${ORIGIN}/${legacyMd[1]}/`, 301);
+    }
+
     // /sitemap.xml 与 /llms.txt 刻意不在构建产物里，永远走到这里现合成
     const feed =
       url.pathname === "/sitemap.xml"

@@ -7,12 +7,15 @@ export async function getStaticPaths() {
   return articles
     .filter(a => !a.data.draft)
     .map(a => ({
-      params: { slug: a.id },
-      props: { article: a },
+      // 2026-08-31 根因A修复：老式 type:'content' 集合在 astro 5 下 entry.id
+      // 带 .md 扩展名，直接当路由参数会让全部文章落在 /xxx.md/（站内链接与
+      // 干净 URL 全 404）。这里统一去掉扩展名；旧 /xxx.md/ 地址由 worker 301。
+      params: { slug: a.id.replace(/\.mdx?$/, '') },
+      props: { article: a, cleanSlug: a.id.replace(/\.mdx?$/, '') },
     }));
 }
 
-const { article } = Astro.props;
+const { article, cleanSlug } = Astro.props;
 const { Content } = await article.render();
 const data = article.data;
 ---
@@ -20,7 +23,7 @@ const data = article.data;
   title={data.title}
   description={data.description || ''}
   ogImage={data.ogImage}
-  canonicalURL={`https://accreditation.cn/${article.id}`}
+  canonicalURL={`https://accreditation.cn/${cleanSlug}`}
   publishDate={typeof data.publishDate === 'string' ? data.publishDate : data.publishDate?.toISOString?.() || ''}
   category={data.category}
   readingTime={typeof data.readingTime === 'number' ? data.readingTime : parseInt(data.readingTime) || undefined}
