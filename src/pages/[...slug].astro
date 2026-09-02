@@ -28,7 +28,6 @@ const data = article.data;
   category={data.category}
   readingTime={typeof data.readingTime === 'number' ? data.readingTime : parseInt(data.readingTime) || undefined}
   tags={Array.isArray(data.tags) ? data.tags.map(String) : []}
-  dataSources={Array.isArray(data.dataSources) ? data.dataSources : []}
->
+  dataSources={Array.isArray(data.dataSources) ? data.dataSources : []} article={{ datePublished: new Date(data.publishDate).toISOString().slice(0,10), dateModified: new Date(data.publishDate).toISOString().slice(0,10) }}>
   <Content />
 </ArticleLayout>

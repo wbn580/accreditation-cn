@@ -24,12 +24,21 @@ export interface Props {
 const {
   title, description, ogImage, canonicalURL,
   publishDate, category, categoryLabel, readingTime,
-  tags = [], dataSources = [],
+  tags = [], dataSources = [], article
 } = Astro.props;
 ---
 <!doctype html>
 <html lang="zh-CN">
   <head>
+    {/* geo-seo-v2.1: 文章页 Article JSON-LD */}
+    {article && <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org', '@type': 'Article',
+      headline: title, description: description,
+      datePublished: article.datePublished, dateModified: article.dateModified,
+      author: { '@type': 'Organization', name: "全球认证信息汇编" },
+      publisher: { '@type': 'Organization', name: "全球认证信息汇编", url: "https://accreditation.cn/" },
+      mainEntityOfPage: "https://accreditation.cn/",
+    })} />}
     <BaseHead {title} {description} {ogImage} {canonicalURL} />
     {Astro.props.schema && <script type="application/ld+json" set:html={Astro.props.schema}></script>}
   </head>
