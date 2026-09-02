@@ -12,9 +12,9 @@
 // 任何一步定位/替换失败都直接 throw（fail closed），绝不硬切。
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 
-const REF = "dist/university-chea-faq.md/index.html"; // 参考页（已构建产物里的一篇真实文章页）
+const REF = "dist/university-equis-accredited_list/index.html"; // 参考页（已构建产物里的一篇真实文章页）
 const SEG = "";
-const DEFAULT_OG = ""; // 站点默认 og 图（绝对 URL，可为空串）
+const DEFAULT_OG = "https://accreditation.cn/og-images/default.jpg"; // 站点默认 og 图（绝对 URL，可为空串）
 const OUT = "worker/template.ts";
 
 const html = readFileSync(REF, "utf8");
