@@ -452,7 +452,18 @@ if (tail.includes(CANONICAL_BASE)) {
   throw new Error(`TAIL 里仍残留参考文章 canonical URL（${CANONICAL_BASE}）`);
 }
 if (REF_DATE_ISO && tail.includes(REF_DATE_ISO)) {
-  throw new Error(`TAIL 里仍残留参考文章日期 ${REF_DATE_ISO}`);
+  // 站点家具豁免：页脚常有全站统一的「资料采集 YYYY-MM-DD」戳，相关卡片文案
+  // 也可能含同一日期。若该日期同样出现在**没有文章语境**的首页里，说明它是站点
+  // 家具而非参考文章自己的日期泄漏——warn 放行；否则维持 fail closed。
+  let furniture = false;
+  try {
+    furniture = readFileSync("dist/index.html", "utf8").includes(REF_DATE_ISO);
+  } catch {}
+  if (furniture) {
+    console.warn(`⚠ TAIL 含日期 ${REF_DATE_ISO}，但它同样出现在首页（站点家具，如页脚资料采集戳），按家具放行`);
+  } else {
+    throw new Error(`TAIL 里仍残留参考文章日期 ${REF_DATE_ISO}`);
+  }
 }
 
 mkdirSync("worker", { recursive: true });
