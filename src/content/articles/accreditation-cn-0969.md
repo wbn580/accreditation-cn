@@ -11,7 +11,7 @@ lang: zh
 language: zh
 tags:
 - 澳洲留学一年总费用估算（学费+生活费）
-ogImage: "https://img.ulec.com.cn/authority/2026年澳洲留学一年总费用估算学费与生活费明细-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/2026年澳洲留学一年总费用估算学费与生活费明细-2026-1280x853.jpg"
 
 ---
 

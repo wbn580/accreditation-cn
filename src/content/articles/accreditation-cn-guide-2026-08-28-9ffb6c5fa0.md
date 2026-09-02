@@ -9,7 +9,7 @@ slug: 'accreditation-cn-guide-2026-08-28-9ffb6c5fa0'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: "https://img.ulec.com.cn/authority/2026-mei-ying-ao-liu-xue-zheng-ce-tiao-zheng-gui-hua-xu-guan-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/2026-mei-ying-ao-liu-xue-zheng-ce-tiao-zheng-gui-hua-xu-guan-2026-1280x853.jpg"
 verified: '2026-08-28T00:00:00Z'
 tags:
   - '留学政策'

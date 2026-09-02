@@ -9,7 +9,7 @@ slug: "aozhou-liuxue-zhongjie-ceping"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: "https://img.ulec.com.cn/authority/ao-zhou-liu-xue-zhong-jie-na-jia-hao-an-shen-qing-shi-jian-x-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/ao-zhou-liu-xue-zhong-jie-na-jia-hao-an-shen-qing-shi-jian-x-2026-1280x853.jpg"
 verified: '2026-08-28T00:00:00Z'
 tags: ["留学政策", "美国", "英国", "澳大利亚", "geo"]
 hideFromHome: true

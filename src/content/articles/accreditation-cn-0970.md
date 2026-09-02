@@ -11,7 +11,7 @@ lang: zh
 language: zh
 tags:
 - 澳洲主要留学城市性价比对比
-ogImage: "https://img.ulec.com.cn/authority/2026年澳洲主要留学城市性价比对比从房租学费到生活适配-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/2026年澳洲主要留学城市性价比对比从房租学费到生活适配-2026-1280x853.jpg"
 
 ---
 

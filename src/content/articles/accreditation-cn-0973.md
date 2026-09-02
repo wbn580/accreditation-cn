@@ -9,7 +9,7 @@ slug: accreditation-cn-0973
 draft: false
 lang: zh
 language: zh
-ogImage: "https://img.ulec.com.cn/authority/2026年去澳洲留学前必须确认的几件事-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/2026年去澳洲留学前必须确认的几件事-2026-1280x853.jpg"
 tags:
 - 去澳洲留学前必须确认的几件事
 

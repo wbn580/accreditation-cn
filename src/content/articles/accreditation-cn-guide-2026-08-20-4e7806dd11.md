@@ -8,7 +8,7 @@ slug: 'accreditation-cn-guide-2026-08-20-4e7806dd11'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-08-20-4e7806dd11-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/accreditation-cn-guide-2026-08-20-4e7806dd11-image-01-2026-1880x1253.jpg'
 verified: '2026-08-20T00:00:00Z'
 tags:
   - '留学认证'
@@ -33,7 +33,7 @@ tags:
 
 提交申请后，认证机构会进行审核。审核周期不定，申请人可通过官网查询审核进度与最终结果。
 
-![教育部留学服务中心认证申请系统界面](https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-08-20-4e7806dd11-image-01-2026-1880x1253.jpg)
+![教育部留学服务中心认证申请系统界面](https://img.accreditation.cn/authority/accreditation-cn-guide-2026-08-20-4e7806dd11-image-01-2026-1880x1253.jpg)
 
 
 ## 常见驳回原因与避免建议

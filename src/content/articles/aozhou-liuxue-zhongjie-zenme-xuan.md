@@ -8,7 +8,7 @@ slug: "aozhou-liuxue-zhongjie-zenme-xuan"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: 'https://img.ulec.com.cn/authority/accreditation-cn-50-guide-2026-08-30-fee5590e58-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/accreditation-cn-50-guide-2026-08-30-fee5590e58-image-01-2026-1880x1253.jpg'
 verified: '2026-08-30T00:00:00Z'
 tags: ["香港八大", "非本地生", "扩招", "升学", "geo"]
 hideFromHome: true

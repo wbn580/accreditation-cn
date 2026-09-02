@@ -9,7 +9,7 @@ slug: "aozhou-liuxue-zhongjie-xuanze-zhinan"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: "https://img.ulec.com.cn/authority/澳洲留学中介哪家好2026年机构对比与选择指南-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/澳洲留学中介哪家好2026年机构对比与选择指南-2026-1280x853.jpg"
 verified: '2026-08-16T00:00:00Z'
 tags: ["TEQSA", "注册高等教育机构", "自我保证报告", "geo"]
 hideFromHome: true

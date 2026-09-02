@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-08-21-d074c
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-21-d074c1378e-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-21-d074c1378e-image-01-2026-1880x1253.jpg'
 verified: '2026-08-21T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -30,7 +30,7 @@ TEQSA登记册不仅列出机构的注册信息，还列出该机构在无自认
 
 未注册的机构会损害澳大利亚的高等教育体系，因为这些机构的质量未经过TEQSA的保障。
 
-![TEQSA登记册页面截图](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-21-d074c1378e-image-01-2026-1880x1253.jpg)
+![TEQSA登记册页面截图](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-21-d074c1378e-image-01-2026-1880x1253.jpg)
 
 
 ## 相关标准与职责

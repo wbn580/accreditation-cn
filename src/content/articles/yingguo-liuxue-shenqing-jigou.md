@@ -8,7 +8,7 @@ slug: "yingguo-liuxue-shenqing-jigou"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-01-2026-1880x1253.jpg'
 verified: '2026-08-23T00:00:00Z'
 tags: ["TEQSA登记册", "院校注册", "课程认证", "geo"]
 hideFromHome: true

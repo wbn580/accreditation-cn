@@ -11,7 +11,7 @@ lang: zh
 language: zh
 tags:
 - 澳洲不同学历阶段（本科/硕士/博士）申请差异
-ogImage: "https://img.ulec.com.cn/authority/2027年澳大利亚本科硕士与博士申请差异指南-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/2027年澳大利亚本科硕士与博士申请差异指南-2026-1280x853.jpg"
 
 ---
 

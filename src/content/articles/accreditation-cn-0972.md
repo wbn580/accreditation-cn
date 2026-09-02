@@ -11,7 +11,7 @@ lang: zh
 language: zh
 tags:
 - 澳洲留学后工签与长期居留路径
-ogImage: "https://img.ulec.com.cn/authority/2026-年澳大利亚留学毕业后工签与长期居留路径解析-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/2026-年澳大利亚留学毕业后工签与长期居留路径解析-2026-1280x853.jpg"
 
 ---
 

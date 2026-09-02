@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-01-2026-1880x1253.jpg'
 verified: '2026-08-23T00:00:00Z'
 tags:
   - 'TEQSA登记册'
@@ -23,7 +23,7 @@ tags:
 
 学生应始终检查高等教育机构是否已在TEQSA注册。登记册包含机构的注册类别，包括澳大利亚大学、大学学院、高等教育学院和海外大学。
 
-![TEQSA登记册在线核验页面](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-01-2026-1880x1253.jpg)
+![TEQSA登记册在线核验页面](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-01-2026-1880x1253.jpg)
 
 
 ## 未注册机构的风险

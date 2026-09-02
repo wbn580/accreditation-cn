@@ -9,7 +9,7 @@ slug: "aozhou-liuxue-zhongjie-najiahao"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: "https://img.ulec.com.cn/authority/ao-da-li-ya-zui-hao-de-dai-kuan-jing-ji-you-na-xie-2026-nian-2026-1280x853.jpg"
+ogImage: "https://img.accreditation.cn/authority/ao-da-li-ya-zui-hao-de-dai-kuan-jing-ji-you-na-xie-2026-nian-2026-1280x853.jpg"
 verified: '2026-08-20T00:00:00Z'
 tags: ["留学认证", "学历认证", "材料准备", "geo"]
 hideFromHome: true

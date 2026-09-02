@@ -8,7 +8,7 @@ slug: 'this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-16-a2af3
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-16-a2af30c741-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-16-a2af30c741-image-01-2026-1880x1253.jpg'
 verified: '2026-08-16T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -27,7 +27,7 @@ TEQSA 的“注册高等教育机构”页面列出了几个关键部分，包�
 
 注册高等教育机构（RHEP）收费是注册机构需要了解的一项费用，具体金额和缴纳方式应在 TEQSA 官方页面查询。
 
-![TEQSA 注册高等教育机构页面的标题截图](https://img.ulec.com.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-16-a2af30c741-image-01-2026-1880x1253.jpg)
+![TEQSA 注册高等教育机构页面的标题截图](https://img.accreditation.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-16-a2af30c741-image-01-2026-1880x1253.jpg)
 
 
 ## 为自我保证报告（注册续期）准备的关键考虑
