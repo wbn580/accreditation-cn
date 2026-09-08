@@ -8,7 +8,7 @@ slug: 'accreditation-cn-guide-2026-09-07-d723601680'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-07-d723601680-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-07-d723601680-image-01-2026-1880x1253.jpg'
 verified: '2026-09-07T00:00:00Z'
 tags:
   - '大学协议'
@@ -19,7 +19,7 @@ tags:
 
 大学协议（打开机会之门）法案2026已提交参议院。该法案旨在通过大学间的协议，为更多学生打开接受高等教育的机会之门。
 
-![参议院会议大厅](https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-07-d723601680-image-02-2026-1679x1300.jpg)
+![参议院会议大厅](https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-07-d723601680-image-02-2026-1679x1300.jpg)
 
 
 ## 法案目标

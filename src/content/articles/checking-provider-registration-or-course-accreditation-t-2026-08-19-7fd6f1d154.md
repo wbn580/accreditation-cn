@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-08-19-7fd6f
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-19-7fd6f1d154-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-19-7fd6f1d154-image-01-2026-1880x1253.jpg'
 verified: '2026-08-19T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -28,7 +28,7 @@ TEQSA的登记册不仅包含机构的注册信息，还列出了那些没有自
 
 TEQSA还负责评估CRICOS（澳大利亚联邦政府招收海外学生院校及课程注册登记）的申请，并确保向国际学生提供的高等教育课程具备高质量。相关法律依据包括《高等教育标准框架（阈值标准）2021》以及《TEQSA法案》。
 
-![电脑屏幕显示TEQSA登记册页面](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-19-7fd6f1d154-image-01-2026-1880x1253.jpg)
+![电脑屏幕显示TEQSA登记册页面](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-19-7fd6f1d154-image-01-2026-1880x1253.jpg)
 
 
 ## 常见问题

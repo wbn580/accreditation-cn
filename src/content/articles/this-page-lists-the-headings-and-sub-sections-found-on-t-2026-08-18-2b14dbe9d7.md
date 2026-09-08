@@ -8,7 +8,7 @@ slug: 'this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-18-2b14d
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-18-2b14dbe9d7-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-18-2b14dbe9d7-image-01-2026-1880x1253.jpg'
 verified: '2026-08-18T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -28,7 +28,7 @@ TEQSA 的“注册机构”页面列出了多个标题和子部分，包括“�
 
 页面说明了注册高等教育机构（RHEP）相关的收费项目。
 
-![TEQSA 注册机构页面标题截图](https://img.ulec.com.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-18-2b14dbe9d7-image-01-2026-1880x1253.jpg)
+![TEQSA 注册机构页面标题截图](https://img.accreditation.cn/authority/this-page-lists-the-headings-and-sub-sections-found-on-t-2026-08-18-2b14dbe9d7-image-01-2026-1880x1253.jpg)
 
 
 ## 续期自我评估的关键考虑因素

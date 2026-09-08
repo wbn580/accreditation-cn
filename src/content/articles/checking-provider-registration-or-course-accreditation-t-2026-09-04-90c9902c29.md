@@ -8,7 +8,7 @@ slug: 'checking-provider-registration-or-course-accreditation-t-2026-09-04-90c99
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-09-04-90c9902c29-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-09-04-90c9902c29-image-01-2026-1880x1253.jpg'
 verified: '2026-09-04T00:00:00Z'
 tags:
   - 'TEQSA'
@@ -27,7 +27,7 @@ TEQSA登记册不仅列出机构的注册信息，还包括该机构经TEQSA认�
 
 学生可以查阅TEQSA登记册，确认目标院校是否在注册名单中，并查看其注册类别及课程认证情况。TEQSA还负责评估CRICOS注册申请，确保面向国际学生的高等教育课程质量。
 
-![TEQSA登记册界面示例](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-09-04-90c9902c29-image-02-2026-1679x1300.jpg)
+![TEQSA登记册界面示例](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-09-04-90c9902c29-image-02-2026-1679x1300.jpg)
 
 
 ## 要点总结

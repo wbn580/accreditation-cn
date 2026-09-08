@@ -8,7 +8,7 @@ slug: 'accreditation-cn-guide-2026-09-03-0e5a85dcda'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-01-2026-1880x1253.jpg'
 verified: '2026-09-03T00:00:00Z'
 tags:
   - '加拿大留学'
@@ -24,21 +24,21 @@ tags:
 
 印度是加拿大国际学生的主要来源国之一。许多印度学生依靠打工来支付学费和生活费。然而，加拿大规定，国际学生在学年期间每周最多只能在校外工作20个小时。一些学生为了维持生计，不得不超时工作，这可能导致法律后果。例如，一名来自印度的学生因打工时间过长被警察拦下，面临被驱逐出境的惩罚。
 
-![多伦多大学校园内的国际学生](https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-02-2026-1880x1253.jpg)
+![多伦多大学校园内的国际学生](https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-02-2026-1880x1253.jpg)
 
 
 ## 高昂费用与打工限制的双重压力
 
 在加拿大，国际学生支付的学费远高于本国学生。据加拿大人口普查机构的数据，外国学生获得本科阶段的学费大约是本国学生的五倍。高昂的学费加上生活费，使得许多国际学生不得不寻找工作机会。但严格的打工时间限制，让部分学生难以平衡经济需求与学业。
 
-![印度学生在加拿大留学](https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-03-2026-1733x1300.jpg)
+![印度学生在加拿大留学](https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-03-2026-1733x1300.jpg)
 
 
 ## 加拿大院校与政府的考量
 
 加拿大院校招收外国学生，部分原因在于他们支付更高的学费。联邦政府也将吸引国际学生视为实现移民目标的一部分，其目标是2023至2025年间争取145万移民。但国际学生的激增引发了人们的担忧，包括社区是否做好了充分准备，以及学生的劳动力和财务是否可能受到剥削。
 
-![加拿大学习许可文件](https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-04-2026-1880x1253.jpg)
+![加拿大学习许可文件](https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-03-0e5a85dcda-image-04-2026-1880x1253.jpg)
 
 
 ## 专家观点与未来走向

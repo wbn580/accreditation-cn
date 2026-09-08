@@ -30,7 +30,7 @@ tags:
 
 未注册机构会损害澳大利亚高等教育体系，因为其质量未经TEQSA认证。
 
-![澳大利亚大学校园](https://img.ulec.com.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-02-2026-1679x1300.jpg)
+![澳大利亚大学校园](https://img.accreditation.cn/authority/checking-provider-registration-or-course-accreditation-t-2026-08-23-e7fb3a0bcf-image-02-2026-1679x1300.jpg)
 
 
 ## 国际学生课程质量

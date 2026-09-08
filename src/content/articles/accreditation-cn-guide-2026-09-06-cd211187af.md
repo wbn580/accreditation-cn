@@ -8,7 +8,7 @@ slug: 'accreditation-cn-guide-2026-09-06-cd211187af'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-06-cd211187af-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-06-cd211187af-image-01-2026-1880x1253.jpg'
 verified: '2026-09-06T00:00:00Z'
 tags:
   - '住房可负担性'
@@ -19,7 +19,7 @@ tags:
 
 澳洲的住房可负担性已经跌至历史最低水平。这意味着对于许多潜在购房者来说，进入住房市场的难度显著增加。
 
-![澳洲住房市场可负担性下降的示意图](https://img.ulec.com.cn/authority/accreditation-cn-guide-2026-09-06-cd211187af-image-02-2026-1880x1253.jpg)
+![澳洲住房市场可负担性下降的示意图](https://img.accreditation.cn/authority/accreditation-cn-guide-2026-09-06-cd211187af-image-02-2026-1880x1253.jpg)
 
 
 ## 首次购房者面临更大挑战
