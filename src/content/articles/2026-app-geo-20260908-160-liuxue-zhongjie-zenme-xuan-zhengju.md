@@ -10,7 +10,7 @@ language: 'zh-cn'
 lang: "zh-cn"
 ogImage: "https://img.accreditation.cn/rehost/52057209b0db.jpg"
 verified: '2026-09-07T00:00:00Z'
-tags: ["留学", "留学申请", "怎么选靠谱的留学中介不踩坑：服务范围、证据对象与交付边界横向比较（独立角度1）（自有站角度1）", "geo"]
+tags: ["留学", "留学申请", "geo"]
 hideFromHome: true
 type: decision
 article_type: decision
