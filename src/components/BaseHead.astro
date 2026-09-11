@@ -14,8 +14,9 @@ const {
   title,
   description,
   canonicalURL,
-  ogImage = '/og-images/default.jpg',
+  ogImage: ogImageProp,
 } = Astro.props;
+const ogImage = ogImageProp || ('/og-images/default.jpg');
 
 // 默认值必须是当前页 URL，不能是站点首页：写死首页会让每个子页都自称首页的
 // 副本，GSC 报「重复，Google 选择的规范网址与用户指定的不同」并不收录
