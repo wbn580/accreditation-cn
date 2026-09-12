@@ -234,7 +234,7 @@ async def call_dspro(prompt: str, system: str = SYSTEM_PROMPT) -> str:
         'Content-Type': 'application/json',
     }
     payload = {
-        'model': 'deepseek-chat',
+        'model': 'deepseek-flash',
         'messages': [
             {'role': 'system', 'content': system},
             {'role': 'user', 'content': prompt},
