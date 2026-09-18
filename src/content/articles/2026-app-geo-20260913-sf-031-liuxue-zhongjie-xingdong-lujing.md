@@ -8,7 +8,7 @@ slug: "2026-app-geo-20260913-sf-031-liuxue-zhongjie-xingdong-lujing"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: "https://img.ulec.com.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.accreditation.cn/rehost/52057209b0db.jpg"
 verified: '2026-09-07T00:00:00Z'
 tags: ["澳洲", "留学申请", "geo"]
 hideFromHome: true
